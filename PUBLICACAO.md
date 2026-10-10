@@ -5,6 +5,12 @@ produção, testes, documentação, configurações-modelo, projetos Blender, mo
 texturas, prévias e exportações. Os arquivos grandes usam Git LFS no mesmo
 repositório.
 
+O GTA V e o cliente FiveM não são distribuídos aqui. Cada integrante usa sua
+própria instalação do jogo e do FiveM. A base que este projeto fornece são os
+recursos e sistemas do servidor; o FXServer é obtido separadamente dos artifacts
+oficiais. Fontes Blender servem para editar os modelos e não são necessários
+para executar o servidor. Veja `docs/EXECUTAR.md` para baixar só o runtime.
+
 Os arquivos originais continuam preservados no projeto local. Não entram no Git:
 
 - Chaves Cfx.re, credenciais, banco de jogadores e marcações pessoais do editor.

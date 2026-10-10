@@ -1,9 +1,20 @@
 import copy,importlib.util,json,sys,tempfile,unittest
+from unittest.mock import patch
 from pathlib import Path
 HOME=Path(__file__).resolve().parent
 spec=importlib.util.spec_from_file_location('capture_service',HOME/'service.py');service=importlib.util.module_from_spec(spec);spec.loader.exec_module(service)
 META={'model':'prop_bench_01a','asset':'prop_bench_01a','bbMin':[-1,-.5,0],'bbMax':[1,.5,1]}
 class CaptureTests(unittest.TestCase):
+ def test_linux_headless_preview_has_a_virtual_display_and_windows_stays_direct(self):
+  with patch.object(service.sys,'platform','linux'),patch.dict(service.os.environ,{},clear=True),patch.object(service.shutil,'which',return_value='/usr/bin/xvfb-run'):
+   command=service.render_command('/usr/bin/blender','render.py','output')
+   self.assertEqual(command[:3],['/usr/bin/xvfb-run','-a','/usr/bin/blender'])
+   self.assertEqual(command[-2:],['--','output'])
+  with patch.object(service.sys,'platform','win32'),patch.object(service.shutil,'which') as lookup:
+   self.assertEqual(service.render_command('blender.exe','render.py','output')[0],'blender.exe')
+   lookup.assert_not_called()
+  with patch.object(service.sys,'platform','linux'),patch.dict(service.os.environ,{},clear=True),patch.object(service.shutil,'which',return_value=None):
+   with self.assertRaisesRegex(ValueError,'xvfb'):service.render_command('blender','render.py','output')
  def setUp(self):
   self.temp=tempfile.TemporaryDirectory();self.root=Path(self.temp.name)
   self.store=service.CaptureStore(self.root,{'models':{'123':copy.deepcopy(META)},'files':{}},render=False)

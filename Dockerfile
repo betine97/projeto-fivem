@@ -1,7 +1,9 @@
 FROM python:3.13-slim-bookworm
 ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PATH="/opt/venv/bin:${PATH}"
+ENV XDG_CACHE_HOME=/app/captura_los_santos/cache/xdg XDG_CONFIG_HOME=/tmp/cidade-config LIBGL_ALWAYS_SOFTWARE=1
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    ca-certificates curl xz-utils libatomic1 libstdc++6 blender \
+    ca-certificates curl xz-utils libatomic1 libstdc++6 blender python3-numpy \
+    xvfb xauth libgl1-mesa-dri \
     && rm -rf /var/lib/apt/lists/* \
     && python -m venv /opt/venv
 COPY requirements-runtime.txt /opt/cidade/requirements-runtime.txt

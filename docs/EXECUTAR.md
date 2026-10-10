@@ -109,8 +109,10 @@ docker compose --env-file .env.dev -f compose.yaml -f compose.dev.yaml restart c
 ```
 
 Miniaturas usam Blender em modo background, Pillow, NumPy e szio. O container
-inclui essas ferramentas; no Windows, configure `GTA_ROOT` e `BLENDER_BIN`
-para a instalação local e instale `requirements-runtime.txt`. Não redistribua a
+inclui essas ferramentas. As miniaturas no Linux sem monitor usam Xvfb e
+renderização por software; o Docker também instala NumPy para o Python próprio
+do Blender. No Windows, configure `GTA_ROOT` e `BLENDER_BIN` para a instalação
+local e instale `requirements-runtime.txt`. Não redistribua a
 instalação do GTA dentro da imagem. Os índices/seleções pessoais são gerados localmente.
 
 ## 5. Preparação por GitHub Actions e produção

@@ -5,6 +5,14 @@ import base64,hmac,json,math,os,queue,re,subprocess,threading,time,socket,sys,te
 ROOT=Path(__file__).resolve().parent.parent;HOME=ROOT/'captura_los_santos'
 CAPTURE_PORT=int(os.environ.get('CAPTURE_PORT','8788'))
 CATEGORIES={'Objetos de Los Santos','Árvores e palmeiras','Arbustos, grama e plantas','Pedras e rochas','Água e infraestrutura','Cercas e barreiras','Construções','Estradas e iluminação','Objetos e decoração'}
+
+def render_command(blender,script,folder):
+    command=[str(blender),'-b','--python',str(script),'--',str(folder)]
+    if sys.platform.startswith('linux') and not os.environ.get('DISPLAY'):
+        display=shutil.which('xvfb-run')
+        if not display:raise ValueError('Instale xvfb e xauth para gerar miniaturas Blender no Linux sem monitor.')
+        command=[display,'-a',*command]
+    return command
 def atomic(path,data):
     path=Path(path);path.parent.mkdir(parents=True,exist_ok=True)
     with tempfile.NamedTemporaryFile(mode='w',encoding='utf8',dir=path.parent,prefix=path.stem+'-',suffix='.tmp',delete=False)as stream:
@@ -137,7 +145,7 @@ class CaptureStore:
                 blender=Path(os.environ.get('BLENDER_BIN') or shutil.which('blender') or r'C:/Program Files/Blender Foundation/Blender 5.2/blender.exe')
                 if not (folder/'preview.png').exists():
                     with (folder/'render.log').open('wb') as log:
-                        run=subprocess.run([str(blender),'-b','--python',str(self.home/'render_model.py'),'--',str(folder)],stdout=log,stderr=subprocess.STDOUT,timeout=180,creationflags=getattr(subprocess,'CREATE_NO_WINDOW',0))
+                        run=subprocess.run(render_command(blender,self.home/'render_model.py',folder),stdout=log,stderr=subprocess.STDOUT,timeout=180,creationflags=getattr(subprocess,'CREATE_NO_WINDOW',0))
                     if run.returncode!=0 or not (folder/'preview.png').exists():raise ValueError('Falha ao renderizar a imagem; veja render.log.')
                 import io
                 image=Image.open(folder/'preview.png');image.thumbnail((192,192));buffer=io.BytesIO();image.save(buffer,format='WEBP',quality=82,method=6)

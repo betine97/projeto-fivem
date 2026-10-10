@@ -7,7 +7,7 @@
 | `codex/eron` | Base de trabalho de Eron (`betine97`) |
 | `codex/renan` | Base de trabalho de Renan (GitHub a informar) |
 | `codex/balthor` | Base de trabalho de Balthor (GitHub a informar) |
-| `codex/<pessoa>/<funcionalidade>` | Uma alteração específica |
+| `codex/<pessoa>-<funcionalidade>` | Uma alteração específica |
 
 As branches pessoais começam na mesma revisão de `develop`. Para cada
 funcionalidade, crie uma branch curta e um PR para `develop`:
@@ -16,13 +16,15 @@ funcionalidade, crie uma branch curta e um PR para `develop`:
 git fetch origin
 git switch develop
 git pull --ff-only
-git switch -c codex/renan/minha-funcionalidade
+git switch -c codex/renan-minha-funcionalidade
 python tools/ci.py
-git push -u origin codex/renan/minha-funcionalidade
+git push -u origin codex/renan-minha-funcionalidade
 ```
 
 Renan e Balthor precisam receber acesso ao repositório quando seus usuários forem
 informados. Ter uma branch não concede acesso. Atualize `CODEOWNERS` depois disso.
+O nome da funcionalidade usa hífen após a pessoa: uma branch `codex/renan`
+impede que o Git crie branches abaixo de `codex/renan/`.
 
 Use PRs pequenos. A CI `validar` precisa passar antes da integração. Faça um PR
 de `develop` para `main` após validar no FiveM. Mudanças em Blender/texturas devem
