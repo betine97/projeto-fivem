@@ -1,0 +1,19 @@
+{
+  "revision": 3,
+  "original_base_mesh_uv_weights_unchanged": true,
+  "original_triangles_all_lods": 2135,
+  "pocket_relief_mm": 9,
+  "pocket_uv_height_ratio": 0.6680851063829787,
+  "added_pocket_triangles": 384,
+  "texture_resolution": [
+    1024,
+    1024
+  ],
+  "collection": "Male_Heist",
+  "component": 4,
+  "drawable": 6,
+  "texture": 0,
+  "original_business2_preserved": true,
+  "moving_straps": 3,
+  "in_game_validation": "pending"
+}

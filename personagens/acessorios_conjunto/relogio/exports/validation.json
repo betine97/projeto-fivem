@@ -1,0 +1,20 @@
+{
+  "component": "accs_001_u",
+  "source_vertices": 345409,
+  "source_triangles": 629048,
+  "lod_triangles": {
+    "LODLevel.HIGH": 75485,
+    "LODLevel.MEDIUM": 15097,
+    "LODLevel.LOW": 4529,
+    "LODLevel.VERYLOW": 1132
+  },
+  "embedded_textures": [
+    "relogio_dourado_spec",
+    "relogio_dourado_normal"
+  ],
+  "diffuse": "accs_diff_001_a_uni",
+  "shaders": [
+    "ped_default.sps",
+    "ped.sps"
+  ]
+}

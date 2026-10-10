@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "checks": [
+    "Cayo catalog paginated",
+    "All catalog models exposed in preview",
+    "Every catalog entry uses its actual native model image",
+    "Native tree previews render from local thumbnails",
+    "Image enlargement identifies selected model",
+    "Escape closes enlargement and keeps editor open",
+    "Thumbnail supports keyboard access and restores focus",
+    "Search finds original Cayo model through native alias",
+    "Island favorites filter correctly",
+    "Invalid paint quantity corrected",
+    "Browser preview does not pretend to save objects",
+    "Island controls fit 1024x768",
+    "Escape closes editor catalog",
+    "Placement from image sends chosen model, count and radius to authorized bridge",
+    "Image overlay releases focus when placement starts",
+    "Saved objects load from server snapshot",
+    "Mark location uses persisted object ID",
+    "Reposition retains persisted ID and selects one object",
+    "Remove asks for concrete second click before mutation",
+    "Confirmed removal sends correct ID and refreshes saved count",
+    "No browser errors across catalog and saved object flows"
+  ],
+  "in_game_visual_verified": false
+}

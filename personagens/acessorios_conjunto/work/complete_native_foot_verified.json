@@ -1,0 +1,26 @@
+{
+  "HIGH": {
+    "native_foot_positions_unchanged": true,
+    "unique_positions": 498,
+    "triangles": 964,
+    "max_position_error_m": 1.2377833513710357e-07
+  },
+  "MEDIUM": {
+    "native_foot_positions_unchanged": true,
+    "unique_positions": 498,
+    "triangles": 964,
+    "max_position_error_m": 1.2377833513710357e-07
+  },
+  "LOW": {
+    "native_foot_positions_unchanged": true,
+    "unique_positions": 498,
+    "triangles": 964,
+    "max_position_error_m": 1.2377833513710357e-07
+  },
+  "VERYLOW": {
+    "native_foot_positions_unchanged": true,
+    "unique_positions": 498,
+    "triangles": 964,
+    "max_position_error_m": 1.2377833513710357e-07
+  }
+}

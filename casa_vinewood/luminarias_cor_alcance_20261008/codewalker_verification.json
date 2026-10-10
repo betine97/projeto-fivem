@@ -1,0 +1,20 @@
+[
+  {
+    "model": "mansao_teto",
+    "lights": 107,
+    "geometryModels": 1,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_pendentes",
+    "lights": 9,
+    "geometryModels": 8,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_spot_embutido",
+    "lights": 0,
+    "geometryModels": 16,
+    "nativeLoaded": true
+  }
+]

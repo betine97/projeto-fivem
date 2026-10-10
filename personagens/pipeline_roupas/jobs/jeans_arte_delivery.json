@@ -1,0 +1,24 @@
+{
+  "installed": [
+    "cidade_jeans_rasgado",
+    "cidade_jeans_chamas"
+  ],
+  "wardrobe": "Masculino > Exclusivas",
+  "exclusive_count": 10,
+  "original_base_preserved": true,
+  "tags_and_favorites_unchanged": true,
+  "checks_passed": [
+    "native exports and installed hashes",
+    "front flames taller than back",
+    "wardrobe client independence and removal/reset",
+    "wardrobe server catalog",
+    "isolated HTTP tags/favorites bridge",
+    "wardrobe UI"
+  ],
+  "in_game_verified": false,
+  "server_reload_and_reconnect_required": true,
+  "limitations": [
+    "Ripped holes are diffuse artwork, not geometry cuts.",
+    "Back cloth inferred from supplied fabric; native silhouette retained."
+  ]
+}

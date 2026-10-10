@@ -1,0 +1,8 @@
+{
+  "area_lights": 6,
+  "direction": "world -Z",
+  "added_diffuser_edges": 12,
+  "pink_emission": true,
+  "fog_glow_nodes": 1,
+  "repeat_application": "no duplicates"
+}

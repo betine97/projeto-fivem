@@ -1,0 +1,28 @@
+{
+  "source_sha256": "0a64170a074c3f0ae77bcfd42efd3b11628f3ecb14f335600f14e600989d6b54",
+  "images": {
+    "diffuse": {
+      "sha256": "2227a8e3e3dc4cdb470da5ed4cc663b769c896a3f9b721ab5d36f4ab1c2e4449",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    "normal": {
+      "sha256": "991cf3f49df4b3138cb79e33ba240b437f78730940a6e48c749129710d45de9e",
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    "metallic_roughness": {
+      "sha256": "2fe6e2fe4a86c646dd3b87b0fe53f4b4668f57f5b413c77c9c65a7de1b607ba3",
+      "size": [
+        2048,
+        2048
+      ]
+    }
+  },
+  "dds_diffuse_mean_absolute_error": 2.36670712629954,
+  "dds_diffuse_flipped_error": 35.36797845363617
+}

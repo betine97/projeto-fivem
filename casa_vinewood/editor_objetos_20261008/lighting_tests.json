@@ -1,0 +1,39 @@
+{
+  "cases": [
+    {
+      "place": "sala_tv",
+      "lights": 20,
+      "open_room_anchors": 8,
+      "night": true
+    },
+    {
+      "place": "jantar",
+      "lights": 20,
+      "open_room_anchors": 8,
+      "night": true
+    },
+    {
+      "place": "cozinha",
+      "lights": 20,
+      "open_room_anchors": 8,
+      "night": true
+    },
+    {
+      "place": "hall",
+      "lights": 20,
+      "open_room_anchors": 3,
+      "night": true
+    },
+    {
+      "place": "superior",
+      "lights": 20,
+      "open_room_anchors": 3,
+      "night": true
+    }
+  ],
+  "night_to_day_power_ratio": 4.470588235294118,
+  "offsite_draws": 0,
+  "cap": 24,
+  "syntax": true,
+  "in_game_verified": false
+}

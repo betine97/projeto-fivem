@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "database_users": 0,
+  "panel_url": "http://127.0.0.1:8787",
+  "default_ped": "a_m_y_business_01",
+  "slots": 16,
+  "python_tests": 8,
+  "lua_integration_cases": 8,
+  "server_restart_required": true,
+  "firewall_admin_step_required": true,
+  "friend_connection_verified": false
+}

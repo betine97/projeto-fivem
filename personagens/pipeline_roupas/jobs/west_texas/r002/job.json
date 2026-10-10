@@ -1,0 +1,35 @@
+{
+  "pipeline_version": 1,
+  "name": "west_texas",
+  "revision": "r002",
+  "base_id": "45d2507a98ce",
+  "base_manifest_sha256": "8b1555ea72cfce7e995ef1a80bf98821aa7a4fecda6431ad5b76548fe987a75b",
+  "reference_image": "codex-clipboard-6069c8ba-8649-4608-8bf9-1677d22f96aa.png",
+  "material": {
+    "albedo_atlas": "atlas_west_texas.png",
+    "preserve_native_normal_specular": true,
+    "adapter": "palette_to_rgb"
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_west_texas_r002",
+    "prefix": "mp_m_freemode_01_cidade_west_texas_r002",
+    "local_index": 0
+  },
+  "review": {
+    "positions": true,
+    "appearance": true,
+    "in_game": false
+  },
+  "notes": [
+    "Costas e mangas sem estampa, usando tecido da imagem 2.",
+    "ProjeÃ§Ã£o da arte com largura 36 cm, aproximadamente entre z .27 e .47 m.",
+    "Shader de paleta convertido para RGB; geometria, pesos, normal e especular preservados."
+  ],
+  "test_commands": {
+    "apply": "camisetatexas",
+    "restore": "roupastexasanterior"
+  }
+}

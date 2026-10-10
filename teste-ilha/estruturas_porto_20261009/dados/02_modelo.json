@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "nome": "Casa_amarela",
+  "arquivo": "02_Casa_amarela.blend",
+  "dimensoes": [
+    9,
+    8,
+    3.2
+  ],
+  "interiores": [
+    {
+      "pavimento": 1,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "cozinha",
+        "banheiro",
+        "armario"
+      ]
+    }
+  ],
+  "aberturas": [
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 4.86,
+      "largura": 1.05,
+      "z": 0,
+      "altura": 2.28
+    }
+  ],
+  "objetos": 604,
+  "vertices": 28004,
+  "texturas_empacotadas": [
+    "Referencia_original_02"
+  ],
+  "texturas_fornecidas": {
+    "parede": 8,
+    "madeira": 1
+  },
+  "refinamento_aplicado": true,
+  "passagens_conferidas": true
+}

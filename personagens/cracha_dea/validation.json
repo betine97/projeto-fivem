@@ -1,0 +1,13 @@
+{
+  "mesh_uv_weights_unchanged": true,
+  "triangles_all_lods": 172,
+  "texture_resolution": [
+    1024,
+    2048
+  ],
+  "collection": "Male_Heist",
+  "component": 9,
+  "drawable": 0,
+  "texture": 0,
+  "original_heist3_preserved": true
+}

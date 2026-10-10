@@ -1,0 +1,2882 @@
+[
+  {
+    "name": "csx_coastsmalrock_01_",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockBoulder_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\CS_RSN_SL_LakeRockTide_01_n.dds"
+      },
+      {
+        "preset": "normal_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01_N.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "csx_coastsmalrock_02_",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockBoulder_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\CS_RSN_SL_LakeRockTide_01_n.dds"
+      },
+      {
+        "preset": "normal_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01_N.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "csx_coastsmalrock_03_",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockBoulder_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\CS_RSN_SL_LakeRockTide_01_n.dds"
+      },
+      {
+        "preset": "normal_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01_N.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "csx_coastsmalrock_04_",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockBoulder_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\CS_RSN_SL_LakeRockTide_01_n.dds"
+      },
+      {
+        "preset": "normal_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01_N.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "csx_coastsmalrock_05_",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockBoulder_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\CS_RSN_SL_LakeRockTide_01_n.dds"
+      },
+      {
+        "preset": "normal_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01_N.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_CoastalRockLightSlab_01.dds",
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_mph4_dock_maindock_watertower",
+    "geometries": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      8,
+      9,
+      10,
+      11,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ja_rn_hw1_02_wall_1.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\et_nonslip_vrusty.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\et_nonslip_vrusty_n.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\id1_17_rntg_metal_0001.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\id1_17_rntg_metal_0001_n.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_am_metal_bits_high.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_am_metal_bits_high_n.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_metal35_vred.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_metal35_n.dds"
+      },
+      {
+        "preset": "spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\po1-04_hc_pipes2.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\et_industrial_66_tintable_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\et_industrial_66_tintable_nm.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\lw_industrial_05_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\lw_industrial_05_nm.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_waterpump_02_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_waterpump_02_nm.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_largepipe_01_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_largepipe_01_nm.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_waterpump_01_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_waterpump_01_nm.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_lrgengine_01_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\ih_industrial_lrgengine_01_nm.dds"
+      },
+      {
+        "preset": "normal_spec_alpha.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_drains02im_drains02_a.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_drains02_n.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\id1_05_rsn_mh_legessign_0001.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_et_metalstrips001.dds",
+        "normal": null
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_et_dockbits01.dds",
+        "normal": null
+      }
+    ],
+    "family": "water_tower"
+  },
+  {
+    "name": "h4_mph4_wtowers_watert_00",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\metal_rust_02_dm.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\metal_rust_02_nm.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits_N.dds"
+      },
+      {
+        "preset": "cutout_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\railing_whiteRail_Basic_A.dds",
+        "normal": null
+      }
+    ],
+    "family": "water_tower"
+  },
+  {
+    "name": "h4_mph4_wtowers_watert_01",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\metal_rust_02_dm.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\metal_rust_02_nm.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits_N.dds"
+      },
+      {
+        "preset": "cutout_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\railing_whiteRail_Basic_A.dds",
+        "normal": null
+      }
+    ],
+    "family": "water_tower"
+  },
+  {
+    "name": "h4_mph4_wtowers_watert_02",
+    "geometries": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "materials": [
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\po1_06_port_text_blackmw_leaking_conct_02_a.dds",
+        "normal": null
+      },
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_id1_21_mh_drips2rsn_id1_21_mh_drips2a.dds",
+        "normal": null
+      },
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\po1_06_port_text_whiternim_gaf_001_a.dds",
+        "normal": null
+      },
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_wall01.dds",
+        "normal": null
+      },
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_am_ground_ovly_002rsn_am_ground_ovly_002_a.dds",
+        "normal": null
+      },
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_walloverlay05im_walloverlay05_a.dds",
+        "normal": null
+      },
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs1_07_ih_rustedmetalsupportcs1_07_ih_rustedmetalsupports.dds",
+        "normal": null
+      },
+      {
+        "preset": "spec_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_waterdamage_01im_waterdamage_01_a.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_waterdamage_03im_waterdamage_03_a.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_waterdamage_03_n.dds"
+      }
+    ],
+    "family": "water_tower"
+  },
+  {
+    "name": "h4_mph4_wtowers_watert_03",
+    "geometries": [
+      0,
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits_N.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_cs4_12_rustymetal_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_cs4_12_rustymetal_02_n.dds"
+      },
+      {
+        "preset": "decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\OS_RNBJ_BVwalloverlay_0002.dds",
+        "normal": null
+      }
+    ],
+    "family": "water_tower"
+  },
+  {
+    "name": "h4_mph4_wtowers_watert_04",
+    "geometries": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_ss_concrete_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_ss_concrete_01_n.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_ss_door_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_ss_door_01_n.dds"
+      },
+      {
+        "preset": "normal_spec_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_ss_concrete_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\mh_stormmdrainbase04_nrm.dds"
+      },
+      {
+        "preset": "normal_spec_decal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_ss_drain_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_ss_drain_01_n.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\sc01_rnad_woodbeam_0001.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\sc01_rnad_woodbeam_0001_n.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_wall01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\mh_bridge_base01_striped_nrm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_dc_pierwalkway_0001.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_dc_pierwalkway_0001_n.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\RSN_AM_Metal_Bits_N.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_wood_panels_17.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\im_wood_panels_17_n.dds"
+      },
+      {
+        "preset": "normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_cs4_12_rustymetal_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_cs4_12_rustymetal_02_n.dds"
+      }
+    ],
+    "family": "water_tower"
+  },
+  {
+    "name": "h4_prop_bush_buddleia_sml_01",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_buddleia_abprop_bush_buddleia_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_buddleia_nm.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_mang_aa",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_abprop_bush_mang_lg_aa_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_abprop_bush_mang_lg_aa_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_mang_ac",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_abprop_bush_mang_lg_aa_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_abprop_bush_mang_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_new_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_abprop_bush_mang_lg_aa_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_abprop_bush_mang_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_mang_lg_aa",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_abprop_bush_mang_lg_aa_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lg_aa_abprop_bush_mang_lg_aa_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_mang_lrg_01",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lrg_01_abprop_bush_mang_lrg_01_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lrg_01_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lrg_01_abprop_bush_mang_lrg_01_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_mang_lrg_02",
+    "geometries": [
+      0,
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_boxwood_bark_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_boxwood_bark_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lrg_02_abprop_bush_mang_lrg_02_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lrg_02_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_mang_lrg_02_abprop_bush_mang_lrg_02_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_monstera_med_01",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palm_atlas_13_abprop_palm_atlas_13_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palm_atlas_13_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palm_atlas_13_abprop_palm_atlas_13_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_olndr_white_lrg",
+    "geometries": [
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_white_abprop_bush_oleander_pink_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_pink_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_branch_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_branch_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_white_abprop_bush_oleander_pink_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_olndr_white_sml",
+    "geometries": [
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_white_abprop_bush_oleander_pink_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_pink_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_branch_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_branch_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_oleander_white_abprop_bush_oleander_pink_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_bush_rosemary_lrg_01",
+    "geometries": [
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_rosemary_abprop_bush_rosemary_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_rosemary_s.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_rosemary_trunk_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_rosemary_trunk_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_rosemary_abprop_bush_rosemary_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "h4_prop_palmeto_sap_aa",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_abprop_palmeto_sap_nm_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_abprop_palmeto_sap_nm_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "subcanopy"
+  },
+  {
+    "name": "h4_prop_palmeto_sap_ab",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_abprop_palmeto_sap_nm_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_abprop_palmeto_sap_nm_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "subcanopy"
+  },
+  {
+    "name": "h4_prop_palmeto_sap_ac",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_abprop_palmeto_sap_nm_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_palmeto_sap_abprop_palmeto_sap_nm_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "subcanopy"
+  },
+  {
+    "name": "h4_prop_rock_lrg_01",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_01_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_01_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_01_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_02",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_02_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_02_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_02_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_03",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_03_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_03_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_03_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_04",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_04_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_04_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_04_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_05",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_05_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_05_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_05_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_06",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_06_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_06_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_06_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_07",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_07_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_07_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_07_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_08",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_08_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_08_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_08_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_09",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_09_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_09_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_09_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_10",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_10_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_10_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_10_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_11",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_11_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_11_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_11_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_lrg_12",
+    "geometries": [
+      1,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_12_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Lrg_12_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_lrg_12_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_med_01",
+    "geometries": [
+      1
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_med_02",
+    "geometries": [
+      1
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_med_03",
+    "geometries": [
+      1
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_ab.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_Rock_Med_01_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_scree_med_01",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_02_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_med_01_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_scree_med_02",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_02_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_med_01_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_scree_med_03",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_02_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_med_01_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_scree_small_01",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_scree_small_02",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_rock_scree_small_03",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_scree_small_nm.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "h4_prop_tree_banana_med_01",
+    "geometries": [
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_banana_abProp_tree_banana_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_banana_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_banana_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_banana_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_banana_abProp_tree_banana_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_beech_lrg_if_01",
+    "geometries": [
+      3,
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_beech_abProp_tree_beech_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_beech_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_beech_trunk_02_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_beech_trunk_02_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_beech_abProp_tree_beech_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_blk_mgrv_lrg_01",
+    "geometries": [
+      0,
+      0,
+      1,
+      2,
+      2,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_scan_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_scan_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_abprop_tree_liveoak_branches_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_abProp_tree_mangrove_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_abprop_tree_liveoak_branches_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_abProp_tree_mangrove_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_blk_mgrv_lrg_02",
+    "geometries": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_scan_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_scan_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_abProp_tree_mangrove_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_abprop_tree_liveoak_branches_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_abProp_tree_mangrove_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_abprop_tree_liveoak_branches_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_blk_mgrv_med_01",
+    "geometries": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_abProp_tree_mangrove_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_abprop_tree_liveoak_branches_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_scan_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_scan_nm.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_mangrove_abProp_tree_mangrove_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_liveoak_branches_abprop_tree_liveoak_branches_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_frangipani_lrg_01",
+    "geometries": [
+      0,
+      1,
+      4
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_frangipani_abProp_tree_frangipani_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_frangipani_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_frangipani_trunk_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_frangipani_trunk_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_frangipani_abProp_tree_frangipani_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_frangipani_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_frangipani_abProp_tree_frangipani_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_frangipani_med_01",
+    "geometries": [
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_frangipani_abprop_tree_frangipani_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_frangipani_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_frangipani_trunk_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_frangipani_trunk_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_frangipani_abprop_tree_frangipani_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_palm_areca_sap_02",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_palm_areca_sap_leaves_02_abprop_tree_palm_areca_sap_leaves_02_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_palm_areca_sap_leaves_02_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_palm_areca_sap_leaves_02_abprop_tree_palm_areca_sap_leaves_02_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "subcanopy"
+  },
+  {
+    "name": "h4_prop_tree_palm_areca_sap_03",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_palm_areca_sap_leaves_02_abprop_tree_palm_areca_sap_leaves_02_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_palm_areca_sap_leaves_02_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_palm_areca_sap_leaves_02_abprop_tree_palm_areca_sap_leaves_02_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "subcanopy"
+  },
+  {
+    "name": "h4_prop_tree_palm_fan_bea_03b",
+    "geometries": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plam_03nxg_im_plam_03_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plam_03_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plam_02nxg_im_plam_02_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plam_02_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_palm_leafend01x_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_palm_leafend01x_s.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nbx_palm_fiber01x_abalnbx_palm_fiber01x_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nbx_palm_fiber01x_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plam_03nxg_im_plam_03_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plam_02nxg_im_plam_02_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_palm_thatch_01",
+    "geometries": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_SA_trunks_14_abProp_SA_trunks_14_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_SA_trunks_14_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_thatch_palm_abProp_tree_thatch_palm_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_thatch_palm_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_SA_trunks_13_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_SA_trunks_13_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_SA_trunks_14_abProp_SA_trunks_14_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_thatch_palm_abProp_tree_thatch_palm_al.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_palm_trvlr_03",
+    "geometries": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_palm_trvlr_lrg_01_abProp_tree_palm_trvlr_lrg_01_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_palm_trvlr_lrg_01_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_palm_trvlr_trunk_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_palm_trvlr_lrg_01_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_palm_trvlr_lrg_01_abProp_tree_palm_trvlr_lrg_01_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_umbrella_med_01",
+    "geometries": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_foliage_abProp_tree_umbrella_foliage_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_foliage_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_trunk_scan_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_trunk_scan_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_foliage_abProp_tree_umbrella_foliage_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "h4_prop_tree_umbrella_sml_01",
+    "geometries": [
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_foliage_abProp_tree_umbrella_foliage_al.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_foliage_nm.dds"
+      },
+      {
+        "preset": "normal_spec_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_trunk_scan_ab.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_trunk_scan_nm.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\Prop_tree_umbrella_foliage_abProp_tree_umbrella_foliage_al.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_air_watertank1",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_air_watertank1.dds",
+        "normal": null
+      },
+      {
+        "preset": "default_detail.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_air_watertank1.dds",
+        "normal": null
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_air_watertank1.dds",
+        "normal": null
+      },
+      {
+        "preset": "cutout_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\railing_whiterail_basic_a.dds",
+        "normal": null
+      }
+    ],
+    "family": "water_tower"
+  },
+  {
+    "name": "prop_bush_lrg_01b",
+    "geometries": [
+      0,
+      1,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_lrg_01_core_base.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_36b.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_36_n.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_36b.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_lrg_01d",
+    "geometries": [
+      0,
+      1,
+      4
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_lrg_01_core_base.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_lrg_03",
+    "geometries": [
+      0,
+      1,
+      5
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_33_tile.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_diffspec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_33.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_33_n.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_lrg_01_core_base.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_diffspec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_33.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_33_n.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_33.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_med_01",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_35.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_35_n.dds"
+      },
+      {
+        "preset": "trees_lod_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_35.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_med_02",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_agave_leaves_im_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_agave_leaves_im_02_n.dds"
+      },
+      {
+        "preset": "trees.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_agave_leaves_im_02.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_med_03",
+    "geometries": [
+      0,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_36.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_36_n.dds"
+      },
+      {
+        "preset": "trees_lod.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_36.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_36.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_med_05",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_grass_02d.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_grass_01_n.dds"
+      },
+      {
+        "preset": "trees_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_grass_02d.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_med_06",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_05.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_05.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_bush_med_07",
+    "geometries": [
+      0,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "trees_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_06c.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_06c.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_grass_dry_02",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_palm_med_01a",
+    "geometries": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03_N.dds"
+      },
+      {
+        "preset": "normal_spec_detail_dpm_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_palm_med_01b",
+    "geometries": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_dpm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03_N.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_palm_med_01c",
+    "geometries": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04_N.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "normal_spec_dpm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_palm_med_01d",
+    "geometries": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03_N.dds"
+      },
+      {
+        "preset": "normal_spec_dpm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_palm_sm_01a",
+    "geometries": [
+      3,
+      4,
+      5,
+      6,
+      9
+    ],
+    "materials": [
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03_N.dds"
+      },
+      {
+        "preset": "normal_spec_detail_dpm_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "normal_spec_detail_dpm_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03_N.dds"
+      },
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03_N.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_palm_sm_01d",
+    "geometries": [
+      4,
+      1,
+      2,
+      5
+    ],
+    "materials": [
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04_N.dds"
+      },
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_detail_dpm_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_palm_sm_01e",
+    "geometries": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03_N.dds"
+      },
+      {
+        "preset": "normal_spec_detail_dpm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_03.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_palm_sm_01f",
+    "geometries": [
+      0,
+      1,
+      2,
+      6
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_detail_dpm_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_nm_l.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04_N.dds"
+      },
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "default_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_palm2_dm_l.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_02.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Plam_04.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_plant_01b",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_am_flowers_4rsn_am_flowers_4_a.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_am_flowers_4_nm.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_cane_02a",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_43.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_43_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_43.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_43_n.dds"
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_43.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_cane_02b",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_fern_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_fern_03_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_fern_01b",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_am_flowers_4rsn_am_flowers_4_a.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\rsn_am_flowers_4_nm.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_fern_02a",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plant_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plant_01_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_fern_02b",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_fern_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_fern_01_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_fern_02c",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_ground_cover_02.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_ground_cover_02_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_fern_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_fern_01_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_group_05",
+    "geometries": [
+      3,
+      4
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04b.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04_n.dds"
+      },
+      {
+        "preset": "trees_lod.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\slod_prop_plant_group_05.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04b.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_group_05c",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_05.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_05_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_03_n.dds"
+      },
+      {
+        "preset": "trees_lod.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\slod_prop_plant_group_05c.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_group_05d",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_06.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04_n.dds"
+      },
+      {
+        "preset": "trees_lod.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\slod_prop_plant_group_05d.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_group_05e",
+    "geometries": [
+      1,
+      4,
+      2
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04b.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04_n.dds"
+      },
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_07_n.dds"
+      },
+      {
+        "preset": "trees_normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_06.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_broomsnakwdbranches2_nm.dds"
+      },
+      {
+        "preset": "trees_lod.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\slod_prop_plant_group_05b.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04b.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_04_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_group_06a",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_group_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_group_01_n.dds"
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_plant_group_06b",
+    "geometries": [
+      2,
+      3
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_08.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_08_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_30.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_30_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_08.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_08_n.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_30.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_30_n.dds"
+      },
+      {
+        "preset": "trees_lod.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_plants_08.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_lod.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_im_branches_30.dds",
+        "normal": null
+      }
+    ],
+    "family": "bush"
+  },
+  {
+    "name": "prop_rock_1_a",
+    "geometries": [
+      1
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_1.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_spec_pxm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_01_n.dds"
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "prop_rock_1_g",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_pxm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\cs_rsn_sl_boulderrock_04_n.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_1.dds",
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "prop_rock_1_h",
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "normal_spec_pxm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_01_n.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_rock_1.dds",
+        "normal": null
+      }
+    ],
+    "family": "rock"
+  },
+  {
+    "name": "prop_tree_birch_01",
+    "geometries": [
+      3,
+      4,
+      1,
+      5,
+      6,
+      8
+    ],
+    "materials": [
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_trunk_dm.dds",
+        "normal": null
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_leafwillow2.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_leafwillow_nm.dds"
+      },
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_Prop_Tree_Eucalip_branchesNXG_Prop_Tree_Eucalip_branches_a.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_Prop_Tree_Eucalip_branches_n.dds"
+      },
+      {
+        "preset": "normal_diffspec_detail_dpm.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_trunk_dm.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_trunk_nm.dds"
+      },
+      {
+        "preset": "normal_diffspec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_trunk_dm.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_trunk_nm.dds"
+      },
+      {
+        "preset": "trees_normal_diffspec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_Prop_Tree_Eucalip_branchesNXG_Prop_Tree_Eucalip_branches_a.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_Prop_Tree_Eucalip_branches_n.dds"
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_tree_birch_leafwillow_dmnxg_prop_tree_birch_leafwillow_am.dds",
+        "normal": null
+      },
+      {
+        "preset": "cutout.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_Prop_Tree_Eucalip_branchesNXG_Prop_Tree_Eucalip_branches_a.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_tree_cedar_s_04",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_bush_neat_big_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_bush_neat_big_01_n.dds"
+      },
+      {
+        "preset": "trees_normal_diffspec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_44.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_44_N.dds"
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_tree_cedar_s_05",
+    "geometries": [
+      0,
+      1
+    ],
+    "materials": [
+      {
+        "preset": "normal.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_bush_neat_big_01.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\nxg_prop_bush_neat_big_01_n.dds"
+      },
+      {
+        "preset": "trees_normal_diffspec_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_44.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_44_N.dds"
+      }
+    ],
+    "family": "tree"
+  },
+  {
+    "name": "prop_tree_eucalip_01",
+    "geometries": [
+      3,
+      4,
+      0,
+      1,
+      5,
+      7
+    ],
+    "materials": [
+      {
+        "preset": "trees_normal_spec.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_35.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_35_N.dds"
+      },
+      {
+        "preset": "normal_cutout.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_26bNXG_IM_Branches_26b_A.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_26_N.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_eualipt_dm.dds",
+        "normal": null
+      },
+      {
+        "preset": "normal_diffspec_detail_tnt.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_eualipt_dm.dds",
+        "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_eucalipt_nm.dds"
+      },
+      {
+        "preset": "default.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\prop_tree_eucalip_tile.dds",
+        "normal": null
+      },
+      {
+        "preset": "cpv_only.sps",
+        "diffuse": null,
+        "normal": null
+      },
+      {
+        "preset": "trees_shadow_proxy.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_35.dds",
+        "normal": null
+      },
+      {
+        "preset": "cutout.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\texturas_objetos\\NXG_IM_Branches_26bNXG_IM_Branches_26b_A.dds",
+        "normal": null
+      }
+    ],
+    "family": "tree"
+  }
+]

@@ -1,0 +1,998 @@
+{
+  "revision": "solo-ilha-20261009-qualidade-1",
+  "sectors": [
+    {
+      "name": "ti_terreno_00_03",
+      "grid_bounds": [
+        288,
+        0,
+        384,
+        96
+      ],
+      "center": [
+        -159.72744750976562,
+        -1474.4466552734375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_00_04",
+      "grid_bounds": [
+        384,
+        0,
+        480,
+        96
+      ],
+      "center": [
+        159.72744750976562,
+        -1474.4466552734375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_01_01",
+      "grid_bounds": [
+        96,
+        96,
+        192,
+        192
+      ],
+      "center": [
+        -798.63720703125,
+        -1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_01_02",
+      "grid_bounds": [
+        192,
+        96,
+        288,
+        192
+      ],
+      "center": [
+        -479.1823425292969,
+        -1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_01_03",
+      "grid_bounds": [
+        288,
+        96,
+        384,
+        192
+      ],
+      "center": [
+        -159.72744750976562,
+        -1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_01_04",
+      "grid_bounds": [
+        384,
+        96,
+        480,
+        192
+      ],
+      "center": [
+        159.72744750976562,
+        -1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_01_05",
+      "grid_bounds": [
+        480,
+        96,
+        576,
+        192
+      ],
+      "center": [
+        479.1823425292969,
+        -1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_01_06",
+      "grid_bounds": [
+        576,
+        96,
+        672,
+        192
+      ],
+      "center": [
+        798.63720703125,
+        -1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": true
+    },
+    {
+      "name": "ti_terreno_02_01",
+      "grid_bounds": [
+        96,
+        192,
+        192,
+        288
+      ],
+      "center": [
+        -798.63720703125,
+        -631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_02_02",
+      "grid_bounds": [
+        192,
+        192,
+        288,
+        288
+      ],
+      "center": [
+        -479.1823425292969,
+        -631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_02_03",
+      "grid_bounds": [
+        288,
+        192,
+        384,
+        288
+      ],
+      "center": [
+        -159.72744750976562,
+        -631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_02_04",
+      "grid_bounds": [
+        384,
+        192,
+        480,
+        288
+      ],
+      "center": [
+        159.72744750976562,
+        -631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_02_05",
+      "grid_bounds": [
+        480,
+        192,
+        576,
+        288
+      ],
+      "center": [
+        479.1823425292969,
+        -631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_02_06",
+      "grid_bounds": [
+        576,
+        192,
+        672,
+        288
+      ],
+      "center": [
+        798.63720703125,
+        -631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_03_01",
+      "grid_bounds": [
+        96,
+        288,
+        192,
+        384
+      ],
+      "center": [
+        -798.63720703125,
+        -210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_03_02",
+      "grid_bounds": [
+        192,
+        288,
+        288,
+        384
+      ],
+      "center": [
+        -479.1823425292969,
+        -210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_03_03",
+      "grid_bounds": [
+        288,
+        288,
+        384,
+        384
+      ],
+      "center": [
+        -159.72744750976562,
+        -210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_03_04",
+      "grid_bounds": [
+        384,
+        288,
+        480,
+        384
+      ],
+      "center": [
+        159.72744750976562,
+        -210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_03_05",
+      "grid_bounds": [
+        480,
+        288,
+        576,
+        384
+      ],
+      "center": [
+        479.1823425292969,
+        -210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_03_06",
+      "grid_bounds": [
+        576,
+        288,
+        672,
+        384
+      ],
+      "center": [
+        798.63720703125,
+        -210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_03_07",
+      "grid_bounds": [
+        672,
+        288,
+        768,
+        384
+      ],
+      "center": [
+        1118.0921630859375,
+        -210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_00",
+      "grid_bounds": [
+        0,
+        384,
+        96,
+        480
+      ],
+      "center": [
+        -1118.0921630859375,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_01",
+      "grid_bounds": [
+        96,
+        384,
+        192,
+        480
+      ],
+      "center": [
+        -798.63720703125,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_02",
+      "grid_bounds": [
+        192,
+        384,
+        288,
+        480
+      ],
+      "center": [
+        -479.1823425292969,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_03",
+      "grid_bounds": [
+        288,
+        384,
+        384,
+        480
+      ],
+      "center": [
+        -159.72744750976562,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_04",
+      "grid_bounds": [
+        384,
+        384,
+        480,
+        480
+      ],
+      "center": [
+        159.72744750976562,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_05",
+      "grid_bounds": [
+        480,
+        384,
+        576,
+        480
+      ],
+      "center": [
+        479.1823425292969,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_06",
+      "grid_bounds": [
+        576,
+        384,
+        672,
+        480
+      ],
+      "center": [
+        798.63720703125,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_04_07",
+      "grid_bounds": [
+        672,
+        384,
+        768,
+        480
+      ],
+      "center": [
+        1118.0921630859375,
+        210.63523864746094,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_00",
+      "grid_bounds": [
+        0,
+        480,
+        96,
+        576
+      ],
+      "center": [
+        -1118.0921630859375,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_01",
+      "grid_bounds": [
+        96,
+        480,
+        192,
+        576
+      ],
+      "center": [
+        -798.63720703125,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_02",
+      "grid_bounds": [
+        192,
+        480,
+        288,
+        576
+      ],
+      "center": [
+        -479.1823425292969,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_03",
+      "grid_bounds": [
+        288,
+        480,
+        384,
+        576
+      ],
+      "center": [
+        -159.72744750976562,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_04",
+      "grid_bounds": [
+        384,
+        480,
+        480,
+        576
+      ],
+      "center": [
+        159.72744750976562,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_05",
+      "grid_bounds": [
+        480,
+        480,
+        576,
+        576
+      ],
+      "center": [
+        479.1823425292969,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_06",
+      "grid_bounds": [
+        576,
+        480,
+        672,
+        576
+      ],
+      "center": [
+        798.63720703125,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_05_07",
+      "grid_bounds": [
+        672,
+        480,
+        768,
+        576
+      ],
+      "center": [
+        1118.0921630859375,
+        631.9057006835938,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_06_01",
+      "grid_bounds": [
+        96,
+        576,
+        192,
+        672
+      ],
+      "center": [
+        -798.63720703125,
+        1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_06_02",
+      "grid_bounds": [
+        192,
+        576,
+        288,
+        672
+      ],
+      "center": [
+        -479.1823425292969,
+        1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_06_03",
+      "grid_bounds": [
+        288,
+        576,
+        384,
+        672
+      ],
+      "center": [
+        -159.72744750976562,
+        1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_06_04",
+      "grid_bounds": [
+        384,
+        576,
+        480,
+        672
+      ],
+      "center": [
+        159.72744750976562,
+        1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_06_05",
+      "grid_bounds": [
+        480,
+        576,
+        576,
+        672
+      ],
+      "center": [
+        479.1823425292969,
+        1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    },
+    {
+      "name": "ti_terreno_06_06",
+      "grid_bounds": [
+        576,
+        576,
+        672,
+        672
+      ],
+      "center": [
+        798.63720703125,
+        1053.1761474609375,
+        0.0
+      ],
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "new_sector": false
+    }
+  ],
+  "shader": "terrain_cb_4lyr.sps",
+  "layers": [
+    {
+      "family": "grass",
+      "diffuse": "cs_rsn_sl_agrgrass_02",
+      "normal": "cs_rsn_sl_agrgrass_02_n",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "family": "sand",
+      "diffuse": "ap_rls_sand_scrabl_warm",
+      "normal": "ap_rls_sand_scrabl_n",
+      "size": [
+        512,
+        512
+      ]
+    },
+    {
+      "family": "mud",
+      "diffuse": "hp_islandbank_redmud_02",
+      "normal": "hp_islandbank_redmud_02_n",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "family": "rock",
+      "diffuse": "cs_islx_canyonrock_rough_01",
+      "normal": "cs_islx_canyonrockrough_01_nrm",
+      "size": [
+        512,
+        512
+      ]
+    }
+  ],
+  "texture_dictionary": "pe_terreno_hd",
+  "tile_metres": 6,
+  "normal_source": "global terrain derivatives; identical shared-border normals",
+  "collision_policy": "existing 42 YBN files untouched; one new beach YBN matches the current full grid",
+  "terrain_npz_sha256": "c8dea16c701739d7019fa088cc6769c1057ebb66cbe75de84b12a81722d7887d",
+  "collision_sha256": {
+    "ti_terreno_00_03": "cc4e9a3a00fe7ba5b7413a99de88d786576c4c84decbdb4d82edcd2e243e38eb",
+    "ti_terreno_00_04": "17418edc93606175678f27da648ba26034e7652b882b2bca0d0f5975522a41b1",
+    "ti_terreno_01_01": "a754166a3903c7aba7ca5c520965e5163ed2ddef022342d8569d13c6e52a454a",
+    "ti_terreno_01_02": "ad08eecfa697fd92e0165fd3da2ed8f0dcc4a40691a424f315676f22e999f170",
+    "ti_terreno_01_03": "c8dd0473cf489f9b688ced3ca540045b6549247a10ac2741e9967336cbdd6f41",
+    "ti_terreno_01_04": "76d4a352d5f2647f769e91c5f32031d1ef419d00a1b37cfcfc95366e4e75d4f1",
+    "ti_terreno_01_05": "0b0957a5fb7d591cf532a76b994ce2d64f9d2d85011d70080de82cf384d7af6b",
+    "ti_terreno_02_01": "6f765f09110eb0403885855c4d38ff0fe119b7ae561ad385ca75e067f077b04f",
+    "ti_terreno_02_02": "52988cf3c954d695f700ad8c5d66fca45fe0ddd0e526c06f8a6de2bbae236752",
+    "ti_terreno_02_03": "b110887f92a814348dc6866bc4f2da2f82a25d79fefbfe0f528313ddab25f227",
+    "ti_terreno_02_04": "af1547e9ce667571212fa6c69f58dc04988f43e1c4070d4adbf73bef854e8d2d",
+    "ti_terreno_02_05": "9a83c639c9ab4f61247d55a5dff9ffd6917ece8feb63a1e6b8167bf78f549836",
+    "ti_terreno_02_06": "1ced5f5fd530497eb6b92bcd7df5aac0b856b8f11cd1aaa5301b7eebbc66683d",
+    "ti_terreno_03_01": "c705c20fd8c3b3fb1092430b4506271ddb32687409bd21e373a452c2d398b5f0",
+    "ti_terreno_03_02": "f802e6463710a8e07e709e2a8e7a8c6df8d441774a613980ca55ed722056d8a0",
+    "ti_terreno_03_03": "a79ca7810be6fef70f11e93b998aabf6e357d8d5c85d274c367871f5bf7bbf12",
+    "ti_terreno_03_04": "0039bc6102bcaee64a02b188c45a2ada278c6eff3929467f1526a7dac655a5c5",
+    "ti_terreno_03_05": "d68b6625a8d2ec938d194c176f5c82a9178752f3882f1d7e1c12f690e83794d5",
+    "ti_terreno_03_06": "29206074a16e33af956293fbacfff9d94aa8e1308b8d34d061c55392384effa9",
+    "ti_terreno_03_07": "001d25c01ad742dbe65c81c79d1e92597464364d60c115a2caf5dd14f5bde2cb",
+    "ti_terreno_04_00": "732c8ba60182345207153f100c3a131a757cab401f72fdf80fdee1e8ac2a3144",
+    "ti_terreno_04_01": "cda1d5a2331e2fedca9592b48ad571fcf19a07996e387c4b35576a8c1b7145e4",
+    "ti_terreno_04_02": "dab535f846b288c1592923f5a2d182d0b4d31b6697b607c77d1a11d2eaf7b45b",
+    "ti_terreno_04_03": "8f41f1167e045f9d768b935a108837c8f7a81d20c1839bd81d5a1e3322d0dced",
+    "ti_terreno_04_04": "d9c931b4ba8d76e3cf516855ee4777f55bb3fd676fcbeeceaa642c64b8b58496",
+    "ti_terreno_04_05": "b74e9ef411ce2b817d965c3825e1c31da27ed4ef4d716fcbd90c2503bec3dfd8",
+    "ti_terreno_04_06": "ca90081c727997b0fe682adb86f94a0519a573257350f519c0c3328a8e07b3cb",
+    "ti_terreno_04_07": "9ff47b35fcebd9c7e570320c34a5ba7a05f7d283a2a90ab4c2374d35e5f25afd",
+    "ti_terreno_05_00": "3a04e46b568fe311ef21c4ed646ff1a9b5d1eb830bc1f7035678ee17a72b6232",
+    "ti_terreno_05_01": "28960281d977145ba5ff5b3267d8b3e798aa9b5881eee986a3e4368b80a24af9",
+    "ti_terreno_05_02": "1a879c941d0eb7233ea4d9cb31a634e0e2b90b452e01c202ca4897ef083c0601",
+    "ti_terreno_05_03": "f022a1932eafd3212ed7204e053428c6bd0a6d0c9c576c506280741b8781adec",
+    "ti_terreno_05_04": "caaad6c8b00e927fc28a6ef2d3e5497f1199d861e9a40205fe976ab89469c0d3",
+    "ti_terreno_05_05": "bb73fdf92056244746b138aea3649794ddadbf91f671a5285e101eb661b520cd",
+    "ti_terreno_05_06": "ad5616e148d142854a271cc9ed28f7628543d07a7e81424cf4697986a408da3e",
+    "ti_terreno_05_07": "3f9359055400cac673995904ea3e467682bace5712a20d764d11a8f2c6ce99a0",
+    "ti_terreno_06_01": "fe8ddbcdc0070dd7db0758894bc7a532ca28cac638802140d0a24c48c6518f21",
+    "ti_terreno_06_02": "8ff5a0239cbdd38a8f83d2cf1689e0f920ed1805f84f21fb2576a68869e45309",
+    "ti_terreno_06_03": "fe249af205ca4eb276c507a1690604d085bb08ef090fa7676613b95dacf00a52",
+    "ti_terreno_06_04": "d55b93a0b1aeb27b0d37c49099f8e9df363271b6f520dbdd0a90f5394b8f8113",
+    "ti_terreno_06_05": "eb8ef6b4a06c1dfd97ca9891a56dc914aa6792e30f0487732ebf670be868c6e4",
+    "ti_terreno_06_06": "ca4840db70944b73a4db74d85483d1b8cb1055f5af3b9ac4f52911507af769c1"
+  },
+  "elapsed_s": 1.1,
+  "in_game_verified": false
+}

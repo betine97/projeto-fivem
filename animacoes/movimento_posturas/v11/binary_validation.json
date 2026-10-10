@@ -1,0 +1,150 @@
+{
+  "game_tested": false,
+  "assets": {
+    "cidade_deitado_move_v11": {
+      "clips": {
+        "rastejar_left": {
+          "frames": 28,
+          "displacement_m": [
+            -0.3779999911785126,
+            0.0,
+            0.0
+          ],
+          "speed_m_s": 0.4199999797687604,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "parado": {
+          "frames": 31,
+          "mover_tracks": false,
+          "maximum_bone_variation": 0.0
+        },
+        "rastejar_fwd": {
+          "frames": 28,
+          "displacement_m": [
+            0.0,
+            0.5849999785423279,
+            0.0
+          ],
+          "speed_m_s": 0.6499999860979099,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rastejar_bwd": {
+          "frames": 32,
+          "displacement_m": [
+            0.0,
+            -0.4959999918937683,
+            0.0
+          ],
+          "speed_m_s": 0.4800000113289128,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rastejar_right": {
+          "frames": 28,
+          "displacement_m": [
+            0.3779999911785126,
+            0.0,
+            0.0
+          ],
+          "speed_m_s": 0.4199999797687604,
+          "max_channel_error": 7.37607479095459e-07
+        }
+      },
+      "sha256": "20b67e7db4a3ea52e0f63898f7c9a69090a2211a5426430a929c3046228bea3e"
+    },
+    "cidade_agachado_move_v11": {
+      "clips": {
+        "rapido_livre_bwd": {
+          "frames": 83,
+          "displacement_m": [
+            0.0,
+            -3.8266665935516357,
+            0.0
+          ],
+          "speed_m_s": 1.3999999944287749,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rapido_livre_right": {
+          "frames": 21,
+          "displacement_m": [
+            0.9333333373069763,
+            0.0,
+            0.0
+          ],
+          "speed_m_s": 1.3999999170147066,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rapido_armado_fwd": {
+          "frames": 62,
+          "displacement_m": [
+            0.0,
+            3.558333396911621,
+            0.0
+          ],
+          "speed_m_s": 1.7500000547574053,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rapido_armado_left": {
+          "frames": 85,
+          "displacement_m": [
+            -3.9200000762939453,
+            0.0,
+            0.0
+          ],
+          "speed_m_s": 1.4000000327391107,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rapido_livre_left": {
+          "frames": 85,
+          "displacement_m": [
+            -3.9200000762939453,
+            0.0,
+            0.0
+          ],
+          "speed_m_s": 1.4000000327391107,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rapido_armado_bwd": {
+          "frames": 83,
+          "displacement_m": [
+            0.0,
+            -3.8266665935516357,
+            0.0
+          ],
+          "speed_m_s": 1.3999999944287749,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rapido_armado_right": {
+          "frames": 21,
+          "displacement_m": [
+            0.9333333373069763,
+            0.0,
+            0.0
+          ],
+          "speed_m_s": 1.3999999170147066,
+          "max_channel_error": 7.37607479095459e-07
+        },
+        "rapido_livre_fwd": {
+          "frames": 62,
+          "displacement_m": [
+            0.0,
+            3.558333396911621,
+            0.0
+          ],
+          "speed_m_s": 1.7500000547574053,
+          "max_channel_error": 7.37607479095459e-07
+        }
+      },
+      "sha256": "474bd04d56cd8ae56901da24126ce4514414e52b14047fa5e41971f75dd793f3"
+    }
+  },
+  "rifle_mask": {
+    "ar": {
+      "samples": 5104,
+      "max_hand_error_m": 6.490135711545517e-07
+    },
+    "ak": {
+      "samples": 5104,
+      "max_hand_error_m": 6.503806365369319e-07
+    }
+  }
+}

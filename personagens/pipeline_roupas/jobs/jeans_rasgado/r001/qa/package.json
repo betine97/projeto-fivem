@@ -1,0 +1,25 @@
+{
+  "status": "addon_packaged",
+  "in_game_verified": false,
+  "metadata": {
+    "collection": "cidade_jeans_rasgado_r001",
+    "component": 4,
+    "drawables": 1,
+    "textures": 1,
+    "cross_component_rules": false,
+    "round_trip_verified": true
+  },
+  "test_commands": {
+    "apply": "provar_jeans_rasgado",
+    "restore": "restaurar_jeans_rasgado"
+  },
+  "base_manifest_sha256": "af7b451506806369279c5315d5eeedb063cd454138b94ac6061b3266be4d22b7",
+  "files": {
+    "client.lua": "48d63b31ec193a32a0c140e5462c4ca0c6a76e3e9bd96f312884fd27439d0a7c",
+    "data\\shop.meta": "41ae6b0611fec18965defcc72c8e9a0b1223c7c4d8511baaff3ca33faff7c424",
+    "fxmanifest.lua": "f2086a9f5da83c2cd43b497a35d286fd59fe6d053d34c27d720f4ed8536db7c3",
+    "stream\\mp_m_freemode_01_cidade_jeans_rasgado_r001.ymt": "3432e0738913a3cff152f71bc5c910827e4c8e148c35bb2c1dbc64dfb006b6ea",
+    "stream\\mp_m_freemode_01_cidade_jeans_rasgado_r001^lowr_000_r.ydd": "18bef9aad4b3a42e9965e11517239380a40020d8ff6d4f080fb8761ec493e8cb",
+    "stream\\mp_m_freemode_01_cidade_jeans_rasgado_r001^lowr_diff_000_a_whi.ytd": "03d5dbffa6ff91e52c66a1233e321215e4a389602751f029acc4bbcd76c67b1c"
+  }
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; connect-src 'self' https://cidade_admin; object-src 'none'; base-uri 'none'">
+  <title>Painel ADM • Minha Cidade</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app" hidden>
+  <section class="panel" role="dialog" aria-modal="true" aria-label="Painel de administração">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">MC</span><div>MINHA CIDADE<small>ADMINISTRAÇÃO</small></div></div>
+      <span class="nav-label">CONTROLE DA CIDADE</span>
+      <nav aria-label="Abas do painel">
+        <button data-tab="vehicles"><span class="nav-icon">▰</span>Veículos<span class="nav-count" id="count-vehicles"></span></button>
+        <button data-tab="weapons"><span class="nav-icon">⌖</span>Armas<span class="nav-count" id="count-weapons"></span></button>
+        <button data-tab="npcs"><span class="nav-icon">♙</span>NPCs<span class="nav-count" id="count-npcs"></span></button>
+        <button data-tab="players"><span class="nav-icon">◎</span>Jogadores e IDs</button>
+        <button data-tab="commands"><span class="nav-icon">›_</span>Comandos</button>
+      </nav>
+      <div class="sidebar-tip"><strong>Seu jogo, à mão.</strong><p>Escolha o modelo e crie perto de você. Os IDs são os permanentes da cidade.</p><code>F8 → painel adm</code></div>
+      <div class="account"><span class="avatar">ADM</span><div><strong id="account-name"></strong><small id="account-id"></small></div><span class="online-dot"></span></div>
+    </aside>
+    <main>
+      <header><div><div class="eyebrow">PAINEL ADM <span id="preview-badge" hidden>PRÉVIA</span></div><h1 id="title">Veículos</h1><p id="subtitle"></p></div><button id="close" class="close" aria-label="Fechar painel">× <kbd>ESC</kbd></button></header>
+      <div class="toolbar"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="Buscar por nome ou modelo…" autocomplete="off" aria-label="Buscar no catálogo"></label><select id="category" aria-label="Categoria"><option value="">Todas as categorias</option></select><label id="favorite-control" class="favorites"><input id="favorites-only" type="checkbox">★ Favoritos</label></div>
+      <div id="actions" class="actions"></div>
+      <div id="content" class="content"></div>
+      <footer><span id="result-count"></span><div class="pagination"><button id="previous" aria-label="Página anterior">←</button><span id="page-label"></span><button id="next" aria-label="Próxima página">→</button></div></footer>
+    </main>
+  </section>
+  <div id="toast" role="status" hidden></div>
+  <div id="modal" class="modal-backdrop" hidden><form id="command-form" class="command-modal"><span class="eyebrow">EXECUTAR NO JOGO</span><h2 id="modal-title"></h2><p id="modal-description"></p><code id="modal-usage"></code><label id="args-label">Argumentos<input id="command-args" autocomplete="off" maxlength="120" placeholder="Exemplo: 2"></label><small>O painel fechará para liberar os controles do jogo.</small><div class="modal-buttons"><button type="button" id="modal-cancel" class="secondary">Cancelar</button><button type="submit" class="primary">Executar comando →</button></div></form></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

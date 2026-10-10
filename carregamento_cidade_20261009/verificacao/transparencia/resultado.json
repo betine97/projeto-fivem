@@ -1,0 +1,125 @@
+{
+  "passed": 5,
+  "cases": [
+    "meta dark reproduz canvas opaco com HTML/body transparentes e color-scheme CSS normal",
+    "NUI inicial oculta revela o fundo em todos os 1.296.000 pixels",
+    "ativação Lua exibe a tela e confirma loadingUiActive; estado numérico pronto libera entrada",
+    "entrada após fade e cidadeLoadingClose devolve todos os pixels ao jogo",
+    "nenhuma exceção JavaScript no ciclo completo"
+  ],
+  "originalHidden": {
+    "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\carregamento_cidade_20261009\\verificacao\\transparencia\\antes_oculto.png",
+    "pixels": {
+      "width": 1440,
+      "height": 900,
+      "exposed": 0,
+      "total": 1296000,
+      "corner": [
+        18,
+        18,
+        18
+      ],
+      "center": [
+        18,
+        18,
+        18
+      ]
+    },
+    "style": {
+      "meta": "dark",
+      "rootScheme": "normal",
+      "rootBackground": "rgba(0, 0, 0, 0)",
+      "bodyBackground": "rgba(0, 0, 0, 0)",
+      "bodyVisibility": "hidden",
+      "active": false
+    }
+  },
+  "initialHidden": {
+    "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\carregamento_cidade_20261009\\verificacao\\transparencia\\depois_oculto.png",
+    "pixels": {
+      "width": 1440,
+      "height": 900,
+      "exposed": 1296000,
+      "total": 1296000,
+      "corner": [
+        255,
+        0,
+        255
+      ],
+      "center": [
+        255,
+        0,
+        255
+      ]
+    },
+    "style": {
+      "meta": "normal",
+      "rootScheme": "normal",
+      "rootBackground": "rgba(0, 0, 0, 0)",
+      "bodyBackground": "rgba(0, 0, 0, 0)",
+      "bodyVisibility": "hidden",
+      "active": false
+    }
+  },
+  "active": {
+    "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\carregamento_cidade_20261009\\verificacao\\transparencia\\ativa.png",
+    "pixels": {
+      "width": 1440,
+      "height": 900,
+      "exposed": 0,
+      "total": 1296000,
+      "corner": [
+        11,
+        21,
+        9
+      ],
+      "center": [
+        79,
+        46,
+        16
+      ]
+    },
+    "style": {
+      "meta": "normal",
+      "rootScheme": "normal",
+      "rootBackground": "rgb(9, 13, 9)",
+      "bodyBackground": "rgb(9, 13, 9)",
+      "bodyVisibility": "visible",
+      "active": true
+    }
+  },
+  "closed": {
+    "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\carregamento_cidade_20261009\\verificacao\\transparencia\\fechada_apos_fade.png",
+    "pixels": {
+      "width": 1440,
+      "height": 900,
+      "exposed": 1296000,
+      "total": 1296000,
+      "corner": [
+        255,
+        0,
+        255
+      ],
+      "center": [
+        255,
+        0,
+        255
+      ]
+    },
+    "style": {
+      "meta": "normal",
+      "rootScheme": "normal",
+      "rootBackground": "rgba(0, 0, 0, 0)",
+      "bodyBackground": "rgba(0, 0, 0, 0)",
+      "bodyVisibility": "hidden",
+      "active": false
+    }
+  },
+  "callbacks": [
+    "loadingUiReady",
+    "loadingUiReady",
+    "loadingUiActive",
+    "loadingAdvance"
+  ],
+  "errors": []
+}

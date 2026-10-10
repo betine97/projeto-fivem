@@ -1,0 +1,10 @@
+services:
+  cidade:
+    environment:
+      APP_ENV: dev
+    volumes:
+      - type: bind
+        source: .
+        target: /app
+        bind:
+          create_host_path: false

@@ -1,0 +1,49 @@
+{
+  "game_tested": false,
+  "assets": {
+    "cidade_mira_v9_deitado_ar": {
+      "max_arm_reach_ratio": 0.8632249480805303,
+      "max_pitch_error_degrees": 1.8227278167692873e-05,
+      "max_hand_contact_error_m": 1.9082797281243946e-07,
+      "lower_body_drift_m": 5.960464477539063e-08,
+      "min_pitch": -8,
+      "max_pitch": 35,
+      "frames": 44,
+      "native_bones": 98,
+      "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\pipeline_animacoes\\sources\\deitado_ar.blend"
+    },
+    "cidade_mira_v9_deitado_ak": {
+      "max_arm_reach_ratio": 0.9349136864918203,
+      "max_pitch_error_degrees": 2.268256144866143e-05,
+      "max_hand_contact_error_m": 1.884864366154897e-07,
+      "lower_body_drift_m": 8.429369702178807e-08,
+      "min_pitch": -8,
+      "max_pitch": 35,
+      "frames": 44,
+      "native_bones": 98,
+      "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\pipeline_animacoes\\revisao_mao_esquerda\\deitado_v6\\deitado_ak_mao_esquerda.blend"
+    },
+    "cidade_mira_v9_ajoelhado_ar": {
+      "max_arm_reach_ratio": 0.8653008201267611,
+      "max_pitch_error_degrees": 2.3660472159292567e-05,
+      "max_hand_contact_error_m": 8.940696716308594e-08,
+      "lower_body_drift_m": 6.664001874625056e-08,
+      "min_pitch": -45,
+      "max_pitch": 45,
+      "frames": 91,
+      "native_bones": 98,
+      "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\pipeline_animacoes\\sources\\ajoelhado_ar.blend"
+    },
+    "cidade_mira_v9_ajoelhado_ak": {
+      "max_arm_reach_ratio": 0.9153646204927506,
+      "max_pitch_error_degrees": 3.641509509577645e-05,
+      "max_hand_contact_error_m": 1.6924465733171325e-07,
+      "lower_body_drift_m": 6.143906154658885e-08,
+      "min_pitch": -45,
+      "max_pitch": 45,
+      "frames": 91,
+      "native_bones": 98,
+      "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\pipeline_animacoes\\revisao_mao_esquerda\\ajoelhado_v6\\ajoelhado_ak_mao_esquerda.blend"
+    }
+  }
+}

@@ -1,0 +1,2738 @@
+{
+  "main_city_buildings": 250,
+  "preserved_buildings": 91,
+  "additional_city_buildings": 159,
+  "villages": 4,
+  "village_buildings": 64,
+  "settlements": [
+    {
+      "name": "Cidade principal",
+      "center": [
+        370,
+        330,
+        22
+      ],
+      "existing_buildings": 91,
+      "new_buildings": 159,
+      "urban_area_m2": 280600
+    },
+    {
+      "name": "Vila do Mangue",
+      "center": [
+        -600,
+        230,
+        12
+      ],
+      "houses": 16,
+      "clearing_area_m2": 16900
+    },
+    {
+      "name": "Vila das Palmeiras",
+      "center": [
+        -500,
+        800,
+        20
+      ],
+      "houses": 16,
+      "clearing_area_m2": 16900
+    },
+    {
+      "name": "Vila da Enseada",
+      "center": [
+        850,
+        300,
+        11
+      ],
+      "houses": 16,
+      "clearing_area_m2": 16900
+    },
+    {
+      "name": "Vila da Mata",
+      "center": [
+        100,
+        850,
+        25
+      ],
+      "houses": 16,
+      "clearing_area_m2": 16900
+    }
+  ],
+  "placements": [
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        96,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        128,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        160,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        192,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        224,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        256,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        288,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        320,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        352,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        384,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        416,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        448,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        480,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        512,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        544,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        576,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        608,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        640,
+        136,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        96,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        128,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        160,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        192,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        224,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        256,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        288,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        320,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        352,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        384,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        416,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        448,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        480,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        512,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        544,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        576,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        608,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        640,
+        168,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        96,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        128,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        160,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        192,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        224,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        256,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        288,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        320,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        352,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        384,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        416,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        448,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        480,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        512,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        544,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        576,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        608,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        640,
+        200,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        96,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        128,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        160,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        192,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        224,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        256,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        288,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        320,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        352,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        384,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        416,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        448,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        480,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        512,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        544,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        576,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        608,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        640,
+        232,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        96,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        128,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        160,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        192,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        224,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        256,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        288,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        448,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        480,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        512,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        544,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        576,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        608,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        640,
+        264,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        96,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        128,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        160,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        192,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        224,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        256,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        288,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        448,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        480,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        512,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        544,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        576,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        608,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        640,
+        296,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        96,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        128,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        160,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        192,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        224,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        256,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        288,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        448,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        480,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        512,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        544,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        576,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        608,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        640,
+        328,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        96,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        128,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        160,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        192,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        224,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        256,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        288,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        448,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        480,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        512,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        544,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        576,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        608,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        640,
+        360,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        96,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        128,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        160,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        192,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        224,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        256,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        288,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        320,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        352,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        384,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        416,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        448,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        480,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        512,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        544,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        576,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        608,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        640,
+        392,
+        22
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        96,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        128,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        160,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        192,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        224,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        256,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_09",
+      "position": [
+        288,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_10",
+      "position": [
+        320,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        352,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        384,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        416,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        448,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        480,
+        424,
+        22
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Cidade principal",
+      "settlement": 0
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        -648,
+        182,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        -616,
+        182,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        -584,
+        182,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        -552,
+        182,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        -648,
+        214,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        -616,
+        214,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        -584,
+        214,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        -552,
+        214,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        -648,
+        246,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        -616,
+        246,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        -584,
+        246,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        -552,
+        246,
+        12
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        -648,
+        278,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        -616,
+        278,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        -584,
+        278,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        -552,
+        278,
+        12
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila do Mangue",
+      "settlement": 1
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        -548,
+        752,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        -516,
+        752,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        -484,
+        752,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        -452,
+        752,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        -548,
+        784,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        -516,
+        784,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        -484,
+        784,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        -452,
+        784,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        -548,
+        816,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        -516,
+        816,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        -484,
+        816,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        -452,
+        816,
+        20
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        -548,
+        848,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        -516,
+        848,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        -484,
+        848,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        -452,
+        848,
+        20
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila das Palmeiras",
+      "settlement": 2
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        802,
+        252,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        834,
+        252,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        866,
+        252,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        898,
+        252,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        802,
+        284,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        834,
+        284,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        866,
+        284,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        898,
+        284,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        802,
+        316,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        834,
+        316,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        866,
+        316,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        898,
+        316,
+        11
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        802,
+        348,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        834,
+        348,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        866,
+        348,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        898,
+        348,
+        11
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Enseada",
+      "settlement": 3
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        52,
+        802,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        84,
+        802,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        116,
+        802,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        148,
+        802,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        52,
+        834,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        84,
+        834,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        116,
+        834,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        148,
+        834,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_05",
+      "position": [
+        52,
+        866,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_06",
+      "position": [
+        84,
+        866,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_07",
+      "position": [
+        116,
+        866,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_08",
+      "position": [
+        148,
+        866,
+        25
+      ],
+      "heading": 0,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_01",
+      "position": [
+        52,
+        898,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_02",
+      "position": [
+        84,
+        898,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_03",
+      "position": [
+        116,
+        898,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    },
+    {
+      "name": "pe_estrutura_04",
+      "position": [
+        148,
+        898,
+        25
+      ],
+      "heading": 180,
+      "scale": 1,
+      "label": "Vila da Mata",
+      "settlement": 4
+    }
+  ]
+}

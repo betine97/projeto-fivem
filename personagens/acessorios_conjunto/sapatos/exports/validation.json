@@ -1,0 +1,29 @@
+{
+  "component": "feet_001_u",
+  "source_vertices": 480213,
+  "source_triangles": 906590,
+  "lod_triangles": {
+    "LODLevel.HIGH": 183144,
+    "LODLevel.MEDIUM": 38088,
+    "LODLevel.LOW": 12704,
+    "LODLevel.VERYLOW": 4545
+  },
+  "embedded_textures": [
+    "feet_diff_001_a_whi",
+    "feet_spec_001",
+    "mocassins_marrons_normal",
+    "lowr_diff_014_a_whi",
+    "feet_normal_001",
+    "mocassins_marrons_spec",
+    "lowr_normal_014",
+    "lowr_spec_014"
+  ],
+  "diffuse": "feet_diff_001_a_uni",
+  "shaders": [
+    "ped_default.sps",
+    "ped.sps",
+    "ped.sps",
+    "ped.sps",
+    "ped.sps"
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "mansao_pendentes.ydr",
+    "lights": 9,
+    "nativeLoaded": true,
+    "systemBytes": 7405568,
+    "graphicsBytes": 12582912
+  },
+  {
+    "model": "mansao_teto.ydr",
+    "lights": 116,
+    "nativeLoaded": true,
+    "systemBytes": 1048576,
+    "graphicsBytes": 8192
+  },
+  {
+    "model": "mansao_tv.ydr",
+    "lights": 4,
+    "nativeLoaded": true,
+    "systemBytes": 13631488,
+    "graphicsBytes": 6291456
+  }
+]

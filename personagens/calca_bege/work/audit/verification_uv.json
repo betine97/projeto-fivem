@@ -1,0 +1,11 @@
+{
+  "samples": 3000,
+  "max_position_error_metres": 6.322026990801533e-08,
+  "max_uv_error": 0.0,
+  "mean_uv_error": 0.0,
+  "max_weight_quantization_error": 0.0038668516804190034,
+  "mean_weight_quantization_error": 0.000471544306964216,
+  "posed_max_difference_metres": 0.00020609885228314628,
+  "posed_mean_difference_metres": 9.185275407126076e-06,
+  "posed_samples": 3000
+}

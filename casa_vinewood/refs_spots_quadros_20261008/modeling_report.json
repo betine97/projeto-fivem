@@ -1,0 +1,1316 @@
+{
+  "spots": [
+    {
+      "id": 1,
+      "position": [
+        -7.6,
+        -11.1,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 2,
+      "position": [
+        -7.6,
+        -8.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 3,
+      "position": [
+        -7.6,
+        -5.3,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 4,
+      "position": [
+        -7.6,
+        -2.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 5,
+      "position": [
+        -7.6,
+        0.6,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 6,
+      "position": [
+        -7.6,
+        4.1,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 7,
+      "position": [
+        -7.6,
+        6.6,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 8,
+      "position": [
+        -7.6,
+        8.3,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 9,
+      "position": [
+        -5.1,
+        -5.3,
+        6.449999809265137
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 10,
+      "position": [
+        -5.1,
+        -2.3,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 11,
+      "position": [
+        -5.1,
+        0.6,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 12,
+      "position": [
+        -5.1,
+        4.1,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 13,
+      "position": [
+        -5.1,
+        6.6,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 14,
+      "position": [
+        -5.1,
+        8.3,
+        2.357999801635742
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 15,
+      "position": [
+        -2.0,
+        -5.3,
+        6.449999809265137
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 16,
+      "position": [
+        -2.0,
+        -2.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 17,
+      "position": [
+        -2.0,
+        0.6,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 18,
+      "position": [
+        -2.0,
+        4.1,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 19,
+      "position": [
+        -2.0,
+        6.6,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 20,
+      "position": [
+        -2.0,
+        8.3,
+        2.357999801635742
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 21,
+      "position": [
+        1.3,
+        -5.3,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 22,
+      "position": [
+        1.3,
+        -2.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 23,
+      "position": [
+        1.3,
+        0.6,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 24,
+      "position": [
+        4.3,
+        -5.3,
+        6.449999809265137
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 25,
+      "position": [
+        4.3,
+        -2.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 26,
+      "position": [
+        4.3,
+        0.6,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 27,
+      "position": [
+        4.3,
+        4.1,
+        2.357999801635742
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 28,
+      "position": [
+        4.3,
+        6.6,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 29,
+      "position": [
+        7.7,
+        -11.1,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 30,
+      "position": [
+        7.7,
+        -8.1,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 31,
+      "position": [
+        7.7,
+        -5.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 32,
+      "position": [
+        7.7,
+        -2.3,
+        2.357999801635742
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 33,
+      "position": [
+        7.7,
+        0.6,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 34,
+      "position": [
+        7.7,
+        4.1,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 35,
+      "position": [
+        7.7,
+        6.6,
+        2.357999801635742
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 36,
+      "position": [
+        10.8,
+        -11.1,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 37,
+      "position": [
+        10.8,
+        -5.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 38,
+      "position": [
+        10.8,
+        -2.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 39,
+      "position": [
+        10.8,
+        0.6,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 40,
+      "position": [
+        12.9,
+        -11.1,
+        2.357999801635742
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 41,
+      "position": [
+        12.9,
+        -8.1,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 42,
+      "position": [
+        12.9,
+        -5.3,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 43,
+      "position": [
+        12.9,
+        -2.3,
+        2.3580002784729004
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 44,
+      "position": [
+        12.9,
+        0.6,
+        2.357999801635742
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 45,
+      "position": [
+        12.9,
+        4.1,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 46,
+      "position": [
+        12.9,
+        6.6,
+        2.3580000400543213
+      ],
+      "ceiling_object": "Laje superior contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 47,
+      "position": [
+        -7.6,
+        -2.3,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 48,
+      "position": [
+        -7.6,
+        0.6,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 49,
+      "position": [
+        -7.6,
+        4.1,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 50,
+      "position": [
+        -7.6,
+        6.6,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 51,
+      "position": [
+        -7.6,
+        8.3,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 52,
+      "position": [
+        -5.1,
+        4.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 53,
+      "position": [
+        -5.1,
+        6.6,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 54,
+      "position": [
+        -5.1,
+        8.3,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 55,
+      "position": [
+        -2.0,
+        -2.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 56,
+      "position": [
+        -2.0,
+        0.6,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 57,
+      "position": [
+        -2.0,
+        4.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 58,
+      "position": [
+        -2.0,
+        6.6,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 59,
+      "position": [
+        -2.0,
+        8.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 60,
+      "position": [
+        1.3,
+        -2.3,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 61,
+      "position": [
+        1.3,
+        0.6,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 62,
+      "position": [
+        4.3,
+        -2.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 63,
+      "position": [
+        4.3,
+        0.6,
+        6.449999809265137
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 64,
+      "position": [
+        4.3,
+        4.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 65,
+      "position": [
+        4.3,
+        6.6,
+        6.449999809265137
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 66,
+      "position": [
+        7.7,
+        -14.4,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 67,
+      "position": [
+        7.7,
+        -11.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 68,
+      "position": [
+        7.7,
+        -8.1,
+        6.449999809265137
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 69,
+      "position": [
+        7.7,
+        -5.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 70,
+      "position": [
+        7.7,
+        -2.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 71,
+      "position": [
+        7.7,
+        0.6,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 72,
+      "position": [
+        7.7,
+        4.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 73,
+      "position": [
+        7.7,
+        6.6,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 74,
+      "position": [
+        10.8,
+        -14.4,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 75,
+      "position": [
+        10.8,
+        -11.1,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 76,
+      "position": [
+        10.8,
+        -5.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 77,
+      "position": [
+        10.8,
+        -2.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 78,
+      "position": [
+        10.8,
+        0.6,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 79,
+      "position": [
+        10.8,
+        4.1,
+        6.449999809265137
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 80,
+      "position": [
+        10.8,
+        6.6,
+        6.450000762939453
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 81,
+      "position": [
+        12.9,
+        -14.4,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 82,
+      "position": [
+        12.9,
+        -11.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 83,
+      "position": [
+        12.9,
+        -8.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 84,
+      "position": [
+        12.9,
+        -5.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 85,
+      "position": [
+        12.9,
+        -2.3,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 86,
+      "position": [
+        12.9,
+        0.6,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 87,
+      "position": [
+        12.9,
+        4.1,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    },
+    {
+      "id": 88,
+      "position": [
+        12.9,
+        6.6,
+        6.450000286102295
+      ],
+      "ceiling_object": "Teto contorno nativo",
+      "diameter_m": 0.17,
+      "aperture_m": 0.124,
+      "recess_m": 0.048
+    }
+  ],
+  "models": {
+    "ref_spot_48": {
+      "lo": [
+        -0.08500000089406967,
+        -0.08500000089406967,
+        -0.004000000189989805
+      ],
+      "hi": [
+        0.08500000089406967,
+        0.08500000089406967,
+        0.03999999910593033
+      ],
+      "objects": 4
+    },
+    "ref_spot_24": {
+      "lo": [
+        -0.08500000089406967,
+        -0.08500000089406967,
+        -0.004000000189989805
+      ],
+      "hi": [
+        0.08500000089406967,
+        0.08500000089406967,
+        0.03999999910593033
+      ],
+      "objects": 4
+    },
+    "ref_spot_12": {
+      "lo": [
+        -0.08500000089406967,
+        -0.08500000089406967,
+        -0.004000000189989805
+      ],
+      "hi": [
+        0.08500000089406967,
+        0.08500000089406967,
+        0.03999999910593033
+      ],
+      "objects": 4
+    },
+    "ref_spot_8": {
+      "lo": [
+        -0.08500000089406967,
+        -0.08500000089406967,
+        -0.004000000189989805
+      ],
+      "hi": [
+        0.08500000089406967,
+        0.08500000089406967,
+        0.03999999910593033
+      ],
+      "objects": 4
+    },
+    "mansao_quadro_ref_2": {
+      "lo": [
+        -0.49321308732032776,
+        -0.04600000008940697,
+        -0.753000020980835
+      ],
+      "hi": [
+        0.49321308732032776,
+        0.0,
+        0.753000020980835
+      ],
+      "objects": 10
+    },
+    "mansao_quadro_ref_3": {
+      "lo": [
+        -0.5196593403816223,
+        -0.04600000008940697,
+        -0.6679999828338623
+      ],
+      "hi": [
+        0.5196593403816223,
+        0.0,
+        0.6679999828338623
+      ],
+      "objects": 10
+    },
+    "mansao_quadro_ref_4": {
+      "lo": [
+        -0.5248825550079346,
+        -0.04500000178813934,
+        -0.703000009059906
+      ],
+      "hi": [
+        0.5248825550079346,
+        0.0,
+        0.703000009059906
+      ],
+      "objects": 6
+    },
+    "mansao_quadro_ref_5": {
+      "lo": [
+        -0.5040467977523804,
+        -0.04500000178813934,
+        -0.703000009059906
+      ],
+      "hi": [
+        0.5040467977523804,
+        0.0,
+        0.703000009059906
+      ],
+      "objects": 6
+    },
+    "mansao_spots_led": {
+      "lo": [
+        -0.15500038862228394,
+        1.7279999256134033,
+        -0.6576000452041626
+      ],
+      "hi": [
+        2.3550000190734863,
+        4.471999645233154,
+        2.7940001487731934
+      ],
+      "objects": 40
+    },
+    "mansao_pisos": {
+      "lo": [
+        -9.84000015258789,
+        -15.95300006866455,
+        -1.100000023841858
+      ],
+      "hi": [
+        15.050000190734863,
+        9.791999816894531,
+        2.808000087738037
+      ],
+      "objects": 8
+    },
+    "mansao_teto": {
+      "lo": [
+        -9.246000289916992,
+        -15.95300006866455,
+        6.450000286102295
+      ],
+      "hi": [
+        14.37600040435791,
+        9.70199966430664,
+        6.650000095367432
+      ],
+      "objects": 1
+    }
+  },
+  "artworks": [
+    {
+      "print": 2,
+      "name": "Quadro geometrico escritorio",
+      "model": "mansao_quadro_ref_2",
+      "position": [
+        -4.65,
+        2.461,
+        0.95
+      ],
+      "heading": 3.141592653589793,
+      "width_m": 0.9864262036306235,
+      "height_m": 1.506,
+      "canvas_width_m": 0.9304262036306234,
+      "canvas_height_m": 1.45,
+      "depth_m": 0.045,
+      "reference_crop": [
+        136,
+        94,
+        949,
+        1361
+      ],
+      "source_canvas_size": [
+        813,
+        1267
+      ],
+      "frame": "bronze"
+    },
+    {
+      "print": 3,
+      "name": "Quadro composicao sala jogos",
+      "model": "mansao_quadro_ref_3",
+      "position": [
+        5.82,
+        5.6,
+        0.95
+      ],
+      "heading": 1.5707963267948966,
+      "width_m": 1.0393187006145743,
+      "height_m": 1.336,
+      "canvas_width_m": 0.9833187006145743,
+      "canvas_height_m": 1.28,
+      "depth_m": 0.045,
+      "reference_crop": [
+        191,
+        56,
+        1066,
+        1195
+      ],
+      "source_canvas_size": [
+        875,
+        1139
+      ],
+      "frame": "bronze"
+    },
+    {
+      "print": 4,
+      "name": "Quadro abstrato hall esquerdo",
+      "model": "mansao_quadro_ref_4",
+      "position": [
+        9.4,
+        2.239,
+        0.95
+      ],
+      "heading": 0,
+      "width_m": 1.0497650844730493,
+      "height_m": 1.4060000000000001,
+      "canvas_width_m": 0.9937650844730492,
+      "canvas_height_m": 1.35,
+      "depth_m": 0.045,
+      "reference_crop": [
+        85,
+        102,
+        1000,
+        1345
+      ],
+      "source_canvas_size": [
+        915,
+        1243
+      ],
+      "frame": "black"
+    },
+    {
+      "print": 5,
+      "name": "Quadro abstrato hall direito",
+      "model": "mansao_quadro_ref_5",
+      "position": [
+        10.6,
+        2.239,
+        0.95
+      ],
+      "heading": 0,
+      "width_m": 1.0080935960591133,
+      "height_m": 1.4060000000000001,
+      "canvas_width_m": 0.9520935960591134,
+      "canvas_height_m": 1.35,
+      "depth_m": 0.045,
+      "reference_crop": [
+        114,
+        122,
+        973,
+        1340
+      ],
+      "source_canvas_size": [
+        859,
+        1218
+      ],
+      "frame": "black"
+    }
+  ],
+  "modified_ceiling_objects": 2
+}

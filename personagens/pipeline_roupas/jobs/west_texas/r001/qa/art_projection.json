@@ -1,0 +1,21 @@
+{
+  "method": "Blender emission bake from supplied original image",
+  "front_projection_width_m": 0.36,
+  "front_projection_z_range_m": [
+    0.13,
+    0.58
+  ],
+  "back_and_sleeves": "unprinted textile from original image",
+  "native_normal_specular": "preserved",
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "visual_review": "pending"
+}

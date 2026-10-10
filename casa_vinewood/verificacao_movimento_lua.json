@@ -1,0 +1,172 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "name": "street remains unrestricted",
+      "events": [],
+      "passed": true
+    },
+    {
+      "name": "ground floor gentle pace",
+      "events": [
+        {
+          "control": 21,
+          "kind": "control",
+          "disabled": true
+        },
+        {
+          "value": 1.35,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "upstairs gentle pace",
+      "events": [
+        {
+          "control": 21,
+          "kind": "control",
+          "disabled": true
+        },
+        {
+          "value": 1.35,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "walking down stairs retains limit",
+      "events": [
+        {
+          "control": 21,
+          "kind": "control",
+          "disabled": true
+        },
+        {
+          "value": 1.35,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "deck exit restores running",
+      "events": [
+        {
+          "value": 3.0,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "interior reentry reapplies limit",
+      "events": [
+        {
+          "control": 21,
+          "kind": "control",
+          "disabled": true
+        },
+        {
+          "value": 1.35,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "noclip is unrestricted",
+      "events": [
+        {
+          "value": 3.0,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "noclip subsequent frames stay unrestricted",
+      "events": [],
+      "passed": true
+    },
+    {
+      "name": "walking after flight restores limit",
+      "events": [
+        {
+          "control": 21,
+          "kind": "control",
+          "disabled": true
+        },
+        {
+          "value": 1.35,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "vehicle entry restores normal behavior",
+      "events": [
+        {
+          "value": 3.0,
+          "kind": "pace",
+          "ped": 100
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "ped change reapplies limit",
+      "events": [
+        {
+          "control": 21,
+          "kind": "control",
+          "disabled": true
+        },
+        {
+          "value": 1.35,
+          "kind": "pace",
+          "ped": 101
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "replacement ped releases old handle",
+      "events": [
+        {
+          "value": 3.0,
+          "kind": "pace",
+          "ped": 101
+        },
+        {
+          "control": 21,
+          "kind": "control",
+          "disabled": true
+        },
+        {
+          "value": 1.35,
+          "kind": "pace",
+          "ped": 102
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "resource stop restores ordinary pace",
+      "passed": true
+    }
+  ],
+  "lua_files_parsed": 7,
+  "max_indoor_move_blend": 1.35,
+  "in_game_verified": false
+}

@@ -1,0 +1,79 @@
+{
+  "status": "installed_ready_for_real_game_test",
+  "base_unchanged": true,
+  "native_export": {
+    "original_geometry_unchanged": true,
+    "native_materials_and_skeleton_unchanged": true,
+    "native_normal_specular_and_skeleton_preserved": true,
+    "material_adapter": null,
+    "shader_changes": [],
+    "diffuse_sampler_verified": true,
+    "extra_triangles_high": 0,
+    "texture_size": [
+      2048,
+      2048
+    ],
+    "native_files": [
+      "mp_m_freemode_01_cidade_jeans_washed_r001^lowr_000_r.ydd",
+      "mp_m_freemode_01_cidade_jeans_washed_r001^lowr_diff_000_a_whi.ytd"
+    ],
+    "lods": [
+      0,
+      1,
+      2
+    ],
+    "fingerprint": "a880db9e3da2246758831aa949d84e03c86aee554794bdf3d1abe674925aa577",
+    "cache_hit": false,
+    "seconds": 0.908,
+    "status": "native_candidate",
+    "deployable": false,
+    "pending": [
+      "addon_ymt_and_shop_metadata",
+      "four_views_and_pose_review",
+      "in_game_test"
+    ],
+    "files": {
+      "exports\\mp_m_freemode_01_cidade_jeans_washed_r001^lowr_000_r.ydd": "eaf305b1383b9e11c1a36e9eaab698abc547264105fd2f0a2348b46ebda4f425",
+      "exports\\mp_m_freemode_01_cidade_jeans_washed_r001^lowr_diff_000_a_whi.ytd": "7de95ac0d4f276c2d1102a2f29521907f5afbc7d9a721387920620a5945d1544"
+    }
+  },
+  "metadata": {
+    "collection": "cidade_jeans_washed_r001",
+    "component": 4,
+    "drawables": 1,
+    "textures": 1,
+    "cross_component_rules": false,
+    "round_trip_verified": true
+  },
+  "commands": {
+    "apply": "calcajeans",
+    "restore": "jeansanterior"
+  },
+  "tests": {
+    "ok": true,
+    "tests": 2,
+    "failures": 0,
+    "errors": 0,
+    "real_game_test": "pending"
+  },
+  "neutral_views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "technical_flexion_review": {
+    "action": "QA_FLEXAO_VAR_lowr_001_r",
+    "frame": 15,
+    "bones": 128,
+    "views": [
+      "pose_front",
+      "pose_side"
+    ],
+    "visual_review": "technical flexion inspected; front and lateral cloth surfaces intact, complete garment framed; real runtime pending",
+    "in_game_motion": "pending"
+  },
+  "installed_hashes_verified": true,
+  "server_reload_required": true,
+  "in_game_approved": false
+}

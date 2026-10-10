@@ -1,0 +1,24 @@
+STAGE 18 - PREPARACAO DO AMBIENTE PARA FIVEM
+
+54 plantas e 54 vasos: 27 por rack, 9 por modulo, em tres fileiras.
+Teto fechado, racks altos, LEDs e todas as texturas anteriores preservados.
+
+warehouse_stage18_preparacao.blend e uma copia de autoria, organizada em:
+EXPORT_Estrutura, EXPORT_Props, EXPORT_Vegetacao, COLISAO_Proxies e
+REFERENCIA_Luzes_Cameras. LOD_Vegetacao_Rascunho contem uma malha simplificada
+para cada variante de planta, instanciada nas 54 posicoes. Essa colecao fica
+oculta, assim como os volumes de colisao, para nao aparecer duplicada.
+
+As copias compartilham malhas. As imagens continuam incorporadas ao Blender.
+O ponto de origem permanece local, em (0,0,0). Nenhuma coordenada do mapa foi
+escolhida. Nenhum arquivo foi instalado em server-data ou ativado no servidor.
+
+ESTADO: preparacao de autoria, NAO e um recurso pronto para stream do FiveM.
+Faltam baking/conversao dos materiais para shaders GTA, revisao visual dos LODs,
+colisoes finais de objetos e exportacao/validacao de YDR/YTD/YBN. Depois das
+coordenadas do usuario, definir posicionamento e eventual interior/portais.
+Essas etapas de conversao nao dependem das coordenadas; permanecem pendentes.
+
+validacao.json registra contagens, complexidade e pendencias.
+O projeto detalhado completo e entregue separadamente como
+warehouse_stage18_54_plantas.blend para visualizar o resultado.

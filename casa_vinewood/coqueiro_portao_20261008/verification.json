@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "cases": 29,
+  "gate_triangles_each_lod": 312,
+  "duplicate_triangles": 0,
+  "snapshot_does_not_interrupt_motion": true,
+  "localized_palm_exclusions": 4,
+  "in_game_verified": false
+}

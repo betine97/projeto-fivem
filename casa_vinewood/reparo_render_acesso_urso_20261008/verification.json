@@ -1,0 +1,86 @@
+{
+  "passed": true,
+  "in_game_verified": false,
+  "assets_loaded": 42,
+  "models": {
+    "mansao_fachada_entrada": {
+      "triangles_by_lod": [
+        1752,
+        1612,
+        1492,
+        1434
+      ],
+      "bytes": 1483446
+    },
+    "mansao_garagem_subsolo": {
+      "triangles_by_lod": [
+        2160,
+        1934,
+        1742,
+        1650
+      ],
+      "bytes": 796990
+    }
+  },
+  "checks": {
+    "closed_side_and_driveway_rays": 1779,
+    "structural_shells_retained_all_lods": true,
+    "solid_parts_watertight": true,
+    "vehicle_and_pedestrian_clearance": true,
+    "architecture_within_curb": true,
+    "single_palm_removed_hd_and_lod": true,
+    "unrelated_parent_links_preserved": 1134,
+    "rug_visual_vertices_uvs_textures_unchanged": true,
+    "rug_full_silhouette_collider": true,
+    "rug_walkable_collider_height_m": 0.012,
+    "rug_client_positions_tested": 72,
+    "rug_reload_preserves_render_settings": true,
+    "lighting_preserved": true
+  },
+  "install_files": [
+    "objetos_catalogo.json",
+    "objetos_client.lua",
+    "stream/apa_ch2_09b_0.ybn",
+    "stream/apa_ch2_09b_1.ybn",
+    "stream/apa_ch2_09b_2.ybn",
+    "stream/apa_ch2_09b_3.ybn",
+    "stream/apa_ch2_occl_02.ymap",
+    "stream/ch2_09b_0.ybn",
+    "stream/ch2_09b_1.ybn",
+    "stream/ch2_09b_2.ybn",
+    "stream/ch2_09b_3.ybn",
+    "stream/ch2_09b_hs05.ydr",
+    "stream/ch2_09b_hs05_details.ydr",
+    "stream/ch2_09b_l2.ydr",
+    "stream/ch2_occl_02.ymap",
+    "stream/ch2_roads.ymap",
+    "stream/ch2_roads_critical_0.ymap",
+    "stream/ch2_roads_critical_1.ymap",
+    "stream/ch2_roads_long_0.ymap",
+    "stream/ch2_roads_long_1.ymap",
+    "stream/ch2_roads_strm_0.ymap",
+    "stream/hei_ch2_09b_0.ybn",
+    "stream/hei_ch2_09b_1.ybn",
+    "stream/hei_ch2_09b_2.ybn",
+    "stream/hei_ch2_09b_3.ybn",
+    "stream/hi@apa_ch2_09b_0.ybn",
+    "stream/hi@apa_ch2_09b_1.ybn",
+    "stream/hi@apa_ch2_09b_2.ybn",
+    "stream/hi@apa_ch2_09b_3.ybn",
+    "stream/hi@ch2_09b_0.ybn",
+    "stream/hi@ch2_09b_1.ybn",
+    "stream/hi@ch2_09b_2.ybn",
+    "stream/hi@ch2_09b_3.ybn",
+    "stream/hi@hei_ch2_09b_0.ybn",
+    "stream/hi@hei_ch2_09b_1.ybn",
+    "stream/hi@hei_ch2_09b_2.ybn",
+    "stream/hi@hei_ch2_09b_3.ybn",
+    "stream/mansao_acesso_garagem.ybn",
+    "stream/mansao_acesso_garagem.ymap",
+    "stream/mansao_acesso_garagem.ytyp",
+    "stream/mansao_fachada_entrada.ydr",
+    "stream/mansao_garagem_subsolo.ydr",
+    "stream/mansao_piano_tapetes.ytyp",
+    "stream/mansao_tapete_urso.ydr"
+  ]
+}

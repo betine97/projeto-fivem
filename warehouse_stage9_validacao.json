@@ -1,0 +1,23 @@
+{
+  "changed": {
+    "CEILING_DUCT_MAIN_00": "02_galvanizado_usado",
+    "CEILING_DUCT_MAIN_01": "02_galvanizado_usado",
+    "CEILING_DUCT_MAIN_02": "01_galvanizado_limpo",
+    "CEILING_DUCT_MAIN_03": "02_galvanizado_usado",
+    "CEILING_DUCT_MAIN_04": "04_escovado_sujo",
+    "CEILING_DUCT_MAIN_05": "02_galvanizado_usado",
+    "CEILING_DUCT_MAIN_06": "03_metal_escuro",
+    "CEILING_DUCT_MAIN_07": "02_galvanizado_usado",
+    "CEILING_DUCT_MAIN_08": "05_oxidacao_leve",
+    "CEILING_DUCT_MAIN_09": "02_galvanizado_usado",
+    "DUCT_LEFT_VERTICAL": "03_metal_escuro",
+    "DUCT_MAIN_BACK_SEG_00": "02_galvanizado_usado",
+    "DUCT_MAIN_BACK_SEG_01": "05_oxidacao_leve",
+    "DUCT_MAIN_BACK_SEG_02": "02_galvanizado_usado",
+    "DUCT_MAIN_BACK_SEG_03": "04_escovado_sujo",
+    "DUCT_MAIN_BACK_SEG_04": "06_industrial_gasto",
+    "DUCT_RIGHT_CONNECTOR": "02_galvanizado_usado"
+  },
+  "other_materials_preserved": true,
+  "object_count_unchanged": true
+}

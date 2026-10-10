@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "estimated_peak_map_entities": 36726,
+  "native_pool_limit": 65000,
+  "estimated_margin": 28274,
+  "camera": [
+    -200,
+    400,
+    0
+  ],
+  "maps": 2012,
+  "camera_samples": 45227,
+  "peak_by_resource": {
+    "natureza": 34916,
+    "cayo": 1654,
+    "casas": 113,
+    "terreno": 43
+  },
+  "method": "Conservative sum of entities in overlapping map streaming boxes; not a live pool reading",
+  "in_game_visual_verified": false
+}

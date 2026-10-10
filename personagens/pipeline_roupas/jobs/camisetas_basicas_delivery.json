@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "exclusive-west_texas",
+      "title": "Camiseta West Texas",
+      "resource": "cidade_west_texas",
+      "collection": "cidade_west_texas_r002"
+    },
+    {
+      "id": "exclusive-jeans_washed",
+      "title": "Jeans azul lavado",
+      "resource": "cidade_jeans_washed",
+      "collection": "cidade_jeans_washed_r001"
+    },
+    {
+      "id": "exclusive-camiseta_preta_lisa",
+      "title": "Camiseta preta lisa",
+      "resource": "cidade_camiseta_preta_lisa",
+      "collection": "cidade_camiseta_preta_lisa_r001"
+    },
+    {
+      "id": "exclusive-camiseta_preta_listrada",
+      "title": "Camiseta preta listrada",
+      "resource": "cidade_camiseta_preta_listrada",
+      "collection": "cidade_camiseta_preta_listrada_r001"
+    },
+    {
+      "id": "exclusive-camiseta_bege_lisa",
+      "title": "Camiseta bege lisa",
+      "resource": "cidade_camiseta_bege_lisa",
+      "collection": "cidade_camiseta_bege_lisa_r001"
+    },
+    {
+      "id": "exclusive-camiseta_azul_lisa",
+      "title": "Camiseta azul lisa",
+      "resource": "cidade_camiseta_azul_lisa",
+      "collection": "cidade_camiseta_azul_lisa_r001"
+    }
+  ],
+  "exclusive_count": 6,
+  "prepared_wardrobe_count": 283,
+  "native_base_preserved": true,
+  "user_tags_modified": false,
+  "favorites_modified": false,
+  "checks": {
+    "native_exports": true,
+    "tablet_client": true,
+    "tablet_server": true,
+    "ui": true,
+    "http_bridge": true
+  },
+  "in_game_visual_test": "pending",
+  "live": {
+    "wardrobe": {
+      "online": true,
+      "exclusive_count": 0,
+      "total": 277
+    },
+    "game": {
+      "online": true,
+      "new_resources_loaded": []
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "game_tested": false,
+  "binary_decode": true,
+  "native_rest_preserved": true,
+  "clips": {
+    "recarga": {
+      "frames": 67,
+      "starts_at_zero": true,
+      "ends_inside_animation": true
+    },
+    "recuo": {
+      "frames": 30,
+      "starts_at_zero": true,
+      "ends_inside_animation": true
+    },
+    "mira": {
+      "frames": 30,
+      "starts_at_zero": true,
+      "ends_inside_animation": true
+    }
+  },
+  "max_pose_matrix_error": 2.0712614059448242e-06,
+  "max_binary_channel_error": 7.37607479095459e-07,
+  "endpoint_pose_error": 2.0712614059448242e-06,
+  "max_barrel_vertical_component": 7.571651963189652e-07,
+  "hand_crossings": {
+    "mira_1": 0,
+    "recuo_5": 0,
+    "recuo_10": 0,
+    "recuo_30": 0,
+    "recarga_67": 0
+  },
+  "binary_sha256": "cf5f1e457c3d41fa3a26abe2be39f170ac6ddc20ee6d27c405386ed3684bd798",
+  "source_xml_sha256": "8f0a460fb88073c889214d8fdc0225ba019cd8594a058956e4fd1f6aa1715378"
+}

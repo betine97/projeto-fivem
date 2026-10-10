@@ -1,0 +1,679 @@
+{
+  "seed": 90321,
+  "grid_vertices_per_axis": 769,
+  "land_area_m2": 3370332.0,
+  "land_area_km2": 3.370332,
+  "reference_land_area_km2_estimate": 1.123444,
+  "area_ratio": 3,
+  "area_definition": "Projected island footprint above mean sea level; river and spring lake inside this footprint. Cayo reference is an estimate from installed native terrain, not an official area.",
+  "dimension_interpretation": "3x area, not 3x width and 3x length.",
+  "land_bounds_m": [
+    -931.7434685005109,
+    -1233.0937920617935,
+    1071.5049887755874,
+    1154.1055776236715
+  ],
+  "highest_peak_m": 365.24582390306176,
+  "sea_level_m": 0,
+  "horizontal_cell_m": [
+    3.327655244644617,
+    4.388234135451067
+  ],
+  "river_length_m": 1856.20512715179,
+  "river_source_height_m": 172.95850308113614,
+  "river_mouth_height_m": 0,
+  "river_halfwidth_m": [
+    8.54157495951576,
+    17.39503239797719
+  ],
+  "runway": {
+    "length_m": 691.8675717207766,
+    "width_m": 30.749669854256737,
+    "level_m": 18,
+    "center_m": [
+      -441.5994254069648,
+      -87.76468270902444
+    ],
+    "heading_deg": 0
+  },
+  "tiles_per_axis": 8,
+  "native_city_geometry_in_asset": false,
+  "trees": 0,
+  "buildings": 0,
+  "blender_generated": true,
+  "in_game_verified": false,
+  "tiles": [
+    {
+      "name": "ti_terreno_00_03",
+      "grid_bounds": [
+        288,
+        0,
+        384,
+        96
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_00_04",
+      "grid_bounds": [
+        384,
+        0,
+        480,
+        96
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_01_01",
+      "grid_bounds": [
+        96,
+        96,
+        192,
+        192
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_01_02",
+      "grid_bounds": [
+        192,
+        96,
+        288,
+        192
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_01_03",
+      "grid_bounds": [
+        288,
+        96,
+        384,
+        192
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_01_04",
+      "grid_bounds": [
+        384,
+        96,
+        480,
+        192
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_01_05",
+      "grid_bounds": [
+        480,
+        96,
+        576,
+        192
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_02_01",
+      "grid_bounds": [
+        96,
+        192,
+        192,
+        288
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_02_02",
+      "grid_bounds": [
+        192,
+        192,
+        288,
+        288
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_02_03",
+      "grid_bounds": [
+        288,
+        192,
+        384,
+        288
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_02_04",
+      "grid_bounds": [
+        384,
+        192,
+        480,
+        288
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_02_05",
+      "grid_bounds": [
+        480,
+        192,
+        576,
+        288
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_02_06",
+      "grid_bounds": [
+        576,
+        192,
+        672,
+        288
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_03_01",
+      "grid_bounds": [
+        96,
+        288,
+        192,
+        384
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_03_02",
+      "grid_bounds": [
+        192,
+        288,
+        288,
+        384
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_03_03",
+      "grid_bounds": [
+        288,
+        288,
+        384,
+        384
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_03_04",
+      "grid_bounds": [
+        384,
+        288,
+        480,
+        384
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_03_05",
+      "grid_bounds": [
+        480,
+        288,
+        576,
+        384
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_03_06",
+      "grid_bounds": [
+        576,
+        288,
+        672,
+        384
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_03_07",
+      "grid_bounds": [
+        672,
+        288,
+        768,
+        384
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_00",
+      "grid_bounds": [
+        0,
+        384,
+        96,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_01",
+      "grid_bounds": [
+        96,
+        384,
+        192,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_02",
+      "grid_bounds": [
+        192,
+        384,
+        288,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_03",
+      "grid_bounds": [
+        288,
+        384,
+        384,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_04",
+      "grid_bounds": [
+        384,
+        384,
+        480,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_05",
+      "grid_bounds": [
+        480,
+        384,
+        576,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_06",
+      "grid_bounds": [
+        576,
+        384,
+        672,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_04_07",
+      "grid_bounds": [
+        672,
+        384,
+        768,
+        480
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_00",
+      "grid_bounds": [
+        0,
+        480,
+        96,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_01",
+      "grid_bounds": [
+        96,
+        480,
+        192,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_02",
+      "grid_bounds": [
+        192,
+        480,
+        288,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_03",
+      "grid_bounds": [
+        288,
+        480,
+        384,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_04",
+      "grid_bounds": [
+        384,
+        480,
+        480,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_05",
+      "grid_bounds": [
+        480,
+        480,
+        576,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_06",
+      "grid_bounds": [
+        576,
+        480,
+        672,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_05_07",
+      "grid_bounds": [
+        672,
+        480,
+        768,
+        576
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_06_01",
+      "grid_bounds": [
+        96,
+        576,
+        192,
+        672
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_06_02",
+      "grid_bounds": [
+        192,
+        576,
+        288,
+        672
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_06_03",
+      "grid_bounds": [
+        288,
+        576,
+        384,
+        672
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_06_04",
+      "grid_bounds": [
+        384,
+        576,
+        480,
+        672
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_06_05",
+      "grid_bounds": [
+        480,
+        576,
+        576,
+        672
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    },
+    {
+      "name": "ti_terreno_06_06",
+      "grid_bounds": [
+        576,
+        576,
+        672,
+        672
+      ],
+      "lod_triangles": {
+        "1": 18432,
+        "2": 4608,
+        "4": 1152,
+        "8": 288
+      }
+    }
+  ],
+  "terrain_high_triangles": 774144,
+  "terrain_collision_triangles": 193536
+}

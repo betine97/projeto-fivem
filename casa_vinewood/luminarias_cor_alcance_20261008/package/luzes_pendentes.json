@@ -1,0 +1,245 @@
+{
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "embedded_in": "stream/mansao_pendentes.ydr",
+  "description": "Always-on native yellow lights, no separate script draws.",
+  "lights": [
+    {
+      "id": "cylinder_1",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65391,
+        -9.39921,
+        1.77623
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 6.2,
+      "intensity": 1.8,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 26,
+      "outer_angle": 64,
+      "shadow": false
+    },
+    {
+      "id": "cylinder_2",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6519,
+        -8.87573,
+        2.21882
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 6.2,
+      "intensity": 1.8,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 26,
+      "outer_angle": 64,
+      "shadow": false
+    },
+    {
+      "id": "cylinder_3",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64823,
+        -8.37012,
+        1.46593
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 6.2,
+      "intensity": 1.8,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 26,
+      "outer_angle": 64,
+      "shadow": false
+    },
+    {
+      "id": "cylinder_4",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65108,
+        -7.83108,
+        2.14434
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 6.2,
+      "intensity": 1.8,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 26,
+      "outer_angle": 64,
+      "shadow": false
+    },
+    {
+      "id": "cylinder_5",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64681,
+        -7.50033,
+        1.89824
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 6.2,
+      "intensity": 1.8,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 26,
+      "outer_angle": 64,
+      "shadow": false
+    },
+    {
+      "id": "cylinder_6",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65057,
+        -7.19507,
+        2.1542
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 6.2,
+      "intensity": 1.8,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 26,
+      "outer_angle": 64,
+      "shadow": false
+    },
+    {
+      "id": "linear_1",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.75,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 5.0,
+      "intensity": 1.35,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 28,
+      "outer_angle": 70,
+      "shadow": false
+    },
+    {
+      "id": "linear_2",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.0,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 5.0,
+      "intensity": 1.35,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 28,
+      "outer_angle": 70,
+      "shadow": true
+    },
+    {
+      "id": "linear_3",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -8.25,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        196,
+        110
+      ],
+      "range": 5.0,
+      "intensity": 1.35,
+      "falloff_exponent": 2.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 28,
+      "outer_angle": 70,
+      "shadow": false
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAlternateVariations>
+    <peds>
+<!-- female setup -->
+		<Item>
+            <name>mp_f_freemode_01</name> <!-- mp_f_freemode_01 -->
+			<switches>
+<!-- female on disc hair -->
+				<Item>
+                    <component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_002_1 -->
+                    <index value="2" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_003_1 -->
+                    <index value="3" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_004_1 -->
+                    <index value="4" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_005_1 -->
+                    <index value="5" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_006_1 -->
+                    <index value="6" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_007_1 -->
+                    <index value="7" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_008_1 -->
+                    <index value="8" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_009_1 -->
+                    <index value="9" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_010_1 -->
+                    <index value="10" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_011_1 -->
+                    <index value="11" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_012_1 -->
+                    <index value="12" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_013_1 -->
+                    <index value="13" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_014_1 -->
+                    <index value="14" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_015_1 -->
+                    <index value="15" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- female beach hair-->
+                <Item>
+					<dlcNameHash>Female_freemode_beach</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>			
+				<Item>
+					<dlcNameHash>Female_freemode_beach</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- female valentines hair-->
+                <Item>
+					<dlcNameHash>Female_freemode_valentines</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- female business hair -->
+                <Item>
+					<dlcNameHash>Female_freemode_business</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>		
+				<Item>
+					<dlcNameHash>Female_freemode_business</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- female hipster hair -->
+                <Item>
+					<dlcNameHash>Female_freemode_hipster</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>		
+				<Item>
+					<dlcNameHash>Female_freemode_hipster</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- female independence hair -->
+                <Item>
+					<dlcNameHash>Female_freemode_independence</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- female lowrider hair -->
+                <Item>
+					<dlcNameHash>mp_f_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+					<dlcNameHash>mp_f_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+					<dlcNameHash>mp_f_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_002_1 -->
+                    <index value="2" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+					<dlcNameHash>mp_f_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_003_1 -->
+                    <index value="3" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>female_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+			</switches>
+		</Item>
+<!-- male setup -->
+		<Item>
+            <name>mp_m_freemode_01</name> <!-- mp_m_freemode_01 -->
+			<switches>
+<!-- Male on disc hair -->
+				<Item>
+                    <component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_002_1 -->
+                    <index value="2" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_003_1 -->
+                    <index value="3" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_004_1 -->
+                    <index value="4" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_005_1 -->
+                    <index value="5" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_006_1 -->
+                    <index value="6" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_007_1 -->
+                    <index value="7" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_008_1 -->
+                    <index value="8" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_009_1 -->
+                    <index value="9" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_010_1 -->
+                    <index value="10" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_011_1 -->
+                    <index value="11" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_012_1 -->
+                    <index value="12" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_013_1 -->
+                    <index value="13" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_014_1 -->
+                    <index value="14" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+                    <component value="2" /> <!-- hair_015_1 -->
+                    <index value="15" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- Male beach hair-->
+                <Item>
+					<dlcNameHash>Male_freemode_beach</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+					<dlcNameHash>Male_freemode_beach</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- Male business hair -->
+                <Item>
+					<dlcNameHash>Male_freemode_business</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+				<Item>
+					<dlcNameHash>Male_freemode_business</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- Male hipster hair -->
+                <Item>
+					<dlcNameHash>Male_freemode_hipster</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>			
+				<Item>
+					<dlcNameHash>Male_freemode_hipster</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+                    <sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- Male independence hair -->
+                <Item>
+					<dlcNameHash>Male_freemode_independence</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+<!-- Male lowrider hair -->
+                <Item>
+					<dlcNameHash>mp_m_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_000_1 -->
+                    <index value="0" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+					<dlcNameHash>mp_m_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_001_1 -->
+                    <index value="1" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+					<dlcNameHash>mp_m_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_002_1 -->
+                    <index value="2" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+                <Item>
+					<dlcNameHash>mp_m_lowrider_01</dlcNameHash>
+					<component value="2" /> <!-- hair_003_1 -->
+                    <index value="3" />
+                    <alt value="1" />
+					<sourceAssets>
+                        <Item>
+							<dlcNameHash>male_apt01</dlcNameHash>
+                            <component value="1" /> <!-- berd_000 rs ranger -->
+                            <index value="0" />
+                        </Item>
+                    </sourceAssets>
+                </Item>
+			</switches>
+		</Item>
+	</peds>
+</CAlternateVariations>

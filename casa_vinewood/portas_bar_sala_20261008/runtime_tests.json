@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "tests": 10,
+  "door_ids": [
+    8,
+    9
+  ],
+  "server_broadcast_to_every_player": true,
+  "occupied_opening_blocks_closing": true,
+  "distant_requests_rejected": true,
+  "open_leaf_clearance_over_45cm": true
+}

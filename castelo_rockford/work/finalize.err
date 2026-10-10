@@ -1,0 +1,29 @@
+Unsupported extension type 'ExtensionVerletClothCustomBounds'
+nanobind: leaked 1 instances!
+ - leaked instance 000002DC06FD4BC8 of type "pymateria._pymateria.UserMetadata"
+nanobind: leaked 98 types!
+ - leaked type "pymateria._pymateria.gta5.gen8.ValueView"
+ - leaked type "pymateria._pymateria.gta5.MapDataDescription"
+ - leaked type "pymateria._pymateria.gta5.gen9.Texture"
+ - leaked type "pymateria._pymateria.gta5.gen8.KeyView"
+ - leaked type "pymateria._pymateria.gta5.MorphController"
+ - leaked type "pymateria._pymateria.gta5.Map"
+ - leaked type "pymateria._pymateria.gta5.gen8.DrawableDictionary"
+ - leaked type "pymateria._pymateria.gta5.gen8.DeserializationResult"
+ - leaked type "FvfChannel"
+ - leaked type "pymateria._pymateria.gta5.ClothController"
+ - ... skipped remainder
+nanobind: leaked 1142 functions!
+ - leaked function ""
+ - leaked function ""
+ - leaked function ""
+ - leaked function ""
+ - leaked function "__iter__"
+ - leaked function ""
+ - leaked function ""
+ - leaked function "export_rsc"
+ - leaked function "__rtruediv__"
+ - leaked function ""
+ - ... skipped remainder
+nanobind: this is likely caused by a reference counting issue in the binding code.
+See https://nanobind.readthedocs.io/en/latest/refleaks.html

@@ -1,0 +1,18 @@
+{
+  "vertices": 254753,
+  "triangles": 460706,
+  "uv_sha256": "03c051f830d594f40884458b2851608dbf84f29713000bfc6e928cf26cf09f88",
+  "uv_preserved": true,
+  "weight_source": "continuous original GTA spine/upper-arm weights",
+  "extreme_stretched_edges": 0,
+  "fit_scale": [
+    0.4,
+    0.6,
+    0.36
+  ],
+  "fit_translation": [
+    0,
+    -0.02,
+    0.235
+  ]
+}

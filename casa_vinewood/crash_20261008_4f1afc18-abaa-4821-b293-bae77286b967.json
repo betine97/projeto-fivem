@@ -1,0 +1,701 @@
+{
+  "dump": "4f1afc18-abaa-4821-b293-bae77286b967.dmp",
+  "code": "0xc0000005",
+  "address": "FiveM_b3258_GTAProcess.exe+0x93419f",
+  "parameters": [
+    "0x1",
+    "0x48"
+  ],
+  "registers": {
+    "rax": "0x0",
+    "rcx": "0x23909592cd0",
+    "rdx": "0x428a5bb2a0",
+    "rbx": "0x2389",
+    "rsp": "0x428a5bb280",
+    "rbp": "0x0",
+    "rsi": "0x2390cc378c0",
+    "rdi": "0x239044a5710",
+    "r8": "0x428a5bb2b0",
+    "r9": "0x2364",
+    "r10": "0x239093c3f80",
+    "r11": "0x2364",
+    "r12": "0x2390cc378c0",
+    "r13": "0x1",
+    "r14": "0x428a5bb3d0",
+    "r15": "0x2389",
+    "rip": "0x7ff652be419f"
+  },
+  "stack_candidates": [
+    [
+      72,
+      "FiveM_b3258_GTAProcess.exe+0x166a38f"
+    ],
+    [
+      168,
+      "extra-natives-five.dll+0x42c10"
+    ],
+    [
+      216,
+      "FiveM_b3258_GTAProcess.exe+0x166a707"
+    ],
+    [
+      264,
+      "FiveM_b3258_GTAProcess.exe+0x166bfd1"
+    ],
+    [
+      424,
+      "FiveM_b3258_GTAProcess.exe+0x938ca1"
+    ],
+    [
+      472,
+      "extra-natives-five.dll+0x43483"
+    ],
+    [
+      496,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      520,
+      "FiveM_b3258_GTAProcess.exe+0x91f150"
+    ],
+    [
+      544,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      568,
+      "FiveM_b3258_GTAProcess.exe+0x166c6b4"
+    ],
+    [
+      624,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      664,
+      "gta-streaming-five.dll+0x56fd8"
+    ],
+    [
+      808,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      832,
+      "FiveM_b3258_GTAProcess.exe+0x2f2a8d8"
+    ],
+    [
+      840,
+      "FiveM_b3258_GTAProcess.exe+0x131df70"
+    ],
+    [
+      848,
+      "FiveM_b3258_GTAProcess.exe+0x2fe2ee0"
+    ],
+    [
+      872,
+      "FiveM_b3258_GTAProcess.exe+0x2fe2ee0"
+    ],
+    [
+      888,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      896,
+      "FiveM_b3258_GTAProcess.exe+0x2f2a8c0"
+    ],
+    [
+      928,
+      "FiveM_b3258_GTAProcess.exe+0x2f2a8d8"
+    ],
+    [
+      936,
+      "FiveM_b3258_GTAProcess.exe+0x167fd21"
+    ],
+    [
+      944,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      968,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      1016,
+      "FiveM_b3258_GTAProcess.exe+0x16590a0"
+    ]
+  ],
+  "register_memory": {
+    "rax": "",
+    "rcx": "",
+    "rdx": "183694fb38020000a071d70b3902000040b35b8a42000000d0765d0b39020000d0765d0b390200008fa39153f67f000010574a043902000010574a0439020000",
+    "rbx": "",
+    "rbp": "",
+    "rsi": "",
+    "rdi": "",
+    "r8": "40b35b8a42000000d0765d0b39020000d0765d0b390200008fa39153f67f000010574a043902000010574a04390200000000000000000000a071d70b39020000",
+    "r9": "",
+    "r10": "",
+    "r11": "",
+    "r12": "",
+    "r13": "",
+    "r14": "f9433216000000000600000000000000de3470c4e8f6b743a0ab0343cdcccc3d502cc20b39020000a071d70b3902000001b65b8a420000008923000000000000",
+    "r15": ""
+  },
+  "code_bytes": "241048896c24184889742420574883ec40418bd9488bf2488bf9e8dafaffff8bcbe8431dffff4c8d442430488d5424204889784848898788010000488bcf0f284630f30f104e200f29442430f30f114c2420f30f104e28488be8f30f104624f30f114c2428f30f11442424f30f10462cf30f1144242ce86ea50100488bcfe87a",
+  "stack_raw": [
+    {
+      "offset": 0,
+      "value": "0x2389",
+      "symbol": "0x2389",
+      "pointee": ""
+    },
+    {
+      "offset": 8,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 16,
+      "value": "0x2390cc378c0",
+      "symbol": "0x2390cc378c0",
+      "pointee": ""
+    },
+    {
+      "offset": 24,
+      "value": "0x239044a5710",
+      "symbol": "0x239044a5710",
+      "pointee": ""
+    },
+    {
+      "offset": 32,
+      "value": "0x238fb943618",
+      "symbol": "0x238fb943618",
+      "pointee": ""
+    },
+    {
+      "offset": 40,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 48,
+      "value": "0x428a5bb340",
+      "symbol": "0x428a5bb340",
+      "pointee": "f9433216a9c5dc72a071d70b39020000502cc20b3902000007a79153f67f0000feffffffffffffff00000000000000008923000000000000d0765d0b39020000"
+    },
+    {
+      "offset": 56,
+      "value": "0x2390b5d76d0",
+      "symbol": "0x2390b5d76d0",
+      "pointee": ""
+    },
+    {
+      "offset": 64,
+      "value": "0x2390b5d76d0",
+      "symbol": "0x2390b5d76d0",
+      "pointee": ""
+    },
+    {
+      "offset": 72,
+      "value": "0x7ff65391a38f",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x166a38f",
+      "pointee": ""
+    },
+    {
+      "offset": 80,
+      "value": "0x239044a5710",
+      "symbol": "0x239044a5710",
+      "pointee": ""
+    },
+    {
+      "offset": 88,
+      "value": "0x239044a5710",
+      "symbol": "0x239044a5710",
+      "pointee": ""
+    },
+    {
+      "offset": 96,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 104,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 112,
+      "value": "0x1446ffff140bc252",
+      "symbol": "0x1446ffff140bc252",
+      "pointee": ""
+    },
+    {
+      "offset": 120,
+      "value": "0xc8b76d8b9a1c0eb2",
+      "symbol": "0xc8b76d8b9a1c0eb2",
+      "pointee": ""
+    },
+    {
+      "offset": 128,
+      "value": "0x2389",
+      "symbol": "0x2389",
+      "pointee": ""
+    },
+    {
+      "offset": 136,
+      "value": "0x2390cc378c0",
+      "symbol": "0x2390cc378c0",
+      "pointee": ""
+    },
+    {
+      "offset": 144,
+      "value": "0x2390bc22c50",
+      "symbol": "0x2390bc22c50",
+      "pointee": ""
+    },
+    {
+      "offset": 152,
+      "value": "0x3",
+      "symbol": "0x3",
+      "pointee": ""
+    },
+    {
+      "offset": 160,
+      "value": "0x2390cc378c0",
+      "symbol": "0x2390cc378c0",
+      "pointee": ""
+    },
+    {
+      "offset": 168,
+      "value": "0x7ffc2b8b2c10",
+      "symbol": "extra-natives-five.dll+0x42c10",
+      "pointee": ""
+    },
+    {
+      "offset": 176,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 184,
+      "value": "0x2389",
+      "symbol": "0x2389",
+      "pointee": ""
+    },
+    {
+      "offset": 192,
+      "value": "0x72dcc5a9163243f9",
+      "symbol": "0x72dcc5a9163243f9",
+      "pointee": ""
+    },
+    {
+      "offset": 200,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 208,
+      "value": "0x2390bc22c50",
+      "symbol": "0x2390bc22c50",
+      "pointee": ""
+    },
+    {
+      "offset": 216,
+      "value": "0x7ff65391a707",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x166a707",
+      "pointee": ""
+    },
+    {
+      "offset": 224,
+      "value": "0xfffffffffffffffe",
+      "symbol": "0xfffffffffffffffe",
+      "pointee": ""
+    },
+    {
+      "offset": 232,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 240,
+      "value": "0x2389",
+      "symbol": "0x2389",
+      "pointee": ""
+    },
+    {
+      "offset": 248,
+      "value": "0x2390b5d76d0",
+      "symbol": "0x2390b5d76d0",
+      "pointee": ""
+    },
+    {
+      "offset": 256,
+      "value": "0x2390cc378c0",
+      "symbol": "0x2390cc378c0",
+      "pointee": ""
+    },
+    {
+      "offset": 264,
+      "value": "0x7ff65391bfd1",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x166bfd1",
+      "pointee": ""
+    },
+    {
+      "offset": 272,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 280,
+      "value": "0x3",
+      "symbol": "0x3",
+      "pointee": ""
+    },
+    {
+      "offset": 288,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 296,
+      "value": "0x1edf28abffff45a7",
+      "symbol": "0x1edf28abffff45a7",
+      "pointee": ""
+    },
+    {
+      "offset": 304,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 312,
+      "value": "0x327d327d22e80a00",
+      "symbol": "0x327d327d22e80a00",
+      "pointee": ""
+    },
+    {
+      "offset": 320,
+      "value": "0x1b8a062b08f59500",
+      "symbol": "0x1b8a062b08f59500",
+      "pointee": ""
+    },
+    {
+      "offset": 328,
+      "value": "0x1050105037d03b6",
+      "symbol": "0x1050105037d03b6",
+      "pointee": ""
+    },
+    {
+      "offset": 336,
+      "value": "0x163243f9",
+      "symbol": "0x163243f9",
+      "pointee": ""
+    },
+    {
+      "offset": 344,
+      "value": "0x6",
+      "symbol": "0x6",
+      "pointee": ""
+    },
+    {
+      "offset": 352,
+      "value": "0x43b7f6e8c47034de",
+      "symbol": "0x43b7f6e8c47034de",
+      "pointee": ""
+    },
+    {
+      "offset": 360,
+      "value": "0x3dcccccd4303aba0",
+      "symbol": "0x3dcccccd4303aba0",
+      "pointee": ""
+    },
+    {
+      "offset": 368,
+      "value": "0x2390bc22c50",
+      "symbol": "0x2390bc22c50",
+      "pointee": ""
+    },
+    {
+      "offset": 376,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 384,
+      "value": "0x428a5bb601",
+      "symbol": "0x428a5bb601",
+      "pointee": "a81d55f67f0000506e01fc38020000b04ab0fb3802000074240a0000000000d8a81d55f67f000021fd9253f67f0000c03c2955f67f000074240a000000000074"
+    },
+    {
+      "offset": 392,
+      "value": "0x2389",
+      "symbol": "0x2389",
+      "pointee": ""
+    },
+    {
+      "offset": 400,
+      "value": "0x238fb943618",
+      "symbol": "0x238fb943618",
+      "pointee": ""
+    },
+    {
+      "offset": 408,
+      "value": "0x2390bc22c50",
+      "symbol": "0x2390bc22c50",
+      "pointee": ""
+    },
+    {
+      "offset": 416,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 424,
+      "value": "0x7ff652be8ca1",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x938ca1",
+      "pointee": ""
+    },
+    {
+      "offset": 432,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 440,
+      "value": "0x2390bd77100",
+      "symbol": "0x2390bd77100",
+      "pointee": ""
+    },
+    {
+      "offset": 448,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 456,
+      "value": "0x7ff600002389",
+      "symbol": "0x7ff600002389",
+      "pointee": ""
+    },
+    {
+      "offset": 464,
+      "value": "0x428a5bb650",
+      "symbol": "0x428a5bb650",
+      "pointee": "a071d70b39020000a071d70b3902000004005c1e5308089600000000000000008923000000000000a0909053f67f0000640ed21509a0b3cf89230000453cffff"
+    },
+    {
+      "offset": 472,
+      "value": "0x7ffc2b8b3483",
+      "symbol": "extra-natives-five.dll+0x43483",
+      "pointee": ""
+    },
+    {
+      "offset": 480,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 488,
+      "value": "0x238fb943618",
+      "symbol": "0x238fb943618",
+      "pointee": ""
+    },
+    {
+      "offset": 496,
+      "value": "0x7ff655293cc0",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x2fe3cc0",
+      "pointee": ""
+    },
+    {
+      "offset": 504,
+      "value": "0x7ff600002389",
+      "symbol": "0x7ff600002389",
+      "pointee": ""
+    },
+    {
+      "offset": 512,
+      "value": "0x428a5bb650",
+      "symbol": "0x428a5bb650",
+      "pointee": "a071d70b39020000a071d70b3902000004005c1e5308089600000000000000008923000000000000a0909053f67f0000640ed21509a0b3cf89230000453cffff"
+    },
+    {
+      "offset": 520,
+      "value": "0x7ff652bcf150",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x91f150",
+      "pointee": ""
+    },
+    {
+      "offset": 528,
+      "value": "0x9cc2801",
+      "symbol": "0x9cc2801",
+      "pointee": ""
+    },
+    {
+      "offset": 536,
+      "value": "0x238fb943618",
+      "symbol": "0x238fb943618",
+      "pointee": ""
+    },
+    {
+      "offset": 544,
+      "value": "0x7ff655293cc0",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x2fe3cc0",
+      "pointee": ""
+    },
+    {
+      "offset": 552,
+      "value": "0xffffac6967e2779a",
+      "symbol": "0xffffac6967e2779a",
+      "pointee": ""
+    },
+    {
+      "offset": 560,
+      "value": "0x428a5bb650",
+      "symbol": "0x428a5bb650",
+      "pointee": "a071d70b39020000a071d70b3902000004005c1e5308089600000000000000008923000000000000a0909053f67f0000640ed21509a0b3cf89230000453cffff"
+    },
+    {
+      "offset": 568,
+      "value": "0x7ff65391c6b4",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x166c6b4",
+      "pointee": ""
+    },
+    {
+      "offset": 576,
+      "value": "0x9cc2801",
+      "symbol": "0x9cc2801",
+      "pointee": ""
+    },
+    {
+      "offset": 584,
+      "value": "0x2591f60a43101ed",
+      "symbol": "0x2591f60a43101ed",
+      "pointee": ""
+    },
+    {
+      "offset": 592,
+      "value": "0x3979ffff7d814df8",
+      "symbol": "0x3979ffff7d814df8",
+      "pointee": ""
+    },
+    {
+      "offset": 600,
+      "value": "0x396d396d396d396d",
+      "symbol": "0x396d396d396d396d",
+      "pointee": ""
+    },
+    {
+      "offset": 608,
+      "value": "0xa452f6d2f6d396d",
+      "symbol": "0xa452f6d2f6d396d",
+      "pointee": ""
+    },
+    {
+      "offset": 616,
+      "value": "0x4c004c004c004c",
+      "symbol": "0x4c004c004c004c",
+      "pointee": ""
+    },
+    {
+      "offset": 624,
+      "value": "0x7ff655293cc0",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x2fe3cc0",
+      "pointee": ""
+    },
+    {
+      "offset": 632,
+      "value": "0x2390cdec130",
+      "symbol": "0x2390cdec130",
+      "pointee": ""
+    },
+    {
+      "offset": 640,
+      "value": "0x428a5bb650",
+      "symbol": "0x428a5bb650",
+      "pointee": "a071d70b39020000a071d70b3902000004005c1e5308089600000000000000008923000000000000a0909053f67f0000640ed21509a0b3cf89230000453cffff"
+    },
+    {
+      "offset": 648,
+      "value": "0x2389",
+      "symbol": "0x2389",
+      "pointee": ""
+    },
+    {
+      "offset": 656,
+      "value": "0x2390cdec130",
+      "symbol": "0x2390cdec130",
+      "pointee": ""
+    },
+    {
+      "offset": 664,
+      "value": "0x7ffccb406fd8",
+      "symbol": "gta-streaming-five.dll+0x56fd8",
+      "pointee": ""
+    },
+    {
+      "offset": 672,
+      "value": "0x9cc28be",
+      "symbol": "0x9cc28be",
+      "pointee": ""
+    },
+    {
+      "offset": 680,
+      "value": "0xffffb73a00002389",
+      "symbol": "0xffffb73a00002389",
+      "pointee": ""
+    },
+    {
+      "offset": 688,
+      "value": "0x428a5bb5c9",
+      "symbol": "0x428a5bb5c9",
+      "pointee": "df5c53f67f0000e02e2955f67f000050abffffd21fe3d9b1cbb9a83e870000e02e2955f67f00000100000000000000c03c2955f67f0000c0a81d55f67f000050"
+    },
+    {
+      "offset": 696,
+      "value": "0x2390bd771a0",
+      "symbol": "0x2390bd771a0",
+      "pointee": ""
+    },
+    {
+      "offset": 704,
+      "value": "0xffff2c402e90c218",
+      "symbol": "0xffff2c402e90c218",
+      "pointee": ""
+    },
+    {
+      "offset": 712,
+      "value": "0x133ed506ffff50dc",
+      "symbol": "0x133ed506ffff50dc",
+      "pointee": ""
+    },
+    {
+      "offset": 720,
+      "value": "0xa054ffff153e4a16",
+      "symbol": "0xa054ffff153e4a16",
+      "pointee": ""
+    }
+  ],
+  "mansion_hashes_in_register_memory": [],
+  "possible_entity_definition": {
+    "archetype_hash": "0x163243f9",
+    "position": [
+      -960.8260498046875,
+      367.928955078125,
+      131.67041015625
+    ]
+  }
+}

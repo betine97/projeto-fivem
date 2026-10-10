@@ -1,0 +1,36 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": true,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": null,
+  "shader_changes": [],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_calca_listrada_azul_r001^lowr_000_r.ydd",
+    "mp_m_freemode_01_cidade_calca_listrada_azul_r001^lowr_diff_000_a_whi.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "19358a9593b2796daac79f6a36df53034819ef430789a5bea37104a6e1fc4b96",
+  "cache_hit": false,
+  "seconds": 0.879,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_calca_listrada_azul_r001^lowr_000_r.ydd": "65d0b37de3833d55d690c3a2172df17b9dddc4ce95e97d8dc014f9c6c528352d",
+    "exports\\mp_m_freemode_01_cidade_calca_listrada_azul_r001^lowr_diff_000_a_whi.ytd": "360ba9effdd8d6935c0bf5ff54faae7c3f0df74b2b4e575fd9d2dd91bce8171a"
+  }
+}

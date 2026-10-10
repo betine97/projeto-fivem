@@ -1,0 +1,36 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": true,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": null,
+  "shader_changes": [],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_jeans_rasgado_r001^lowr_000_r.ydd",
+    "mp_m_freemode_01_cidade_jeans_rasgado_r001^lowr_diff_000_a_whi.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "0647c3a91c5f2c58de58071c8293ec84ee82cb0e2de47e18417541b8ecccd5c1",
+  "cache_hit": false,
+  "seconds": 1.969,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_jeans_rasgado_r001^lowr_000_r.ydd": "18bef9aad4b3a42e9965e11517239380a40020d8ff6d4f080fb8761ec493e8cb",
+    "exports\\mp_m_freemode_01_cidade_jeans_rasgado_r001^lowr_diff_000_a_whi.ytd": "03d5dbffa6ff91e52c66a1233e321215e4a389602751f029acc4bbcd76c67b1c"
+  }
+}

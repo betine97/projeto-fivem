@@ -1,0 +1,68 @@
+{
+  "revision": "v7-postura-watchdog",
+  "installed_on_disk": true,
+  "server_restarted": false,
+  "game_tested": false,
+  "last_observed_client_revision": "v6-apoio-transicoes",
+  "scripts": [
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\prone.lua",
+      "sha256": "8f1bdd076d138d306d759384a0846fe2c27c01a3c178354b65ace9611e9493d0",
+      "tested": true
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\combat_weapon.lua",
+      "sha256": "b84fc93a0367170286d8b2ae7dc2e9f3be874fda8f23860134bd5ad5e03bbb75",
+      "tested": true
+    }
+  ],
+  "assets": [
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\stream\\cidade_ajoelhado_v6_ak.ycd",
+      "sha256": "cf5f1e457c3d41fa3a26abe2be39f170ac6ddc20ee6d27c405386ed3684bd798",
+      "unchanged_from_v6": true
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\stream\\cidade_deitado_v6_ak.ycd",
+      "sha256": "a52ada8f5e2d5acbaa79ea68f1726b9c74573b995f6ced2154a63a9b6f0519a2",
+      "unchanged_from_v6": true
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\stream\\cidade_sentado_v6_ak.ycd",
+      "sha256": "fbf1c52add396cd475daf8a0cd0bc75d0ee34bdffde3d5594cc7008e72e390f2",
+      "unchanged_from_v6": true
+    }
+  ],
+  "runtime_tests": {
+    "revision": "v7-postura-watchdog",
+    "game_tested": false,
+    "mock_only": true,
+    "repeated_reload_cycles": 72,
+    "physical_c_z_cycles": 80,
+    "rifles": 2,
+    "postures": 3,
+    "async_tasks": true,
+    "native_reload_recovery": true,
+    "playing_task_bad_bone_recovery": true,
+    "reload_timer_preserved_during_repair": true,
+    "recovery_rate_limited": true,
+    "transient_angles_ignored": true,
+    "no_per_bullet_force_update": true,
+    "all_ik_restored": true,
+    "dictionary_retained_until_shutdown": true,
+    "history_limit": 200,
+    "source_sha256": "8f1bdd076d138d306d759384a0846fe2c27c01a3c178354b65ace9611e9493d0"
+  },
+  "geometry_tests": {
+    "game_tested": false,
+    "synthetic_transforms": true,
+    "cases": 12,
+    "both_weapon_mounts": true,
+    "ped_relative_pitch": true,
+    "world_pitch": true,
+    "invalid_basis_safe": true,
+    "mount_update_preserved": true,
+    "max_pitch_error_degrees": 3.596643914249853E-06,
+    "source_sha256": "b84fc93a0367170286d8b2ae7dc2e9f3be874fda8f23860134bd5ad5e03bbb75"
+  }
+}

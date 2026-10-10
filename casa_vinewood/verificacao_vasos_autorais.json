@@ -1,0 +1,255 @@
+{
+  "passed": true,
+  "revision": "vaso-autoral-2026-10-08",
+  "model": "mansao_vaso_folhagem",
+  "instances": 2,
+  "leaves": 306,
+  "triangles": 85400,
+  "material_textures": 12,
+  "native_roundtrip": true,
+  "geometry_finite": true,
+  "texture_mipmaps": true,
+  "pot_collision_only": true,
+  "walking_routes": {
+    "entrada_original": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_esquerda": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_direita": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_deck": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "porta_fundos": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_perto_vidro": {
+      "samples": 127,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "cozinha_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "portao_entrada_rua": {
+      "samples": 78,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "escada_completa": {
+      "samples": 124,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite closet banheiro": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem entre sofa e jantar": {
+      "samples": 64,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem cozinha": {
+      "samples": 84,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Volta completa da mesa": {
+      "samples": 222,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Entre jantar e cozinha": {
+      "samples": 55,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Circulacao sala ao lado do vaso": {
+      "samples": 63,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Circulacao hall escada ao lado do vaso": {
+      "samples": 33,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "placements": [
+    {
+      "name": "Vaso autoral sala",
+      "position": [
+        -7.65,
+        -2.45,
+        -0.8
+      ],
+      "heading": 0,
+      "quaternion": [
+        1.0,
+        0,
+        0,
+        -0.0
+      ],
+      "door_swing_clear": true,
+      "wall_clearance_m": 0.7720645523071283,
+      "crown_footprint": [
+        -8.268935203552246,
+        -3.1432549953460693,
+        -7.012654781341553,
+        -1.7858607769012451
+      ]
+    },
+    {
+      "name": "Vaso autoral hall escada",
+      "position": [
+        4.9,
+        0.4,
+        -0.8
+      ],
+      "heading": 0.4537856055185257,
+      "quaternion": [
+        0.9743700647852352,
+        0,
+        0,
+        -0.224951054343865
+      ],
+      "door_swing_clear": true,
+      "wall_clearance_m": 0.4906718736886978,
+      "crown_footprint": [
+        4.2841057777404785,
+        -0.24432848393917084,
+        5.573129177093506,
+        1.0118495225906372
+      ]
+    }
+  ],
+  "files": {
+    "mansao_vasos_autorais.ymap": "1da0bb2138402fc994770f4c288105d985859614a146f15ac65cdd6aff4f5bd3",
+    "mansao_vasos_autorais.ytyp": "02433adbf0bc5363d2dc89d2738c41032a42e03dc601a9a0b6e5830bd3071170",
+    "mansao_vaso_folhagem.ydr": "c785e5ad0d7df8a8fc8534dc56b28634c5fc17abdfdefd45a6e91d7b9408430d"
+  },
+  "in_game_verified": false
+}

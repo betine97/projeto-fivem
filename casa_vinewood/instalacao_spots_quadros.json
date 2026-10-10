@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "revision": "spots-quadros-referencias-2026-10-08",
+  "installed_files": {
+    "stream/mansao_spot_embutido.ydr": "6ced09bd349ea92ea8d238e83584e582cae49fef542864cee636781e1b46493b",
+    "stream/mansao_quadros_refs.ytd": "a3bd24b451c5eeb4478fae28601c5ae4f667b93816d00123343a51ad8267d983",
+    "stream/mansao_referencias.ytyp": "a34e94e2ee2050a0e1add7ff6406f3f335e46a9a5fd995a34f4c26dbc682e2ee",
+    "stream/mansao_referencias.ymap": "7e91dd65efa99dc741a17ea53f49dce6c5294eafab8d472cf282b31f311aebd4",
+    "stream/mansao_pisos.ydr": "91f86f8cff4eeca685f58b8076247368eb2d516fd2ac68bdf2c3264f0e85fdcf",
+    "stream/mansao_teto.ydr": "716df55967b15d909f8e51bcd5ee70677955497b3cfac50544e2414d3c7d6c41",
+    "stream/mansao_spots_led.ydr": "9c35e71501f89120f2c8c663c7ce3432a87faa4d8680fa0433c8b337e2ab3bd1",
+    "stream/mansao_decoracao.ytyp": "743176ab375549f4910b4cfbc1f1dba648548de62da8868664775d3a08f9ee95",
+    "stream/mansao_quadro_ref_2.ydr": "8460c8c6938c3165b3308d3b77f36cef70816178e96adce1a734d8a2129e025d",
+    "stream/mansao_quadro_ref_3.ydr": "8f2676e44c336f274839a96ccd9737e1d5d1e321cf34f6bc1a854be9c3750cb8",
+    "stream/mansao_quadro_ref_4.ydr": "d697995a1de3633a8a04a30d72ef68eefc32514fef9a776fbd9baa36293e1c99",
+    "stream/mansao_quadro_ref_5.ydr": "61ca4ebc9314330dd49a498a75626e31d2adf28a70c71906df4b42aafc1afb13",
+    "fxmanifest.lua": "a5e98d27135e4fedeb1cd8da33047e56e607530df146fe6fff7c42f949cd4d9a"
+  },
+  "unrelated_files_preserved": 64,
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_spots_quadros_20261008_103458",
+  "immediate_backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\refs_spots_quadros_20261008\\backup_imediato_instalacao",
+  "spot_entities": 88,
+  "new_artworks": 4,
+  "light_controller_preserved": true,
+  "allocation_delta": {
+    "graphics_mib": 12.007812,
+    "system_mib": -0.726562,
+    "disk_mib": 5.073293
+  },
+  "reload_required": true,
+  "in_game_verified": false,
+  "blender_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\mansao_spots_quadros.blend"
+}

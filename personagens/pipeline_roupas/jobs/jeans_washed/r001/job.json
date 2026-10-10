@@ -1,0 +1,34 @@
+{
+  "pipeline_version": 1,
+  "name": "jeans_washed",
+  "revision": "r001",
+  "base_id": "8552b45e2ad8",
+  "base_manifest_sha256": "af7b451506806369279c5315d5eeedb063cd454138b94ac6061b3266be4d22b7",
+  "reference_image": "codex-clipboard-0f081b02-d56d-4275-be86-6cd5981cb959.png",
+  "material": {
+    "albedo_atlas": "atlas_jeans_washed.png",
+    "preserve_native_normal_specular": true
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_jeans_washed_r001",
+    "prefix": "mp_m_freemode_01_cidade_jeans_washed_r001",
+    "local_index": 0
+  },
+  "review": {
+    "positions": true,
+    "appearance": true,
+    "in_game": false
+  },
+  "notes": [
+    "Source front reference registered to native mesh silhouette. Back pockets/seams retained and recolored in matching denim.",
+    "Upper fabric tile box-projected to prevent lateral stretching. Thigh wear and hem panels contribute to their respective regions.",
+    "Original foot/cuff colored regions retained. Component 6 and all other outfit components unchanged by the test command."
+  ],
+  "test_commands": {
+    "apply": "calcajeans",
+    "restore": "jeansanterior"
+  }
+}

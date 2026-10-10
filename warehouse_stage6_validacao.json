@@ -1,0 +1,12 @@
+{
+  "ceiling_vents": 3,
+  "ceiling_vent_diameter_m": 0.9,
+  "side_fans": 6,
+  "side_fan_diameter_m": 0.82,
+  "overhead_min_height_m": 2.467,
+  "overhead_max_height_m": 3.582,
+  "pink_downward_area_lights": 6,
+  "placeholders": 18,
+  "side_door_new_services_clear": true,
+  "rebuild_no_duplicates": true
+}

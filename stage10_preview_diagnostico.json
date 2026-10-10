@@ -1,0 +1,8 @@
+{
+  "preview_samples": 1024,
+  "use_preview_denoising": false,
+  "preview_denoising_start_sample": 1,
+  "samples": 40,
+  "use_denoising": true,
+  "preview_adaptive_threshold": 0.10000000149011612
+}

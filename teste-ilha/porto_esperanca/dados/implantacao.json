@@ -1,0 +1,840 @@
+{
+  "revisao": "porto-20261009-terreno-vegetacao-1",
+  "seed": 20261009,
+  "unidade": "metros",
+  "terreno_extensao_m": [
+    1040,
+    1030
+  ],
+  "terreno_setores": 16,
+  "modelos": [
+    {
+      "id": "01_coqueiro",
+      "nome": "Palmeira de Coco",
+      "categoria": "palm",
+      "altura_referencia_m": 14,
+      "raio_referencia_m": 3.6,
+      "vertices": 12738,
+      "poligonos": 5142,
+      "arquivo": "modelos/01_coqueiro.blend"
+    },
+    {
+      "id": "02_imperial",
+      "nome": "Palmeira Imperial",
+      "categoria": "palm",
+      "altura_referencia_m": 13,
+      "raio_referencia_m": 3.0,
+      "vertices": 12492,
+      "poligonos": 5028,
+      "arquivo": "modelos/02_imperial.blend"
+    },
+    {
+      "id": "03_caneleira",
+      "nome": "Árvore de Sombra / Caneleira",
+      "categoria": "broad",
+      "altura_referencia_m": 13,
+      "raio_referencia_m": 6.2,
+      "vertices": 123114,
+      "poligonos": 41326,
+      "arquivo": "modelos/03_caneleira.blend"
+    },
+    {
+      "id": "04_amendoeira",
+      "nome": "Amendoeira",
+      "categoria": "broad",
+      "altura_referencia_m": 9,
+      "raio_referencia_m": 4.7,
+      "vertices": 123114,
+      "poligonos": 41326,
+      "arquivo": "modelos/04_amendoeira.blend"
+    },
+    {
+      "id": "05_flamboyant",
+      "nome": "Flamboyant",
+      "categoria": "broad",
+      "altura_referencia_m": 9,
+      "raio_referencia_m": 6.4,
+      "vertices": 193386,
+      "poligonos": 64750,
+      "arquivo": "modelos/05_flamboyant.blend"
+    },
+    {
+      "id": "06_arvore_rua",
+      "nome": "Árvore de Rua",
+      "categoria": "broad",
+      "altura_referencia_m": 8,
+      "raio_referencia_m": 3.6,
+      "vertices": 123114,
+      "poligonos": 41326,
+      "arquivo": "modelos/06_arvore_rua.blend"
+    },
+    {
+      "id": "07_reseda",
+      "nome": "Resedá",
+      "categoria": "broad",
+      "altura_referencia_m": 6,
+      "raio_referencia_m": 3.3,
+      "vertices": 193386,
+      "poligonos": 64750,
+      "arquivo": "modelos/07_reseda.blend"
+    },
+    {
+      "id": "08_ipe_amarelo",
+      "nome": "Ipê Amarelo",
+      "categoria": "broad",
+      "altura_referencia_m": 9,
+      "raio_referencia_m": 4.1,
+      "vertices": 193386,
+      "poligonos": 64750,
+      "arquivo": "modelos/08_ipe_amarelo.blend"
+    },
+    {
+      "id": "09_oliveira",
+      "nome": "Oliveira",
+      "categoria": "broad",
+      "altura_referencia_m": 7,
+      "raio_referencia_m": 4.0,
+      "vertices": 123114,
+      "poligonos": 41326,
+      "arquivo": "modelos/09_oliveira.blend"
+    },
+    {
+      "id": "10_castanhola",
+      "nome": "Castanhola / Amendoeira da Praia",
+      "categoria": "broad",
+      "altura_referencia_m": 7,
+      "raio_referencia_m": 5.1,
+      "vertices": 123114,
+      "poligonos": 41326,
+      "arquivo": "modelos/10_castanhola.blend"
+    },
+    {
+      "id": "11_mangueira",
+      "nome": "Mangueira / Manga",
+      "categoria": "broad",
+      "altura_referencia_m": 10,
+      "raio_referencia_m": 4.6,
+      "vertices": 124554,
+      "poligonos": 41806,
+      "arquivo": "modelos/11_mangueira.blend"
+    },
+    {
+      "id": "12_bananeira",
+      "nome": "Bananeira",
+      "categoria": "banana",
+      "altura_referencia_m": 5,
+      "raio_referencia_m": 3.0,
+      "vertices": 2640,
+      "poligonos": 720,
+      "arquivo": "modelos/12_bananeira.blend"
+    },
+    {
+      "id": "13_mangue",
+      "nome": "Mangue",
+      "categoria": "broad",
+      "altura_referencia_m": 7,
+      "raio_referencia_m": 4.1,
+      "vertices": 123222,
+      "poligonos": 41410,
+      "arquivo": "modelos/13_mangue.blend"
+    },
+    {
+      "id": "14_arbusto_costeiro",
+      "nome": "Arbusto Costeiro",
+      "categoria": "broad",
+      "altura_referencia_m": 2.5,
+      "raio_referencia_m": 2.5,
+      "vertices": 40686,
+      "poligonos": 13707,
+      "arquivo": "modelos/14_arbusto_costeiro.blend"
+    },
+    {
+      "id": "15_palmeira_ana",
+      "nome": "Palmeira Anã",
+      "categoria": "fan",
+      "altura_referencia_m": 3.4,
+      "raio_referencia_m": 2.4,
+      "vertices": 73020,
+      "poligonos": 18780,
+      "arquivo": "modelos/15_palmeira_ana.blend"
+    },
+    {
+      "id": "16_palma_azul",
+      "nome": "Palma Azul / Palmeira Azul",
+      "categoria": "fan",
+      "altura_referencia_m": 7,
+      "raio_referencia_m": 3.0,
+      "vertices": 24700,
+      "poligonos": 6476,
+      "arquivo": "modelos/16_palma_azul.blend"
+    },
+    {
+      "id": "17_yucca",
+      "nome": "Yucca",
+      "categoria": "yucca",
+      "altura_referencia_m": 4,
+      "raio_referencia_m": 2.0,
+      "vertices": 1984,
+      "poligonos": 680,
+      "arquivo": "modelos/17_yucca.blend"
+    },
+    {
+      "id": "18_cerca_viva",
+      "nome": "Cerca Viva",
+      "categoria": "broad",
+      "altura_referencia_m": 1.8,
+      "raio_referencia_m": 2.1,
+      "vertices": 40686,
+      "poligonos": 13707,
+      "arquivo": "modelos/18_cerca_viva.blend"
+    },
+    {
+      "id": "19_oiti",
+      "nome": "Oiti",
+      "categoria": "broad",
+      "altura_referencia_m": 11,
+      "raio_referencia_m": 4.5,
+      "vertices": 123114,
+      "poligonos": 41326,
+      "arquivo": "modelos/19_oiti.blend"
+    },
+    {
+      "id": "20_figueira",
+      "nome": "Figueira",
+      "categoria": "broad",
+      "altura_referencia_m": 10,
+      "raio_referencia_m": 5.7,
+      "vertices": 123114,
+      "poligonos": 41326,
+      "arquivo": "modelos/20_figueira.blend"
+    },
+    {
+      "id": "21_areca",
+      "nome": "Palmeira Areca",
+      "categoria": "palm",
+      "altura_referencia_m": 7,
+      "raio_referencia_m": 2.7,
+      "vertices": 59460,
+      "poligonos": 23340,
+      "arquivo": "modelos/21_areca.blend"
+    },
+    {
+      "id": "22_palmeira_leque",
+      "nome": "Palmeira Leque",
+      "categoria": "fan",
+      "altura_referencia_m": 7,
+      "raio_referencia_m": 3.0,
+      "vertices": 24700,
+      "poligonos": 6476,
+      "arquivo": "modelos/22_palmeira_leque.blend"
+    },
+    {
+      "id": "23_jasmim_manga",
+      "nome": "Jasmim-Manga",
+      "categoria": "broad",
+      "altura_referencia_m": 5.5,
+      "raio_referencia_m": 3.3,
+      "vertices": 193386,
+      "poligonos": 64750,
+      "arquivo": "modelos/23_jasmim_manga.blend"
+    },
+    {
+      "id": "24_vegetacao_baixa",
+      "nome": "Vegetação Baixa Tropical",
+      "categoria": "ground",
+      "altura_referencia_m": 1.2,
+      "raio_referencia_m": 1.8,
+      "vertices": 648,
+      "poligonos": 216,
+      "arquivo": "modelos/24_vegetacao_baixa.blend"
+    }
+  ],
+  "contagens_vegetacao": {
+    "01_coqueiro": 105,
+    "02_imperial": 94,
+    "03_caneleira": 366,
+    "04_amendoeira": 188,
+    "05_flamboyant": 38,
+    "06_arvore_rua": 204,
+    "07_reseda": 39,
+    "08_ipe_amarelo": 44,
+    "09_oliveira": 61,
+    "10_castanhola": 73,
+    "11_mangueira": 224,
+    "12_bananeira": 52,
+    "13_mangue": 134,
+    "14_arbusto_costeiro": 448,
+    "15_palmeira_ana": 36,
+    "16_palma_azul": 42,
+    "17_yucca": 44,
+    "18_cerca_viva": 457,
+    "19_oiti": 213,
+    "20_figueira": 218,
+    "21_areca": 45,
+    "22_palmeira_leque": 79,
+    "23_jasmim_manga": 57,
+    "24_vegetacao_baixa": 846
+  },
+  "tufos_grama": 4200,
+  "pedras": 430,
+  "lotes": [
+    {
+      "id": "P01",
+      "use": "Terminal futuro",
+      "center": [
+        -10,
+        65
+      ],
+      "size": [
+        55,
+        32
+      ],
+      "level": 4.6
+    },
+    {
+      "id": "P02",
+      "use": "Praca de chegada",
+      "center": [
+        -8,
+        112
+      ],
+      "size": [
+        90,
+        55
+      ],
+      "level": 4.6
+    },
+    {
+      "id": "P03",
+      "use": "Pesca e apoio naval",
+      "center": [
+        -160,
+        40
+      ],
+      "size": [
+        75,
+        55
+      ],
+      "level": 4.6
+    },
+    {
+      "id": "P04",
+      "use": "Patio e armazens futuros",
+      "center": [
+        280,
+        55
+      ],
+      "size": [
+        125,
+        88
+      ],
+      "level": 4.6
+    },
+    {
+      "id": "P05",
+      "use": "Alfandega futura",
+      "center": [
+        195,
+        124
+      ],
+      "size": [
+        46,
+        36
+      ],
+      "level": 4.739999999999999
+    },
+    {
+      "id": "P06",
+      "use": "Oficina futura",
+      "center": [
+        382,
+        237
+      ],
+      "size": [
+        55,
+        46
+      ],
+      "level": 8.695
+    },
+    {
+      "id": "P07",
+      "use": "Posto de combustivel futuro",
+      "center": [
+        380,
+        302
+      ],
+      "size": [
+        58,
+        50
+      ],
+      "level": 10.97
+    },
+    {
+      "id": "U01",
+      "use": "Mercado futuro",
+      "center": [
+        -160,
+        228
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 8.379999999999999
+    },
+    {
+      "id": "U02",
+      "use": "Padaria futuro",
+      "center": [
+        -108,
+        228
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 8.379999999999999
+    },
+    {
+      "id": "U03",
+      "use": "Farmacia futuro",
+      "center": [
+        0,
+        228
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 8.379999999999999
+    },
+    {
+      "id": "U04",
+      "use": "Posto de saude futuro",
+      "center": [
+        52,
+        228
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 8.379999999999999
+    },
+    {
+      "id": "U05",
+      "use": "Escritorio de fretes futuro",
+      "center": [
+        160,
+        228
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 8.379999999999999
+    },
+    {
+      "id": "U06",
+      "use": "Contratos futuro",
+      "center": [
+        215,
+        228
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 8.379999999999999
+    },
+    {
+      "id": "U07",
+      "use": "Comercio futuro",
+      "center": [
+        -160,
+        302
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 10.97
+    },
+    {
+      "id": "U08",
+      "use": "Residencial futuro",
+      "center": [
+        -108,
+        302
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 10.97
+    },
+    {
+      "id": "U09",
+      "use": "Mercado futuro",
+      "center": [
+        0,
+        302
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 10.97
+    },
+    {
+      "id": "U10",
+      "use": "Padaria futuro",
+      "center": [
+        52,
+        302
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 10.97
+    },
+    {
+      "id": "U11",
+      "use": "Farmacia futuro",
+      "center": [
+        160,
+        302
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 10.97
+    },
+    {
+      "id": "U12",
+      "use": "Posto de saude futuro",
+      "center": [
+        215,
+        302
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 10.97
+    },
+    {
+      "id": "U13",
+      "use": "Escritorio de fretes futuro",
+      "center": [
+        -160,
+        392
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 14.120000000000001
+    },
+    {
+      "id": "U14",
+      "use": "Contratos futuro",
+      "center": [
+        -108,
+        392
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 14.120000000000001
+    },
+    {
+      "id": "U15",
+      "use": "Comercio futuro",
+      "center": [
+        0,
+        392
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 14.120000000000001
+    },
+    {
+      "id": "U16",
+      "use": "Residencial futuro",
+      "center": [
+        52,
+        392
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 14.120000000000001
+    },
+    {
+      "id": "U17",
+      "use": "Mercado futuro",
+      "center": [
+        160,
+        392
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 14.120000000000001
+    },
+    {
+      "id": "U18",
+      "use": "Padaria futuro",
+      "center": [
+        215,
+        392
+      ],
+      "size": [
+        34,
+        43
+      ],
+      "level": 14.120000000000001
+    }
+  ],
+  "rotas": [
+    {
+      "name": "Avenida costeira",
+      "points": [
+        [
+          -470,
+          130
+        ],
+        [
+          -350,
+          158
+        ],
+        [
+          -255,
+          172
+        ],
+        [
+          -165,
+          174
+        ],
+        [
+          0,
+          174
+        ],
+        [
+          220,
+          174
+        ],
+        [
+          430,
+          165
+        ]
+      ],
+      "width": 12,
+      "kind": "asfalto",
+      "bridge_reference": true
+    },
+    {
+      "name": "Rua oeste",
+      "points": [
+        [
+          -65,
+          174
+        ],
+        [
+          -65,
+          470
+        ]
+      ],
+      "width": 10,
+      "kind": "asfalto",
+      "bridge_reference": false
+    },
+    {
+      "name": "Rua central",
+      "points": [
+        [
+          105,
+          174
+        ],
+        [
+          105,
+          470
+        ]
+      ],
+      "width": 10,
+      "kind": "asfalto",
+      "bridge_reference": false
+    },
+    {
+      "name": "Rua comercial",
+      "points": [
+        [
+          -190,
+          264
+        ],
+        [
+          265,
+          264
+        ]
+      ],
+      "width": 10,
+      "kind": "asfalto",
+      "bridge_reference": false
+    },
+    {
+      "name": "Rua residencial",
+      "points": [
+        [
+          -190,
+          350
+        ],
+        [
+          265,
+          350
+        ]
+      ],
+      "width": 9,
+      "kind": "asfalto",
+      "bridge_reference": false
+    },
+    {
+      "name": "Rua alta",
+      "points": [
+        [
+          -190,
+          438
+        ],
+        [
+          265,
+          438
+        ]
+      ],
+      "width": 9,
+      "kind": "asfalto",
+      "bridge_reference": false
+    },
+    {
+      "name": "Acesso de cargas",
+      "points": [
+        [
+          320,
+          55
+        ],
+        [
+          355,
+          125
+        ],
+        [
+          350,
+          174
+        ]
+      ],
+      "width": 12,
+      "kind": "asfalto",
+      "bridge_reference": false
+    },
+    {
+      "name": "Ligacao ao interior",
+      "points": [
+        [
+          105,
+          438
+        ],
+        [
+          125,
+          490
+        ],
+        [
+          210,
+          530
+        ],
+        [
+          280,
+          575
+        ],
+        [
+          245,
+          655
+        ],
+        [
+          170,
+          720
+        ]
+      ],
+      "width": 11,
+      "kind": "asfalto",
+      "bridge_reference": false
+    },
+    {
+      "name": "Trilha do rio",
+      "points": [
+        [
+          -390,
+          210
+        ],
+        [
+          -400,
+          315
+        ],
+        [
+          -365,
+          430
+        ],
+        [
+          -380,
+          510
+        ]
+      ],
+      "width": 3.5,
+      "kind": "terra",
+      "bridge_reference": false
+    },
+    {
+      "name": "Passeio orla",
+      "points": [
+        [
+          -200,
+          3
+        ],
+        [
+          -140,
+          0
+        ],
+        [
+          -65,
+          35
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          90,
+          14
+        ],
+        [
+          145,
+          -10
+        ]
+      ],
+      "width": 3.4,
+      "kind": "passeio",
+      "bridge_reference": false
+    }
+  ],
+  "edificios_gerados": 0,
+  "agua_apenas_visual": true,
+  "colisao_blender_referencia": true,
+  "instalado_fivem": false,
+  "exclusoes_validas": true,
+  "violacoes": [],
+  "observacao": "Modelos autorais procedurais, nao extracao 3D das imagens; catalogos com repeticoes consolidadas. Requer LOD e conversao para arquivos nativos antes do FiveM."
+}

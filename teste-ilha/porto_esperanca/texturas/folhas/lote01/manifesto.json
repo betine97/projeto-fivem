@@ -1,0 +1,211 @@
+{
+  "revisao": "folhas-20261009-lote01",
+  "quantidade": 10,
+  "originais_preservados": true,
+  "arquivos": [
+    {
+      "id": "folhas_01",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_46-1.png",
+      "arquivo": "texturas/folhas/lote01/folhas_01.png",
+      "sha256": "76cf69ed309e427ab68d293359390916bbc1edd827f58a9c3488048ce433d42a",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "03_caneleira",
+      "tronco": "lote01_03",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_02",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_47-2.png",
+      "arquivo": "texturas/folhas/lote01/folhas_02.png",
+      "sha256": "a14e38d3ec0fe557de6df56ffdb3fd8509cf7cdcbd86dac4f42c4d8e6841cde7",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "01_coqueiro",
+      "tronco": "lote01_01",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_03",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_48-3.png",
+      "arquivo": "texturas/folhas/lote01/folhas_03.png",
+      "sha256": "21c00e581ae9ce2af9c6a68ba15e376908ce87303d1e753c83440c29498a0ad4",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "05_flamboyant",
+      "tronco": "lote01_05",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_04",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_49-4.png",
+      "arquivo": "texturas/folhas/lote01/folhas_04.png",
+      "sha256": "32c111261b81bb2b3fdd6ad24c5cbea932381b9bc7a686eba107ca1ee75b35ea",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "04_amendoeira",
+      "tronco": "lote01_04",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_05",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_49-5.png",
+      "arquivo": "texturas/folhas/lote01/folhas_05.png",
+      "sha256": "ac441914624ca964e40f7f814442e38b2461f5b3c7ce0ca249c55d20216cb9be",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "02_imperial",
+      "tronco": "lote01_02",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_06",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_50-6.png",
+      "arquivo": "texturas/folhas/lote01/folhas_06.png",
+      "sha256": "d51efd99f4de7acecd2ad4edc9f495cb9decd71b565d7744ac68d6c6733ce591",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "07_reseda",
+      "tronco": "lote01_07",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_07",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_51-7.png",
+      "arquivo": "texturas/folhas/lote01/folhas_07.png",
+      "sha256": "31ab8215815a80dc7c8456dafd6c9678b8fb3bcc8a2817ea98ae8f91f13bb761",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "09_oliveira",
+      "tronco": "lote01_09",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_08",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_52-8.png",
+      "arquivo": "texturas/folhas/lote01/folhas_08.png",
+      "sha256": "e5992298a183527a8248ba1a24f7190c9745977af0c1a3ab507d5fad0e0a9937",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "08_ipe_amarelo",
+      "tronco": "lote01_08",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_09",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_53-9.png",
+      "arquivo": "texturas/folhas/lote01/folhas_09.png",
+      "sha256": "b8f7d3bf7aef8139507e210561b96e21c59ee8af8624cc07f8e7b8a6dd099d21",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "10_castanhola",
+      "tronco": "lote01_10",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    },
+    {
+      "id": "folhas_10",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_41_54-10.png",
+      "arquivo": "texturas/folhas/lote01/folhas_10.png",
+      "sha256": "84b96861193ef9baf90579221eebb58c5ed7acbc540fb02d6b748dbe4695424f",
+      "imagem": {
+        "dimensoes": [
+          1254,
+          1254
+        ],
+        "modo": "RGBA",
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "06_arvore_rua",
+      "tronco": "lote01_06",
+      "criterio": "semelhanca_visual_com_prancha; associacao_da_primeira_amostra_a_validar"
+    }
+  ],
+  "observacao": "Imagens de copas/frondes completas, usadas diretamente como fontes dos materiais Blender; os PNG originais permanecem intactos.",
+  "estado": "aplicado_em_versao_blender_separada; validacao_visual_usuario_pendente",
+  "arquivo_blender": "porto_esperanca_texturas_lote01.blend",
+  "relatorio_aplicacao": "dados/aplicacao_texturas_lote01.json"
+}

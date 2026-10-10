@@ -1,0 +1,2 @@
+-- Nine yellow light sources now live in mansao_pendentes.ydr at the actual lower lenses.
+-- They remain on in every room, all hours; no second per-frame light loop.

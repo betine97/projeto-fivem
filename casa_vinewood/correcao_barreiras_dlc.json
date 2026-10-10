@@ -1,0 +1,130 @@
+{
+  "cause": "Unpatched mpheist and patched mpapartment collisions in the same house sector. Prior verification excluded these DLC sources.",
+  "dlc_sources": [
+    {
+      "file": "apa_ch2_09b_0.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|apa_ch2_09b_0.ybn",
+      "sha256": "d70309f6fcc6f6040562d96c6f7b1893bcf18db4ba5dc5fa6094002b0d5ccbd2"
+    },
+    {
+      "file": "apa_ch2_09b_1.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|apa_ch2_09b_1.ybn",
+      "sha256": "705eac2654dbdde16ebc6d8be7f35c029df0a3eee6acc5acac44e9a7e2a007dc"
+    },
+    {
+      "file": "apa_ch2_09b_2.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|apa_ch2_09b_2.ybn",
+      "sha256": "5bd141ad90a85504e03f8eb325bf4c66b203d3b1eeb1ba91980ace7610d12e8f"
+    },
+    {
+      "file": "apa_ch2_09b_3.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|apa_ch2_09b_3.ybn",
+      "sha256": "a625960f373970a6ea3bc1841c1c60f392dd1c65a24007cb27308c7ac7a61bfa"
+    },
+    {
+      "file": "hi@apa_ch2_09b_0.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@apa_ch2_09b_0.ybn",
+      "sha256": "f36356cd26151701aebacf465a230a5df7d76eae48a63198989ad27885b64d62"
+    },
+    {
+      "file": "hi@apa_ch2_09b_1.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@apa_ch2_09b_1.ybn",
+      "sha256": "bf2a58c485e03c4d29335a203157fefa61e6b4183f3595639bdd3cc8b575cadf"
+    },
+    {
+      "file": "hi@apa_ch2_09b_2.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@apa_ch2_09b_2.ybn",
+      "sha256": "07768523670ade71abe3081049260fe0493801e713948e9858353179e05eca9b"
+    },
+    {
+      "file": "hi@apa_ch2_09b_3.ybn",
+      "source": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@apa_ch2_09b_3.ybn",
+      "sha256": "bc26bf84aab1a651e91dce9e1346c5d4ddf74c581a24f4c717221fdae9976948"
+    },
+    {
+      "file": "hei_ch2_09b_0.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hei_ch2_09b_0.ybn",
+      "sha256": "fe16ea2ff2146fbdd22b6722cad6d7ce4e7a741afd39ad4baacc35e56b17ec88"
+    },
+    {
+      "file": "hei_ch2_09b_1.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hei_ch2_09b_1.ybn",
+      "sha256": "b76d66f0892fca9caa6b41cdca3ecde38c85673522d647f009cc687fe3c6d5a1"
+    },
+    {
+      "file": "hei_ch2_09b_2.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hei_ch2_09b_2.ybn",
+      "sha256": "9eaeeb34e84d7ae42b90d7ab3bf3a50cba0e277b17324820e896f60e6a4c48b2"
+    },
+    {
+      "file": "hei_ch2_09b_3.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hei_ch2_09b_3.ybn",
+      "sha256": "af1d8ead84e635327ff6f5e2ef5432f46dcdd18132bd8cf5d7d0196749e2fdec"
+    },
+    {
+      "file": "hi@hei_ch2_09b_0.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@hei_ch2_09b_0.ybn",
+      "sha256": "415a15dc2cf5795003ccd34171c5cae6f809461bf8f0352b809fb1f6d2bfeb9c"
+    },
+    {
+      "file": "hi@hei_ch2_09b_1.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@hei_ch2_09b_1.ybn",
+      "sha256": "05de49d3451906302f08f34dc682ac1a0ff81771bf1d102a2c9c2a78ee6b652f"
+    },
+    {
+      "file": "hi@hei_ch2_09b_2.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@hei_ch2_09b_2.ybn",
+      "sha256": "51b8c0c5f7cec914bba191f18ec03692efc0ca3b240ecaa2ad08a7e8939eda3e"
+    },
+    {
+      "file": "hi@hei_ch2_09b_3.ybn",
+      "source": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_09b.rpf|hi@hei_ch2_09b_3.ybn",
+      "sha256": "e0adbea0dc8759dea70919cfd4d701d05c3edbdf10cf24be31ea1165c1368aae"
+    }
+  ],
+  "additional_installed_collision_files": [
+    "apa_ch2_09b_1.ybn",
+    "apa_ch2_09b_3.ybn",
+    "hei_ch2_09b_1.ybn",
+    "hei_ch2_09b_3.ybn",
+    "hi@apa_ch2_09b_1.ybn",
+    "hi@apa_ch2_09b_3.ybn",
+    "hi@hei_ch2_09b_1.ybn",
+    "hi@hei_ch2_09b_3.ybn"
+  ],
+  "reproduced_blocked_samples_before": 39,
+  "same_probes_blocked_samples_after": 0,
+  "offline_checks_passed": true,
+  "installed_file_hashes_verified": 27,
+  "runtime_audit_included": true,
+  "in_game_test": false,
+  "activation_pending_files": [
+    "apa_ch2_09b_1.ybn",
+    "apa_ch2_09b_3.ybn",
+    "ch2_09b_1.ybn",
+    "ch2_09b_3.ybn",
+    "ch2_09b_emissive_05.ydr",
+    "ch2_09b_hs05.ydr",
+    "ch2_09b_hs05_balc_01.ydr",
+    "ch2_09b_hs05_balc_05.ydr",
+    "ch2_09b_hs05_details.ydr",
+    "ch2_09b_l2.ydr",
+    "ch2_occl_02.ymap",
+    "cidade_mansao.ymap",
+    "cidade_mansao.ytyp",
+    "hei_ch2_09b_1.ybn",
+    "hei_ch2_09b_3.ybn",
+    "hi@apa_ch2_09b_1.ybn",
+    "hi@apa_ch2_09b_3.ybn",
+    "hi@ch2_09b_1.ybn",
+    "hi@ch2_09b_3.ybn",
+    "hi@hei_ch2_09b_1.ybn",
+    "hi@hei_ch2_09b_3.ybn",
+    "mansao_escada.ydr",
+    "mansao_paredes.ydr",
+    "mansao_pisos.ydr",
+    "mansao_teto.ydr",
+    "mansao_vidros.ydr"
+  ],
+  "server_resource_reload_and_client_reconnect_required": true
+}

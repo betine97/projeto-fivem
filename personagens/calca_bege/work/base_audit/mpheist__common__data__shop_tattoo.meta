@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<!-- MALE DLC AWARD SHIRTS -->
+	<Item>
+		<id value="10000"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_0</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10001"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_1</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10002"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_2</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_006</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10003"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_3</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10004"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_4</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10005"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_5</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10006"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_6</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10007"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_7</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10008"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_8</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10009"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_A_9</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_M_Tshirt_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FEMALE DLC AWARD SHIRTS -->
+	<Item>
+		<id value="10100"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_0</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_004</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10101"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_1</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_005</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10102"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_2</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_006</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10103"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_3</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_007</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10104"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_4</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_008</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10105"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_5</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_009</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10106"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_6</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_010</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10107"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_7</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_011</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10108"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_8</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_012</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10109"/>
+		<cost value="1000"/>
+		<textLabel>CLO_HST_F_A_9</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Award_F_Tshirt_013</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- MALE BOILER SUIT OVERLAYS -->
+	<Item>
+		<id value="10110"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Bugstar_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10111"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Bugstar_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10112"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Bugstar_C</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10113"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Rogers_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10114"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Rogers_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10115"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Als_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10116"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Als_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10117"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Power_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10118"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Power_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- FEMALE BOILER SUIT OVERLAYS -->
+	<Item>
+		<id value="10119"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Bugstar_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10120"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Bugstar_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10121"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Bugstar_C</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10122"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Rogers_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10123"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Rogers_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10124"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Als_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10125"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Als_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10126"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Power_A</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10127"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Power_B</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<!-- DLC REWARD TSHIRTS -->
+	<Item>
+		<id value="10128"/>
+		<cost value="0"/>
+		<textLabel>CLO_HSTM_U_3_0</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Elite_M_Tshirt</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10129"/>
+		<cost value="0"/>
+		<textLabel>CLO_HSTF_U_3_0</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Elite_F_Tshirt</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10130"/>
+		<cost value="0"/>
+		<textLabel>CLO_HSTM_U_3_1</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Elite_M_Tshirt_1</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10131"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Elite_M_Tshirt_2</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+	<Item>
+		<id value="10132"/>
+		<cost value="0"/>
+		<textLabel>CLO_HSTF_U_3_1</textLabel>
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Elite_F_Tshirt_1</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	<Item>
+		<id value="10133"/>
+		<cost value="0"/>
+		<textLabel />
+		<collection>mpHeist_overlays</collection>
+		<preset>MP_Elite_F_Tshirt_2</preset>
+		<updateGroup>torsoDecal</updateGroup>
+		<eFaction>TATTOO_MP_FM_F</eFaction>
+		<eFacing>TATTOO_FRONT</eFacing>
+		<lockHash>CU_HEIST_TATTOOS</lockHash>
+		<zone>PDZ_TORSO</zone>
+	</Item>
+	
+  </TattooShopItems>
+</TattooShopItemArray>

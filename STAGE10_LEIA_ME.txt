@@ -1,0 +1,9 @@
+STAGE 10 — METAL INDUSTRIAL EM TODAS AS TUBULAÇÕES
+Abra warehouse_stage10_tubulacoes.blend.
+O acabamento foi criado com nós procedurais no Blender, inspirado nas referências de galvanizado limpo, sujo e oxidado. Não depende de imagens externas para o metal e não projeta sombras ou parafusos fotografados na chapa.
+Aplica-se aos dutos retos, cotovelos, bocais e flanges do teto, tubos e conduítes metálicos das paredes, abraçadeiras e suportes associados. Mangueiras e cabos de borracha permanecem com seu material anterior.
+Paredes, piso, equipamentos, LEDs rosas e geometria foram preservados.
+As prévias têm iluminação neutra temporária; o arquivo .blend conserva a iluminação rosa.
+Para aplicar a uma cena anterior do projeto, execute aplicar_metal_tubulacoes_stage10.py no Blender. O script reconhece os nomes originais dos objetos.
+No script, OXIDATION_AMOUNT e DIRT_AMOUNT controlam a intensidade das manchas. Os materiais STAGE10_Galvanizado_Industrial e STAGE10_Cintas_Suportes são editáveis no Shader Editor.
+Este é um material de Blender. Antes de exportar para GTA/FiveM, será necessário assar os canais do material em mapas e configurar os shaders do jogo.

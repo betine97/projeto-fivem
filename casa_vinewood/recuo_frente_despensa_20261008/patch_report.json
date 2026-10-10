@@ -1,0 +1,416 @@
+{
+  "native_render": [
+    {
+      "file": "ch2_09b_hs05.ydr",
+      "triangles_cut": 212,
+      "offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "original_shader_keys_preserved": true
+    },
+    {
+      "file": "ch2_09b_hs05_details.ydr",
+      "triangles_cut": 159,
+      "offset": [
+        1.64703369140625,
+        0.270751953125,
+        -0.0522613525390625
+      ],
+      "original_shader_keys_preserved": true
+    },
+    {
+      "file": "ch2_09b_l2.ydr",
+      "triangles_cut": 27,
+      "offset": [
+        6.81524658203125,
+        -6.431640625,
+        -10.677001953125
+      ],
+      "original_shader_keys_preserved": true
+    }
+  ],
+  "native_collision": [
+    {
+      "file": "apa_ch2_09b_0.ybn",
+      "primitives_cut": 32
+    },
+    {
+      "file": "apa_ch2_09b_1.ybn",
+      "primitives_cut": 9
+    },
+    {
+      "file": "apa_ch2_09b_2.ybn",
+      "primitives_cut": 2
+    },
+    {
+      "file": "apa_ch2_09b_3.ybn",
+      "primitives_cut": 52
+    },
+    {
+      "file": "ch2_09b_0.ybn",
+      "primitives_cut": 32
+    },
+    {
+      "file": "ch2_09b_1.ybn",
+      "primitives_cut": 9
+    },
+    {
+      "file": "ch2_09b_2.ybn",
+      "primitives_cut": 2
+    },
+    {
+      "file": "ch2_09b_3.ybn",
+      "primitives_cut": 52
+    },
+    {
+      "file": "hei_ch2_09b_0.ybn",
+      "primitives_cut": 32
+    },
+    {
+      "file": "hei_ch2_09b_1.ybn",
+      "primitives_cut": 9
+    },
+    {
+      "file": "hei_ch2_09b_2.ybn",
+      "primitives_cut": 2
+    },
+    {
+      "file": "hei_ch2_09b_3.ybn",
+      "primitives_cut": 52
+    },
+    {
+      "file": "hi@apa_ch2_09b_0.ybn",
+      "primitives_cut": 6
+    },
+    {
+      "file": "hi@apa_ch2_09b_1.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@apa_ch2_09b_2.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@apa_ch2_09b_3.ybn",
+      "primitives_cut": 7
+    },
+    {
+      "file": "hi@ch2_09b_0.ybn",
+      "primitives_cut": 6
+    },
+    {
+      "file": "hi@ch2_09b_1.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@ch2_09b_2.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@ch2_09b_3.ybn",
+      "primitives_cut": 7
+    },
+    {
+      "file": "hi@hei_ch2_09b_0.ybn",
+      "primitives_cut": 6
+    },
+    {
+      "file": "hi@hei_ch2_09b_1.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@hei_ch2_09b_2.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@hei_ch2_09b_3.ybn",
+      "primitives_cut": 7
+    }
+  ],
+  "wall": [
+    {
+      "file": "mansao_paredes.ydr",
+      "faces_removed": 1264,
+      "collision_faces_removed": 1264
+    },
+    {
+      "file": "cidade_mansao.ybn",
+      "faces_removed": 0,
+      "collision_faces_removed": 1264
+    }
+  ],
+  "landscape": [
+    {
+      "file": "ch2_09b_critical_0.ymap",
+      "changes": [
+        {
+          "model": "prop_bush_med_07",
+          "old": [
+            8.744384765625,
+            15.6715087890625,
+            -1.7107696533203125
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "ch2_09b_long_0.ymap",
+      "changes": [
+        {
+          "model": "prop_bush_med_03",
+          "old": [
+            10.98944091796875,
+            16.0281982421875,
+            -1.7724761962890625
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "ch2_09b_strm_0.ymap",
+      "changes": [
+        {
+          "model": "prop_agave_01",
+          "old": [
+            4.21630859375,
+            15.6861572265625,
+            -1.535400390625
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "ch2_09b_strm_1.ymap",
+      "changes": [
+        {
+          "model": "prop_weeds_nxg04",
+          "old": [
+            11.8779296875,
+            18.29010009765625,
+            -3.6979522705078125
+          ],
+          "action": "remove"
+        },
+        {
+          "model": "prop_plant_cane_02a",
+          "old": [
+            12.41693115234375,
+            17.05169677734375,
+            -1.0858306884765625
+          ],
+          "action": "remove"
+        },
+        {
+          "model": "prop_wall_light_03a",
+          "old": [
+            10.38739013671875,
+            15.0494384765625,
+            -0.3282470703125
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "apa_ch2_09b_critical_0.ymap",
+      "changes": [
+        {
+          "model": "prop_bush_med_07",
+          "old": [
+            8.744384765625,
+            15.6715087890625,
+            -1.7107696533203125
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "apa_ch2_09b_long_0.ymap",
+      "changes": [
+        {
+          "model": "prop_bush_med_03",
+          "old": [
+            10.98944091796875,
+            16.0281982421875,
+            -1.7724761962890625
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "apa_ch2_09b_strm_0.ymap",
+      "changes": [
+        {
+          "model": "prop_agave_01",
+          "old": [
+            4.21630859375,
+            15.6861572265625,
+            -1.535400390625
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "apa_ch2_09b_strm_1.ymap",
+      "changes": [
+        {
+          "model": "prop_weeds_nxg04",
+          "old": [
+            11.8779296875,
+            18.29010009765625,
+            -3.6979522705078125
+          ],
+          "action": "remove"
+        },
+        {
+          "model": "prop_plant_cane_02a",
+          "old": [
+            12.41693115234375,
+            17.05169677734375,
+            -1.0858306884765625
+          ],
+          "action": "remove"
+        },
+        {
+          "model": "prop_wall_light_03a",
+          "old": [
+            10.38739013671875,
+            15.0494384765625,
+            -0.3282470703125
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "hei_ch2_09b_critical_0.ymap",
+      "changes": [
+        {
+          "model": "prop_bush_med_07",
+          "old": [
+            8.744384765625,
+            15.6715087890625,
+            -1.7107696533203125
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "hei_ch2_09b_long_0.ymap",
+      "changes": [
+        {
+          "model": "prop_bush_med_03",
+          "old": [
+            10.98944091796875,
+            16.0281982421875,
+            -1.7724761962890625
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "hei_ch2_09b_strm_0.ymap",
+      "changes": [
+        {
+          "model": "prop_agave_01",
+          "old": [
+            4.21630859375,
+            15.6861572265625,
+            -1.535400390625
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "hei_ch2_09b_strm_1.ymap",
+      "changes": [
+        {
+          "model": "prop_weeds_nxg04",
+          "old": [
+            11.8779296875,
+            18.29010009765625,
+            -3.6979522705078125
+          ],
+          "action": "remove"
+        },
+        {
+          "model": "prop_plant_cane_02a",
+          "old": [
+            12.41693115234375,
+            17.05169677734375,
+            -1.0858306884765625
+          ],
+          "action": "remove"
+        },
+        {
+          "model": "prop_wall_light_03a",
+          "old": [
+            10.38739013671875,
+            15.0494384765625,
+            -0.3282470703125
+          ],
+          "action": "remove"
+        }
+      ]
+    },
+    {
+      "file": "ch2_roads_long_0.ymap",
+      "changes": [
+        {
+          "model": "prop_palm_sm_01d",
+          "old": [
+            12.41876220703125,
+            16.14459228515625,
+            -1.8524932861328125
+          ],
+          "new": [
+            14.03,
+            15.9,
+            -1.8524932861328125
+          ],
+          "action": "move_to_retained_soil"
+        }
+      ]
+    },
+    {
+      "file": "ch2_roads.ymap",
+      "changes": [
+        {
+          "model": "ch2_props_combo0126_11_lod",
+          "old": [
+            12.41876220703125,
+            16.14459228515625,
+            -1.1068572998046875
+          ],
+          "new": [
+            14.03,
+            15.9,
+            -1.1068572998046875
+          ],
+          "action": "move_to_retained_soil"
+        }
+      ]
+    }
+  ],
+  "occlusion": [
+    {
+      "file": "ch2_occl_02.ymap",
+      "opened": 1
+    },
+    {
+      "file": "apa_ch2_occl_02.ymap",
+      "opened": 1
+    }
+  ]
+}

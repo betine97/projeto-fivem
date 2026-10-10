@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "terrain_render_height_max_error_m": 0.0005135392461816934,
+  "max_road_segment_grade": 0.1394345738681585,
+  "original_house_placements_preserved": 91,
+  "main_city_buildings": 250,
+  "village_buildings": 64,
+  "villages": 4,
+  "ground_ray_requests": 3601,
+  "native_tree_drawables_unchanged": true,
+  "client_visual_verified": false
+}

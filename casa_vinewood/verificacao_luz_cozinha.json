@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "runtime_frames": 481,
+  "budget": 24,
+  "peak_calls": 24,
+  "all_five_worktop_sections_covered": true,
+  "nearest_kitchen_leds_active": 4,
+  "night_day_factor": 3.666666666666667,
+  "far_sleep": true,
+  "camera_only": true,
+  "script_sha256": "05db8923e78c607de5cf4f27842e0594d048e920ff108f74387e8b927cee0003"
+}

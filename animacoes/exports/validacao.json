@@ -1,0 +1,8 @@
+{
+  "xml_roundtrip": true,
+  "clips": 2,
+  "animations": 2,
+  "binary_ycd": false,
+  "game_tested": false,
+  "status": "Estudo; empunhadura e root motion ainda precisam de ajustes"
+}

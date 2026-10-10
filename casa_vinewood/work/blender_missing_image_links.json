@@ -1,0 +1,678 @@
+[
+  {
+    "material": "im_floortiles03",
+    "image": "im_floortiles03_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_floortiles03_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_floortiles03.001",
+    "image": "im_floortiles03_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_floortiles03_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_ground_stones02",
+    "image": "im_ground_stones02_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_ground_stones02_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_ground_stones02.001",
+    "image": "im_ground_stones02_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_ground_stones02_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_roof04",
+    "image": "im_roof4_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_roof4_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_roof04",
+    "image": "im_roof04_s3",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_roof04_s3.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_roof04.001",
+    "image": "im_roof4_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_roof4_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_roof04.001",
+    "image": "im_roof04_s3",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_roof04_s3.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall23",
+    "image": "im_wall23_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall23_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall23.001",
+    "image": "im_wall23_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall23_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall32",
+    "image": "im_wall16_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall16_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall32.001",
+    "image": "im_wall16_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall16_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall_brick_32",
+    "image": "im_wall_brick_32_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall_brick_32_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall_brick_32",
+    "image": "im_wall_brick_32_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall_brick_32_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall_brick_32.001",
+    "image": "im_wall_brick_32_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall_brick_32_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wall_brick_32.001",
+    "image": "im_wall_brick_32_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wall_brick_32_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_walloverlay01",
+    "image": "im_walloverlay01_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_walloverlay01_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "im_walloverlay01.001",
+    "image": "im_walloverlay01_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_walloverlay01_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "im_wood_panels_05",
+    "image": "im_wood_panels_05_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wood_panels_05_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "im_wood_panels_05.001",
+    "image": "im_wood_panels_05_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_wood_panels_05_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "os_rnbj_bvwalloverlay_0002",
+    "image": "os_rnbj_bvwalloverlay_0002",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\os_rnbj_bvwalloverlay_0002.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "os_rnbj_bvwalloverlay_0002.001",
+    "image": "os_rnbj_bvwalloverlay_0002",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\os_rnbj_bvwalloverlay_0002.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdoors01",
+    "image": "scrn_ch2-09bdoors01_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdoors01_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdoors01.001",
+    "image": "scrn_ch2-09bdoors01_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdoors01_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdoors01.001",
+    "image": "scrn_ch2-09bdoors01_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdoors01_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdoors01.002",
+    "image": "scrn_ch2-09bdoors01_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdoors01_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdoors01.003",
+    "image": "scrn_ch2-09bdoors01_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdoors01_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdoors01.003",
+    "image": "scrn_ch2-09bdoors01_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdoors01_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_01.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_01.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.001",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_02.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.001",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_02.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.002",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.002",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.003",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.003",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.004",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_03.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.004",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_03.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.005",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_04.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.005",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05_balc_04.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.006",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_01.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.006",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_01.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.007",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_02.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.007",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_02.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.008",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.008",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_details.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.009",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.009",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.010",
+    "image": "scrn_ch2-09bdtlsextras_n",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_n.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_04.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.010",
+    "image": "scrn_ch2-09bdtlsextras_s",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bdtlsextras_s.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "Corrigido ch2_09b_hs05_balc_04.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bwins01",
+    "image": "scrn_ch2-09bwins01",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bwins01.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bwins01.001",
+    "image": "scrn_ch2-09bwins01",
+    "path": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bwins01.dds",
+    "size": [
+      0,
+      0
+    ],
+    "node_linked": true,
+    "objects": [
+      "ch2_09b_hs05.model"
+    ]
+  }
+]

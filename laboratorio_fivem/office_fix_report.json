@@ -1,0 +1,13 @@
+{
+  "native_office_props": [
+    "prop_off_chair_04b",
+    "prop_off_phone_01",
+    "prop_monitor_01c",
+    "prop_keyboard_01a",
+    "prop_mouse_01a",
+    "prop_pc_01a"
+  ],
+  "tabletop_triangles_removed": 612,
+  "vent_geometries_matched": 5,
+  "entities": 67
+}

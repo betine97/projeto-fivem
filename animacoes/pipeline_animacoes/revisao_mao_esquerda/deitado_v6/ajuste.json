@@ -1,0 +1,163 @@
+{
+  "source": "deitado_ak.blend",
+  "blend_file": "deitado_ak_mao_esquerda.blend",
+  "version": "deitado_v6",
+  "game_deployed": false,
+  "settings": {
+    "version": "deitado_v6",
+    "posture": "deitado",
+    "samples": 32,
+    "views": [
+      "01_lado_esquerdo",
+      "02_lado_direito",
+      "03_frente",
+      "06_pose_completa"
+    ],
+    "correct_recoil": true,
+    "mesh_tip_axes": true,
+    "palm_under": true,
+    "wrap_fingers": true,
+    "thumb_wrap": true,
+    "forearm_twist": true,
+    "wrist": [
+      0.205,
+      0.066,
+      -0.038
+    ],
+    "finger_outward": 0.01,
+    "little_outward": 0.022,
+    "middle_direction": [
+      0,
+      0,
+      0.032
+    ],
+    "tip_direction": [
+      0,
+      0.012,
+      0.015
+    ],
+    "thumb0": [
+      0.009,
+      0.028,
+      0.05
+    ],
+    "thumb1": [
+      -0.009,
+      -0.014,
+      0.026
+    ],
+    "thumb2": [
+      0.025,
+      -0.009,
+      0.004
+    ],
+    "correct_reload": true,
+    "export_v6": true,
+    "no_render": true
+  },
+  "reach_ratio": 0.9287906977643345,
+  "native_rest_preserved": true,
+  "right_hand_and_weapon_preserved": true,
+  "wrist_gun_local": [
+    0.205000102519989,
+    0.06599985808134079,
+    -0.03799990192055702
+  ],
+  "idle_action": "REVISAO_apoio_esquerdo_deitado_v6",
+  "recoil_action": "REVISAO_recuo_deitado_v6",
+  "recoil_validation": {
+    "frames": 30,
+    "left_wrist_contact_error_m": 3.749056346836425e-07,
+    "max_right_hand_change": 3.725290298461914e-07,
+    "max_lower_body_change": 2.384185791015625e-07
+  },
+  "reload_action": "REVISAO_recarga_deitado_v6",
+  "reload_validation": {
+    "frames": 67,
+    "non_left_bone_error": 1.1920928955078125e-07,
+    "return_to_idle_error": 1.6614794731140137e-06,
+    "weapon_matrix_error": 2.086162567138672e-07
+  },
+  "left_hand_bones": {
+    "SKEL_L_Hand": [
+      0.205000102519989,
+      0.06599985808134079,
+      -0.03799990192055702
+    ],
+    "SKEL_L_Finger00": [
+      0.22637277841567993,
+      0.04143467918038368,
+      -0.026729732751846313
+    ],
+    "SKEL_L_Finger01": [
+      0.2351112961769104,
+      0.06862062215805054,
+      0.02181660197675228
+    ],
+    "SKEL_L_Finger02": [
+      0.22462040185928345,
+      0.05230164900422096,
+      0.05212315544486046
+    ],
+    "SKEL_L_Finger10": [
+      0.23901088535785675,
+      -0.041270166635513306,
+      -0.03373361751437187
+    ],
+    "SKEL_L_Finger11": [
+      0.23901088535785675,
+      -0.05054428055882454,
+      0.01263716071844101
+    ],
+    "SKEL_L_Finger12": [
+      0.2390110045671463,
+      -0.05054425075650215,
+      0.03674503415822983
+    ],
+    "SKEL_L_Finger20": [
+      0.2167040854692459,
+      -0.0421326570212841,
+      -0.04275061935186386
+    ],
+    "SKEL_L_Finger21": [
+      0.2167040854692459,
+      -0.05229085683822632,
+      0.008040454238653183
+    ],
+    "SKEL_L_Finger22": [
+      0.2167040854692459,
+      -0.05229081213474274,
+      0.040879394859075546
+    ],
+    "SKEL_L_Finger30": [
+      0.1922672539949417,
+      -0.035668425261974335,
+      -0.04178162291646004
+    ],
+    "SKEL_L_Finger31": [
+      0.1922672539949417,
+      -0.04441287741065025,
+      0.0019416497088968754
+    ],
+    "SKEL_L_Finger32": [
+      0.1922672539949417,
+      -0.04441268369555473,
+      0.032595545053482056
+    ],
+    "SKEL_L_Finger40": [
+      0.17201824486255646,
+      -0.027962109073996544,
+      -0.0337335504591465
+    ],
+    "SKEL_L_Finger41": [
+      0.17201824486255646,
+      -0.04335515946149826,
+      0.0012507752981036901
+    ],
+    "SKEL_L_Finger42": [
+      0.17201824486255646,
+      -0.043355174362659454,
+      0.024148734286427498
+    ]
+  }
+}

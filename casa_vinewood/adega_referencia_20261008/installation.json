@@ -1,0 +1,21 @@
+{
+  "installed_files": {
+    "stream\\mansao_adega_vitrines.ydr": "9b905a50e8ad13cd5d371628b1f40da9d6b1585d2a4b153594f43ac80fb256bd",
+    "stream\\mansao_adega_vitrines.ytyp": "c66853a021d4d982cdcbf2ed845c42f7b30be0ee7dec1bf810c525396bddf61f",
+    "stream\\mansao_adega_vitrines.ymap": "52dfff1e5b3de0ba50e4327a65a5175295155abf116c9a82ed85d3db7ab23805",
+    "stream\\mansao_adega_vitrines.ybn": "c2d82e7b044dcc9bca05ade7757006fafb9d47871ff0ba7bd1e9f16b672b42cb",
+    "adega_vitrines_luzes.lua": "11703cfe28481935085a408272d1c1360eddf09c2da13aa8c4233c3d628041c1",
+    "objetos_catalogo.json": "c01e166b98fc9a2ef407dece038acfe78bcaf33240198e2971652742292fa9e5",
+    "fxmanifest.lua": "cc32d1484bf34e648dc8627794c13a973fec376f794e1ddd76a88ac6feea4aec"
+  },
+  "backups": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\adega_referencia_20261008\\backup_preinstall\\20261008_143207_531832",
+  "in_game_verified": false,
+  "requires_resource_reload": true,
+  "catalog_object_ids_poses_scales_preserved": true,
+  "saved_positions_file_not_written": true,
+  "saved_positions_unchanged_during_install": true,
+  "fixed_cabinet_protected_from_prop_editor": true,
+  "native_hashes_match_validation": true,
+  "shared_manifest_previous_entries_preserved": true,
+  "installed_at": "2026-10-08T14:32:07.634997-03:00"
+}

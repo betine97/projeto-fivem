@@ -1,0 +1,5532 @@
+{
+  "version": 9,
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "lighting_style": "golden_architectural_accents",
+  "native_always_on": true,
+  "native_count": 149,
+  "native_ceiling_count": 88,
+  "native_pendant_count": 9,
+  "native_bounce_count": 21,
+  "max_lights": 0,
+  "lights": [],
+  "native_lights": [
+    {
+      "id": "cylinder_1",
+      "kind": "pendant_yellow",
+      "position": [
+        2.653909921646118,
+        -9.399209976196289,
+        1.776229977607727
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 5.376229763031006,
+      "intensity": 0.9775000214576721,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 47.38339614868164,
+      "shadow": false,
+      "floor_radius_m": 2.8,
+      "beam_height_m": 2.57623,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "cylinder_2",
+      "kind": "pendant_yellow",
+      "position": [
+        2.651900053024292,
+        -8.87572956085205,
+        2.218820095062256
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 5.818819999694824,
+      "intensity": 0.9775000214576721,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 42.84637451171875,
+      "shadow": true,
+      "floor_radius_m": 2.8,
+      "beam_height_m": 3.01882,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "cylinder_3",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6482300758361816,
+        -8.37012004852295,
+        1.4659299850463867
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 5.065929889678955,
+      "intensity": 0.9775000214576721,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 51.01811218261719,
+      "shadow": false,
+      "floor_radius_m": 2.8,
+      "beam_height_m": 2.26593,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "cylinder_4",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6510798931121826,
+        -7.831079959869385,
+        2.1443400382995605
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 5.744339942932129,
+      "intensity": 0.9775000214576721,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 43.560611724853516,
+      "shadow": false,
+      "floor_radius_m": 2.8,
+      "beam_height_m": 2.9443400000000004,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "cylinder_5",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6468100547790527,
+        -7.500329971313477,
+        1.8982399702072144
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 5.498239994049072,
+      "intensity": 0.9775000214576721,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 46.06029510498047,
+      "shadow": true,
+      "floor_radius_m": 2.8,
+      "beam_height_m": 2.69824,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "cylinder_6",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6505699157714844,
+        -7.195069789886475,
+        2.1542000770568848
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 5.754199981689453,
+      "intensity": 0.9775000214576721,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 43.4649658203125,
+      "shadow": false,
+      "floor_radius_m": 2.8,
+      "beam_height_m": 2.9542,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "linear_1",
+      "kind": "pendant_yellow",
+      "position": [
+        10.449999809265137,
+        -9.75,
+        1.315000057220459
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 4.914999961853027,
+      "intensity": 1.0846000909805298,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 44.79610061645508,
+      "shadow": false,
+      "floor_radius_m": 2.1,
+      "beam_height_m": 2.115,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "linear_2",
+      "kind": "pendant_yellow",
+      "position": [
+        10.449999809265137,
+        -9.0,
+        1.315000057220459
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 4.914999961853027,
+      "intensity": 1.0846000909805298,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 44.79610061645508,
+      "shadow": true,
+      "floor_radius_m": 2.1,
+      "beam_height_m": 2.115,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "linear_3",
+      "kind": "pendant_yellow",
+      "position": [
+        10.449999809265137,
+        -8.25,
+        1.315000057220459
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        72
+      ],
+      "range": 4.914999961853027,
+      "intensity": 1.0846000909805298,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 3.0,
+      "outer_angle": 44.79610061645508,
+      "shadow": false,
+      "floor_radius_m": 2.1,
+      "beam_height_m": 2.115,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_1",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        -11.099980354309082,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 11.962601661682129,
+      "intensity": 1.3824000358581543,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 35.93229675292969,
+      "shadow": false,
+      "floor_radius_m": 5.2,
+      "beam_height_m": 7.175,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_2",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        -8.099980354309082,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 11.962601661682129,
+      "intensity": 1.3824000358581543,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 35.93229675292969,
+      "shadow": true,
+      "floor_radius_m": 5.2,
+      "beam_height_m": 7.175,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_3",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 11.962601661682129,
+      "intensity": 1.3824000358581543,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 35.93229675292969,
+      "shadow": false,
+      "floor_radius_m": 5.2,
+      "beam_height_m": 7.175,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_4",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_5",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_6",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        4.099979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_7",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        6.599979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_8",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        8.299989700317383,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_9",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 11.962601661682129,
+      "intensity": 1.3824000358581543,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 35.93229675292969,
+      "shadow": true,
+      "floor_radius_m": 5.2,
+      "beam_height_m": 7.175,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_10",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_11",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_12",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        4.099979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_13",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        6.599979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_14",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        8.299989700317383,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_15",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 11.962601661682129,
+      "intensity": 1.3824000358581543,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 35.93229675292969,
+      "shadow": false,
+      "floor_radius_m": 5.2,
+      "beam_height_m": 7.175,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_16",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_17",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_18",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        4.099979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_19",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        6.599979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_20",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        8.299989700317383,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_21",
+      "kind": "ceiling_warm",
+      "position": [
+        1.2999900579452515,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 11.962601661682129,
+      "intensity": 1.3824000358581543,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 35.93229675292969,
+      "shadow": false,
+      "floor_radius_m": 5.2,
+      "beam_height_m": 7.175,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_22",
+      "kind": "ceiling_warm",
+      "position": [
+        1.2999900579452515,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_23",
+      "kind": "ceiling_warm",
+      "position": [
+        1.2999900579452515,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_24",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 11.962601661682129,
+      "intensity": 1.3824000358581543,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 35.93229675292969,
+      "shadow": false,
+      "floor_radius_m": 5.2,
+      "beam_height_m": 7.175,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_25",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_26",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_27",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        4.099979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_28",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        6.599979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_29",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -11.099980354309082,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_30",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -8.099980354309082,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_31",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -5.299990177154541,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_32",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_33",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_34",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        4.099979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_35",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        6.599979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_36",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        -11.099980354309082,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_37",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        -5.299990177154541,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_38",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_39",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_40",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -11.099980354309082,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_41",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -8.099980354309082,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_42",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -5.299990177154541,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_43",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -2.299989938735962,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_44",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        0.5999799966812134,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_45",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        4.099979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_46",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        6.599979877471924,
+        2.2829999923706055
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.183000087738037,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 46.06682205200195,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.083,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_47",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        -2.299989938735962,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_48",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        0.5999799966812134,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_49",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        4.099979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_50",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        6.599979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_51",
+      "kind": "ceiling_warm",
+      "position": [
+        -7.599979877471924,
+        8.299989700317383,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_52",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        4.099979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_53",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        6.599979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_54",
+      "kind": "ceiling_warm",
+      "position": [
+        -5.099979877471924,
+        8.299989700317383,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_55",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        -2.299989938735962,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_56",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        0.5999799966812134,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_57",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        4.099979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_58",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        6.599979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_59",
+      "kind": "ceiling_warm",
+      "position": [
+        -2.0,
+        8.299989700317383,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_60",
+      "kind": "ceiling_warm",
+      "position": [
+        1.2999900579452515,
+        -2.299989938735962,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_61",
+      "kind": "ceiling_warm",
+      "position": [
+        1.2999900579452515,
+        0.5999799966812134,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_62",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        -2.299989938735962,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_63",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        0.5999799966812134,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_64",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        4.099979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_65",
+      "kind": "ceiling_warm",
+      "position": [
+        4.299990177154541,
+        6.599979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_66",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -14.400019645690918,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_67",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -11.099980354309082,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_68",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -8.099980354309082,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_69",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_70",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        -2.299989938735962,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_71",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        0.5999799966812134,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_72",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        4.099979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_73",
+      "kind": "ceiling_warm",
+      "position": [
+        7.700009822845459,
+        6.599979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_74",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        -14.400019645690918,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_75",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        -11.099980354309082,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_76",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_77",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        -2.299989938735962,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_78",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        0.5999799966812134,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_79",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        4.099979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_80",
+      "kind": "ceiling_warm",
+      "position": [
+        10.799989700317383,
+        6.599979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_81",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -14.400019645690918,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_82",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -11.099980354309082,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_83",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -8.099980354309082,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_84",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -5.299990177154541,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_85",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        -2.299989938735962,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_86",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        0.5999799966812134,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_87",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        4.099979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "spot_88",
+      "kind": "ceiling_warm",
+      "position": [
+        12.900019645690918,
+        6.599979877471924,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        165,
+        76
+      ],
+      "range": 6.666999816894531,
+      "intensity": 0.8208000063896179,
+      "falloff_exponent": 3.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 41.89567565917969,
+      "shadow": false,
+      "floor_radius_m": 3.2,
+      "beam_height_m": 3.567,
+      "edge_style": "soft_warm_architectural",
+      "no_specular": true
+    },
+    {
+      "id": "bounce_0_0",
+      "kind": "bounce",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -4.800000190734863,
+        -9.300000190734863,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 6.25,
+      "intensity": 0.17856000363826752,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_0_1",
+      "kind": "bounce",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -4.800000190734863,
+        -3.5999999046325684,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 6.25,
+      "intensity": 0.17856000363826752,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_1_0",
+      "kind": "bounce",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        2.799999952316284,
+        -9.300000190734863,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 6.25,
+      "intensity": 0.17856000363826752,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_1_1",
+      "kind": "bounce",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        2.799999952316284,
+        -3.5999999046325684,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 6.25,
+      "intensity": 0.17856000363826752,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_2_0",
+      "kind": "bounce",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        10.050000190734863,
+        -6.849999904632568,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 4.75,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_3_0",
+      "kind": "bounce",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        2.450000047683716,
+        0.75,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 4.75,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_4_0",
+      "kind": "bounce",
+      "room": "Escritorio",
+      "level": "terreo",
+      "position": [
+        -6.099999904632568,
+        6.0,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 4.75,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_5_0",
+      "kind": "bounce",
+      "room": "Lavabo",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        4.196000099182129,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 3.450000047683716,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_6_0",
+      "kind": "bounce",
+      "room": "Escada",
+      "level": "terreo",
+      "position": [
+        1.0,
+        4.122000217437744,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 4.75,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_7_0",
+      "kind": "bounce",
+      "room": "Despensa",
+      "level": "terreo",
+      "position": [
+        4.150000095367432,
+        4.122000217437744,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 3.450000047683716,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_8_0",
+      "kind": "bounce",
+      "room": "Sala TV Jogos",
+      "level": "terreo",
+      "position": [
+        8.100000381469727,
+        4.75,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 4.75,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_9_0",
+      "kind": "bounce",
+      "room": "Lavanderia",
+      "level": "terreo",
+      "position": [
+        12.100000381469727,
+        4.36299991607666,
+        1.600000023841858
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 3.450000047683716,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_10_0",
+      "kind": "bounce",
+      "room": "Suite master",
+      "level": "superior",
+      "position": [
+        -4.800000190734863,
+        3.5959999561309814,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 5.449999809265137,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_11_0",
+      "kind": "bounce",
+      "room": "Closet",
+      "level": "superior",
+      "position": [
+        -6.800000190734863,
+        -1.350000023841858,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 3.450000047683716,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_12_0",
+      "kind": "bounce",
+      "room": "Banheiro da suite",
+      "level": "superior",
+      "position": [
+        -2.799999952316284,
+        -1.350000023841858,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 3.450000047683716,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_13_0",
+      "kind": "bounce",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        10.050000190734863,
+        -9.199999809265137,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 5.449999809265137,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_14_0",
+      "kind": "bounce",
+      "room": "Quarto 3",
+      "level": "superior",
+      "position": [
+        10.050000190734863,
+        4.013000011444092,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 5.449999809265137,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_15_0",
+      "kind": "bounce",
+      "room": "Banheiro social",
+      "level": "superior",
+      "position": [
+        11.75,
+        -0.6000000238418579,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 3.450000047683716,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_16_0",
+      "kind": "bounce",
+      "room": "Circulacao quartos",
+      "level": "superior",
+      "position": [
+        8.100000381469727,
+        -0.6000000238418579,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 3.450000047683716,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_17_0",
+      "kind": "bounce",
+      "room": "Mezanino",
+      "level": "superior",
+      "position": [
+        2.799999952316284,
+        -1.100000023841858,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 4.75,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_18_0",
+      "kind": "bounce",
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "position": [
+        2.799999952316284,
+        3.7720000743865967,
+        5.2079997062683105
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        185,
+        105
+      ],
+      "range": 4.75,
+      "intensity": 0.15360000729560852,
+      "falloff_exponent": 5.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "warm_wall_1",
+      "kind": "wall_wash",
+      "position": [
+        -8.699999809265137,
+        -11.399999618530273,
+        2.299999952316284
+      ],
+      "floor_z": -0.8,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 4.2,
+      "no_specular": true,
+      "cull_below_floor": true,
+      "rgb": [
+        255,
+        158,
+        62
+      ],
+      "intensity": 0.800000011920929,
+      "range": 1.7000000476837158,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false
+    },
+    {
+      "id": "warm_wall_2",
+      "kind": "wall_wash",
+      "position": [
+        -8.699999809265137,
+        -6.0,
+        2.299999952316284
+      ],
+      "floor_z": -0.8,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 4.2,
+      "no_specular": true,
+      "cull_below_floor": true,
+      "rgb": [
+        255,
+        158,
+        62
+      ],
+      "intensity": 0.800000011920929,
+      "range": 1.7000000476837158,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false
+    },
+    {
+      "id": "warm_wall_3",
+      "kind": "wall_wash",
+      "position": [
+        6.71999979019165,
+        -2.6500000953674316,
+        1.149999976158142
+      ],
+      "floor_z": -0.8,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 2.2,
+      "no_specular": true,
+      "cull_below_floor": true,
+      "rgb": [
+        255,
+        158,
+        62
+      ],
+      "intensity": 0.949999988079071,
+      "range": 2.0,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false
+    },
+    {
+      "id": "warm_wall_4",
+      "kind": "wall_wash",
+      "position": [
+        11.800000190734863,
+        -1.3799999952316284,
+        1.2000000476837158
+      ],
+      "floor_z": -0.8,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 2.1,
+      "no_specular": true,
+      "cull_below_floor": true,
+      "rgb": [
+        255,
+        158,
+        62
+      ],
+      "intensity": 0.800000011920929,
+      "range": 2.200000047683716,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false
+    },
+    {
+      "id": "warm_wall_5",
+      "kind": "wall_wash",
+      "position": [
+        6.050000190734863,
+        -2.4000000953674316,
+        1.149999976158142
+      ],
+      "floor_z": -0.8,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 2.2,
+      "no_specular": true,
+      "cull_below_floor": true,
+      "rgb": [
+        255,
+        158,
+        62
+      ],
+      "intensity": 0.75,
+      "range": 1.7000000476837158,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false
+    },
+    {
+      "id": "warm_wall_6",
+      "kind": "wall_wash",
+      "position": [
+        13.819999694824219,
+        -6.400000095367432,
+        0.8999999761581421
+      ],
+      "floor_z": -0.8,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 2.2,
+      "no_specular": true,
+      "cull_below_floor": true,
+      "rgb": [
+        255,
+        158,
+        62
+      ],
+      "intensity": 0.6499999761581421,
+      "range": 1.5,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false
+    },
+    {
+      "id": "warm_wall_7",
+      "kind": "wall_wash",
+      "position": [
+        -7.400000095367432,
+        -1.2000000476837158,
+        1.149999976158142
+      ],
+      "floor_z": -0.8,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 2.2,
+      "no_specular": true,
+      "cull_below_floor": true,
+      "rgb": [
+        255,
+        158,
+        62
+      ],
+      "intensity": 0.699999988079071,
+      "range": 1.7000000476837158,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "shadow": false
+    }
+  ],
+  "description": "Golden fixtures and brighter warm lenses; seven face-aligned wall washes, lower indirect fill, limited native shadows. Preserve v8 interior optical cleanup and fixed light availability.",
+  "native_stair_count": 20,
+  "native_tv_led_count": 4,
+  "ceiling_lens_diffuser_lods": [
+    {
+      "lod": "HIGH",
+      "radius_m": 0.05,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 5.0
+    },
+    {
+      "lod": "MED",
+      "radius_m": 0.052,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 12.0
+    },
+    {
+      "lod": "LOW",
+      "radius_m": 0.055,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 30.0
+    },
+    {
+      "lod": "VLOW",
+      "radius_m": 0.055,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 70.0
+    }
+  ],
+  "decorative_native_lights": [
+    {
+      "id": "stair_1",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000000715255737,
+        1.78000004196167,
+        2.7500000953674317
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.0959999561309814,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_2",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        1.7199993619918823,
+        -0.6776000499725342
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_3",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.019999433517456,
+        -0.4971999764442444
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_4",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.319998670578003,
+        -0.3167999923229218
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_5",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.6199998149871826,
+        -0.1364000156521797
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_6",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.9199990520477295,
+        0.0439999982714653
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_7",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.220000196456909,
+        0.22439996004104615
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_8",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.519999433517456,
+        0.40479997396469114
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_9",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.819998670578003,
+        0.5851999282836914
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_10",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        4.120000053405762,
+        0.7655999422073364
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_11",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.480000328063965,
+        1.1263999700546266
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_12",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.179998706817627,
+        1.3068001031875611
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_13",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.879999708175659,
+        1.4871999979019166
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_14",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.5800004711151123,
+        1.6676001310348512
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_15",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.2799993267059326,
+        1.8480000257492066
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_16",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.9800000896453858,
+        2.0284000396728517
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_17",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.679998945236206,
+        2.208799934387207
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_18",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.379999708175659,
+        2.3892000675201417
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_19",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.079999517440796,
+        2.569599962234497
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_20",
+      "kind": "stair_yellow",
+      "position": [
+        1.100000023841858,
+        4.419999767303467,
+        0.9459998965263366
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 2.496000051498413,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "tv_frame_1",
+      "kind": "tv_yellow",
+      "position": [
+        -8.774999618530273,
+        -8.773500442504883,
+        1.4639999866485596
+      ],
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "length_m": 2.193,
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        70
+      ],
+      "intensity": 0.7916999459266663,
+      "range": 1.100000023841858,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "no_specular": true,
+      "shadow": false
+    },
+    {
+      "id": "tv_frame_2",
+      "kind": "tv_yellow",
+      "position": [
+        -8.774999618530273,
+        -9.869999885559082,
+        0.9200000166893005
+      ],
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 1.088,
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        70
+      ],
+      "intensity": 0.4147000014781952,
+      "range": 0.7200000286102295,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "no_specular": true,
+      "shadow": false
+    },
+    {
+      "id": "tv_frame_3",
+      "kind": "tv_yellow",
+      "position": [
+        -8.774999618530273,
+        -7.677000045776367,
+        0.9200000166893005
+      ],
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "length_m": 1.088,
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        70
+      ],
+      "intensity": 0.4147000014781952,
+      "range": 0.7200000286102295,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "no_specular": true,
+      "shadow": false
+    },
+    {
+      "id": "tv_frame_4",
+      "kind": "tv_yellow",
+      "position": [
+        -8.774999618530273,
+        -8.773500442504883,
+        0.37599998712539673
+      ],
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "length_m": 2.193,
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        174,
+        70
+      ],
+      "intensity": 0.36191999912261963,
+      "range": 0.6800000071525574,
+      "falloff_exponent": 4.0,
+      "inner_angle": 0.0,
+      "outer_angle": 0.0,
+      "no_specular": true,
+      "shadow": false
+    }
+  ],
+  "reference_inspection": "227 native sources read from original Michael and clothing-store GTA assets; adapted to mansion dimensions, without copying original assets.",
+  "native_wall_wash_count": 7,
+  "native_ceiling_color": [
+    255,
+    165,
+    76
+  ],
+  "clean_postfx": {
+    "enabled": true,
+    "modifier": "mansao_luz_nitida_v9",
+    "variables": {
+      "postfx_intensity_bloom": 0.08,
+      "postfx_noise": 0.0,
+      "screen_blur_intensity": 0.0,
+      "dof_blur_mid": 0.0,
+      "dof_blur_far": 0.0
+    },
+    "interior_polygons": [
+      [
+        [
+          6.368492424049174,
+          -11.669492424049176
+        ],
+        [
+          6.353222589674364,
+          -11.683332195206175
+        ],
+        [
+          6.336669748934115,
+          -11.695608618583535
+        ],
+        [
+          6.318993314733459,
+          -11.706203465513155
+        ],
+        [
+          6.300363520796668,
+          -11.715014701827371
+        ],
+        [
+          6.2809597822234355,
+          -11.721957470503765
+        ],
+        [
+          6.260968967623386,
+          -11.726964908884678
+        ],
+        [
+          6.240583599469207,
+          -11.729988792601162
+        ],
+        [
+          6.219999999999999,
+          -11.731000000000002
+        ],
+        [
+          4.867,
+          -11.731000000000002
+        ],
+        [
+          4.846416400530792,
+          -11.729988792601162
+        ],
+        [
+          4.826031032376613,
+          -11.726964908884678
+        ],
+        [
+          4.806040217776563,
+          -11.721957470503765
+        ],
+        [
+          4.786636479203331,
+          -11.715014701827371
+        ],
+        [
+          4.76800668526654,
+          -11.706203465513155
+        ],
+        [
+          4.750330251065884,
+          -11.695608618583535
+        ],
+        [
+          4.733777410325635,
+          -11.683332195206175
+        ],
+        [
+          4.718507575950825,
+          -11.669492424049176
+        ],
+        [
+          4.704667804793825,
+          -11.654222589674367
+        ],
+        [
+          4.692391381416465,
+          -11.637669748934117
+        ],
+        [
+          4.681796534486845,
+          -11.61999331473346
+        ],
+        [
+          4.672985298172629,
+          -11.601363520796669
+        ],
+        [
+          4.666414725368104,
+          -11.583000000000002
+        ],
+        [
+          1.611,
+          -11.583000000000002
+        ],
+        [
+          1.611,
+          -12.67
+        ],
+        [
+          1.6099887926011613,
+          -12.690583599469207
+        ],
+        [
+          1.6069649088846785,
+          -12.710968967623387
+        ],
+        [
+          1.6019574705037638,
+          -12.730959782223437
+        ],
+        [
+          1.5950147018273702,
+          -12.750363520796668
+        ],
+        [
+          1.5862034655131545,
+          -12.768993314733459
+        ],
+        [
+          1.5756086185835345,
+          -12.786669748934116
+        ],
+        [
+          1.5633321952061747,
+          -12.803222589674366
+        ],
+        [
+          1.549492424049175,
+          -12.818492424049175
+        ],
+        [
+          1.5342225896743655,
+          -12.832332195206174
+        ],
+        [
+          1.5176697489341164,
+          -12.844608618583534
+        ],
+        [
+          1.4999933147334596,
+          -12.855203465513155
+        ],
+        [
+          1.4813635207966689,
+          -12.86401470182737
+        ],
+        [
+          1.4619597822234371,
+          -12.870957470503765
+        ],
+        [
+          1.4419689676233869,
+          -12.875964908884677
+        ],
+        [
+          1.4215835994692079,
+          -12.878988792601161
+        ],
+        [
+          1.401,
+          -12.88
+        ],
+        [
+          -0.6200000000000008,
+          -12.88
+        ],
+        [
+          -0.6405835994692085,
+          -12.878988792601161
+        ],
+        [
+          -0.6609689676233877,
+          -12.875964908884677
+        ],
+        [
+          -0.6809597822234379,
+          -12.870957470503765
+        ],
+        [
+          -0.7003635207966697,
+          -12.86401470182737
+        ],
+        [
+          -0.7189933147334603,
+          -12.855203465513155
+        ],
+        [
+          -0.7366697489341172,
+          -12.844608618583534
+        ],
+        [
+          -0.7532225896743664,
+          -12.832332195206174
+        ],
+        [
+          -0.7684924240491757,
+          -12.818492424049175
+        ],
+        [
+          -0.7823321952061756,
+          -12.803222589674366
+        ],
+        [
+          -0.7946086185835353,
+          -12.786669748934116
+        ],
+        [
+          -0.8000000000000007,
+          -12.777674772461888
+        ],
+        [
+          -0.8053913814164662,
+          -12.786669748934116
+        ],
+        [
+          -0.817667804793826,
+          -12.803222589674366
+        ],
+        [
+          -0.8315075759508257,
+          -12.818492424049175
+        ],
+        [
+          -0.8467774103256351,
+          -12.832332195206174
+        ],
+        [
+          -0.8633302510658841,
+          -12.844608618583534
+        ],
+        [
+          -0.8810066852665411,
+          -12.855203465513155
+        ],
+        [
+          -0.8996364792033318,
+          -12.86401470182737
+        ],
+        [
+          -0.9190402177765635,
+          -12.870957470503765
+        ],
+        [
+          -0.9390310323766137,
+          -12.875964908884677
+        ],
+        [
+          -0.9594164005307929,
+          -12.878988792601161
+        ],
+        [
+          -0.9800000000000006,
+          -12.88
+        ],
+        [
+          -8.125,
+          -12.88
+        ],
+        [
+          -8.145583599469207,
+          -12.878988792601161
+        ],
+        [
+          -8.165968967623387,
+          -12.875964908884677
+        ],
+        [
+          -8.185959782223437,
+          -12.870957470503765
+        ],
+        [
+          -8.205363520796668,
+          -12.86401470182737
+        ],
+        [
+          -8.223993314733459,
+          -12.855203465513155
+        ],
+        [
+          -8.241669748934116,
+          -12.844608618583534
+        ],
+        [
+          -8.258222589674366,
+          -12.832332195206174
+        ],
+        [
+          -8.273492424049175,
+          -12.818492424049175
+        ],
+        [
+          -8.287332195206174,
+          -12.803222589674366
+        ],
+        [
+          -8.299608618583534,
+          -12.786669748934116
+        ],
+        [
+          -8.310203465513155,
+          -12.768993314733459
+        ],
+        [
+          -8.31901470182737,
+          -12.750363520796668
+        ],
+        [
+          -8.325957470503765,
+          -12.730959782223437
+        ],
+        [
+          -8.330964908884678,
+          -12.710968967623387
+        ],
+        [
+          -8.333988792601161,
+          -12.690583599469207
+        ],
+        [
+          -8.335,
+          -12.67
+        ],
+        [
+          -8.335,
+          -12.065000000000001
+        ],
+        [
+          -8.620000000000001,
+          -12.065000000000001
+        ],
+        [
+          -8.640583599469208,
+          -12.063988792601162
+        ],
+        [
+          -8.660968967623388,
+          -12.060964908884678
+        ],
+        [
+          -8.680959782223438,
+          -12.055957470503765
+        ],
+        [
+          -8.70036352079667,
+          -12.049014701827371
+        ],
+        [
+          -8.71899331473346,
+          -12.040203465513155
+        ],
+        [
+          -8.736669748934117,
+          -12.029608618583534
+        ],
+        [
+          -8.753222589674367,
+          -12.017332195206174
+        ],
+        [
+          -8.768492424049176,
+          -12.003492424049176
+        ],
+        [
+          -8.782332195206175,
+          -11.988222589674367
+        ],
+        [
+          -8.794608618583535,
+          -11.971669748934117
+        ],
+        [
+          -8.805203465513156,
+          -11.95399331473346
+        ],
+        [
+          -8.814014701827372,
+          -11.935363520796669
+        ],
+        [
+          -8.820957470503766,
+          -11.915959782223437
+        ],
+        [
+          -8.825964908884679,
+          -11.895968967623388
+        ],
+        [
+          -8.828988792601162,
+          -11.875583599469207
+        ],
+        [
+          -8.830000000000002,
+          -11.855
+        ],
+        [
+          -8.830000000000002,
+          -3.6699999999999995
+        ],
+        [
+          -8.830000000000002,
+          -1.0299999999999996
+        ],
+        [
+          -8.830000000000002,
+          -0.6699999999999997
+        ],
+        [
+          -8.830000000000002,
+          0.9700000000000004
+        ],
+        [
+          -8.830000000000002,
+          1.3300000000000003
+        ],
+        [
+          -8.830000000000002,
+          2.1699999999999995
+        ],
+        [
+          -8.830000000000002,
+          2.53
+        ],
+        [
+          -8.830000000000002,
+          9.47
+        ],
+        [
+          -8.828988792601162,
+          9.490583599469208
+        ],
+        [
+          -8.825964908884679,
+          9.510968967623388
+        ],
+        [
+          -8.820957470503766,
+          9.530959782223437
+        ],
+        [
+          -8.814014701827372,
+          9.550363520796669
+        ],
+        [
+          -8.805203465513156,
+          9.56899331473346
+        ],
+        [
+          -8.794608618583535,
+          9.586669748934117
+        ],
+        [
+          -8.782332195206175,
+          9.603222589674367
+        ],
+        [
+          -8.768492424049176,
+          9.618492424049176
+        ],
+        [
+          -8.753222589674367,
+          9.632332195206175
+        ],
+        [
+          -8.736669748934117,
+          9.644608618583534
+        ],
+        [
+          -8.71899331473346,
+          9.655203465513155
+        ],
+        [
+          -8.70036352079667,
+          9.664014701827371
+        ],
+        [
+          -8.680959782223438,
+          9.670957470503765
+        ],
+        [
+          -8.660968967623388,
+          9.675964908884678
+        ],
+        [
+          -8.640583599469208,
+          9.678988792601162
+        ],
+        [
+          -8.620000000000001,
+          9.680000000000001
+        ],
+        [
+          -3.5800000000000005,
+          9.680000000000001
+        ],
+        [
+          -1.268,
+          9.680000000000001
+        ],
+        [
+          -1.2474164005307922,
+          9.678988792601162
+        ],
+        [
+          -1.2270310323766132,
+          9.675964908884678
+        ],
+        [
+          -1.207040217776563,
+          9.670957470503765
+        ],
+        [
+          -1.1876364792033312,
+          9.664014701827371
+        ],
+        [
+          -1.1690066852665404,
+          9.655203465513155
+        ],
+        [
+          -1.1513302510658836,
+          9.644608618583534
+        ],
+        [
+          -1.1347774103256345,
+          9.632332195206175
+        ],
+        [
+          -1.119507575950825,
+          9.618492424049176
+        ],
+        [
+          -1.1056678047938253,
+          9.603222589674367
+        ],
+        [
+          -1.0933913814164655,
+          9.586669748934117
+        ],
+        [
+          -1.0827965344868455,
+          9.56899331473346
+        ],
+        [
+          -1.0739852981726299,
+          9.550363520796669
+        ],
+        [
+          -1.0670425294962362,
+          9.530959782223437
+        ],
+        [
+          -1.0620350911153216,
+          9.510968967623388
+        ],
+        [
+          -1.0590112073988387,
+          9.490583599469208
+        ],
+        [
+          -1.058,
+          9.47
+        ],
+        [
+          -1.058,
+          6.970000000000001
+        ],
+        [
+          -1.058,
+          6.072
+        ],
+        [
+          -0.9800000000000006,
+          6.072
+        ],
+        [
+          -0.7800000000000014,
+          6.072
+        ],
+        [
+          -0.7594164005307936,
+          6.070988792601161
+        ],
+        [
+          -0.7390310323766144,
+          6.0679649088846785
+        ],
+        [
+          -0.7190402177765642,
+          6.062957470503764
+        ],
+        [
+          -0.7000000000000011,
+          6.056144771648236
+        ],
+        [
+          -0.6809597822234378,
+          6.062957470503764
+        ],
+        [
+          -0.6609689676233876,
+          6.0679649088846785
+        ],
+        [
+          -0.6405835994692085,
+          6.070988792601161
+        ],
+        [
+          -0.6200000000000008,
+          6.072
+        ],
+        [
+          -0.4200000000000014,
+          6.072
+        ],
+        [
+          0.92,
+          6.072
+        ],
+        [
+          0.9405835994692078,
+          6.070988792601161
+        ],
+        [
+          0.960968967623387,
+          6.0679649088846785
+        ],
+        [
+          0.9809597822234372,
+          6.062957470503764
+        ],
+        [
+          1.000363520796669,
+          6.056014701827371
+        ],
+        [
+          1.0189933147334596,
+          6.047203465513155
+        ],
+        [
+          1.0366697489341166,
+          6.036608618583535
+        ],
+        [
+          1.0532225896743657,
+          6.024332195206175
+        ],
+        [
+          1.068492424049175,
+          6.0104924240491755
+        ],
+        [
+          1.0823321952061749,
+          5.995222589674365
+        ],
+        [
+          1.0946086185835346,
+          5.9786697489341165
+        ],
+        [
+          1.1052034655131546,
+          5.96099331473346
+        ],
+        [
+          1.1140147018273703,
+          5.942363520796669
+        ],
+        [
+          1.1205852746318965,
+          5.924
+        ],
+        [
+          2.4199999999999995,
+          5.924
+        ],
+        [
+          2.78,
+          5.924
+        ],
+        [
+          3.519,
+          5.924
+        ],
+        [
+          3.519,
+          6.970000000000001
+        ],
+        [
+          3.5200112073988388,
+          6.9905835994692085
+        ],
+        [
+          3.5230350911153216,
+          7.010968967623388
+        ],
+        [
+          3.5280425294962363,
+          7.030959782223437
+        ],
+        [
+          3.53498529817263,
+          7.05036352079667
+        ],
+        [
+          3.5437965344868454,
+          7.0689933147334605
+        ],
+        [
+          3.5543913814164654,
+          7.086669748934117
+        ],
+        [
+          3.566667804793825,
+          7.103222589674366
+        ],
+        [
+          3.580507575950825,
+          7.118492424049176
+        ],
+        [
+          3.5957774103256344,
+          7.132332195206176
+        ],
+        [
+          3.6123302510658837,
+          7.144608618583535
+        ],
+        [
+          3.6300066852665407,
+          7.155203465513155
+        ],
+        [
+          3.6486364792033315,
+          7.164014701827371
+        ],
+        [
+          3.668040217776563,
+          7.170957470503764
+        ],
+        [
+          3.688031032376613,
+          7.175964908884679
+        ],
+        [
+          3.7084164005307922,
+          7.178988792601162
+        ],
+        [
+          3.729,
+          7.180000000000001
+        ],
+        [
+          5.52,
+          7.180000000000001
+        ],
+        [
+          5.879999999999999,
+          7.180000000000001
+        ],
+        [
+          6.219999999999999,
+          7.180000000000001
+        ],
+        [
+          6.579999999999998,
+          7.180000000000001
+        ],
+        [
+          10.32,
+          7.180000000000001
+        ],
+        [
+          10.68,
+          7.180000000000001
+        ],
+        [
+          13.255,
+          7.180000000000001
+        ],
+        [
+          13.275583599469208,
+          7.178988792601162
+        ],
+        [
+          13.295968967623388,
+          7.175964908884679
+        ],
+        [
+          13.315959782223437,
+          7.170957470503764
+        ],
+        [
+          13.335363520796669,
+          7.164014701827371
+        ],
+        [
+          13.35399331473346,
+          7.155203465513155
+        ],
+        [
+          13.371669748934117,
+          7.144608618583535
+        ],
+        [
+          13.388222589674367,
+          7.132332195206176
+        ],
+        [
+          13.403492424049176,
+          7.118492424049176
+        ],
+        [
+          13.417332195206175,
+          7.103222589674366
+        ],
+        [
+          13.429608618583535,
+          7.086669748934117
+        ],
+        [
+          13.440203465513155,
+          7.0689933147334605
+        ],
+        [
+          13.449014701827371,
+          7.05036352079667
+        ],
+        [
+          13.455957470503765,
+          7.030959782223437
+        ],
+        [
+          13.460964908884678,
+          7.010968967623388
+        ],
+        [
+          13.463988792601162,
+          6.9905835994692085
+        ],
+        [
+          13.465000000000002,
+          6.970000000000001
+        ],
+        [
+          13.465000000000002,
+          6.406000000000001
+        ],
+        [
+          13.52,
+          6.406000000000001
+        ],
+        [
+          13.540583599469207,
+          6.404988792601162
+        ],
+        [
+          13.560968967623387,
+          6.401964908884679
+        ],
+        [
+          13.580959782223436,
+          6.396957470503764
+        ],
+        [
+          13.600363520796668,
+          6.390014701827371
+        ],
+        [
+          13.618993314733459,
+          6.381203465513155
+        ],
+        [
+          13.636669748934116,
+          6.370608618583535
+        ],
+        [
+          13.653222589674366,
+          6.3583321952061755
+        ],
+        [
+          13.668492424049175,
+          6.344492424049176
+        ],
+        [
+          13.682332195206174,
+          6.329222589674366
+        ],
+        [
+          13.694608618583533,
+          6.312669748934117
+        ],
+        [
+          13.705203465513154,
+          6.2949933147334605
+        ],
+        [
+          13.71401470182737,
+          6.27636352079667
+        ],
+        [
+          13.720957470503764,
+          6.256959782223437
+        ],
+        [
+          13.725964908884677,
+          6.236968967623388
+        ],
+        [
+          13.728988792601161,
+          6.2165835994692085
+        ],
+        [
+          13.73,
+          6.196000000000001
+        ],
+        [
+          13.73,
+          2.53
+        ],
+        [
+          13.73,
+          2.1699999999999995
+        ],
+        [
+          13.73,
+          1.8300000000000003
+        ],
+        [
+          13.73,
+          1.4700000000000004
+        ],
+        [
+          13.73,
+          -0.6699999999999997
+        ],
+        [
+          13.73,
+          -1.0299999999999996
+        ],
+        [
+          13.73,
+          -2.6699999999999995
+        ],
+        [
+          13.73,
+          -3.03
+        ],
+        [
+          13.73,
+          -12.67
+        ],
+        [
+          13.73,
+          -15.370000000000001
+        ],
+        [
+          13.728988792601161,
+          -15.390583599469208
+        ],
+        [
+          13.725964908884677,
+          -15.410968967623388
+        ],
+        [
+          13.720957470503764,
+          -15.430959782223438
+        ],
+        [
+          13.71401470182737,
+          -15.45036352079667
+        ],
+        [
+          13.705203465513154,
+          -15.46899331473346
+        ],
+        [
+          13.694608618583533,
+          -15.486669748934117
+        ],
+        [
+          13.682332195206174,
+          -15.503222589674367
+        ],
+        [
+          13.668492424049175,
+          -15.518492424049176
+        ],
+        [
+          13.653222589674366,
+          -15.532332195206175
+        ],
+        [
+          13.636669748934116,
+          -15.544608618583535
+        ],
+        [
+          13.618993314733459,
+          -15.555203465513156
+        ],
+        [
+          13.600363520796668,
+          -15.564014701827372
+        ],
+        [
+          13.580959782223436,
+          -15.570957470503766
+        ],
+        [
+          13.560968967623387,
+          -15.575964908884679
+        ],
+        [
+          13.540583599469207,
+          -15.578988792601162
+        ],
+        [
+          13.52,
+          -15.580000000000002
+        ],
+        [
+          6.579999999999998,
+          -15.580000000000002
+        ],
+        [
+          6.5594164005307904,
+          -15.578988792601162
+        ],
+        [
+          6.539031032376611,
+          -15.575964908884679
+        ],
+        [
+          6.519040217776562,
+          -15.570957470503766
+        ],
+        [
+          6.499636479203329,
+          -15.564014701827372
+        ],
+        [
+          6.4810066852665384,
+          -15.555203465513156
+        ],
+        [
+          6.463330251065882,
+          -15.544608618583535
+        ],
+        [
+          6.446777410325633,
+          -15.532332195206175
+        ],
+        [
+          6.431507575950823,
+          -15.518492424049176
+        ],
+        [
+          6.417667804793823,
+          -15.503222589674367
+        ],
+        [
+          6.405391381416464,
+          -15.486669748934117
+        ],
+        [
+          6.394796534486844,
+          -15.46899331473346
+        ],
+        [
+          6.385985298172628,
+          -15.45036352079667
+        ],
+        [
+          6.3790425294962345,
+          -15.430959782223438
+        ],
+        [
+          6.37403509111532,
+          -15.410968967623388
+        ],
+        [
+          6.371011207398837,
+          -15.390583599469208
+        ],
+        [
+          6.369999999999998,
+          -15.370000000000001
+        ],
+        [
+          6.369999999999998,
+          -12.67
+        ],
+        [
+          6.369999999999998,
+          -11.667829070311937
+        ],
+        [
+          6.368492424049174,
+          -11.669492424049176
+        ]
+      ]
+    ],
+    "z_min": -0.75,
+    "z_max": 6.7
+  },
+  "native_shadow_count": 5
+}

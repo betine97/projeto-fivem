@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "checks": [
+    "Test weapons exist in installed catalog",
+    "Selecting weapon asks for ammo before sending request",
+    "Dialog identifies selected weapon",
+    "Keyboard focus stays inside ammo dialog",
+    "Keyboard focus wraps to ammo field",
+    "Cancel sends no weapon request",
+    "Escape cancels dialog without closing panel",
+    "Invalid ammo blocked: empty",
+    "Invalid ammo blocked: -1",
+    "Invalid ammo blocked: 1.5",
+    "Invalid ammo blocked: 10000",
+    "Confirmed weapon request contains selected model and integer ammo",
+    "Last quantity is offered for next selection",
+    "Different selected weapon can be delivered with zero ammo",
+    "Server rejection keeps dialog open for retry",
+    "Repeated confirmation does not duplicate grant",
+    "Game close message clears ammo dialog",
+    "No browser JavaScript errors"
+  ],
+  "in_game_verified": false
+}

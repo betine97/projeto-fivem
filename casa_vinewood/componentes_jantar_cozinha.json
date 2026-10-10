@@ -1,0 +1,369 @@
+{
+  "revision": "jantar-cozinha-2026-10-07",
+  "assets": {
+    "dining": {
+      "source": "C:\\Users\\erons\\Downloads\\Meshy_AI_luxury_dining_set_3d_1008013321_image-to-3d-texture.glb",
+      "local_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\dining_original.glb",
+      "sha256": "1e8c7d3ffe9318ca1eced2f4f57ab098da0e8e87759e5ab2532668d72f4165bb",
+      "materials": [
+        {
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "metallicFactor": 1.0,
+            "roughnessFactor": 1.0,
+            "baseColorTexture": {
+              "index": 0,
+              "texCoord": 0
+            },
+            "metallicRoughnessTexture": {
+              "index": 1,
+              "texCoord": 0
+            }
+          },
+          "normalTexture": {
+            "index": 2,
+            "texCoord": 0
+          },
+          "alphaMode": "OPAQUE",
+          "doubleSided": true
+        }
+      ],
+      "meshes": 1,
+      "object": "Mesa jantar oito cadeiras Meshy",
+      "original_triangles": 1400264,
+      "triangles": 100000,
+      "scale": 2.04821515083313,
+      "rotation_z_degrees": 0.0,
+      "lo": [
+        1.3281193971633911,
+        -10.25,
+        -0.7950000166893005
+      ],
+      "hi": [
+        3.9718806743621826,
+        -6.349999904632568,
+        0.7382397055625916
+      ],
+      "dimensions": [
+        2.643761157989502,
+        3.9000000953674316,
+        1.533239722251892
+      ],
+      "boundary_edges": 0,
+      "led_faces": 0,
+      "body_scale_uniform": true,
+      "cables_adjusted": false,
+      "surface_height_above_floor_m": 0.8346916913986206
+    },
+    "cylinder": {
+      "source": "C:\\Users\\erons\\Downloads\\Meshy_AI_modern_cylinder_penda_1008013301_image-to-3d-texture.glb",
+      "local_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\cylinder_original.glb",
+      "sha256": "88a548af0d12cab9d9eb83d6ed47da8d8eadd20cacf17d73e1708291f170bda4",
+      "materials": [
+        {
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "metallicFactor": 1.0,
+            "roughnessFactor": 1.0,
+            "baseColorTexture": {
+              "index": 0,
+              "texCoord": 0
+            },
+            "metallicRoughnessTexture": {
+              "index": 1,
+              "texCoord": 0
+            }
+          },
+          "normalTexture": {
+            "index": 2,
+            "texCoord": 0
+          },
+          "alphaMode": "OPAQUE",
+          "doubleSided": true
+        }
+      ],
+      "meshes": 1,
+      "object": "Pendente cilindros sala jantar Meshy",
+      "original_triangles": 136180,
+      "triangles": 24000,
+      "scale": 1.606887936592102,
+      "rotation_z_degrees": 90.0,
+      "lo": [
+        2.4903974533081055,
+        -9.5,
+        1.5
+      ],
+      "hi": [
+        2.8096024990081787,
+        -7.099999904632568,
+        6.447999954223633
+      ],
+      "dimensions": [
+        0.31920504570007324,
+        2.4000000953674316,
+        4.947999954223633
+      ],
+      "boundary_edges": 0,
+      "led_faces": 2277,
+      "body_scale_uniform": true,
+      "cables_adjusted": true
+    },
+    "island": {
+      "source": "C:\\Users\\erons\\Downloads\\Meshy_AI_kitchen_island_stools_1008012933_image-to-3d-texture.glb",
+      "local_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\island_original.glb",
+      "sha256": "75e74086b68315a24d415bba4b4b264296d97150192211e35c1cca7b62d65043",
+      "materials": [
+        {
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "metallicFactor": 1.0,
+            "roughnessFactor": 1.0,
+            "baseColorTexture": {
+              "index": 0,
+              "texCoord": 0
+            },
+            "metallicRoughnessTexture": {
+              "index": 1,
+              "texCoord": 0
+            }
+          },
+          "normalTexture": {
+            "index": 2,
+            "texCoord": 0
+          },
+          "alphaMode": "OPAQUE",
+          "doubleSided": true
+        }
+      ],
+      "meshes": 1,
+      "object": "Ilha cozinha quatro banquetas Meshy",
+      "original_triangles": 259742,
+      "triangles": 64998,
+      "scale": 1.5764037370681763,
+      "rotation_z_degrees": -90.0,
+      "lo": [
+        9.38893985748291,
+        -10.5,
+        -0.7950000166893005
+      ],
+      "hi": [
+        10.811059951782227,
+        -7.5,
+        0.5300725102424622
+      ],
+      "dimensions": [
+        1.4221200942993164,
+        3.0,
+        1.3250725269317627
+      ],
+      "boundary_edges": 0,
+      "led_faces": 0,
+      "body_scale_uniform": true,
+      "cables_adjusted": false,
+      "surface_height_above_floor_m": 0.9372880935668946
+    },
+    "linear": {
+      "source": "C:\\Users\\erons\\Downloads\\Meshy_AI_linear_led_pendant_li_1008013240_image-to-3d-texture.glb",
+      "local_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\linear_original.glb",
+      "sha256": "300f553c151ce7f83d6b1c3f7faf47fecf07273a4fbd1bd8b6edc3e8db898817",
+      "materials": [
+        {
+          "pbrMetallicRoughness": {
+            "baseColorFactor": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "metallicFactor": 1.0,
+            "roughnessFactor": 1.0,
+            "baseColorTexture": {
+              "index": 0,
+              "texCoord": 0
+            },
+            "metallicRoughnessTexture": {
+              "index": 1,
+              "texCoord": 0
+            }
+          },
+          "normalTexture": {
+            "index": 2,
+            "texCoord": 0
+          },
+          "alphaMode": "OPAQUE",
+          "doubleSided": true
+        }
+      ],
+      "meshes": 1,
+      "object": "Pendente linear ilha cozinha Meshy",
+      "original_triangles": 118498,
+      "triangles": 15998,
+      "scale": 1.313791036605835,
+      "rotation_z_degrees": -90.0,
+      "lo": [
+        10.379579544067383,
+        -10.25,
+        1.350000023841858
+      ],
+      "hi": [
+        10.52042007446289,
+        -7.75,
+        2.3559999465942383
+      ],
+      "dimensions": [
+        0.1408405303955078,
+        2.5,
+        1.0059999227523804
+      ],
+      "boundary_edges": 0,
+      "led_faces": 2942,
+      "body_scale_uniform": true,
+      "cables_adjusted": true
+    }
+  },
+  "lights": [
+    {
+      "position": [
+        2.6502740383148193,
+        -9.400795936584473,
+        2.6583110904693603
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.8,
+      "intensity": 0.7
+    },
+    {
+      "position": [
+        2.6505484580993652,
+        -8.875003814697266,
+        2.9901513671875
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.8,
+      "intensity": 0.7
+    },
+    {
+      "position": [
+        2.6496152877807617,
+        -8.37568187713623,
+        2.8523871517181396
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.8,
+      "intensity": 0.7
+    },
+    {
+      "position": [
+        2.6483538150787354,
+        -8.143613815307617,
+        2.074143133163452
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.8,
+      "intensity": 0.7
+    },
+    {
+      "position": [
+        2.6493332386016846,
+        -7.746683597564697,
+        2.7310769176483154
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.8,
+      "intensity": 0.7
+    },
+    {
+      "position": [
+        2.6501009464263916,
+        -7.279384136199951,
+        2.903267822265625
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.8,
+      "intensity": 0.7
+    },
+    {
+      "position": [
+        10.45,
+        -9.75,
+        1.3
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.0,
+      "intensity": 0.8
+    },
+    {
+      "position": [
+        10.45,
+        -9.0,
+        1.3
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.0,
+      "intensity": 0.8
+    },
+    {
+      "position": [
+        10.45,
+        -8.25,
+        1.3
+      ],
+      "rgb": [
+        255,
+        207,
+        145
+      ],
+      "range": 3.0,
+      "intensity": 0.8
+    }
+  ],
+  "floor_z": -0.8,
+  "in_game_verified": false
+}

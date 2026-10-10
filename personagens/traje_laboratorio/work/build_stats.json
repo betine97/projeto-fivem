@@ -1,0 +1,125 @@
+{
+  "objects": [
+    {
+      "name": "MACACAO_PERNAS",
+      "verts": 23825,
+      "faces": 23760
+    },
+    {
+      "name": "MACACAO_TRONCO",
+      "verts": 4112,
+      "faces": 3904
+    },
+    {
+      "name": "LUVAS_AZUIS",
+      "verts": 2404,
+      "faces": 4770
+    },
+    {
+      "name": "ELASTICO_PUNHO_L",
+      "verts": 336,
+      "faces": 288
+    },
+    {
+      "name": "ELASTICO_PUNHO_R",
+      "verts": 336,
+      "faces": 288
+    },
+    {
+      "name": "COBRE_BOTA_L",
+      "verts": 448,
+      "faces": 384
+    },
+    {
+      "name": "ELASTICO_TORNOZELO_L",
+      "verts": 320,
+      "faces": 256
+    },
+    {
+      "name": "COBRE_BOTA_R",
+      "verts": 448,
+      "faces": 384
+    },
+    {
+      "name": "ELASTICO_TORNOZELO_R",
+      "verts": 320,
+      "faces": 256
+    },
+    {
+      "name": "CAPUZ_BRANCO",
+      "verts": 2400,
+      "faces": 2304
+    },
+    {
+      "name": "VEDACAO_VISOR",
+      "verts": 776,
+      "faces": 768
+    },
+    {
+      "name": "COSTURA_CAPUZ",
+      "verts": 776,
+      "faces": 768
+    },
+    {
+      "name": "VISOR_TRANSPARENTE",
+      "verts": 1153,
+      "faces": 1152
+    },
+    {
+      "name": "ABA_ZIPER",
+      "verts": 102,
+      "faces": 50
+    },
+    {
+      "name": "COSTURA_ZIPER",
+      "verts": 408,
+      "faces": 400
+    },
+    {
+      "name": "COSTURA_ZIPER.001",
+      "verts": 408,
+      "faces": 400
+    },
+    {
+      "name": "COSTURA_CINTURA",
+      "verts": 256,
+      "faces": 192
+    },
+    {
+      "name": "PATCH_PRETO",
+      "verts": 4,
+      "faces": 1
+    },
+    {
+      "name": "BORDA_PATCH",
+      "verts": 40,
+      "faces": 32
+    },
+    {
+      "name": "DISCO_AMARELO",
+      "verts": 130,
+      "faces": 64
+    },
+    {
+      "name": "NUCLEO_RADIACAO",
+      "verts": 130,
+      "faces": 64
+    },
+    {
+      "name": "SETOR_RADIACAO",
+      "verts": 130,
+      "faces": 64
+    },
+    {
+      "name": "SETOR_RADIACAO.001",
+      "verts": 130,
+      "faces": 64
+    },
+    {
+      "name": "SETOR_RADIACAO.002",
+      "verts": 130,
+      "faces": 64
+    }
+  ],
+  "bones": 128
+}

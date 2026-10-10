@@ -1,0 +1,16 @@
+{
+  "land_vertices": 225685,
+  "layer_mean": {
+    "grama": 0.6402997970581055,
+    "areia": 0.07675076276063919,
+    "barro": 0.11981762945652008,
+    "rocha": 0.16313183307647705
+  },
+  "dominant_vertices": {
+    "grama": 172231,
+    "areia": 8890,
+    "barro": 1500,
+    "rocha": 43064
+  },
+  "all_sectors": 43
+}

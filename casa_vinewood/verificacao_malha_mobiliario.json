@@ -1,0 +1,83 @@
+{
+  "passed": true,
+  "mesh_checks": [
+    {
+      "family": "sofa",
+      "triangles": 120000,
+      "welded_vertices": 59522,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "embedded_maps": [
+        {
+          "name": "sofa_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "sofa_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "sofa_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mip_count": 10
+        }
+      ],
+      "screen_uv_check": null
+    },
+    {
+      "family": "tv",
+      "triangles": 99998,
+      "welded_vertices": 49843,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "embedded_maps": [
+        {
+          "name": "tv_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "tv_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "tv_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mip_count": 10
+        }
+      ],
+      "screen_uv_check": {
+        "repaired_triangle_samples": 66,
+        "maximum_rgb_channel": 12,
+        "no_wood_atlas_bleed": true
+      }
+    }
+  ],
+  "sha256": "8985b15dfa99889187b27e7e6de1cb4bf5d622f18f2b00b0718f41a0f0254388",
+  "in_game_verified": false
+}

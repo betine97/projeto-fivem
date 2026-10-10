@@ -1,0 +1,20 @@
+{
+  "installed": true,
+  "changed": {
+    "iluminacao_ambiente.json": "ff120100f22b10a3ea9d4681ac714e68ca0d6c2bd227bb4551e0fa8860777b1c",
+    "iluminacao_decorativa.lua": "b6df982f956feda1e255ff6c3e708878ef7498fbcf3a3bbfe44b2bd77ef7c21d",
+    "luzes_pendentes.json": "484ccca5ea84c1b0a07c2745c5d6dbde0c21a3f856b07f80c8f12256ada98f0b",
+    "README.md": "55cfb25f722a1b5c5ce374cd4edbbf5a132bfa3f6c3e2164686a362ecd9f1356",
+    "stream/mansao_pendentes.ydr": "f108c87ccb052405c9bd5a40849a0d4e7eb3ceec335a6623fc20b1d43e4e1e26",
+    "stream/mansao_spots_led.ydr": "82a30f4b585961bd3922622b7df07a006187fb50b8bf462af701d6b6d76da76d",
+    "stream/mansao_teto.ydr": "9a50bc4e24853898f785817ec231f05b2aaaa4dc476eed70de1154afada9d15c",
+    "stream/mansao_tv.ydr": "a90eef9b2d5996292f27b7a4d3ab0f25688251b6e3dd221504a48052e20b1603"
+  },
+  "unrelated_live_files_preserved": 117,
+  "native_sources_in_changed_models": 139,
+  "resource_native_sources": 155,
+  "geometry_materials_textures_lods_collision_preserved": true,
+  "maps_manifest_prop_positions_weather_and_other_resources_unmodified": true,
+  "server_restarted": false,
+  "in_game_visual_verified": false
+}

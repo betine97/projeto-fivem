@@ -1,0 +1,7757 @@
+{
+  "source": "Read-only local original GTA V RPF assets; no game files changed or copied into server resource.",
+  "summary": {
+    "clothes_mid": {
+      "models_checked": 4,
+      "native_lights": 32,
+      "types": {
+        "SPOT": 23,
+        "POINT": 9
+      },
+      "intensity": {
+        "min": 4.0,
+        "median": 27.0,
+        "max": 32.0
+      },
+      "range": {
+        "min": 0.20000000298023224,
+        "median": 1.899999976158142,
+        "max": 5.300000190734863
+      },
+      "falloff_exponent": {
+        "min": 8.0,
+        "median": 8.0,
+        "max": 32.0
+      },
+      "inner": {
+        "min": 0.0,
+        "median": 50.0,
+        "max": 90.0
+      },
+      "outer": {
+        "min": 58.0,
+        "median": 73.0,
+        "max": 100.0
+      }
+    },
+    "michael": {
+      "models_checked": 33,
+      "native_lights": 186,
+      "types": {
+        "SPOT": 92,
+        "POINT": 88,
+        "CAPSULE": 6
+      },
+      "intensity": {
+        "min": 0.05000000074505806,
+        "median": 16.0,
+        "max": 32.0
+      },
+      "range": {
+        "min": 0.009999999776482582,
+        "median": 1.899999976158142,
+        "max": 8.149999618530273
+      },
+      "falloff_exponent": {
+        "min": 1.0,
+        "median": 16.0,
+        "max": 256.0
+      },
+      "inner": {
+        "min": 0.0,
+        "median": 30.0,
+        "max": 86.0
+      },
+      "outer": {
+        "min": 10.0,
+        "median": 60.0,
+        "max": 90.0
+      }
+    },
+    "suburban": {
+      "models_checked": 1,
+      "native_lights": 8,
+      "types": {
+        "CAPSULE": 7,
+        "SPOT": 1
+      },
+      "intensity": {
+        "min": 5.0,
+        "median": 32.0,
+        "max": 32.0
+      },
+      "range": {
+        "min": 1.0,
+        "median": 1.0,
+        "max": 3.5
+      },
+      "falloff_exponent": {
+        "min": 15.0,
+        "median": 90.0,
+        "max": 90.0
+      },
+      "inner": {
+        "min": 25.0,
+        "median": 25.0,
+        "max": 25.0
+      },
+      "outer": {
+        "min": 65.0,
+        "median": 65.0,
+        "max": 65.0
+      }
+    }
+  },
+  "models": [
+    {
+      "group": "michael",
+      "name": "v_44_1_daught_deta",
+      "light_count": 2
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_daught_deta_ns",
+      "light_count": 3
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_hall2_deta",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_hall2_emis",
+      "light_count": 1
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_hall_deta",
+      "light_count": 1
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_hall_emis",
+      "light_count": 10
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_master_deta",
+      "light_count": 27
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_son_deta",
+      "light_count": 6
+    },
+    {
+      "group": "michael",
+      "name": "v_44_1_wc_deta",
+      "light_count": 4
+    },
+    {
+      "group": "michael",
+      "name": "v_44_d_chand",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_d_emis",
+      "light_count": 26
+    },
+    {
+      "group": "michael",
+      "name": "v_44_d_items_over",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_dine_deta",
+      "light_count": 11
+    },
+    {
+      "group": "michael",
+      "name": "v_44_dine_detail",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_g_cor_deta",
+      "light_count": 2
+    },
+    {
+      "group": "michael",
+      "name": "v_44_g_fron_deta",
+      "light_count": 15
+    },
+    {
+      "group": "michael",
+      "name": "v_44_g_gara_deta",
+      "light_count": 4
+    },
+    {
+      "group": "michael",
+      "name": "v_44_g_hall_detail",
+      "light_count": 2
+    },
+    {
+      "group": "michael",
+      "name": "v_44_g_hall_emis",
+      "light_count": 10
+    },
+    {
+      "group": "michael",
+      "name": "v_44_g_kitche_deta",
+      "light_count": 25
+    },
+    {
+      "group": "michael",
+      "name": "v_44_garage_shell",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_kitc_chand",
+      "light_count": 6
+    },
+    {
+      "group": "michael",
+      "name": "v_44_kitc_emmi_refl",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_lounge_deta",
+      "light_count": 30
+    },
+    {
+      "group": "michael",
+      "name": "v_44_lounge_items",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell",
+      "light_count": 1
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell2",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell2_mb_ward_refl",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell2_mb_wind_refl",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell2_refl",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell_dt",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell_kitchen",
+      "light_count": 0
+    },
+    {
+      "group": "michael",
+      "name": "v_44_shell_refl",
+      "light_count": 0
+    },
+    {
+      "group": "suburban",
+      "name": "v_51_lights010",
+      "light_count": 8
+    },
+    {
+      "group": "clothes_mid",
+      "name": "v_52_detail4",
+      "light_count": 0
+    },
+    {
+      "group": "clothes_mid",
+      "name": "v_52_pendant_light2",
+      "light_count": 28
+    },
+    {
+      "group": "clothes_mid",
+      "name": "v_52_pendant_lights",
+      "light_count": 4
+    },
+    {
+      "group": "clothes_mid",
+      "name": "v_52_shell",
+      "light_count": 0
+    }
+  ],
+  "lights": [
+    {
+      "group": "michael",
+      "model": "v_44_1_daught_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -0.9686369895935059,
+        -3.578071117401123,
+        0.1856060028076172
+      ],
+      "direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        200,
+        164
+      ],
+      "intensity": 0.4000000059604645,
+      "range": 3.0,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 90.0,
+      "flags": 512,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_daught_deta",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        -0.19130900502204895,
+        0.05870914086699486,
+        -1.0187419652938843
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        40,
+        22
+      ],
+      "intensity": 0.20000000298023224,
+      "range": 5.0,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 90.0,
+      "flags": 262656,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_daught_deta_ns",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        1.7238800525665283,
+        0.6554450988769531,
+        0.313449889421463
+      ],
+      "direction": [
+        -0.7387729287147522,
+        -0.4638296067714691,
+        -0.48895469307899475
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        222,
+        193
+      ],
+      "intensity": 2.0,
+      "range": 5.0,
+      "falloff_exponent": 1.0,
+      "inner": 0.0,
+      "outer": 10.0,
+      "flags": 66432,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_daught_deta_ns",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        1.7238800525665283,
+        0.6554450988769531,
+        0.313449889421463
+      ],
+      "direction": [
+        -0.8103523850440979,
+        -0.5321614146232605,
+        -0.24522070586681366
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        222,
+        193
+      ],
+      "intensity": 2.0,
+      "range": 7.0999979972839355,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 10.0,
+      "flags": 66432,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_daught_deta_ns",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        1.7238800525665283,
+        0.6554450988769531,
+        0.313449889421463
+      ],
+      "direction": [
+        -0.6177237033843994,
+        -0.364696204662323,
+        -0.6967167258262634
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        222,
+        193
+      ],
+      "intensity": 2.0,
+      "range": 5.0,
+      "falloff_exponent": 1.0,
+      "inner": 0.0,
+      "outer": 10.0,
+      "flags": 66432,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall2_emis",
+      "index": 0,
+      "type": "POINT",
+      "position": [
+        0.13834290206432343,
+        0.13078120350837708,
+        0.9815083146095276
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        195,
+        124
+      ],
+      "intensity": 5.0,
+      "range": 2.200000047683716,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 65664,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -0.1691426932811737,
+        4.4591288566589355,
+        1.2241460084915161
+      ],
+      "direction": [
+        -0.007229725830256939,
+        -0.8659955263137817,
+        -0.4999994933605194
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        208,
+        216,
+        255
+      ],
+      "intensity": 0.20000000298023224,
+      "range": 8.0,
+      "falloff_exponent": 6.0,
+      "inner": 0.0,
+      "outer": 32.0,
+      "flags": 262656,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -4.705624103546143,
+        -1.5556939840316772,
+        0.0008592606172896922
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 2.5,
+      "falloff_exponent": 32.0,
+      "inner": 35.0,
+      "outer": 65.0,
+      "flags": 336256,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        -2.65037202835083,
+        0.017436979338526726,
+        0.8062862753868103
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        225
+      ],
+      "intensity": 1.5,
+      "range": 2.799999952316284,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 80.0,
+      "flags": 327680,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 2,
+      "type": "POINT",
+      "position": [
+        -4.705624103546143,
+        -1.5556939840316772,
+        0.004540442954748869
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        183,
+        99
+      ],
+      "intensity": 6.0,
+      "range": 3.5,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 327680,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 3,
+      "type": "POINT",
+      "position": [
+        -2.65037202835083,
+        0.017436979338526726,
+        0.9020252227783203
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        183,
+        99
+      ],
+      "intensity": 1.5,
+      "range": 2.9000000953674316,
+      "falloff_exponent": 64.0,
+      "inner": 0.0,
+      "outer": 80.0,
+      "flags": 327808,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 4,
+      "type": "SPOT",
+      "position": [
+        -4.705624103546143,
+        -1.5556939840316772,
+        0.0706343725323677
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 2.4000000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 50.0,
+      "outer": 50.0,
+      "flags": 335872,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 5,
+      "type": "SPOT",
+      "position": [
+        5.102090835571289,
+        0.6268491744995117,
+        -0.08108091354370117
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 3.200000047683716,
+      "falloff_exponent": 16.0,
+      "inner": 35.0,
+      "outer": 65.0,
+      "flags": 65920,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 6,
+      "type": "POINT",
+      "position": [
+        5.102090835571289,
+        0.6268491744995117,
+        -0.07739877700805664
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        204,
+        96
+      ],
+      "intensity": 5.0,
+      "range": 3.399998903274536,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 7,
+      "type": "SPOT",
+      "position": [
+        5.102090835571289,
+        0.6268491744995117,
+        -0.011305809952318668
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 2.9700000286102295,
+      "falloff_exponent": 64.0,
+      "inner": 58.0,
+      "outer": 60.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 8,
+      "type": "POINT",
+      "position": [
+        2.197700023651123,
+        0.017436979338526726,
+        0.9078292846679688
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        183,
+        99
+      ],
+      "intensity": 1.7999999523162842,
+      "range": 1.7999999523162842,
+      "falloff_exponent": 64.0,
+      "inner": 5.0,
+      "outer": 80.0,
+      "flags": 65664,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_hall_emis",
+      "index": 9,
+      "type": "SPOT",
+      "position": [
+        2.197700023651123,
+        0.017436979338526726,
+        0.9515023231506348
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        225
+      ],
+      "intensity": 1.7999999523162842,
+      "range": 2.400001049041748,
+      "falloff_exponent": 8.0,
+      "inner": 5.0,
+      "outer": 80.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -4.04980993270874,
+        1.1662739515304565,
+        -0.9758362770080566
+      ],
+      "direction": [
+        0.9998950958251953,
+        0.0,
+        -0.014483990147709846
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 2.0,
+      "range": 8.149999618530273,
+      "falloff_exponent": 129.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 9092,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 1,
+      "type": "POINT",
+      "position": [
+        0.8989238739013672,
+        4.209245204925537,
+        -0.6320601105690002
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 4.0,
+      "range": 1.5,
+      "falloff_exponent": 4.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        0.8989238739013672,
+        4.209245204925537,
+        -0.591738224029541
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 16.0,
+      "inner": 15.0,
+      "outer": 45.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        -1.8845200538635254,
+        4.209074974060059,
+        -0.591738224029541
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 16.0,
+      "inner": 15.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 4,
+      "type": "POINT",
+      "position": [
+        -1.8845200538635254,
+        4.209074974060059,
+        -0.6320601105690002
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 4.0,
+      "range": 1.5,
+      "falloff_exponent": 4.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 5,
+      "type": "SPOT",
+      "position": [
+        -1.8845200538635254,
+        4.209074974060059,
+        -0.6417384147644043
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 1.100000023841858,
+      "falloff_exponent": 8.0,
+      "inner": 58.0,
+      "outer": 60.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 6,
+      "type": "SPOT",
+      "position": [
+        0.8989238739013672,
+        4.209245204925537,
+        -0.6417384147644043
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 1.2000000476837158,
+      "falloff_exponent": 8.0,
+      "inner": 58.0,
+      "outer": 60.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 7,
+      "type": "SPOT",
+      "position": [
+        2.9964139461517334,
+        3.622441053390503,
+        -0.5759273171424866
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 2.0,
+      "falloff_exponent": 8.0,
+      "inner": 58.0,
+      "outer": 60.0,
+      "flags": 8576,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 8,
+      "type": "POINT",
+      "position": [
+        2.9888060092926025,
+        3.622441053390503,
+        -0.5785341262817383
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 4.0,
+      "range": 1.7000000476837158,
+      "falloff_exponent": 4.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 9,
+      "type": "SPOT",
+      "position": [
+        2.9964139461517334,
+        2.0440869331359863,
+        -0.4922131896018982
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 16.0,
+      "inner": 25.0,
+      "outer": 50.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 10,
+      "type": "SPOT",
+      "position": [
+        2.9964139461517334,
+        2.0440869331359863,
+        -0.5626984238624573
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 1.100000023841858,
+      "falloff_exponent": 8.0,
+      "inner": 58.0,
+      "outer": 60.0,
+      "flags": 270720,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 11,
+      "type": "POINT",
+      "position": [
+        3.0213050842285156,
+        2.0578970909118652,
+        -0.5772901177406311
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 4.0,
+      "range": 1.7000000476837158,
+      "falloff_exponent": 4.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 12,
+      "type": "SPOT",
+      "position": [
+        2.9964139461517334,
+        3.622441053390503,
+        -0.4922131896018982
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        229,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 2.0,
+      "falloff_exponent": 32.0,
+      "inner": 25.0,
+      "outer": 50.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 13,
+      "type": "POINT",
+      "position": [
+        4.096602916717529,
+        -1.1324150562286377,
+        0.6502056121826172
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.5,
+      "range": 3.0,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 327680,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 14,
+      "type": "POINT",
+      "position": [
+        4.104658126831055,
+        0.7577599883079529,
+        0.6502056121826172
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.899999976158142,
+      "range": 1.2000000476837158,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 15,
+      "type": "POINT",
+      "position": [
+        1.315106987953186,
+        -1.4598790407180786,
+        0.6502056121826172
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.5,
+      "range": 1.2000000476837158,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 16,
+      "type": "POINT",
+      "position": [
+        -0.9034357070922852,
+        -1.4689810276031494,
+        0.6502056121826172
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.5,
+      "range": 1.2000000476837158,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 17,
+      "type": "POINT",
+      "position": [
+        0.015186309814453125,
+        2.608720064163208,
+        1.1131880283355713
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 128.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 18,
+      "type": "POINT",
+      "position": [
+        0.014589309692382812,
+        3.1955649852752686,
+        1.1131880283355713
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 128.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 19,
+      "type": "POINT",
+      "position": [
+        -0.4939078986644745,
+        2.309087038040161,
+        1.1131880283355713
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 32.0,
+      "range": 1.5,
+      "falloff_exponent": 128.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 20,
+      "type": "POINT",
+      "position": [
+        -1.0012340545654297,
+        2.605782985687256,
+        1.1131880283355713
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 128.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 21,
+      "type": "POINT",
+      "position": [
+        -1.0038470029830933,
+        3.1905300617218018,
+        1.1131880283355713
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 128.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 22,
+      "type": "POINT",
+      "position": [
+        -0.4971333146095276,
+        3.4875149726867676,
+        1.1131880283355713
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 32.0,
+      "range": 1.5,
+      "falloff_exponent": 128.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 23,
+      "type": "POINT",
+      "position": [
+        -0.4882220923900604,
+        2.9087839126586914,
+        0.9216107726097107
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        227,
+        183
+      ],
+      "intensity": 32.0,
+      "range": 5.0,
+      "falloff_exponent": 64.0,
+      "inner": 5.0,
+      "outer": 70.0,
+      "flags": 8388992,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 24,
+      "type": "CAPSULE",
+      "position": [
+        -2.9415760040283203,
+        4.292558193206787,
+        0.43884751200675964
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.100000023841858,
+        1.100000023841858,
+        1.100000023841858
+      ],
+      "rgb": [
+        230,
+        254,
+        205
+      ],
+      "intensity": 1.0,
+      "range": 0.5,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 512,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 25,
+      "type": "CAPSULE",
+      "position": [
+        1.9977209568023682,
+        4.292558193206787,
+        0.43884751200675964
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.100000023841858,
+        1.100000023841858,
+        1.100000023841858
+      ],
+      "rgb": [
+        230,
+        254,
+        205
+      ],
+      "intensity": 1.0,
+      "range": 0.5,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 512,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_master_deta",
+      "index": 26,
+      "type": "SPOT",
+      "position": [
+        -4.178452968597412,
+        1.312736988067627,
+        -0.0973663330078125
+      ],
+      "direction": [
+        0.9998950958251953,
+        0.0,
+        -0.014483990147709846
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 1.0,
+      "range": 1.5,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 8708,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_son_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        0.5761622786521912,
+        -3.3616840839385986,
+        -0.5240349769592285
+      ],
+      "direction": [
+        -0.18301190435886383,
+        0.18301190435886383,
+        -0.9659261107444763
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        166,
+        214,
+        242
+      ],
+      "intensity": 32.0,
+      "range": 2.200000047683716,
+      "falloff_exponent": 32.0,
+      "inner": 55.0,
+      "outer": 60.0,
+      "flags": 8388992,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_son_deta",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        2.264394998550415,
+        -1.6428660154342651,
+        -0.48204609751701355
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        217,
+        205
+      ],
+      "intensity": 2.0,
+      "range": 3.0,
+      "falloff_exponent": 64.0,
+      "inner": 60.0,
+      "outer": 65.0,
+      "flags": 8396800,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_son_deta",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        2.264394998550415,
+        -1.6428660154342651,
+        -0.35178089141845703
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        217,
+        205
+      ],
+      "intensity": 1.0,
+      "range": 1.2999999523162842,
+      "falloff_exponent": 16.0,
+      "inner": 60.0,
+      "outer": 65.0,
+      "flags": 8396800,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_son_deta",
+      "index": 3,
+      "type": "POINT",
+      "position": [
+        2.2643868923187256,
+        -1.6429990530014038,
+        -0.47337910532951355
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        251,
+        205
+      ],
+      "intensity": 1.0,
+      "range": 3.0,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 8388608,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_son_deta",
+      "index": 4,
+      "type": "SPOT",
+      "position": [
+        -3.2950479984283447,
+        -2.268882989883423,
+        0.11358880251646042
+      ],
+      "direction": [
+        0.8881694078445435,
+        0.20447149872779846,
+        -0.4115172028541565
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        253,
+        252
+      ],
+      "intensity": 1.0,
+      "range": 6.5,
+      "falloff_exponent": 1.0,
+      "inner": 0.0,
+      "outer": 35.0,
+      "flags": 8917760,
+      "volume": 0.0010000000474974513
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_son_deta",
+      "index": 5,
+      "type": "SPOT",
+      "position": [
+        0.15949440002441406,
+        -3.500119924545288,
+        -0.8873711228370667
+      ],
+      "direction": [
+        -0.12542420625686646,
+        0.9872711896896362,
+        0.09779751300811768
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        39,
+        128,
+        216
+      ],
+      "intensity": 16.0,
+      "range": 1.5,
+      "falloff_exponent": 256.0,
+      "inner": 50.0,
+      "outer": 90.0,
+      "flags": 8388992,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_wc_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        0.9853640198707581,
+        -3.9061479568481445,
+        -0.5435271263122559
+      ],
+      "direction": [
+        0.0,
+        1.0,
+        0.00019407269428484142
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        190,
+        228,
+        254
+      ],
+      "intensity": 0.10000000149011612,
+      "range": 3.0,
+      "falloff_exponent": 3.5,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 8675840,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_wc_deta",
+      "index": 1,
+      "type": "POINT",
+      "position": [
+        0.6437854766845703,
+        -2.0646679401397705,
+        0.7776808738708496
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        203,
+        143
+      ],
+      "intensity": 4.0,
+      "range": 3.0,
+      "falloff_exponent": 32.0,
+      "inner": 70.0,
+      "outer": 75.0,
+      "flags": 8320,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_wc_deta",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        -0.6011238098144531,
+        -2.0596179962158203,
+        1.1601020097732544
+      ],
+      "direction": [
+        -0.17364859580993652,
+        0.0,
+        -0.9848077297210693
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        250,
+        255,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 2.6559998989105225,
+      "falloff_exponent": 32.0,
+      "inner": 35.0,
+      "outer": 50.0,
+      "flags": 270720,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_1_wc_deta",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        -0.8803691864013672,
+        -2.0093469619750977,
+        -0.14331290125846863
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        254,
+        224,
+        99
+      ],
+      "intensity": 1.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 8.0,
+      "inner": 35.0,
+      "outer": 90.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -0.11959079653024673,
+        -0.8612899780273438,
+        1.0464919805526733
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        195
+      ],
+      "intensity": 16.0,
+      "range": 2.799999952316284,
+      "falloff_exponent": 32.0,
+      "inner": 1.0,
+      "outer": 73.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        -0.11759380251169205,
+        -0.8347578048706055,
+        0.9964929223060608
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        195
+      ],
+      "intensity": 8.0,
+      "range": 3.4000000953674316,
+      "falloff_exponent": 16.0,
+      "inner": 0.0,
+      "outer": 60.0,
+      "flags": 65920,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 2,
+      "type": "POINT",
+      "position": [
+        0.369779109954834,
+        -0.6774578094482422,
+        1.2537659406661987
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 3,
+      "type": "POINT",
+      "position": [
+        0.28363901376724243,
+        -1.1893409490585327,
+        1.2537659406661987
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 4,
+      "type": "POINT",
+      "position": [
+        -0.20638899505138397,
+        -1.3691240549087524,
+        1.2537659406661987
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 5,
+      "type": "POINT",
+      "position": [
+        -0.03023863025009632,
+        -0.34244200587272644,
+        1.2537659406661987
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 6,
+      "type": "POINT",
+      "position": [
+        -0.5179286003112793,
+        -0.5230259895324707,
+        1.2537659406661987
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 7,
+      "type": "POINT",
+      "position": [
+        -0.6082615852355957,
+        -1.035851001739502,
+        1.2537659406661987
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 8,
+      "type": "SPOT",
+      "position": [
+        -1.6308729648590088,
+        0.8498811721801758,
+        -0.4548549950122833
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        254,
+        186,
+        197
+      ],
+      "intensity": 32.0,
+      "range": 2.4000000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 43.0,
+      "outer": 65.0,
+      "flags": 65920,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 9,
+      "type": "SPOT",
+      "position": [
+        -1.6308729648590088,
+        0.8498811721801758,
+        -0.42937710881233215
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        254,
+        134,
+        154
+      ],
+      "intensity": 32.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 32.0,
+      "inner": 43.0,
+      "outer": 65.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 10,
+      "type": "POINT",
+      "position": [
+        -1.6308729648590088,
+        0.8498811721801758,
+        -0.49093911051750183
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        50,
+        171
+      ],
+      "intensity": 2.0,
+      "range": 4.5,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 11,
+      "type": "POINT",
+      "position": [
+        0.29468199610710144,
+        -3.568416118621826,
+        -0.3509869873523712
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 12,
+      "type": "POINT",
+      "position": [
+        0.28637030720710754,
+        -3.568416118621826,
+        -0.6014289855957031
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.25,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 13,
+      "type": "SPOT",
+      "position": [
+        -0.10227389633655548,
+        -3.641408920288086,
+        -0.3569240868091583
+      ],
+      "direction": [
+        0.0,
+        1.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 8.0,
+      "range": 4.5,
+      "falloff_exponent": 64.0,
+      "inner": 10.0,
+      "outer": 90.0,
+      "flags": 8320,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 14,
+      "type": "POINT",
+      "position": [
+        -0.48662468791007996,
+        -3.568416118621826,
+        -0.6014289855957031
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.25,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 15,
+      "type": "POINT",
+      "position": [
+        -0.482875794172287,
+        -3.568416118621826,
+        0.4293422996997833
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 16,
+      "type": "POINT",
+      "position": [
+        0.2859311103820801,
+        -3.568416118621826,
+        0.4305911064147949
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 17,
+      "type": "POINT",
+      "position": [
+        0.28637030720710754,
+        -3.568416118621826,
+        -0.116423100233078
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 18,
+      "type": "POINT",
+      "position": [
+        -0.48662468791007996,
+        -3.568416118621826,
+        -0.116423100233078
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 19,
+      "type": "POINT",
+      "position": [
+        0.28637030720710754,
+        -3.568416118621826,
+        0.16653010249137878
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.15000000596046448,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 20,
+      "type": "POINT",
+      "position": [
+        -0.48662468791007996,
+        -3.568416118621826,
+        0.16653010249137878
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 21,
+      "type": "POINT",
+      "position": [
+        0.021015169098973274,
+        -3.568416118621826,
+        0.4279780089855194
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 22,
+      "type": "POINT",
+      "position": [
+        -0.231904998421669,
+        -3.568416118621826,
+        0.4279780089855194
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.15000000596046448,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 23,
+      "type": "POINT",
+      "position": [
+        -0.48662468791007996,
+        -3.568416118621826,
+        -0.3559879958629608
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        245,
+        225
+      ],
+      "intensity": 32.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 24,
+      "type": "POINT",
+      "position": [
+        -1.6308729648590088,
+        0.8498811721801758,
+        -0.48898598551750183
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        50,
+        171
+      ],
+      "intensity": 2.0,
+      "range": 0.009999999776482582,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 98304,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_d_emis",
+      "index": 25,
+      "type": "SPOT",
+      "position": [
+        -1.5669900178909302,
+        -2.3466579914093018,
+        -0.8184729218482971
+      ],
+      "direction": [
+        0.9622501730918884,
+        0.08418568223714828,
+        0.2588191032409668
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        156,
+        198,
+        255
+      ],
+      "intensity": 8.0,
+      "range": 1.0,
+      "falloff_exponent": 64.0,
+      "inner": 10.0,
+      "outer": 90.0,
+      "flags": 8576,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 0,
+      "type": "POINT",
+      "position": [
+        2.4873900413513184,
+        -2.4028921127319336,
+        1.0207699537277222
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        226,
+        175
+      ],
+      "intensity": 10.0,
+      "range": 3.9000000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 50.0,
+      "outer": 58.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        -2.9786839485168457,
+        2.9117250442504883,
+        0.43511509895324707
+      ],
+      "direction": [
+        0.3225429952144623,
+        -0.43340760469436646,
+        0.841500997543335
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        205,
+        220,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 2.700000047683716,
+      "falloff_exponent": 16.0,
+      "inner": 32.0,
+      "outer": 35.0,
+      "flags": 327680,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        2.8073089122772217,
+        2.8478710651397705,
+        0.43511509895324707
+      ],
+      "direction": [
+        -0.25619179010391235,
+        -0.2552168071269989,
+        0.9323251247406006
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        205,
+        220,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 2.700000047683716,
+      "falloff_exponent": 32.0,
+      "inner": 38.0,
+      "outer": 40.0,
+      "flags": 327680,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        2.8076720237731934,
+        -2.750498056411743,
+        0.43511509895324707
+      ],
+      "direction": [
+        -0.25587520003318787,
+        0.2542841136455536,
+        0.9326668977737427
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        205,
+        220,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 2.700000047683716,
+      "falloff_exponent": 32.0,
+      "inner": 38.0,
+      "outer": 40.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 4,
+      "type": "SPOT",
+      "position": [
+        -2.9026570320129395,
+        -2.7347419261932373,
+        0.43511509895324707
+      ],
+      "direction": [
+        0.25587520003318787,
+        0.2542841136455536,
+        0.9326668977737427
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        205,
+        220,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 2.700000047683716,
+      "falloff_exponent": 32.0,
+      "inner": 38.0,
+      "outer": 40.0,
+      "flags": 327680,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 5,
+      "type": "POINT",
+      "position": [
+        -2.4996159076690674,
+        -2.4028921127319336,
+        1.0207699537277222
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        226,
+        175
+      ],
+      "intensity": 10.0,
+      "range": 2.200000047683716,
+      "falloff_exponent": 32.0,
+      "inner": 50.0,
+      "outer": 58.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 6,
+      "type": "POINT",
+      "position": [
+        -2.569931983947754,
+        2.428972005844116,
+        0.8449221253395081
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        226,
+        175
+      ],
+      "intensity": 10.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 32.0,
+      "inner": 50.0,
+      "outer": 58.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 7,
+      "type": "POINT",
+      "position": [
+        2.283360004425049,
+        2.405569076538086,
+        1.0207699537277222
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        254,
+        225,
+        174
+      ],
+      "intensity": 10.0,
+      "range": 3.9000000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 50.0,
+      "outer": 58.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 8,
+      "type": "POINT",
+      "position": [
+        0.818494975566864,
+        -2.323791027069092,
+        -0.8951240181922913
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        203,
+        175
+      ],
+      "intensity": 0.4000000059604645,
+      "range": 5.0,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 58.0,
+      "flags": 8704,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 9,
+      "type": "POINT",
+      "position": [
+        2.413161039352417,
+        0.48447901010513306,
+        -0.8951240181922913
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        203,
+        175
+      ],
+      "intensity": 0.20000000298023224,
+      "range": 5.0,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 58.0,
+      "flags": 270848,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_dine_deta",
+      "index": 10,
+      "type": "POINT",
+      "position": [
+        -0.05921697989106178,
+        0.04450035095214844,
+        0.5047512054443359
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        226,
+        175
+      ],
+      "intensity": 10.0,
+      "range": 2.9000000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 50.0,
+      "outer": 58.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_cor_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -0.06818581372499466,
+        -0.13825419545173645,
+        1.2181529998779297
+      ],
+      "direction": [
+        0.0,
+        0.3420197069644928,
+        -0.9396927952766418
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 3.5,
+      "falloff_exponent": 32.0,
+      "inner": 55.0,
+      "outer": 65.0,
+      "flags": 262528,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_cor_deta",
+      "index": 1,
+      "type": "POINT",
+      "position": [
+        -0.06818581372499466,
+        -0.13825419545173645,
+        1.175104022026062
+      ],
+      "direction": [
+        0.0,
+        0.3420197069644928,
+        -0.9396927952766418
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        205
+      ],
+      "intensity": 1.0,
+      "range": 1.5,
+      "falloff_exponent": 32.0,
+      "inner": 60.0,
+      "outer": 70.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        0.21086500585079193,
+        1.3925039768218994,
+        -2.0387539863586426
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        172,
+        127
+      ],
+      "intensity": 0.4000000059604645,
+      "range": 3.0999999046325684,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 90.0,
+      "flags": 271232,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 1,
+      "type": "POINT",
+      "position": [
+        -1.6954309940338135,
+        2.067426919937134,
+        0.5175281167030334
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        214,
+        171
+      ],
+      "intensity": 8.0,
+      "range": 3.0,
+      "falloff_exponent": 16.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        1.8082610368728638,
+        -3.165501117706299,
+        1.2722090482711792
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        254,
+        247,
+        235
+      ],
+      "intensity": 3.0,
+      "range": 2.700000047683716,
+      "falloff_exponent": 4.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 262272,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        1.7966029644012451,
+        -0.47941020131111145,
+        0.9577919840812683
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        201,
+        143
+      ],
+      "intensity": 32.0,
+      "range": 3.0,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 70.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 4,
+      "type": "SPOT",
+      "position": [
+        1.7966029644012451,
+        -1.2932490110397339,
+        0.8516579270362854
+      ],
+      "direction": [
+        0.0,
+        0.18160830438137054,
+        -0.9833710193634033
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        234,
+        185
+      ],
+      "intensity": 32.0,
+      "range": 5.0,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 52.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 5,
+      "type": "SPOT",
+      "position": [
+        -0.5501307845115662,
+        -2.622952938079834,
+        -0.3071241080760956
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        237,
+        195
+      ],
+      "intensity": 32.0,
+      "range": 2.5999999046325684,
+      "falloff_exponent": 32.0,
+      "inner": 45.0,
+      "outer": 47.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 6,
+      "type": "SPOT",
+      "position": [
+        -0.5593376159667969,
+        -2.622952938079834,
+        -0.4022080898284912
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        237,
+        195
+      ],
+      "intensity": 32.0,
+      "range": 1.100000023841858,
+      "falloff_exponent": 16.0,
+      "inner": 58.0,
+      "outer": 60.0,
+      "flags": 262272,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 7,
+      "type": "POINT",
+      "position": [
+        -0.558380126953125,
+        -2.6231689453125,
+        -0.3722080886363983
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        193,
+        126
+      ],
+      "intensity": 4.0,
+      "range": 1.5,
+      "falloff_exponent": 8.0,
+      "inner": 45.0,
+      "outer": 50.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 8,
+      "type": "SPOT",
+      "position": [
+        1.7966029644012451,
+        0.3380165100097656,
+        0.8577919006347656
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        234,
+        185
+      ],
+      "intensity": 31.899999618530273,
+      "range": 2.5,
+      "falloff_exponent": 4.0,
+      "inner": 0.0,
+      "outer": 52.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 9,
+      "type": "CAPSULE",
+      "position": [
+        -1.3158719539642334,
+        -1.728621006011963,
+        0.6531497836112976
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        0.6000000238418579,
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "rgb": [
+        174,
+        255,
+        224
+      ],
+      "intensity": 0.05000000074505806,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 4.0,
+      "inner": 45.0,
+      "outer": 50.0,
+      "flags": 8704,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 10,
+      "type": "CAPSULE",
+      "position": [
+        -1.3158719539642334,
+        -1.728621006011963,
+        -0.39980700612068176
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.2999999523162842,
+        1.2999999523162842,
+        1.2999999523162842
+      ],
+      "rgb": [
+        174,
+        255,
+        224
+      ],
+      "intensity": 0.5,
+      "range": 0.44999998807907104,
+      "falloff_exponent": 4.0,
+      "inner": 45.0,
+      "outer": 50.0,
+      "flags": 8704,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 11,
+      "type": "CAPSULE",
+      "position": [
+        -1.3158719539642334,
+        0.7912979125976562,
+        -0.39980700612068176
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.2999999523162842,
+        1.2999999523162842,
+        1.2999999523162842
+      ],
+      "rgb": [
+        174,
+        255,
+        224
+      ],
+      "intensity": 0.5,
+      "range": 0.44999998807907104,
+      "falloff_exponent": 4.0,
+      "inner": 45.0,
+      "outer": 50.0,
+      "flags": 8704,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 12,
+      "type": "CAPSULE",
+      "position": [
+        -1.3158719539642334,
+        0.7912979125976562,
+        0.6531497836112976
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        0.6000000238418579,
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "rgb": [
+        174,
+        255,
+        224
+      ],
+      "intensity": 0.10000000149011612,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 16.0,
+      "inner": 45.0,
+      "outer": 50.0,
+      "flags": 8704,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 13,
+      "type": "POINT",
+      "position": [
+        1.8082610368728638,
+        -3.165501117706299,
+        -0.317731112241745
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        184,
+        252,
+        144
+      ],
+      "intensity": 2.0,
+      "range": 1.2000000476837158,
+      "falloff_exponent": 4.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_fron_deta",
+      "index": 14,
+      "type": "SPOT",
+      "position": [
+        1.7966029644012451,
+        -0.47941020131111145,
+        -2.7389650344848633
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        100,
+        58
+      ],
+      "intensity": 1.0,
+      "range": 5.0,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 78.0,
+      "flags": 8192,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_gara_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -1.5329949855804443,
+        1.5773429870605469,
+        1.6862280368804932
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        6.0,
+        6.0,
+        6.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 4.0,
+      "falloff_exponent": 32.0,
+      "inner": 38.0,
+      "outer": 70.0,
+      "flags": 262528,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_gara_deta",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        -1.4578380584716797,
+        -1.8729859590530396,
+        1.763772964477539
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        6.0,
+        6.0,
+        6.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 5.400000095367432,
+      "falloff_exponent": 128.0,
+      "inner": 38.0,
+      "outer": 70.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_gara_deta",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        2.2711598873138428,
+        -1.8688130378723145,
+        1.7280700206756592
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        6.0,
+        6.0,
+        6.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 4.0,
+      "falloff_exponent": 32.0,
+      "inner": 38.0,
+      "outer": 78.0,
+      "flags": 262528,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_gara_deta",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        2.4867920875549316,
+        1.6850110292434692,
+        1.6875170469284058
+      ],
+      "direction": [
+        0.1483031064271927,
+        0.41211870312690735,
+        -0.8989796042442322
+      ],
+      "extent": [
+        6.0,
+        6.0,
+        6.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 30.0,
+      "range": 5.0,
+      "falloff_exponent": 128.0,
+      "inner": 38.0,
+      "outer": 60.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_detail",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        5.1595258712768555,
+        0.388145387172699,
+        5.099377155303955
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 0.30000001192092896,
+      "range": 3.700000047683716,
+      "falloff_exponent": 16.0,
+      "inner": 75.0,
+      "outer": 88.0,
+      "flags": 352768,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_detail",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        5.1595258712768555,
+        0.388145387172699,
+        5.162304878234863
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 1.0,
+      "range": 2.5,
+      "falloff_exponent": 8.0,
+      "inner": 75.0,
+      "outer": 88.0,
+      "flags": 352768,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -1.499271035194397,
+        2.6401419639587402,
+        -0.5531697273254395
+      ],
+      "direction": [
+        0.0,
+        -1.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 5.0,
+      "range": 1.5,
+      "falloff_exponent": 8.0,
+      "inner": 40.0,
+      "outer": 90.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 1,
+      "type": "POINT",
+      "position": [
+        -1.6162840127944946,
+        2.7451229095458984,
+        -0.03568696975708008
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 5.0,
+      "range": 1.5,
+      "falloff_exponent": 32.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        0.4985218048095703,
+        2.816904067993164,
+        0.7541031837463379
+      ],
+      "direction": [
+        0.0,
+        -1.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 2.0,
+      "range": 1.7999999523162842,
+      "falloff_exponent": 8.0,
+      "inner": 75.0,
+      "outer": 90.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 3,
+      "type": "POINT",
+      "position": [
+        0.4985218048095703,
+        2.7451229095458984,
+        1.3747450113296509
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 4.0,
+      "range": 1.0,
+      "falloff_exponent": 32.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 4,
+      "type": "POINT",
+      "position": [
+        3.1034770011901855,
+        -1.0387070178985596,
+        2.680361032485962
+      ],
+      "direction": [
+        -1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        206,
+        154
+      ],
+      "intensity": 5.0,
+      "range": 2.0,
+      "falloff_exponent": 64.0,
+      "inner": 40.0,
+      "outer": 90.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 5,
+      "type": "POINT",
+      "position": [
+        3.1059820652008057,
+        -1.0411360263824463,
+        2.6804749965667725
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 5.0,
+      "range": 1.5,
+      "falloff_exponent": 32.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 98304,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 6,
+      "type": "POINT",
+      "position": [
+        3.109539031982422,
+        1.6059950590133667,
+        1.3716239929199219
+      ],
+      "direction": [
+        -1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 4.0,
+      "range": 4.0,
+      "falloff_exponent": 64.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 256,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 7,
+      "type": "SPOT",
+      "position": [
+        3.0147769451141357,
+        1.08113694190979,
+        1.0385769605636597
+      ],
+      "direction": [
+        -1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 5.0,
+      "range": 1.7999999523162842,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 90.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 8,
+      "type": "POINT",
+      "position": [
+        3.1089720726013184,
+        -1.0411360263824463,
+        2.6754748821258545
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 5.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 8.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 98304,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_hall_emis",
+      "index": 9,
+      "type": "POINT",
+      "position": [
+        3.109539031982422,
+        1.6059950590133667,
+        1.3791249990463257
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 5.0,
+      "range": 1.5,
+      "falloff_exponent": 32.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 98304,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 0,
+      "type": "POINT",
+      "position": [
+        -0.05260301008820534,
+        0.483856201171875,
+        0.7734748721122742
+      ],
+      "direction": [
+        0.0,
+        -0.08715499192476273,
+        -0.9961947798728943
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        195
+      ],
+      "intensity": 32.0,
+      "range": 4.699999809265137,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 60.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        3.9725708961486816,
+        -0.3347645103931427,
+        -0.6082189083099365
+      ],
+      "direction": [
+        -0.9998763799667358,
+        -0.009530505165457726,
+        -0.01250195037573576
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        215
+      ],
+      "intensity": 3.0,
+      "range": 1.5,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 80.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        -1.2671339511871338,
+        -0.8872746825218201,
+        1.7913750410079956
+      ],
+      "direction": [
+        0.0,
+        -0.25881868600845337,
+        -0.9659258723258972
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        215
+      ],
+      "intensity": 25.0,
+      "range": 2.5999999046325684,
+      "falloff_exponent": 8.0,
+      "inner": 30.0,
+      "outer": 42.0,
+      "flags": 270464,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        -4.600509166717529,
+        1.3891119956970215,
+        -0.27652499079704285
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 5.0,
+      "range": 2.6500000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 40.0,
+      "outer": 60.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 4,
+      "type": "SPOT",
+      "position": [
+        -4.600509166717529,
+        1.9639949798583984,
+        -0.27652499079704285
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 10.0,
+      "range": 1.5,
+      "falloff_exponent": 32.0,
+      "inner": 40.0,
+      "outer": 60.0,
+      "flags": 262528,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 5,
+      "type": "SPOT",
+      "position": [
+        4.2473649978637695,
+        2.6593360900878906,
+        -0.26550599932670593
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 8.0,
+      "range": 2.6500000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 42.0,
+      "outer": 60.0,
+      "flags": 262528,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 6,
+      "type": "SPOT",
+      "position": [
+        4.2473649978637695,
+        -0.35584160685539246,
+        -0.26550599932670593
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 8.0,
+      "range": 2.6500000953674316,
+      "falloff_exponent": 32.0,
+      "inner": 42.0,
+      "outer": 60.0,
+      "flags": 262528,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 7,
+      "type": "SPOT",
+      "position": [
+        3.5239920616149902,
+        2.3314759731292725,
+        -0.5100750923156738
+      ],
+      "direction": [
+        -0.7526248097419739,
+        -0.6122267842292786,
+        0.242351695895195
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        215
+      ],
+      "intensity": 3.0,
+      "range": 1.0,
+      "falloff_exponent": 8.0,
+      "inner": 40.0,
+      "outer": 60.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 8,
+      "type": "SPOT",
+      "position": [
+        4.573040008544922,
+        0.7155303955078125,
+        0.04349302873015404
+      ],
+      "direction": [
+        -0.7376198172569275,
+        0.3764106035232544,
+        -0.5605642199516296
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 1.0,
+      "range": 4.0,
+      "falloff_exponent": 1.0,
+      "inner": 0.0,
+      "outer": 45.0,
+      "flags": 74624,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 9,
+      "type": "POINT",
+      "position": [
+        1.164255976676941,
+        -0.8950424194335938,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 10,
+      "type": "POINT",
+      "position": [
+        3.410412073135376,
+        -0.8950424194335938,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 11,
+      "type": "POINT",
+      "position": [
+        3.393735885620117,
+        1.6679420471191406,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 12,
+      "type": "POINT",
+      "position": [
+        1.1597659587860107,
+        1.6679420471191406,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 13,
+      "type": "POINT",
+      "position": [
+        3.2923190593719482,
+        2.600306987762451,
+        -0.899761974811554
+      ],
+      "direction": [
+        0.18301190435886383,
+        0.18301209807395935,
+        -0.9659261107444763
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        225,
+        185
+      ],
+      "intensity": 0.10000000149011612,
+      "range": 1.5,
+      "falloff_exponent": 8.0,
+      "inner": 40.0,
+      "outer": 42.0,
+      "flags": 74240,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 14,
+      "type": "SPOT",
+      "position": [
+        0.698058009147644,
+        3.641649007797241,
+        1.0284010171890259
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        221,
+        193
+      ],
+      "intensity": 25.0,
+      "range": 2.5,
+      "falloff_exponent": 8.0,
+      "inner": 46.0,
+      "outer": 55.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 15,
+      "type": "SPOT",
+      "position": [
+        -3.5414481163024902,
+        1.6769119501113892,
+        1.772047996520996
+      ],
+      "direction": [
+        0.06124873086810112,
+        0.5196189880371094,
+        -0.852199912071228
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        215
+      ],
+      "intensity": 20.0,
+      "range": 4.0,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 27.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 16,
+      "type": "SPOT",
+      "position": [
+        -4.630403995513916,
+        1.9030669927597046,
+        -0.7553520202636719
+      ],
+      "direction": [
+        0.867648720741272,
+        -0.2896117866039276,
+        0.4041174054145813
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        215
+      ],
+      "intensity": 5.0,
+      "range": 2.5000009536743164,
+      "falloff_exponent": 4.0,
+      "inner": 0.0,
+      "outer": 60.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 17,
+      "type": "POINT",
+      "position": [
+        -1.2699220180511475,
+        1.6679420471191406,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 18,
+      "type": "SPOT",
+      "position": [
+        0.4449709951877594,
+        1.1086390018463135,
+        -1.0991419553756714
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        195
+      ],
+      "intensity": 2.5,
+      "range": 2.0,
+      "falloff_exponent": 4.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 19,
+      "type": "SPOT",
+      "position": [
+        -1.2241300344467163,
+        0.6778678894042969,
+        -1.099141001701355
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        195
+      ],
+      "intensity": 2.5,
+      "range": 2.0,
+      "falloff_exponent": 4.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 20,
+      "type": "SPOT",
+      "position": [
+        0.698058009147644,
+        3.2479379177093506,
+        -0.6733160018920898
+      ],
+      "direction": [
+        0.0,
+        -0.9396923184394836,
+        0.34202098846435547
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        221,
+        193
+      ],
+      "intensity": 5.0,
+      "range": 1.7999999523162842,
+      "falloff_exponent": 1.0,
+      "inner": 0.0,
+      "outer": 55.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 21,
+      "type": "SPOT",
+      "position": [
+        4.725183010101318,
+        1.1558929681777954,
+        0.32743099331855774
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        222,
+        193
+      ],
+      "intensity": 3.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 1.0,
+      "inner": 86.0,
+      "outer": 88.0,
+      "flags": 74240,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 22,
+      "type": "POINT",
+      "position": [
+        -1.267251968383789,
+        -0.8950424194335938,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 23,
+      "type": "POINT",
+      "position": [
+        -3.528296947479248,
+        -0.8950424194335938,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_g_kitche_deta",
+      "index": 24,
+      "type": "POINT",
+      "position": [
+        -3.528296947479248,
+        1.6614630222320557,
+        1.7743569612503052
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_kitc_chand",
+      "index": 0,
+      "type": "POINT",
+      "position": [
+        0.002806162927299738,
+        -0.651846170425415,
+        0.1688700020313263
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_kitc_chand",
+      "index": 1,
+      "type": "POINT",
+      "position": [
+        0.565396785736084,
+        -0.32409751415252686,
+        0.1688700020313263
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_kitc_chand",
+      "index": 2,
+      "type": "POINT",
+      "position": [
+        0.5648000836372375,
+        0.3281135857105255,
+        0.1688700020313263
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_kitc_chand",
+      "index": 3,
+      "type": "POINT",
+      "position": [
+        -0.5658292174339294,
+        0.3230768144130707,
+        0.1688700020313263
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_kitc_chand",
+      "index": 4,
+      "type": "POINT",
+      "position": [
+        -0.563216507434845,
+        -0.32703229784965515,
+        0.1688700020313263
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_kitc_chand",
+      "index": 5,
+      "type": "POINT",
+      "position": [
+        0.0028047889936715364,
+        0.6416962146759033,
+        0.1688700020313263
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        2.654571056365967,
+        -5.117862224578857,
+        0.03766607865691185
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        234,
+        185
+      ],
+      "intensity": 32.0,
+      "range": 1.899999976158142,
+      "falloff_exponent": 32.0,
+      "inner": 58.0,
+      "outer": 60.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        2.654571056365967,
+        -5.117862224578857,
+        0.08766508102416992
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        234,
+        185
+      ],
+      "intensity": 32.0,
+      "range": 2.5,
+      "falloff_exponent": 32.0,
+      "inner": 15.0,
+      "outer": 35.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 2,
+      "type": "POINT",
+      "position": [
+        2.654571056365967,
+        -5.117862224578857,
+        0.06766510009765625
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 4.0,
+      "range": 2.0,
+      "falloff_exponent": 32.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        1.6549969911575317,
+        -5.935556888580322,
+        -0.13966679573059082
+      ],
+      "direction": [
+        -0.09492828696966171,
+        0.5753738284111023,
+        -0.8123630285263062
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        222,
+        193
+      ],
+      "intensity": 5.0,
+      "range": 5.0,
+      "falloff_exponent": 1.0,
+      "inner": 0.0,
+      "outer": 35.0,
+      "flags": 8704,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 4,
+      "type": "SPOT",
+      "position": [
+        0.9025940895080566,
+        -1.930209994316101,
+        2.057041883468628
+      ],
+      "direction": [
+        -0.25881868600845337,
+        0.0,
+        -0.9659258723258972
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        232,
+        205
+      ],
+      "intensity": 32.0,
+      "range": 4.900000095367432,
+      "falloff_exponent": 15.0,
+      "inner": 0.0,
+      "outer": 40.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 5,
+      "type": "POINT",
+      "position": [
+        -4.418804168701172,
+        1.1793290376663208,
+        1.0486650466918945
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.5,
+      "range": 1.0,
+      "falloff_exponent": 4.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 6,
+      "type": "POINT",
+      "position": [
+        -4.4101409912109375,
+        3.0110421180725098,
+        1.0486650466918945
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        195,
+        131
+      ],
+      "intensity": 1.5,
+      "range": 3.0,
+      "falloff_exponent": 4.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 7,
+      "type": "POINT",
+      "position": [
+        0.31354328989982605,
+        4.083172798156738,
+        0.32866498827934265
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 8.0,
+      "range": 2.25,
+      "falloff_exponent": 16.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 8,
+      "type": "SPOT",
+      "position": [
+        0.31354328989982605,
+        4.083172798156738,
+        0.3486649990081787
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        221,
+        185
+      ],
+      "intensity": 32.0,
+      "range": 2.200000047683716,
+      "falloff_exponent": 32.0,
+      "inner": 32.0,
+      "outer": 40.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 9,
+      "type": "SPOT",
+      "position": [
+        0.31354328989982605,
+        4.083172798156738,
+        0.29866600036621094
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        211,
+        185
+      ],
+      "intensity": 32.0,
+      "range": 3.009999990463257,
+      "falloff_exponent": 32.0,
+      "inner": 32.0,
+      "outer": 40.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 10,
+      "type": "POINT",
+      "position": [
+        -4.407641887664795,
+        -5.104948043823242,
+        1.0486650466918945
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.5,
+      "range": 2.0,
+      "falloff_exponent": 32.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 11,
+      "type": "POINT",
+      "position": [
+        -2.38175892829895,
+        -6.348694801330566,
+        1.0486650466918945
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.5,
+      "range": 3.0,
+      "falloff_exponent": 8.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 12,
+      "type": "POINT",
+      "position": [
+        -0.17757989466190338,
+        -6.348694801330566,
+        1.0486650466918945
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        196,
+        133
+      ],
+      "intensity": 1.5,
+      "range": 1.2000000476837158,
+      "falloff_exponent": 4.0,
+      "inner": 50.0,
+      "outer": 55.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 13,
+      "type": "POINT",
+      "position": [
+        1.6223039627075195,
+        -5.5578742027282715,
+        -1.448883056640625
+      ],
+      "direction": [
+        -0.238564595580101,
+        0.7177261114120483,
+        -0.6541836261749268
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        167,
+        143
+      ],
+      "intensity": 0.30000001192092896,
+      "range": 4.0,
+      "falloff_exponent": 16.0,
+      "inner": 10.0,
+      "outer": 25.0,
+      "flags": 9088,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 14,
+      "type": "SPOT",
+      "position": [
+        -3.540432929992676,
+        0.030780790373682976,
+        2.0621531009674072
+      ],
+      "direction": [
+        -0.7411664724349976,
+        -0.014404330402612686,
+        -0.671166718006134
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 2.200000047683716,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 25.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 15,
+      "type": "SPOT",
+      "position": [
+        -3.5095040798187256,
+        -1.9165359735488892,
+        2.0286641120910645
+      ],
+      "direction": [
+        -0.7531406283378601,
+        -0.019599629566073418,
+        -0.6575676202774048
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 2.200000047683716,
+      "falloff_exponent": 4.0,
+      "inner": 0.0,
+      "outer": 25.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 16,
+      "type": "SPOT",
+      "position": [
+        -3.544809103012085,
+        -3.851623058319092,
+        2.0286641120910645
+      ],
+      "direction": [
+        -0.7455785274505615,
+        -0.024985549971461296,
+        -0.665949285030365
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 2.0999999046325684,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 25.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 17,
+      "type": "SPOT",
+      "position": [
+        -4.822403907775879,
+        -1.9435659646987915,
+        0.6886652112007141
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 1.350000023841858,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 18,
+      "type": "SPOT",
+      "position": [
+        -4.822403907775879,
+        0.001755713950842619,
+        0.6886652112007141
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 1.350000023841858,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 19,
+      "type": "SPOT",
+      "position": [
+        -4.822403907775879,
+        -3.896388053894043,
+        0.6886652112007141
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 1.350000023841858,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 20,
+      "type": "SPOT",
+      "position": [
+        -4.822403907775879,
+        -3.896388053894043,
+        -0.33133479952812195
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 1.350000023841858,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 21,
+      "type": "SPOT",
+      "position": [
+        -4.822403907775879,
+        -1.9435659646987915,
+        -0.33133479952812195
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 1.350000023841858,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 22,
+      "type": "SPOT",
+      "position": [
+        -4.822403907775879,
+        0.001755713950842619,
+        -0.33133479952812195
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        244,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 1.350000023841858,
+      "falloff_exponent": 32.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 128,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 23,
+      "type": "POINT",
+      "position": [
+        -3.551008939743042,
+        0.03021717071533203,
+        2.049546957015991
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 24,
+      "type": "POINT",
+      "position": [
+        -3.553550958633423,
+        -1.9290900230407715,
+        2.049546957015991
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 25,
+      "type": "POINT",
+      "position": [
+        -3.550652027130127,
+        -3.8601880073547363,
+        2.049546957015991
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 26,
+      "type": "POINT",
+      "position": [
+        0.9013553261756897,
+        -1.9290900230407715,
+        2.049546957015991
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        236,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 0.10000000149011612,
+      "falloff_exponent": 4.0,
+      "inner": 40.0,
+      "outer": 45.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 27,
+      "type": "SPOT",
+      "position": [
+        -4.631289958953857,
+        -0.008591651916503906,
+        1.1225969791412354
+      ],
+      "direction": [
+        0.3386591970920563,
+        0.0,
+        0.9409090876579285
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        179,
+        106
+      ],
+      "intensity": 1.0,
+      "range": 1.0,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 28,
+      "type": "SPOT",
+      "position": [
+        -4.631289958953857,
+        -3.9369819164276123,
+        1.1225969791412354
+      ],
+      "direction": [
+        0.3386591970920563,
+        0.0,
+        0.9409090876579285
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        179,
+        106
+      ],
+      "intensity": 1.0,
+      "range": 1.0,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_lounge_deta",
+      "index": 29,
+      "type": "SPOT",
+      "position": [
+        -4.695524215698242,
+        -1.95768404006958,
+        1.2822439670562744
+      ],
+      "direction": [
+        0.3386591970920563,
+        0.0,
+        0.9409090876579285
+      ],
+      "extent": [
+        1.5,
+        1.5,
+        1.5
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 1.0,
+      "range": 1.0,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 90.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "michael",
+      "model": "v_44_shell",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        3.2089829444885254,
+        -1.3346409797668457,
+        0.14420180022716522
+      ],
+      "direction": [
+        0.34136998653411865,
+        -0.003906403202563524,
+        -0.9399209022521973
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        248,
+        215
+      ],
+      "intensity": 32.0,
+      "range": 3.5999999046325684,
+      "falloff_exponent": 32.0,
+      "inner": 30.0,
+      "outer": 60.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 0,
+      "type": "CAPSULE",
+      "position": [
+        -4.666316032409668,
+        -2.1958351135253906,
+        -0.11124899983406067
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        -1.1920930091946502e-06
+      ],
+      "extent": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 90.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 270336,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 1,
+      "type": "CAPSULE",
+      "position": [
+        0.8505550026893616,
+        -2.331934928894043,
+        -0.11079999804496765
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 90.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 270336,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 2,
+      "type": "CAPSULE",
+      "position": [
+        5.32902193069458,
+        -2.474666118621826,
+        -0.11079999804496765
+      ],
+      "direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "extent": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 90.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 270336,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 3,
+      "type": "CAPSULE",
+      "position": [
+        -4.71365213394165,
+        -5.187253952026367,
+        -0.11079999804496765
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 90.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 270336,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 4,
+      "type": "CAPSULE",
+      "position": [
+        -4.048915863037109,
+        1.326261043548584,
+        -0.11079999804496765
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 90.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 270336,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 5,
+      "type": "CAPSULE",
+      "position": [
+        -4.048915863037109,
+        5.187798976898193,
+        -0.11079999804496765
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 90.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 270336,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 6,
+      "type": "CAPSULE",
+      "position": [
+        2.7534079551696777,
+        1.4706549644470215,
+        -0.11079999804496765
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        1.1920930376163597e-07
+      ],
+      "extent": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 1.0,
+      "falloff_exponent": 90.0,
+      "inner": 5.0,
+      "outer": 90.0,
+      "flags": 270336,
+      "volume": 1.0
+    },
+    {
+      "group": "suburban",
+      "model": "v_51_lights010",
+      "index": 7,
+      "type": "SPOT",
+      "position": [
+        -5.899436950683594,
+        1.1542030572891235,
+        -0.6333361268043518
+      ],
+      "direction": [
+        -0.7986348867416382,
+        0.0,
+        -0.6018158197402954
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        190,
+        252,
+        253
+      ],
+      "intensity": 5.0,
+      "range": 3.5,
+      "falloff_exponent": 15.0,
+      "inner": 25.0,
+      "outer": 65.0,
+      "flags": 262528,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        -0.6534389853477478,
+        -2.0950889587402344,
+        0.2797251045703888
+      ],
+      "direction": [
+        0.11791560053825378,
+        0.1282190978527069,
+        -0.9847109913825989
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 20.299999237060547,
+      "range": 3.200000047683716,
+      "falloff_exponent": 8.010000228881836,
+      "inner": 85.0,
+      "outer": 91.0,
+      "flags": 65920,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 1,
+      "type": "POINT",
+      "position": [
+        5.072497844696045,
+        -5.508514881134033,
+        0.2573659121990204
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        3,
+        3
+      ],
+      "intensity": 8.0,
+      "range": 2.299999952316284,
+      "falloff_exponent": 12.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 327680,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        -0.5294640064239502,
+        2.8922839164733887,
+        1.0727200508117676
+      ],
+      "direction": [
+        0.9814438819885254,
+        0.1165509968996048,
+        -0.15226230025291443
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        47,
+        47,
+        255
+      ],
+      "intensity": 12.600000381469727,
+      "range": 5.300000190734863,
+      "falloff_exponent": 8.0,
+      "inner": 0.0,
+      "outer": 58.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        3.164180040359497,
+        0.5176287293434143,
+        0.7989130020141602
+      ],
+      "direction": [
+        0.0288150105625391,
+        0.0,
+        0.9995847940444946
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 8.20000171661377,
+      "range": 2.700000047683716,
+      "falloff_exponent": 8.0,
+      "inner": 60.0,
+      "outer": 100.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 4,
+      "type": "SPOT",
+      "position": [
+        -1.8601620197296143,
+        2.995918035507202,
+        1.0727200508117676
+      ],
+      "direction": [
+        -0.03200991079211235,
+        -0.8886306285858154,
+        -0.4575051963329315
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        84,
+        84,
+        255
+      ],
+      "intensity": 8.40000057220459,
+      "range": 4.300000190734863,
+      "falloff_exponent": 8.0,
+      "inner": 59.0,
+      "outer": 95.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 5,
+      "type": "POINT",
+      "position": [
+        -2.905298948287964,
+        3.230762004852295,
+        1.0291379690170288
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        50.099998474121094,
+        50.099998474121094,
+        50.099998474121094
+      ],
+      "rgb": [
+        47,
+        47,
+        255
+      ],
+      "intensity": 15.600000381469727,
+      "range": 1.0,
+      "falloff_exponent": 8.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 6,
+      "type": "SPOT",
+      "position": [
+        -0.6538609862327576,
+        3.768260955810547,
+        1.0727200508117676
+      ],
+      "direction": [
+        -0.00044916049228049815,
+        0.443941593170166,
+        0.8960555791854858
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        47,
+        47,
+        255
+      ],
+      "intensity": 31.600000381469727,
+      "range": 1.100000023841858,
+      "falloff_exponent": 8.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 7,
+      "type": "SPOT",
+      "position": [
+        2.508039951324463,
+        -5.33043909072876,
+        0.23352690041065216
+      ],
+      "direction": [
+        0.3721703886985779,
+        0.18895919620990753,
+        -0.9087262749671936
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 30.0,
+      "range": 3.5,
+      "falloff_exponent": 30.0,
+      "inner": 74.0,
+      "outer": 76.0,
+      "flags": 65920,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 8,
+      "type": "SPOT",
+      "position": [
+        -1.2030279636383057,
+        -6.151909828186035,
+        0.42906591296195984
+      ],
+      "direction": [
+        0.21984590590000153,
+        0.2620028853416443,
+        -0.9396926760673523
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 18.0,
+      "range": 4.0,
+      "falloff_exponent": 20.0,
+      "inner": 0.0,
+      "outer": 80.0,
+      "flags": 65920,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 9,
+      "type": "SPOT",
+      "position": [
+        -1.627058982849121,
+        3.768260955810547,
+        1.0727200508117676
+      ],
+      "direction": [
+        -0.00044916049228049815,
+        0.443941593170166,
+        0.8960555791854858
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        47,
+        47,
+        255
+      ],
+      "intensity": 31.600000381469727,
+      "range": 1.100000023841858,
+      "falloff_exponent": 8.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 10,
+      "type": "POINT",
+      "position": [
+        -0.49800801277160645,
+        1.2934850454330444,
+        1.5663549900054932
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 24.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 8.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 11,
+      "type": "POINT",
+      "position": [
+        -1.9204870462417603,
+        0.295040100812912,
+        1.5663549900054932
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 24.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 8.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 12,
+      "type": "POINT",
+      "position": [
+        -1.2434179782867432,
+        0.8320198059082031,
+        1.5663549900054932
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 24.0,
+      "range": 0.20000000298023224,
+      "falloff_exponent": 8.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 13,
+      "type": "SPOT",
+      "position": [
+        -4.960933208465576,
+        -4.048336029052734,
+        1.380120038986206
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 32.0,
+      "range": 2.0,
+      "falloff_exponent": 8.0,
+      "inner": 66.0,
+      "outer": 70.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 14,
+      "type": "SPOT",
+      "position": [
+        -5.04003381729126,
+        -2.189232110977173,
+        1.3657159805297852
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 32.0,
+      "range": 2.0,
+      "falloff_exponent": 8.0,
+      "inner": 66.0,
+      "outer": 70.0,
+      "flags": 262144,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 15,
+      "type": "SPOT",
+      "position": [
+        3.337913990020752,
+        2.0595130920410156,
+        1.0445330142974854
+      ],
+      "direction": [
+        0.2806819975376129,
+        0.0,
+        -0.9598007798194885
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        190,
+        121
+      ],
+      "intensity": 16.0,
+      "range": 3.700000047683716,
+      "falloff_exponent": 16.0,
+      "inner": 73.0,
+      "outer": 75.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 16,
+      "type": "SPOT",
+      "position": [
+        -1.1924619674682617,
+        0.7895355224609375,
+        1.335381031036377
+      ],
+      "direction": [
+        -0.4760664105415344,
+        0.4633535146713257,
+        -0.7474384903907776
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        242,
+        232,
+        201
+      ],
+      "intensity": 32.0,
+      "range": 4.800000190734863,
+      "falloff_exponent": 12.0,
+      "inner": 50.0,
+      "outer": 61.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 17,
+      "type": "POINT",
+      "position": [
+        -3.05086088180542,
+        -5.2871809005737305,
+        0.22127600014209747
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        253,
+        230,
+        169
+      ],
+      "intensity": 10.0,
+      "range": 2.799999952316284,
+      "falloff_exponent": 25.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 18,
+      "type": "POINT",
+      "position": [
+        -3.05086088180542,
+        -2.33256196975708,
+        0.22127600014209747
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        253,
+        230,
+        169
+      ],
+      "intensity": 10.0,
+      "range": 2.799999952316284,
+      "falloff_exponent": 25.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 0,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 19,
+      "type": "POINT",
+      "position": [
+        3.375438928604126,
+        -2.032197952270508,
+        -0.10923899710178375
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        253,
+        230,
+        169
+      ],
+      "intensity": 10.0,
+      "range": 2.799999952316284,
+      "falloff_exponent": 25.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 20,
+      "type": "SPOT",
+      "position": [
+        -3.0480949878692627,
+        -5.231880187988281,
+        1.150149941444397
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 21,
+      "type": "SPOT",
+      "position": [
+        2.6919779777526855,
+        -5.231880187988281,
+        1.150149941444397
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 22,
+      "type": "SPOT",
+      "position": [
+        -3.0480949878692627,
+        -2.390671968460083,
+        1.150149941444397
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 23,
+      "type": "SPOT",
+      "position": [
+        2.6919779777526855,
+        -2.390671968460083,
+        1.150149941444397
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 73728,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 24,
+      "type": "SPOT",
+      "position": [
+        1.7803189754486084,
+        6.515449047088623,
+        0.7532619833946228
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 25,
+      "type": "SPOT",
+      "position": [
+        1.7803189754486084,
+        6.515449047088623,
+        0.6178299784660339
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 15.0,
+      "range": 3.299999952316284,
+      "falloff_exponent": 32.0,
+      "inner": 80.0,
+      "outer": 80.0,
+      "flags": 384,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 26,
+      "type": "POINT",
+      "position": [
+        1.7822209596633911,
+        7.150598049163818,
+        0.32390809059143066
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        253,
+        230,
+        169
+      ],
+      "intensity": 4.0,
+      "range": 1.7999999523162842,
+      "falloff_exponent": 25.0,
+      "inner": 90.0,
+      "outer": 100.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_light2",
+      "index": 27,
+      "type": "SPOT",
+      "position": [
+        4.347932815551758,
+        -1.226220965385437,
+        1.4178249835968018
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        208,
+        158
+      ],
+      "intensity": 32.0,
+      "range": 2.0,
+      "falloff_exponent": 8.0,
+      "inner": 66.0,
+      "outer": 70.0,
+      "flags": 65536,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_lights",
+      "index": 0,
+      "type": "SPOT",
+      "position": [
+        4.488830089569092,
+        -0.37938210368156433,
+        0.9026989936828613
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_lights",
+      "index": 1,
+      "type": "SPOT",
+      "position": [
+        -2.886815071105957,
+        -0.37044191360473633,
+        0.9026989936828613
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_lights",
+      "index": 2,
+      "type": "SPOT",
+      "position": [
+        -2.886815071105957,
+        4.384739875793457,
+        0.9026989936828613
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 106496,
+      "volume": 1.0
+    },
+    {
+      "group": "clothes_mid",
+      "model": "v_52_pendant_lights",
+      "index": 3,
+      "type": "SPOT",
+      "position": [
+        4.488830089569092,
+        4.375801086425781,
+        0.9026989936828613
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "extent": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "intensity": 32.0,
+      "range": 0.30000001192092896,
+      "falloff_exponent": 8.0,
+      "inner": 10.0,
+      "outer": 73.0,
+      "flags": 106496,
+      "volume": 1.0
+    }
+  ]
+}

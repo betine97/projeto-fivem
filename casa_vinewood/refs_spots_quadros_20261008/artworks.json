@@ -1,0 +1,110 @@
+[
+  {
+    "print": 2,
+    "name": "Quadro geometrico escritorio",
+    "model": "mansao_quadro_ref_2",
+    "position": [
+      -4.65,
+      2.461,
+      0.95
+    ],
+    "heading": 3.141592653589793,
+    "width_m": 0.9864262036306235,
+    "height_m": 1.506,
+    "canvas_width_m": 0.9304262036306234,
+    "canvas_height_m": 1.45,
+    "depth_m": 0.045,
+    "reference_crop": [
+      136,
+      94,
+      949,
+      1361
+    ],
+    "source_canvas_size": [
+      813,
+      1267
+    ],
+    "frame": "bronze"
+  },
+  {
+    "print": 3,
+    "name": "Quadro composicao sala jogos",
+    "model": "mansao_quadro_ref_3",
+    "position": [
+      5.82,
+      5.6,
+      0.95
+    ],
+    "heading": 1.5707963267948966,
+    "width_m": 1.0393187006145743,
+    "height_m": 1.336,
+    "canvas_width_m": 0.9833187006145743,
+    "canvas_height_m": 1.28,
+    "depth_m": 0.045,
+    "reference_crop": [
+      191,
+      56,
+      1066,
+      1195
+    ],
+    "source_canvas_size": [
+      875,
+      1139
+    ],
+    "frame": "bronze"
+  },
+  {
+    "print": 4,
+    "name": "Quadro abstrato hall esquerdo",
+    "model": "mansao_quadro_ref_4",
+    "position": [
+      9.4,
+      2.239,
+      0.95
+    ],
+    "heading": 0,
+    "width_m": 1.0497650844730493,
+    "height_m": 1.4060000000000001,
+    "canvas_width_m": 0.9937650844730492,
+    "canvas_height_m": 1.35,
+    "depth_m": 0.045,
+    "reference_crop": [
+      85,
+      102,
+      1000,
+      1345
+    ],
+    "source_canvas_size": [
+      915,
+      1243
+    ],
+    "frame": "black"
+  },
+  {
+    "print": 5,
+    "name": "Quadro abstrato hall direito",
+    "model": "mansao_quadro_ref_5",
+    "position": [
+      10.6,
+      2.239,
+      0.95
+    ],
+    "heading": 0,
+    "width_m": 1.0080935960591133,
+    "height_m": 1.4060000000000001,
+    "canvas_width_m": 0.9520935960591134,
+    "canvas_height_m": 1.35,
+    "depth_m": 0.045,
+    "reference_crop": [
+      114,
+      122,
+      973,
+      1340
+    ],
+    "source_canvas_size": [
+      859,
+      1218
+    ],
+    "frame": "black"
+  }
+]

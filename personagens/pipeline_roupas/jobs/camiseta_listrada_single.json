@@ -1,0 +1,12 @@
+{
+  "jobs": [
+    {
+      "job": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\jobs\\camiseta_preta_listrada\\r001",
+      "base": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\45d2507a98ce\\790afc7273a3",
+      "project": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\45d2507a98ce\\790afc7273a3\\blender\\58b5500a1d06\\base.blend",
+      "title": "Camiseta preta listrada",
+      "scale": 1.3,
+      "projection": "native_uv"
+    }
+  ]
+}

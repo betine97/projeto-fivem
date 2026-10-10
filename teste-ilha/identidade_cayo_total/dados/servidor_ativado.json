@@ -1,0 +1,28 @@
+{
+  "started_resources": [
+    "teste_ilha",
+    "cayo_vizinha",
+    "porto_esperanca",
+    "natureza_integrada"
+  ],
+  "revision": "identidade-cayo-total-20261009-1",
+  "maps": 386,
+  "native_counts": {
+    "tree": 18644,
+    "bush": 64495,
+    "rock": 2995,
+    "subcanopy": 17349,
+    "water_tower": 20
+  },
+  "grass_instances": 3631077,
+  "remaining_custom_tree_instances": {
+    "teste_ilha": 0,
+    "porto_esperanca": 0,
+    "natureza_integrada": 0
+  },
+  "original_house_drawables_unchanged": true,
+  "native_nature_drawables_unchanged": true,
+  "in_game_visual_verified": false,
+  "client_restart_required": true,
+  "client_reload_issue": "Existing FiveM client crashed while uninstalling old streamed map dictionaries during full terrain reload. New resource set started with no connected players; cold reconnect required."
+}

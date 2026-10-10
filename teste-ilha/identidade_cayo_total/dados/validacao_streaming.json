@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "old_peak_hd_box_residency": {
+    "entities": 102619,
+    "camera": [
+      100,
+      100,
+      0
+    ]
+  },
+  "new_peak_hd_box_residency": {
+    "entities": 29527,
+    "camera": [
+      -150,
+      400,
+      0
+    ]
+  },
+  "grid_cameras": 23430,
+  "placements_preserved": 103502,
+  "families_stream_independently": true,
+  "parent_indices_unchanged": true,
+  "native_building_pool_limit": 65000,
+  "in_game_visual_verified": false
+}

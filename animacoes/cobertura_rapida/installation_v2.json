@@ -1,0 +1,89 @@
+{
+  "revision": "cobertura-v2-carros-muros",
+  "installed_on_disk": true,
+  "server_restarted": false,
+  "game_tested": false,
+  "default_key": "Q",
+  "new_ycd_exported": false,
+  "animation_source": "GTA native cover and crouched movement clipsets",
+  "posture_revision": "v8-saida-restaurada",
+  "scripts": [
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\prone.lua",
+      "sha256": "2d5cd9670311c4e4d1da33569c8a3cc0dfaa189564616427581c62e3c3242fa6"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\cover.lua",
+      "sha256": "54a087bc9f700e3c96d1995e9b51923018c6a26d65b2414c56cf706dd9b0243f"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\combat_weapon.lua",
+      "sha256": "b84fc93a0367170286d8b2ae7dc2e9f3be874fda8f23860134bd5ad5e03bbb75"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\combat_mounts.lua",
+      "sha256": "52f1b23f1d0f6989ac73649825727fb058e2438ca6c89ede634574cafb1f5b8a"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\fxmanifest.lua",
+      "sha256": "8da5dc715abc7dcf5668e417022748d0d5ee02a8888f5f589d28c5c2169a9827"
+    }
+  ],
+  "tests": {
+    "revision": "cobertura-v2-carros-muros",
+    "game_tested": false,
+    "mock_only": true,
+    "scenarios_passed": 45,
+    "scenarios": [
+      "armed",
+      "unarmed",
+      "armed",
+      "unarmed",
+      "open_ground",
+      "narrow_pole",
+      "too_short",
+      "async_timeout",
+      "spawn_coordinate_noNav",
+      "spawn_coordinate_badNav",
+      "spawn_coordinate_coarseNav",
+      "wall_beside_camera",
+      "wall_behind_camera",
+      "already_touching_wall",
+      "parked_car_armed",
+      "low_wall_armed",
+      "parked_car_unarmed",
+      "low_wall_unarmed",
+      "moving_vehicle_rejected",
+      "vehicle_displaced_moving",
+      "vehicle_displaced_crouched",
+      "wall_on_exposed_side_of_attacker",
+      "crouch_cancel_for_pose",
+      "crouch_death",
+      "crouch_walk_out",
+      "crouch_resource_stop",
+      "crouch_set_load_failure",
+      "partial_clipset_exception_and_retry",
+      "attacker_direction",
+      "stuck_route",
+      "native_cover_rejected",
+      "cancel_pending_search",
+      "cidade:preparePilot",
+      "cidade:stopProne",
+      "onResourceStop",
+      "reject_dead",
+      "reject_vehicle",
+      "reject_flight",
+      "reject_drone",
+      "reject_pause",
+      "manual_exit_preserves_task",
+      "character_swap",
+      "authored_prone_to_native_cover",
+      "death_during_route",
+      "30_repeated_scan_cancellations"
+    ],
+    "synthetic_collision": true,
+    "async_shape_tests": true,
+    "native_animations_not_rendered": true,
+    "source_sha256": "54a087bc9f700e3c96d1995e9b51923018c6a26d65b2414c56cf706dd9b0243f"
+  }
+}

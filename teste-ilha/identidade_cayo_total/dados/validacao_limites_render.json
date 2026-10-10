@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "All 43 terrain sectors contain their full geometry in archetype boxes and spheres",
+    "All terrain entity volumes follow the regraded world geometry",
+    "Horizontal and vertical streaming volumes include an 8.8 km margin",
+    "Terrain uses its lowest geometry level at distance instead of disappearing"
+  ],
+  "sectors": 43,
+  "in_game_visual_verified": false
+}

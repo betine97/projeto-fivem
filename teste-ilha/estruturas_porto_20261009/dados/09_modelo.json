@@ -1,0 +1,44 @@
+{
+  "id": 9,
+  "nome": "Posto_combustivel",
+  "arquivo": "09_Posto_combustivel.blend",
+  "dimensoes": [
+    12,
+    7,
+    3.2
+  ],
+  "interiores": [
+    {
+      "pavimento": 1,
+      "uso": "posto",
+      "itens": [
+        "balcao",
+        "caixa",
+        "estantes",
+        "produtos",
+        "estoque"
+      ]
+    }
+  ],
+  "aberturas": [
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 5.76,
+      "largura": 1.35,
+      "z": 0,
+      "altura": 2.45
+    }
+  ],
+  "objetos": 1007,
+  "vertices": 90436,
+  "texturas_empacotadas": [
+    "Referencia_original_09"
+  ],
+  "texturas_fornecidas": {
+    "parede": 7,
+    "madeira": 2
+  },
+  "refinamento_aplicado": true,
+  "passagens_conferidas": true
+}

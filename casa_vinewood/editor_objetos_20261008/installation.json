@@ -1,0 +1,41 @@
+{
+  "catalog_objects": 36,
+  "installed_native_files": [
+    "cidade_mansao.ymap",
+    "mansao_cozinha_completa.ymap",
+    "mansao_decoracao.ymap",
+    "mansao_piano_tapetes.ymap",
+    "mansao_referencias.ymap",
+    "mansao_vasos_autorais.ymap",
+    "cidade_mansao.ybn"
+  ],
+  "changed": {
+    "diagnostico_colisoes_runtime.json": "3fc7e8a37e744313b6f92d425bea5c77e86a8e0332b692cf75a1556a967a9643",
+    "fxmanifest.lua": "c5f8bd3dff75edc3024f641bf1583527689af481be7d6600a2875681cd6bc1f4",
+    "iluminacao_ambiente.json": "36f22dc34acea0acc9052eb0d7b8a99ffcb5fbcfce01a8aee3de6e1f11fa1e72",
+    "iluminacao_decorativa.lua": "62c09afdd425f8ec6f87f0b4966435862aabcf3ef405cda851652ec57a91431c",
+    "README.md": "6e83376a6d3d8d6843de2b8c1d8867e831e63698805b508ab7675314434f2b7b",
+    "stream/cidade_mansao.ybn": "e53dc611eb6cdb17686934e25d7f40750b1920e81e0a3710bf6d22f63d1ecfd3",
+    "stream/cidade_mansao.ymap": "09e64298c934083d1dbb5d40349b7796b31e6d4b9fc95c678ca48b6abeb2237d",
+    "stream/mansao_cozinha_completa.ymap": "f03eb87ad1744f4621bccea285d016df06e71a5a74ca24b00042408983190a25",
+    "stream/mansao_decoracao.ymap": "6cd8c77bd9828bb8ce3fa5f3c5763c92e3cdcc3b10c1b22c4cbbe5b2110d3b27",
+    "stream/mansao_referencias.ymap": "ba7ff97d349ab5d3c53ff3c68015030d549f41e3ac8919451e612502011f1afc",
+    "stream/mansao_vasos_autorais.ymap": "5ac69b4ad090845b30a5f39bef430415df95539f87366d2220dc616b0415ed3e"
+  },
+  "preserved_files": 66,
+  "additional_files": [
+    "objetos_catalogo.json",
+    "objetos_client.lua",
+    "objetos_server.lua",
+    "objetos_shared.lua",
+    "stream/mansao_piano_cauda.ydr",
+    "stream/mansao_piano_tapetes.ymap",
+    "stream/mansao_piano_tapetes.ytyp",
+    "stream/mansao_tapete_classico.ydr",
+    "stream/mansao_tapete_urso.ydr"
+  ],
+  "mesh_and_texture_hashes_unchanged": true,
+  "camera_duplicate_triangles_removed": 356,
+  "live_restart": false,
+  "in_game_test": false
+}

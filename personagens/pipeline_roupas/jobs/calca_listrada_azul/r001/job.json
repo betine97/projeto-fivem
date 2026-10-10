@@ -1,0 +1,32 @@
+{
+  "pipeline_version": 1,
+  "name": "calca_listrada_azul",
+  "revision": "r001",
+  "base_id": "8552b45e2ad8",
+  "base_manifest_sha256": "af7b451506806369279c5315d5eeedb063cd454138b94ac6061b3266be4d22b7",
+  "reference_image": "codex-clipboard-5f9a62c4-57b2-460f-9532-7eba1d668ab2.png",
+  "material": {
+    "albedo_atlas": "atlas_calca.png",
+    "preserve_native_normal_specular": true
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_calca_listrada_azul_r001",
+    "prefix": "mp_m_freemode_01_cidade_calca_listrada_azul_r001",
+    "local_index": 0
+  },
+  "review": {
+    "positions": true,
+    "appearance": true,
+    "in_game": false
+  },
+  "notes": [
+    "Same approved native lowr_001_r base as the previous washed jeans. Original mesh, UV, skinning, LODs and normal/specular maps preserved.",
+    "Front image registered to native silhouette. Supplied waist, leg and cuff panels contribute to corresponding regions; back structure follows native pockets/seams because no back reference was supplied.",
+    "No extra pockets, straps or physics required by this reference. Original cuff skin regions retained; component 4 only."
+  ],
+  "display_title": "Calça listrada azul e branca",
+  "pattern_scale": 1.8
+}

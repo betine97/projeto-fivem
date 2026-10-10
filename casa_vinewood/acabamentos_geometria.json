@@ -1,0 +1,37 @@
+{
+  "slabs": [
+    {
+      "name": "Laje superior contorno nativo",
+      "old_depth_m": 0.25,
+      "new_depth_m": 0.45,
+      "walking_level_z": 2.808000087738037
+    },
+    {
+      "name": "Escada patamar intermediario",
+      "old_depth_m": 0.19999992847442627,
+      "new_depth_m": 0.35,
+      "walking_level_z": 1.003999948501587
+    },
+    {
+      "name": "Escada chegada superior",
+      "old_depth_m": 0.25,
+      "new_depth_m": 0.45,
+      "walking_level_z": 2.808000087738037
+    },
+    {
+      "name": "Fechamento borda mezanino",
+      "old_depth_m": 0.2849998474121094,
+      "new_depth_m": 0.45,
+      "walking_level_z": 2.822999954223633
+    },
+    {
+      "name": "Fechamento borda quarto sobre sala",
+      "old_depth_m": 0.2849998474121094,
+      "new_depth_m": 0.45,
+      "walking_level_z": 2.822999954223633
+    }
+  ],
+  "transparent_pane_triangles": 174,
+  "opaque_window_return_triangles": 1224,
+  "floor_elevations_preserved": true
+}

@@ -1,0 +1,2940 @@
+[
+  {
+    "name": "Piso do conves 14",
+    "center": [
+      0,
+      0,
+      13.82
+    ],
+    "size": [
+      70,
+      48,
+      0.36
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Piso do conves 20",
+    "center": [
+      0,
+      0,
+      19.82
+    ],
+    "size": [
+      70,
+      48,
+      0.36
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Piso superior com vao de icamento",
+    "center": [
+      6,
+      0,
+      25.82
+    ],
+    "size": [
+      46,
+      39,
+      0.36
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Piso superior com vao de icamento",
+    "center": [
+      -28.5,
+      0,
+      25.82
+    ],
+    "size": [
+      1,
+      39,
+      0.36
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Piso superior com vao de icamento",
+    "center": [
+      -23,
+      4.75,
+      25.82
+    ],
+    "size": [
+      12,
+      29.5,
+      0.36
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Doca embarque",
+    "center": [
+      27,
+      -36,
+      3.5
+    ],
+    "size": [
+      12,
+      11,
+      0.45
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Entrada EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -30.6,
+      3.61
+    ],
+    "size": [
+      2.4,
+      1.1,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -30.155,
+      3.8370689655172416
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -29.865000000000002,
+      4.014137931034482
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -29.575,
+      4.191206896551724
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -29.285,
+      4.368275862068965
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -28.995,
+      4.545344827586207
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -28.705000000000002,
+      4.722413793103448
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -28.415,
+      4.899482758620689
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -28.125,
+      5.07655172413793
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -27.835,
+      5.253620689655172
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -27.545,
+      5.430689655172413
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -27.255000000000003,
+      5.607758620689655
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -26.965,
+      5.784827586206896
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -26.675,
+      5.961896551724138
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -26.385,
+      6.138965517241379
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -26.095,
+      6.316034482758621
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -25.805,
+      6.493103448275862
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -25.515,
+      6.670172413793104
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -25.225,
+      6.847241379310345
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -24.935000000000002,
+      7.024310344827586
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -24.645000000000003,
+      7.201379310344827
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -24.355,
+      7.378448275862069
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -24.065,
+      7.5555172413793095
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -23.775000000000002,
+      7.732586206896551
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -23.485,
+      7.9096551724137925
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -23.195,
+      8.086724137931034
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -22.905,
+      8.263793103448275
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -22.615000000000002,
+      8.440862068965517
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -22.325000000000003,
+      8.617931034482758
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      25.05,
+      -22.035000000000004,
+      8.795
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -22.035,
+      8.972068965517241
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -22.325,
+      9.149137931034483
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -22.615000000000002,
+      9.326206896551724
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -22.905,
+      9.503275862068966
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -23.195,
+      9.680344827586207
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -23.485,
+      9.857413793103449
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -23.775,
+      10.03448275862069
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -24.065,
+      10.21155172413793
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -24.355,
+      10.388620689655173
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -24.645,
+      10.565689655172413
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -24.935000000000002,
+      10.742758620689655
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -25.225,
+      10.919827586206896
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -25.515,
+      11.096896551724138
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -25.805,
+      11.273965517241379
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -26.095,
+      11.45103448275862
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -26.385,
+      11.628103448275862
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -26.675,
+      11.805172413793104
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -26.965,
+      11.982241379310345
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -27.255,
+      12.159310344827587
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -27.545,
+      12.336379310344828
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -27.835,
+      12.51344827586207
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -28.125,
+      12.690517241379311
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -28.415,
+      12.86758620689655
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -28.705,
+      13.044655172413794
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -28.995,
+      13.221724137931034
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -29.285,
+      13.398793103448277
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -29.575,
+      13.575862068965517
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -29.865000000000002,
+      13.752931034482758
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -30.155,
+      13.93
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Patamar EMBARQUE_INFERIOR",
+    "center": [
+      26.5,
+      -21.240000000000002,
+      8.745000000000001
+    ],
+    "size": [
+      5.3,
+      1.6,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Saida EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -31.05,
+      13.88
+    ],
+    "size": [
+      2.4,
+      1.8,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Passagem EMBARQUE_INFERIOR",
+    "center": [
+      27.95,
+      -26.6,
+      13.88
+    ],
+    "size": [
+      2.4,
+      7.4,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Entrada INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -30.3,
+      13.88
+    ],
+    "size": [
+      2.4,
+      1.1,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -29.855,
+      14.106470588235293
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -29.565,
+      14.282941176470588
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -29.275,
+      14.459411764705882
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -28.985,
+      14.635882352941175
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -28.695,
+      14.81235294117647
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -28.405,
+      14.988823529411764
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -28.115000000000002,
+      15.165294117647058
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -27.825,
+      15.341764705882353
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -27.535,
+      15.518235294117646
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -27.245,
+      15.694705882352942
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -26.955,
+      15.871176470588235
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -26.665,
+      16.04764705882353
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -26.375,
+      16.224117647058822
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -26.085,
+      16.400588235294116
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -25.795,
+      16.577058823529413
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -25.505,
+      16.753529411764706
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -27.45,
+      -25.215,
+      16.93
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -25.215,
+      17.106470588235293
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -25.505,
+      17.282941176470587
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -25.795,
+      17.459411764705884
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -26.085,
+      17.635882352941177
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -26.375,
+      17.81235294117647
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -26.665,
+      17.988823529411764
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -26.955,
+      18.165294117647058
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -27.245,
+      18.34176470588235
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -27.535,
+      18.51823529411765
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -27.825,
+      18.69470588235294
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -28.115000000000002,
+      18.871176470588235
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -28.405,
+      19.04764705882353
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -28.695,
+      19.224117647058822
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -28.985,
+      19.400588235294116
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -29.275,
+      19.577058823529413
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -29.565,
+      19.753529411764706
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -29.855,
+      19.93
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Patamar INFERIOR_PRODUCAO",
+    "center": [
+      -26,
+      -24.42,
+      16.88
+    ],
+    "size": [
+      5.3,
+      1.6,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Saida INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -30.75,
+      19.88
+    ],
+    "size": [
+      2.4,
+      1.8,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Passagem INFERIOR_PRODUCAO",
+    "center": [
+      -24.55,
+      -26.45,
+      19.88
+    ],
+    "size": [
+      2.4,
+      7.1,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Entrada PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -29.3,
+      19.88
+    ],
+    "size": [
+      2.4,
+      1.1,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -28.855,
+      20.106470588235293
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -28.565,
+      20.282941176470587
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -28.275,
+      20.459411764705884
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -27.985,
+      20.635882352941177
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -27.695,
+      20.81235294117647
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -27.405,
+      20.988823529411764
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -27.115000000000002,
+      21.165294117647058
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -26.825,
+      21.34176470588235
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -26.535,
+      21.51823529411765
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -26.245,
+      21.69470588235294
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -25.955,
+      21.871176470588235
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -25.665,
+      22.04764705882353
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -25.375,
+      22.224117647058822
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -25.085,
+      22.400588235294116
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -24.795,
+      22.577058823529413
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -24.505,
+      22.753529411764706
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      21.55,
+      -24.215,
+      22.93
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -24.215,
+      23.106470588235293
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -24.505,
+      23.282941176470587
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -24.795,
+      23.459411764705884
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -25.085,
+      23.635882352941177
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -25.375,
+      23.81235294117647
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -25.665,
+      23.988823529411764
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -25.955,
+      24.165294117647058
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -26.245,
+      24.34176470588235
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -26.535,
+      24.51823529411765
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -26.825,
+      24.69470588235294
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -27.115000000000002,
+      24.871176470588235
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -27.405,
+      25.04764705882353
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -27.695,
+      25.224117647058822
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -27.985,
+      25.400588235294116
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -28.275,
+      25.577058823529413
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -28.565,
+      25.753529411764706
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Degrau PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -28.855,
+      25.93
+    ],
+    "size": [
+      2.4,
+      0.34,
+      0.14
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Patamar PRODUCAO_SUPERIOR",
+    "center": [
+      23,
+      -23.42,
+      22.88
+    ],
+    "size": [
+      5.3,
+      1.6,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Saida PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -29.75,
+      25.88
+    ],
+    "size": [
+      2.4,
+      1.8,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Passagem PRODUCAO_SUPERIOR",
+    "center": [
+      24.45,
+      -25.95,
+      25.88
+    ],
+    "size": [
+      2.4,
+      6.1,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Passarela superior",
+    "center": [
+      24.45,
+      -22,
+      25.88
+    ],
+    "size": [
+      2.4,
+      6.5,
+      0.24
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Mesa de perfuracao",
+    "center": [
+      0,
+      3,
+      26.24
+    ],
+    "size": [
+      12,
+      12,
+      0.48
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Skid manifold",
+    "center": [
+      -4.4,
+      -7,
+      26.4
+    ],
+    "size": [
+      3.2,
+      2.2,
+      0.8
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Skid manifold",
+    "center": [
+      4.4,
+      -7,
+      26.4
+    ],
+    "size": [
+      3.2,
+      2.2,
+      0.8
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Suporte separador",
+    "center": [
+      13,
+      -7,
+      21.1
+    ],
+    "size": [
+      1.4,
+      3.8,
+      2.2
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Suporte separador",
+    "center": [
+      25,
+      -7,
+      21.1
+    ],
+    "size": [
+      1.4,
+      3.8,
+      2.2
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Separador de lote",
+    "center": [
+      19,
+      -7,
+      23.2
+    ],
+    "size": [
+      18,
+      3.3,
+      3.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Suporte separador",
+    "center": [
+      13,
+      2,
+      21.1
+    ],
+    "size": [
+      1.4,
+      3.8,
+      2.2
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Suporte separador",
+    "center": [
+      25,
+      2,
+      21.1
+    ],
+    "size": [
+      1.4,
+      3.8,
+      2.2
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Separador de lote",
+    "center": [
+      19,
+      2,
+      23.2
+    ],
+    "size": [
+      18,
+      3.3,
+      3.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Suporte separador",
+    "center": [
+      13,
+      11,
+      21.1
+    ],
+    "size": [
+      1.4,
+      3.8,
+      2.2
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Suporte separador",
+    "center": [
+      25,
+      11,
+      21.1
+    ],
+    "size": [
+      1.4,
+      3.8,
+      2.2
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Separador de lote",
+    "center": [
+      19,
+      11,
+      23.2
+    ],
+    "size": [
+      18,
+      3.3,
+      3.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Coluna de processamento",
+    "center": [
+      19,
+      7,
+      34.5
+    ],
+    "size": [
+      3.6,
+      3.6,
+      17
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Coluna de processamento",
+    "center": [
+      25,
+      10,
+      32.5
+    ],
+    "size": [
+      2.7,
+      2.7,
+      13
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Coluna de processamento",
+    "center": [
+      13,
+      14,
+      30.5
+    ],
+    "size": [
+      4.8,
+      4.8,
+      9
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Tanque estoque",
+    "center": [
+      -27,
+      14,
+      16.65
+    ],
+    "size": [
+      4.3,
+      4.3,
+      4.9
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Tanque estoque",
+    "center": [
+      -20,
+      14,
+      16.65
+    ],
+    "size": [
+      4.3,
+      4.3,
+      4.9
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Tanque estoque",
+    "center": [
+      -13,
+      14,
+      16.65
+    ],
+    "size": [
+      4.3,
+      4.3,
+      4.9
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Skid refino",
+    "center": [
+      18,
+      -11,
+      26.25
+    ],
+    "size": [
+      17,
+      4,
+      0.5
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Base bomba",
+    "center": [
+      -10,
+      -9,
+      20.16
+    ],
+    "size": [
+      2.6,
+      1.8,
+      0.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Base bomba",
+    "center": [
+      7,
+      -4,
+      26.16
+    ],
+    "size": [
+      2.6,
+      1.8,
+      0.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Base bomba",
+    "center": [
+      12,
+      -9,
+      20.16
+    ],
+    "size": [
+      2.6,
+      1.8,
+      0.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Base bomba",
+    "center": [
+      24,
+      -15,
+      26.16
+    ],
+    "size": [
+      2.6,
+      1.8,
+      0.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de controle fundo",
+    "center": [
+      -21.0,
+      6,
+      22.85
+    ],
+    "size": [
+      16,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de controle lateral",
+    "center": [
+      -29,
+      -0.5,
+      22.85
+    ],
+    "size": [
+      0.18,
+      13,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de controle lateral",
+    "center": [
+      -13,
+      -0.5,
+      22.85
+    ],
+    "size": [
+      0.18,
+      13,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de controle frente",
+    "center": [
+      -25.4,
+      -7,
+      22.85
+    ],
+    "size": [
+      7.199999999999999,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de controle frente",
+    "center": [
+      -16.6,
+      -7,
+      22.85
+    ],
+    "size": [
+      7.199999999999999,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de controle verga",
+    "center": [
+      -21.0,
+      -7,
+      24
+    ],
+    "size": [
+      1.6,
+      0.18,
+      3.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Alojamento fundo",
+    "center": [
+      -21.0,
+      18,
+      22.85
+    ],
+    "size": [
+      16,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Alojamento lateral",
+    "center": [
+      -29,
+      12.5,
+      22.85
+    ],
+    "size": [
+      0.18,
+      11,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Alojamento lateral",
+    "center": [
+      -13,
+      12.5,
+      22.85
+    ],
+    "size": [
+      0.18,
+      11,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Alojamento frente",
+    "center": [
+      -25.4,
+      7,
+      22.85
+    ],
+    "size": [
+      7.199999999999999,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Alojamento frente",
+    "center": [
+      -16.6,
+      7,
+      22.85
+    ],
+    "size": [
+      7.199999999999999,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Alojamento verga",
+    "center": [
+      -21.0,
+      7,
+      24
+    ],
+    "size": [
+      1.6,
+      0.18,
+      3.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Manutencao e filtros fundo",
+    "center": [
+      -16.5,
+      9,
+      16.85
+    ],
+    "size": [
+      17,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Manutencao e filtros lateral",
+    "center": [
+      -25,
+      2.0,
+      16.85
+    ],
+    "size": [
+      0.18,
+      14,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Manutencao e filtros lateral",
+    "center": [
+      -8,
+      2.0,
+      16.85
+    ],
+    "size": [
+      0.18,
+      14,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Manutencao e filtros frente",
+    "center": [
+      -21.15,
+      -5,
+      16.85
+    ],
+    "size": [
+      7.699999999999999,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Manutencao e filtros frente",
+    "center": [
+      -11.85,
+      -5,
+      16.85
+    ],
+    "size": [
+      7.699999999999999,
+      0.18,
+      5.7
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Manutencao e filtros verga",
+    "center": [
+      -16.5,
+      -5,
+      18
+    ],
+    "size": [
+      1.6,
+      0.18,
+      3.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Modulo de energia fundo",
+    "center": [
+      -10.5,
+      18,
+      28.0
+    ],
+    "size": [
+      9,
+      0.18,
+      4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Modulo de energia lateral",
+    "center": [
+      -15,
+      14.5,
+      28.0
+    ],
+    "size": [
+      0.18,
+      7,
+      4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Modulo de energia lateral",
+    "center": [
+      -6,
+      14.5,
+      28.0
+    ],
+    "size": [
+      0.18,
+      7,
+      4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Modulo de energia frente",
+    "center": [
+      -13.15,
+      11,
+      28.0
+    ],
+    "size": [
+      3.6999999999999993,
+      0.18,
+      4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Modulo de energia frente",
+    "center": [
+      -7.85,
+      11,
+      28.0
+    ],
+    "size": [
+      3.6999999999999993,
+      0.18,
+      4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Modulo de energia verga",
+    "center": [
+      -10.5,
+      11,
+      30
+    ],
+    "size": [
+      1.6,
+      0.18,
+      3.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de bombas superior fundo",
+    "center": [
+      -8.5,
+      5,
+      28.05
+    ],
+    "size": [
+      7,
+      0.18,
+      4.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de bombas superior lateral",
+    "center": [
+      -12,
+      -1.0,
+      28.05
+    ],
+    "size": [
+      0.18,
+      12,
+      4.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de bombas superior lateral",
+    "center": [
+      -5,
+      -1.0,
+      28.05
+    ],
+    "size": [
+      0.18,
+      12,
+      4.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de bombas superior frente",
+    "center": [
+      -10.65,
+      -7,
+      28.05
+    ],
+    "size": [
+      2.6999999999999993,
+      0.18,
+      4.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de bombas superior frente",
+    "center": [
+      -6.35,
+      -7,
+      28.05
+    ],
+    "size": [
+      2.7,
+      0.18,
+      4.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Sala de bombas superior verga",
+    "center": [
+      -8.5,
+      -7,
+      30
+    ],
+    "size": [
+      1.6,
+      0.18,
+      3.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Mesa console",
+    "center": [
+      -25,
+      3,
+      20.55
+    ],
+    "size": [
+      3,
+      1.5,
+      1.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Mesa console",
+    "center": [
+      -21,
+      3,
+      20.55
+    ],
+    "size": [
+      3,
+      1.5,
+      1.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Mesa console",
+    "center": [
+      -17,
+      3,
+      20.55
+    ],
+    "size": [
+      3,
+      1.5,
+      1.1
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Heliponto",
+    "center": [
+      -50,
+      5,
+      28.52
+    ],
+    "size": [
+      30,
+      30,
+      0.36
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Passarela heliponto",
+    "center": [
+      -32.9,
+      5,
+      28.55
+    ],
+    "size": [
+      6,
+      3.5,
+      0.3
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Rampa heliponto",
+    "kind": "ramp",
+    "vertices": [
+      [
+        -30,
+        3.5,
+        28.7
+      ],
+      [
+        -14,
+        3.5,
+        26
+      ],
+      [
+        -14,
+        6.5,
+        26
+      ],
+      [
+        -30,
+        6.5,
+        28.7
+      ]
+    ]
+  },
+  {
+    "name": "Gabinete de instrumentos",
+    "center": [
+      -2,
+      -13,
+      27.2
+    ],
+    "size": [
+      1.4,
+      1.2,
+      2.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Gabinete de instrumentos",
+    "center": [
+      3,
+      -13,
+      27.2
+    ],
+    "size": [
+      1.4,
+      1.2,
+      2.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Gabinete de instrumentos",
+    "center": [
+      8,
+      12,
+      27.2
+    ],
+    "size": [
+      1.4,
+      1.2,
+      2.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Gabinete de instrumentos",
+    "center": [
+      28,
+      -13,
+      27.2
+    ],
+    "size": [
+      1.4,
+      1.2,
+      2.4
+    ],
+    "kind": "box"
+  },
+  {
+    "name": "Gabinete de instrumentos",
+    "center": [
+      -28,
+      12,
+      27.2
+    ],
+    "size": [
+      1.4,
+      1.2,
+      2.4
+    ],
+    "kind": "box"
+  }
+]

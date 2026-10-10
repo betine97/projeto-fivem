@@ -1,0 +1,234 @@
+[
+  {
+    "target": "nui://game/ui/root.html",
+    "tree": {
+      "frameTree": {
+        "frame": {
+          "id": "6F4EB70CE4E83EBBEAFA6C2C0F271063",
+          "loaderId": "9FDB4D254FA1A28BADC66E41939F29B1",
+          "url": "nui://game/ui/root.html",
+          "domainAndRegistry": "",
+          "securityOrigin": "nui://game",
+          "mimeType": "text/html",
+          "adFrameStatus": {
+            "adFrameType": "none"
+          },
+          "secureContextType": "Secure",
+          "crossOriginIsolatedContextType": "NotIsolated",
+          "gatedAPIFeatures": []
+        },
+        "childFrames": [
+          {
+            "frame": {
+              "id": "35D3A7C1A955557E6F7FC7272F6D623F",
+              "parentId": "6F4EB70CE4E83EBBEAFA6C2C0F271063",
+              "loaderId": "29133C97436D5AC39C5D2F419A6B356F",
+              "name": "cidade_admin",
+              "url": "https://cfx-nui-cidade_admin/ui/index.html",
+              "domainAndRegistry": "",
+              "securityOrigin": "https://cfx-nui-cidade_admin",
+              "mimeType": "text/html",
+              "adFrameStatus": {
+                "adFrameType": "none"
+              },
+              "secureContextType": "Secure",
+              "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+              "gatedAPIFeatures": []
+            }
+          },
+          {
+            "frame": {
+              "id": "CC73458337059931F14BA07E1E9A97FC",
+              "parentId": "6F4EB70CE4E83EBBEAFA6C2C0F271063",
+              "loaderId": "7983A994258E388196D206CE16CCBAD8",
+              "name": "cidade_loading",
+              "url": "https://cfx-nui-cidade_loading/web/index.html?interactive=1",
+              "domainAndRegistry": "",
+              "securityOrigin": "https://cfx-nui-cidade_loading",
+              "mimeType": "text/html",
+              "adFrameStatus": {
+                "adFrameType": "none"
+              },
+              "secureContextType": "Secure",
+              "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+              "gatedAPIFeatures": []
+            }
+          },
+          {
+            "frame": {
+              "id": "137AC528E5D8421EEC11F9118F2880F6",
+              "parentId": "6F4EB70CE4E83EBBEAFA6C2C0F271063",
+              "loaderId": "E8C0189AEE44520BA7053483737DA1B4",
+              "name": "teste_ilha",
+              "url": "https://cfx-nui-teste_ilha/ui/index.html",
+              "domainAndRegistry": "",
+              "securityOrigin": "https://cfx-nui-teste_ilha",
+              "mimeType": "text/html",
+              "adFrameStatus": {
+                "adFrameType": "none"
+              },
+              "secureContextType": "Secure",
+              "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+              "gatedAPIFeatures": []
+            }
+          },
+          {
+            "frame": {
+              "id": "B1FF2EC7F94FFE9D2DE65CFA650BFE80",
+              "parentId": "6F4EB70CE4E83EBBEAFA6C2C0F271063",
+              "loaderId": "ED11BA4A8D8633BD7CAB1A26666D254B",
+              "name": "cidade_acervo",
+              "url": "https://cfx-nui-cidade_acervo/ui/index.html",
+              "domainAndRegistry": "",
+              "securityOrigin": "https://cfx-nui-cidade_acervo",
+              "mimeType": "text/html",
+              "adFrameStatus": {
+                "adFrameType": "none"
+              },
+              "secureContextType": "Secure",
+              "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+              "gatedAPIFeatures": []
+            }
+          },
+          {
+            "frame": {
+              "id": "35A44A610ABBC2B0CE31595A172B3494",
+              "parentId": "6F4EB70CE4E83EBBEAFA6C2C0F271063",
+              "loaderId": "59EC6C5D3C88B6F460270F7A48F856E6",
+              "name": "fpv_drone_runtime",
+              "url": "https://cfx-nui-fpv_drone_runtime/html/index.html",
+              "domainAndRegistry": "",
+              "securityOrigin": "https://cfx-nui-fpv_drone_runtime",
+              "mimeType": "text/html",
+              "adFrameStatus": {
+                "adFrameType": "none"
+              },
+              "secureContextType": "Secure",
+              "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+              "gatedAPIFeatures": []
+            }
+          },
+          {
+            "frame": {
+              "id": "CE419FAE87C5FDF0D3C3DCDFB0E26188",
+              "parentId": "6F4EB70CE4E83EBBEAFA6C2C0F271063",
+              "loaderId": "4BB689A2F85484634307B8ABBE333F5A",
+              "name": "cidade_nightvision",
+              "url": "https://cfx-nui-cidade_nightvision/html/index.html",
+              "domainAndRegistry": "",
+              "securityOrigin": "https://cfx-nui-cidade_nightvision",
+              "mimeType": "text/html",
+              "adFrameStatus": {
+                "adFrameType": "none"
+              },
+              "secureContextType": "Secure",
+              "crossOriginIsolatedContextType": "NotIsolatedFeatureDisabled",
+              "gatedAPIFeatures": []
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "context": {
+      "id": 8,
+      "origin": "nui://game",
+      "name": "",
+      "uniqueId": "-5044390680751162495.4695866842506146347",
+      "auxData": {
+        "isDefault": true,
+        "type": "default",
+        "frameId": "CE419FAE87C5FDF0D3C3DCDFB0E26188"
+      }
+    },
+    "inspection": "{\"url\":\"https://cfx-nui-cidade_nightvision/html/index.html\",\"resource\":\"cidade_nightvision\",\"focus\":false,\"active\":\"BODY\",\"pointer\":\"none\",\"frames\":[],\"loading\":null}"
+  },
+  {
+    "context": {
+      "id": 7,
+      "origin": "nui://game",
+      "name": "",
+      "uniqueId": "-8576683274836187189.-285936361274449340",
+      "auxData": {
+        "isDefault": true,
+        "type": "default",
+        "frameId": "35A44A610ABBC2B0CE31595A172B3494"
+      }
+    },
+    "inspection": "{\"url\":\"https://cfx-nui-fpv_drone_runtime/html/index.html\",\"resource\":\"fpv_drone_runtime\",\"focus\":false,\"active\":\"BODY\",\"pointer\":\"auto\",\"frames\":[],\"loading\":null}"
+  },
+  {
+    "context": {
+      "id": 6,
+      "origin": "nui://game",
+      "name": "",
+      "uniqueId": "-4308338211296622015.2647842605303743532",
+      "auxData": {
+        "isDefault": true,
+        "type": "default",
+        "frameId": "B1FF2EC7F94FFE9D2DE65CFA650BFE80"
+      }
+    },
+    "inspection": "{\"url\":\"https://cfx-nui-cidade_acervo/ui/index.html\",\"resource\":\"cidade_acervo\",\"focus\":false,\"active\":\"BODY\",\"pointer\":\"auto\",\"frames\":[],\"loading\":null}"
+  },
+  {
+    "context": {
+      "id": 5,
+      "origin": "nui://game",
+      "name": "",
+      "uniqueId": "6113160072628963271.-5152723571869713828",
+      "auxData": {
+        "isDefault": true,
+        "type": "default",
+        "frameId": "137AC528E5D8421EEC11F9118F2880F6"
+      }
+    },
+    "inspection": "{\"url\":\"https://cfx-nui-teste_ilha/ui/index.html\",\"resource\":\"teste_ilha\",\"focus\":false,\"active\":\"BODY\",\"pointer\":\"auto\",\"frames\":[],\"loading\":null}"
+  },
+  {
+    "context": {
+      "id": 4,
+      "origin": "nui://game",
+      "name": "",
+      "uniqueId": "8102673787991873743.5285247382314869225",
+      "auxData": {
+        "isDefault": true,
+        "type": "default",
+        "frameId": "CC73458337059931F14BA07E1E9A97FC"
+      }
+    },
+    "inspection": "{\"url\":\"https://cfx-nui-cidade_loading/web/index.html?interactive=1\",\"resource\":\"cidade_loading\",\"focus\":false,\"active\":\"BODY\",\"pointer\":\"none\",\"frames\":[],\"loading\":{\"disabled\":true,\"detail\":\"Tudo pronto. Clique abaixo para assumir seu personagem.\",\"audioPaused\":true,\"advanceTarget\":\"\",\"playTarget\":\"\"}}"
+  },
+  {
+    "loadingStatus": "{\"detail\":\"Tudo pronto. Clique abaixo para assumir seu personagem.\",\"entering\":true,\"failed\":false,\"holding\":false,\"ready\":true}"
+  },
+  {
+    "context": {
+      "id": 3,
+      "origin": "nui://game",
+      "name": "",
+      "uniqueId": "-7254909724392479194.9167329726528327326",
+      "auxData": {
+        "isDefault": true,
+        "type": "default",
+        "frameId": "35D3A7C1A955557E6F7FC7272F6D623F"
+      }
+    },
+    "inspection": "{\"url\":\"https://cfx-nui-cidade_admin/ui/index.html\",\"resource\":\"cidade_admin\",\"focus\":false,\"active\":\"BODY\",\"pointer\":\"auto\",\"frames\":[],\"loading\":null}"
+  },
+  {
+    "context": {
+      "id": 1,
+      "origin": "nui://game",
+      "name": "",
+      "uniqueId": "6259167052869764714.-8078342563491937833",
+      "auxData": {
+        "isDefault": true,
+        "type": "default",
+        "frameId": "6F4EB70CE4E83EBBEAFA6C2C0F271063"
+      }
+    },
+    "inspection": "{\"url\":\"nui://game/ui/root.html\",\"resource\":null,\"focus\":false,\"active\":\"IFRAME\",\"pointer\":\"auto\",\"frames\":[{\"name\":\"cidade_admin\",\"src\":\"https://cfx-nui-cidade_admin/ui/index.html\",\"style\":\"visibility: visible; z-index: 0;\",\"display\":\"block\",\"zIndex\":\"0\",\"pointer\":\"auto\"},{\"name\":\"cidade_loading\",\"src\":\"https://cfx-nui-cidade_loading/web/index.html?interactive=1\",\"style\":\"visibility: visible; z-index: 5;\",\"display\":\"block\",\"zIndex\":\"5\",\"pointer\":\"auto\"},{\"name\":\"teste_ilha\",\"src\":\"https://cfx-nui-teste_ilha/ui/index.html\",\"style\":\"visibility: visible; z-index: 1;\",\"display\":\"block\",\"zIndex\":\"1\",\"pointer\":\"auto\"},{\"name\":\"cidade_acervo\",\"src\":\"https://cfx-nui-cidade_acervo/ui/index.html\",\"style\":\"visibility: visible; z-index: 2;\",\"display\":\"block\",\"zIndex\":\"2\",\"pointer\":\"auto\"},{\"name\":\"fpv_drone_runtime\",\"src\":\"https://cfx-nui-fpv_drone_runtime/html/index.html\",\"style\":\"visibility: visible; z-index: 3;\",\"display\":\"block\",\"zIndex\":\"3\",\"pointer\":\"auto\"},{\"name\":\"cidade_nightvision\",\"src\":\"https://cfx-nui-cidade_nightvision/html/index.html\",\"style\":\"visibility: visible; z-index: 4;\",\"display\":\"block\",\"zIndex\":\"4\",\"pointer\":\"auto\"}],\"loading\":null}"
+  }
+]

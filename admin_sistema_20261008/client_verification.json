@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": [
+    "Weapon command requests server authorization",
+    "Forged network source rejected",
+    "Authorized weapon delivered through core",
+    "Untrusted resource cannot use internal grant",
+    "Invalid native weapon rejected",
+    "Vehicle command requests server authorization",
+    "Authorized vehicle created through core",
+    "Invalid vehicle rejected",
+    "Authorized disarm delivered",
+    "F8 help includes pull-player command",
+    "Weapon catalogue filters",
+    "Complete native vehicle catalogue includes custom model",
+    "Player location creates map marker",
+    "Tracking stop cleans map marker"
+  ],
+  "in_game_verified": false
+}

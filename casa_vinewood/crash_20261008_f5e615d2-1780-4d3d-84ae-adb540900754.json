@@ -1,0 +1,192 @@
+{
+  "dump": "f5e615d2-1780-4d3d-84ae-adb540900754.dmp",
+  "code": "0xc0000005",
+  "address": "FiveM_b3258_GTAProcess.exe+0x93419f",
+  "parameters": [
+    "0x1",
+    "0x48"
+  ],
+  "registers": {
+    "rax": "0x0",
+    "rcx": "0x1d24469acd0",
+    "rdx": "0xbf537eb2a0",
+    "rbx": "0x2389",
+    "rsp": "0xbf537eb280",
+    "rbp": "0x0",
+    "rsi": "0x1d2481806c0",
+    "rdi": "0x1d23f5bd4e0",
+    "r8": "0xbf537eb2b0",
+    "r9": "0x2364",
+    "r10": "0x1d2444cbf80",
+    "r11": "0x2364",
+    "r12": "0x1d2481806c0",
+    "r13": "0x1",
+    "r14": "0xbf537eb3d0",
+    "r15": "0x2389",
+    "rip": "0x7ff652be419f"
+  },
+  "stack_candidates": [
+    [
+      72,
+      "FiveM_b3258_GTAProcess.exe+0x166a38f"
+    ],
+    [
+      168,
+      "extra-natives-five.dll+0x42c10"
+    ],
+    [
+      216,
+      "FiveM_b3258_GTAProcess.exe+0x166a707"
+    ],
+    [
+      264,
+      "FiveM_b3258_GTAProcess.exe+0x166bfd1"
+    ],
+    [
+      312,
+      "FiveM_b3258_GTAProcess.exe+0x60eb00"
+    ],
+    [
+      424,
+      "FiveM_b3258_GTAProcess.exe+0x938ca1"
+    ],
+    [
+      472,
+      "extra-natives-five.dll+0x43483"
+    ],
+    [
+      496,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      520,
+      "FiveM_b3258_GTAProcess.exe+0x91f150"
+    ],
+    [
+      544,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      568,
+      "FiveM_b3258_GTAProcess.exe+0x166c6b4"
+    ],
+    [
+      592,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      624,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      664,
+      "gta-streaming-five.dll+0x56fd8"
+    ],
+    [
+      712,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      728,
+      "FiveM_b3258_GTAProcess.exe+0x1f68f18"
+    ],
+    [
+      744,
+      "FiveM_b3258_GTAProcess.exe+0x1317b24"
+    ],
+    [
+      752,
+      "FiveM_b3258_GTAProcess.exe+0x1f66c10"
+    ],
+    [
+      776,
+      "FiveM_b3258_GTAProcess.exe+0x1f66c10"
+    ],
+    [
+      784,
+      "FiveM_b3258_GTAProcess.exe+0x1f6cf50"
+    ],
+    [
+      792,
+      "FiveM_b3258_GTAProcess.exe+0x1317884"
+    ],
+    [
+      808,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      832,
+      "FiveM_b3258_GTAProcess.exe+0x2f45e78"
+    ],
+    [
+      840,
+      "FiveM_b3258_GTAProcess.exe+0x131df70"
+    ],
+    [
+      848,
+      "FiveM_b3258_GTAProcess.exe+0x2fe2ee0"
+    ],
+    [
+      856,
+      "FiveM_b3258_GTAProcess.exe+0x2f44628"
+    ],
+    [
+      872,
+      "FiveM_b3258_GTAProcess.exe+0x2fe2ee0"
+    ],
+    [
+      888,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      896,
+      "FiveM_b3258_GTAProcess.exe+0x2f2a8c0"
+    ],
+    [
+      928,
+      "FiveM_b3258_GTAProcess.exe+0x2f45e78"
+    ],
+    [
+      936,
+      "FiveM_b3258_GTAProcess.exe+0x167fd21"
+    ],
+    [
+      944,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      968,
+      "FiveM_b3258_GTAProcess.exe+0x2fe3cc0"
+    ],
+    [
+      1016,
+      "FiveM_b3258_GTAProcess.exe+0x16590a0"
+    ]
+  ],
+  "register_memory": {
+    "rax": "",
+    "rcx": "",
+    "rdx": "1836a736d201000090952048d201000040b37e53bf000000b0c3ab46d2010000b0c3ab46d20100008fa39153f67f0000e0d45b3fd2010000e0d45b3fd2010000",
+    "rbx": "",
+    "rbp": "",
+    "rsi": "",
+    "rdi": "",
+    "r8": "40b37e53bf000000b0c3ab46d2010000b0c3ab46d20100008fa39153f67f0000e0d45b3fd2010000e0d45b3fd2010000000000000000000090952048d2010000",
+    "r9": "",
+    "r10": "",
+    "r11": "",
+    "r12": "",
+    "r13": "",
+    "r14": "f943321600000000060000000000000003d83e4360b368c4664bf64148fecc3d603abb46d201000090952048d201000001b67e53bf0000008923000000000000",
+    "r15": ""
+  },
+  "mansion_hashes_in_register_memory": [],
+  "possible_entity_definition": {
+    "archetype_hash": "0x163243f9",
+    "position": [
+      190.8437957763672,
+      -930.802734375,
+      30.786815643310547
+    ]
+  }
+}

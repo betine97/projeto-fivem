@@ -1,0 +1,16 @@
+{
+  "jobs": [
+    {
+      "job": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\jobs\\jeans_rasgado\\r001",
+      "base": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d",
+      "project": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d\\blender\\58b5500a1d06\\base.blend",
+      "title": "Jeans azul rasgado"
+    },
+    {
+      "job": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\jobs\\jeans_chamas\\r001",
+      "base": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d",
+      "project": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d\\blender\\58b5500a1d06\\base.blend",
+      "title": "Jeans preto com chamas"
+    }
+  ]
+}

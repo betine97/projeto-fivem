@@ -1,0 +1,3177 @@
+{
+  "passed": true,
+  "models": 28,
+  "materials": 337,
+  "maps": 176,
+  "foliage_rgba_preserved": true,
+  "checks": [
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0186c49b92f4f207b5_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        200,
+        198,
+        186,
+        255,
+        236,
+        234,
+        220,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0186c49b92f4f207b5_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0186c49b92f4f207b5_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_06c8c4fca4aea1c3f0_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        7,
+        6,
+        1,
+        255,
+        255,
+        255,
+        253,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_06c8c4fca4aea1c3f0_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        91,
+        92,
+        250,
+        255,
+        164,
+        164,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_06c8c4fca4aea1c3f0_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        25,
+        25,
+        25,
+        255,
+        92,
+        92,
+        92,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0ea86ff1f683e6e689_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        22,
+        16,
+        2,
+        255,
+        254,
+        254,
+        244,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0ea86ff1f683e6e689_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        92,
+        92,
+        250,
+        255,
+        164,
+        164,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0ea86ff1f683e6e689_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        26,
+        26,
+        26,
+        255,
+        91,
+        91,
+        91,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0eea4775c2feb1a685_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        165,
+        149,
+        125,
+        255,
+        194,
+        176,
+        147,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0eea4775c2feb1a685_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        116,
+        117,
+        254,
+        255,
+        138,
+        139,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_0eea4775c2feb1a685_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_192925bdc8f815c88a_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        15,
+        14,
+        11,
+        255,
+        254,
+        254,
+        253,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_192925bdc8f815c88a_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        120,
+        119,
+        255,
+        255,
+        136,
+        135,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_192925bdc8f815c88a_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        41,
+        41,
+        41,
+        255,
+        41,
+        41,
+        41,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_1b3a30f7ef2939f712_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        227,
+        214,
+        183,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_1b3a30f7ef2939f712_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        97,
+        97,
+        251,
+        255,
+        159,
+        157,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_1b3a30f7ef2939f712_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_22bf8947bea20df992_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        228,
+        215,
+        192,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_22bf8947bea20df992_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        97,
+        95,
+        251,
+        255,
+        160,
+        158,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_22bf8947bea20df992_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_2326b447508e51b49d_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        101,
+        52,
+        24,
+        255,
+        165,
+        104,
+        73,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_2326b447508e51b49d_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_2326b447508e51b49d_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_319e44e962cc542495_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        217,
+        198,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_319e44e962cc542495_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        96,
+        251,
+        255,
+        160,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_319e44e962cc542495_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_32c68a18b51da867d9_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        118,
+        81,
+        47,
+        255,
+        135,
+        93,
+        55,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_32c68a18b51da867d9_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        125,
+        124,
+        255,
+        255,
+        130,
+        131,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_32c68a18b51da867d9_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34133060e98618a085_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        217,
+        197,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34133060e98618a085_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        96,
+        251,
+        255,
+        160,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34133060e98618a085_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_348ab89e54b59f15ed_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        28,
+        13,
+        1,
+        255,
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_348ab89e54b59f15ed_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        91,
+        91,
+        250,
+        255,
+        164,
+        164,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_348ab89e54b59f15ed_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        23,
+        23,
+        23,
+        255,
+        91,
+        91,
+        91,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34f874c5f693662350_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34f874c5f693662350_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        92,
+        93,
+        250,
+        255,
+        163,
+        162,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34f874c5f693662350_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        23,
+        23,
+        23,
+        255,
+        92,
+        92,
+        92,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3b66e531bd7fbe751d_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        217,
+        199,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3b66e531bd7fbe751d_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        97,
+        96,
+        251,
+        255,
+        159,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3b66e531bd7fbe751d_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3e84989a29eb3d5ea6_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        100,
+        51,
+        23,
+        255,
+        165,
+        103,
+        74,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3e84989a29eb3d5ea6_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3e84989a29eb3d5ea6_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_418c0fbb14c8bc603e_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        26,
+        10,
+        1,
+        255,
+        255,
+        247,
+        232,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_418c0fbb14c8bc603e_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        92,
+        92,
+        250,
+        255,
+        163,
+        163,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_418c0fbb14c8bc603e_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        30,
+        30,
+        30,
+        255,
+        91,
+        91,
+        91,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_42ca773c4e2da8d843_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        211,
+        120,
+        45,
+        255,
+        245,
+        142,
+        55,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_42ca773c4e2da8d843_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        109,
+        109,
+        253,
+        255,
+        147,
+        146,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_42ca773c4e2da8d843_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_4a243f514024b3dcb1_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        201,
+        197,
+        183,
+        255,
+        238,
+        232,
+        217,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_4a243f514024b3dcb1_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_4a243f514024b3dcb1_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_4e5e12fb1a33a68be3_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        81,
+        63,
+        39,
+        255,
+        96,
+        75,
+        47,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_4e5e12fb1a33a68be3_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        111,
+        110,
+        254,
+        255,
+        145,
+        143,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_4e5e12fb1a33a68be3_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_505957a72e7d2d6d0c_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        213,
+        194,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_505957a72e7d2d6d0c_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        96,
+        251,
+        255,
+        159,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_505957a72e7d2d6d0c_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_52391b88f4dd845767_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        15,
+        14,
+        11,
+        255,
+        254,
+        254,
+        253,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_52391b88f4dd845767_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        51,
+        51,
+        51,
+        255,
+        51,
+        51,
+        51,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5355a799b661b34854_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        215,
+        196,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5355a799b661b34854_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        96,
+        251,
+        255,
+        159,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5355a799b661b34854_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5945740623b3417ce0_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        100,
+        51,
+        23,
+        255,
+        163,
+        104,
+        74,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5945740623b3417ce0_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5945740623b3417ce0_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5fa6480add36a269a7_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        195,
+        195,
+        186,
+        255,
+        229,
+        229,
+        219,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5fa6480add36a269a7_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        108,
+        108,
+        253,
+        255,
+        147,
+        147,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5fa6480add36a269a7_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_61b690b431dc832e81_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        199,
+        155,
+        73,
+        255,
+        235,
+        183,
+        88,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_61b690b431dc832e81_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_61b690b431dc832e81_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_61e5a6cc06787e43c5_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        67,
+        129,
+        156,
+        255,
+        80,
+        152,
+        184,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_61e5a6cc06787e43c5_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        107,
+        106,
+        253,
+        255,
+        148,
+        147,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_61e5a6cc06787e43c5_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_65bc93ca791bcd07a7_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        213,
+        194,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_65bc93ca791bcd07a7_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        96,
+        251,
+        255,
+        159,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_65bc93ca791bcd07a7_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6b24aad39f12bb8a2a_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        228,
+        215,
+        191,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6b24aad39f12bb8a2a_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        97,
+        251,
+        255,
+        159,
+        158,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6b24aad39f12bb8a2a_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6f65eb372239d13c8d_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        99,
+        51,
+        23,
+        255,
+        163,
+        103,
+        75,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6f65eb372239d13c8d_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6f65eb372239d13c8d_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_7fe0625c44ce40b90c_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        254,
+        253,
+        253,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_7fe0625c44ce40b90c_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        92,
+        93,
+        250,
+        255,
+        163,
+        162,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_7fe0625c44ce40b90c_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        29,
+        29,
+        29,
+        255,
+        92,
+        92,
+        92,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8016211dc6fd78ea36_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        100,
+        51,
+        23,
+        255,
+        165,
+        104,
+        76,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8016211dc6fd78ea36_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8016211dc6fd78ea36_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_82fce802e12af02319_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        97,
+        156,
+        181,
+        255,
+        115,
+        185,
+        214,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_82fce802e12af02319_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_82fce802e12af02319_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_869da60631dd5dfd52_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        102,
+        153,
+        179,
+        255,
+        122,
+        181,
+        212,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_869da60631dd5dfd52_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_869da60631dd5dfd52_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8759b2fbe1d583f14f_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        98,
+        51,
+        23,
+        255,
+        164,
+        104,
+        77,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8759b2fbe1d583f14f_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8759b2fbe1d583f14f_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8fe7f66b70eaa66b50_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        192,
+        186,
+        167,
+        255,
+        228,
+        220,
+        198,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8fe7f66b70eaa66b50_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        113,
+        113,
+        254,
+        255,
+        142,
+        142,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_8fe7f66b70eaa66b50_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_93d36cabcb6a0736d4_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        217,
+        198,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_93d36cabcb6a0736d4_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        95,
+        96,
+        251,
+        255,
+        159,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_93d36cabcb6a0736d4_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_9c885e5ebf2e7266c9_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        251,
+        242,
+        216,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_9c885e5ebf2e7266c9_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        94,
+        96,
+        250,
+        255,
+        162,
+        160,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_9c885e5ebf2e7266c9_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        37,
+        37,
+        37,
+        255,
+        92,
+        92,
+        92,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_9ff5b65d39d2be782e_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        141,
+        179,
+        164,
+        255,
+        167,
+        212,
+        194,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_9ff5b65d39d2be782e_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_9ff5b65d39d2be782e_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a17ddcb2e0d05f0dbc_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        228,
+        212,
+        186,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a17ddcb2e0d05f0dbc_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        97,
+        96,
+        251,
+        255,
+        159,
+        158,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a17ddcb2e0d05f0dbc_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a4d3ede23a6e4a5bec_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        99,
+        51,
+        23,
+        255,
+        165,
+        103,
+        76,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a4d3ede23a6e4a5bec_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a4d3ede23a6e4a5bec_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a7375142aa100134f2_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        179,
+        106,
+        63,
+        255,
+        211,
+        125,
+        75,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a7375142aa100134f2_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        116,
+        117,
+        254,
+        255,
+        138,
+        139,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a7375142aa100134f2_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a82b235e691d952540_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        100,
+        51,
+        23,
+        255,
+        164,
+        104,
+        76,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a82b235e691d952540_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a82b235e691d952540_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ac73a52dbbe3e0f4f8_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        228,
+        214,
+        192,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ac73a52dbbe3e0f4f8_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        97,
+        97,
+        251,
+        255,
+        159,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ac73a52dbbe3e0f4f8_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b45edf56eb97f48eef_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        65,
+        127,
+        106,
+        255,
+        78,
+        149,
+        125,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b45edf56eb97f48eef_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        109,
+        109,
+        253,
+        255,
+        147,
+        146,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b45edf56eb97f48eef_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b4f6592dae50103991_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        217,
+        197,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b4f6592dae50103991_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        96,
+        251,
+        255,
+        160,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b4f6592dae50103991_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d1a1add91ec851101d_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        138,
+        171,
+        165,
+        255,
+        163,
+        202,
+        196,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d1a1add91ec851101d_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d1a1add91ec851101d_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d2fcf7f9f52917223e_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        211,
+        179,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d2fcf7f9f52917223e_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        98,
+        251,
+        255,
+        159,
+        158,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d2fcf7f9f52917223e_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d7cbca4972370ddc2c_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        253,
+        252,
+        250,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d7cbca4972370ddc2c_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        96,
+        251,
+        255,
+        160,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d7cbca4972370ddc2c_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e10e1885fc66bf8a9a_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        179,
+        181,
+        178,
+        255,
+        212,
+        214,
+        210,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e10e1885fc66bf8a9a_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e10e1885fc66bf8a9a_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e427e171532963bc67_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        74,
+        118,
+        135,
+        255,
+        88,
+        139,
+        158,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e427e171532963bc67_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        109,
+        109,
+        253,
+        255,
+        147,
+        146,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e427e171532963bc67_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e5c75cfa309772c523_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        229,
+        216,
+        190,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e5c75cfa309772c523_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        96,
+        97,
+        251,
+        255,
+        159,
+        158,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e5c75cfa309772c523_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e75b02bba914a0de24_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        145,
+        146,
+        143,
+        255,
+        172,
+        174,
+        170,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e75b02bba914a0de24_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        110,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e75b02bba914a0de24_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ea878c2965b1d84e96_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        9,
+        8,
+        0,
+        255,
+        255,
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ea878c2965b1d84e96_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        91,
+        92,
+        250,
+        255,
+        164,
+        164,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ea878c2965b1d84e96_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        23,
+        23,
+        23,
+        255,
+        91,
+        91,
+        91,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f0e8d27bb2089456a3_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        99,
+        51,
+        23,
+        255,
+        165,
+        104,
+        76,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f0e8d27bb2089456a3_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        80,
+        80,
+        246,
+        255,
+        175,
+        174,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f0e8d27bb2089456a3_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        56,
+        56,
+        56,
+        255,
+        56,
+        56,
+        56,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f204544c5636757446_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        254,
+        253,
+        251,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f204544c5636757446_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        93,
+        95,
+        250,
+        255,
+        163,
+        163,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f204544c5636757446_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        29,
+        29,
+        29,
+        255,
+        92,
+        92,
+        92,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        0,
+        0,
+        0,
+        255,
+        230,
+        216,
+        190,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        97,
+        96,
+        251,
+        255,
+        159,
+        159,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        38,
+        38,
+        38,
+        255,
+        38,
+        38,
+        38,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f6e06ea412288ae594_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        199,
+        196,
+        186,
+        255,
+        236,
+        232,
+        220,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f6e06ea412288ae594_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        113,
+        113,
+        254,
+        255,
+        142,
+        142,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f6e06ea412288ae594_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f8cc80c320beff1154_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        102,
+        155,
+        181,
+        255,
+        122,
+        183,
+        214,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f8cc80c320beff1154_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f8cc80c320beff1154_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f9afe4741b5a94a967_d.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "channels": "RGBA",
+      "range": [
+        200,
+        196,
+        183,
+        255,
+        236,
+        231,
+        217,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f9afe4741b5a94a967_n.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        110,
+        109,
+        254,
+        255,
+        144,
+        145,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f9afe4741b5a94a967_s.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "channels": "RGBA",
+      "range": [
+        71,
+        71,
+        71,
+        255,
+        71,
+        71,
+        71,
+        255
+      ]
+    }
+  ]
+}

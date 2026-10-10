@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "shared_level_z": 2.358,
+  "before_coplanar_overlap_m2": 34.621978927637194,
+  "after_coplanar_overlap_m2": 0.0,
+  "changed_ground_panels": [
+    "Revestimento continuo terreo 00 0",
+    "Revestimento continuo terreo 01 0",
+    "Revestimento continuo terreo 02 0",
+    "Revestimento continuo terreo 03 0",
+    "Revestimento continuo terreo 04 0",
+    "Revestimento continuo terreo 05 0",
+    "Revestimento continuo terreo 06 0",
+    "Revestimento continuo terreo 07 0",
+    "Revestimento continuo terreo 08 0",
+    "Revestimento continuo terreo 09 0",
+    "Revestimento continuo terreo 10 0",
+    "Revestimento continuo terreo 11 0",
+    "Revestimento continuo terreo 12 0",
+    "Revestimento continuo terreo 13 0",
+    "Revestimento continuo terreo 14 0",
+    "Revestimento continuo terreo 15 0",
+    "Revestimento continuo terreo 16 0",
+    "Revestimento continuo terreo 17 0",
+    "Revestimento continuo terreo 17 1",
+    "Revestimento continuo terreo 18 0",
+    "Revestimento continuo terreo 19 0"
+  ],
+  "closed_volumes_preserved": true,
+  "wall_thicknesses_preserved": true,
+  "door_apertures_preserved": true,
+  "walking_levels_preserved": true
+}

@@ -1,0 +1,694 @@
+{
+  "models": [
+    {
+      "name": "pe_estrutura_06",
+      "seconds": 8.52,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_06.npz",
+          "vertices": 236334,
+          "unique_corners": 123186,
+          "min": 0.3199999928474426,
+          "mean": 0.6734204292297363,
+          "occluded": 194787
+        },
+        {
+          "cache": "pe_estrutura_06_LOD1.npz",
+          "vertices": 58296,
+          "unique_corners": 24884,
+          "min": 0.3199999928474426,
+          "mean": 0.7270076870918274,
+          "occluded": 39388
+        },
+        {
+          "cache": "pe_estrutura_06_LOD2.npz",
+          "vertices": 18084,
+          "unique_corners": 11764,
+          "min": 0.32000139355659485,
+          "mean": 0.6036194562911987,
+          "occluded": 14452
+        },
+        {
+          "cache": "pe_estrutura_06_LOD3.npz",
+          "vertices": 8028,
+          "unique_corners": 5804,
+          "min": 0.32000139355659485,
+          "mean": 0.639133632183075,
+          "occluded": 6260
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_01",
+      "seconds": 4.42,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_01.npz",
+          "vertices": 111330,
+          "unique_corners": 55940,
+          "min": 0.3200000524520874,
+          "mean": 0.7014971971511841,
+          "occluded": 87288
+        },
+        {
+          "cache": "pe_estrutura_01_LOD1.npz",
+          "vertices": 37434,
+          "unique_corners": 17838,
+          "min": 0.3200000524520874,
+          "mean": 0.7063198089599609,
+          "occluded": 25167
+        },
+        {
+          "cache": "pe_estrutura_01_LOD2.npz",
+          "vertices": 15060,
+          "unique_corners": 9772,
+          "min": 0.3200001120567322,
+          "mean": 0.5627421140670776,
+          "occluded": 12596
+        },
+        {
+          "cache": "pe_estrutura_01_LOD3.npz",
+          "vertices": 6450,
+          "unique_corners": 4614,
+          "min": 0.3200001120567322,
+          "mean": 0.5890347957611084,
+          "occluded": 5544
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_02",
+      "seconds": 7.39,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_02.npz",
+          "vertices": 209238,
+          "unique_corners": 121270,
+          "min": 0.32000023126602173,
+          "mean": 0.5854443907737732,
+          "occluded": 185020
+        },
+        {
+          "cache": "pe_estrutura_02_LOD1.npz",
+          "vertices": 39486,
+          "unique_corners": 19158,
+          "min": 0.32000023126602173,
+          "mean": 0.6963030695915222,
+          "occluded": 26926
+        },
+        {
+          "cache": "pe_estrutura_02_LOD2.npz",
+          "vertices": 17112,
+          "unique_corners": 11092,
+          "min": 0.32000023126602173,
+          "mean": 0.5572566390037537,
+          "occluded": 14352
+        },
+        {
+          "cache": "pe_estrutura_02_LOD3.npz",
+          "vertices": 7062,
+          "unique_corners": 4974,
+          "min": 0.3200029730796814,
+          "mean": 0.5897728204727173,
+          "occluded": 6047
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_03",
+      "seconds": 14.02,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_03.npz",
+          "vertices": 354822,
+          "unique_corners": 218088,
+          "min": 0.3199999928474426,
+          "mean": 0.5553197264671326,
+          "occluded": 327417
+        },
+        {
+          "cache": "pe_estrutura_03_LOD1.npz",
+          "vertices": 49134,
+          "unique_corners": 25170,
+          "min": 0.3199999928474426,
+          "mean": 0.6652553677558899,
+          "occluded": 35397
+        },
+        {
+          "cache": "pe_estrutura_03_LOD2.npz",
+          "vertices": 26112,
+          "unique_corners": 16712,
+          "min": 0.3200000524520874,
+          "mean": 0.548165500164032,
+          "occluded": 22280
+        },
+        {
+          "cache": "pe_estrutura_03_LOD3.npz",
+          "vertices": 11022,
+          "unique_corners": 7306,
+          "min": 0.3200000524520874,
+          "mean": 0.5899683237075806,
+          "occluded": 9626
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_04",
+      "seconds": 25.76,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_04.npz",
+          "vertices": 536898,
+          "unique_corners": 330704,
+          "min": 0.3199999928474426,
+          "mean": 0.5889402627944946,
+          "occluded": 493815
+        },
+        {
+          "cache": "pe_estrutura_04_LOD1.npz",
+          "vertices": 100038,
+          "unique_corners": 55234,
+          "min": 0.3200000524520874,
+          "mean": 0.7209761142730713,
+          "occluded": 76047
+        },
+        {
+          "cache": "pe_estrutura_04_LOD2.npz",
+          "vertices": 69984,
+          "unique_corners": 43624,
+          "min": 0.3200000524520874,
+          "mean": 0.6933624744415283,
+          "occluded": 58413
+        },
+        {
+          "cache": "pe_estrutura_04_LOD3.npz",
+          "vertices": 23484,
+          "unique_corners": 14584,
+          "min": 0.3200000524520874,
+          "mean": 0.5834252238273621,
+          "occluded": 20655
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_05",
+      "seconds": 25.58,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_05.npz",
+          "vertices": 536898,
+          "unique_corners": 330704,
+          "min": 0.3199999928474426,
+          "mean": 0.5874577760696411,
+          "occluded": 493797
+        },
+        {
+          "cache": "pe_estrutura_05_LOD1.npz",
+          "vertices": 100038,
+          "unique_corners": 55222,
+          "min": 0.3199999928474426,
+          "mean": 0.7204871773719788,
+          "occluded": 76035
+        },
+        {
+          "cache": "pe_estrutura_05_LOD2.npz",
+          "vertices": 70056,
+          "unique_corners": 43620,
+          "min": 0.3199999928474426,
+          "mean": 0.6925385594367981,
+          "occluded": 58465
+        },
+        {
+          "cache": "pe_estrutura_05_LOD3.npz",
+          "vertices": 23556,
+          "unique_corners": 14580,
+          "min": 0.3199999928474426,
+          "mean": 0.581421971321106,
+          "occluded": 20688
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_07",
+      "seconds": 18.71,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_07.npz",
+          "vertices": 462348,
+          "unique_corners": 277336,
+          "min": 0.3199999928474426,
+          "mean": 0.5759768486022949,
+          "occluded": 420790
+        },
+        {
+          "cache": "pe_estrutura_07_LOD1.npz",
+          "vertices": 69618,
+          "unique_corners": 32158,
+          "min": 0.3200000524520874,
+          "mean": 0.6890113949775696,
+          "occluded": 49996
+        },
+        {
+          "cache": "pe_estrutura_07_LOD2.npz",
+          "vertices": 29274,
+          "unique_corners": 18750,
+          "min": 0.3200000524520874,
+          "mean": 0.5701824426651001,
+          "occluded": 24168
+        },
+        {
+          "cache": "pe_estrutura_07_LOD3.npz",
+          "vertices": 12954,
+          "unique_corners": 8650,
+          "min": 0.3200000524520874,
+          "mean": 0.6282783150672913,
+          "occluded": 10545
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_08",
+      "seconds": 17.14,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_08.npz",
+          "vertices": 359838,
+          "unique_corners": 215666,
+          "min": 0.3199999928474426,
+          "mean": 0.5981577038764954,
+          "occluded": 323550
+        },
+        {
+          "cache": "pe_estrutura_08_LOD1.npz",
+          "vertices": 59292,
+          "unique_corners": 30854,
+          "min": 0.3200000524520874,
+          "mean": 0.6817954182624817,
+          "occluded": 43180
+        },
+        {
+          "cache": "pe_estrutura_08_LOD2.npz",
+          "vertices": 34200,
+          "unique_corners": 21590,
+          "min": 0.3200000524520874,
+          "mean": 0.5959248542785645,
+          "occluded": 28901
+        },
+        {
+          "cache": "pe_estrutura_08_LOD3.npz",
+          "vertices": 13806,
+          "unique_corners": 8926,
+          "min": 0.3200000524520874,
+          "mean": 0.6270545125007629,
+          "occluded": 11357
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_09",
+      "seconds": 11.02,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_09.npz",
+          "vertices": 304104,
+          "unique_corners": 134992,
+          "min": 0.3199999928474426,
+          "mean": 0.7158086895942688,
+          "occluded": 228911
+        },
+        {
+          "cache": "pe_estrutura_09_LOD1.npz",
+          "vertices": 110994,
+          "unique_corners": 50134,
+          "min": 0.3199999928474426,
+          "mean": 0.7325026988983154,
+          "occluded": 73604
+        },
+        {
+          "cache": "pe_estrutura_09_LOD2.npz",
+          "vertices": 35946,
+          "unique_corners": 23846,
+          "min": 0.3199999928474426,
+          "mean": 0.5967201590538025,
+          "occluded": 29660
+        },
+        {
+          "cache": "pe_estrutura_09_LOD3.npz",
+          "vertices": 14868,
+          "unique_corners": 11692,
+          "min": 0.3199999928474426,
+          "mean": 0.5960279107093811,
+          "occluded": 12588
+        }
+      ]
+    },
+    {
+      "name": "pe_estrutura_10",
+      "seconds": 2.83,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_estrutura_10.npz",
+          "vertices": 120246,
+          "unique_corners": 56518,
+          "min": 0.3199999928474426,
+          "mean": 0.8420936465263367,
+          "occluded": 51280
+        },
+        {
+          "cache": "pe_estrutura_10_LOD1.npz",
+          "vertices": 77862,
+          "unique_corners": 29210,
+          "min": 0.3199999928474426,
+          "mean": 0.9534835815429688,
+          "occluded": 11288
+        },
+        {
+          "cache": "pe_estrutura_10_LOD2.npz",
+          "vertices": 77634,
+          "unique_corners": 29082,
+          "min": 0.3199999928474426,
+          "mean": 0.9547886848449707,
+          "occluded": 11066
+        },
+        {
+          "cache": "pe_estrutura_10_LOD3.npz",
+          "vertices": 77634,
+          "unique_corners": 29082,
+          "min": 0.3199999928474426,
+          "mean": 0.9547886848449707,
+          "occluded": 11066
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_01_coqueiro",
+      "seconds": 1.5,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_01_coqueiro.npz",
+          "vertices": 113898,
+          "unique_corners": 30555,
+          "min": 0.32015734910964966,
+          "mean": 0.6819642186164856,
+          "occluded": 98437
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_02_imperial",
+      "seconds": 1.49,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_02_imperial.npz",
+          "vertices": 113124,
+          "unique_corners": 30063,
+          "min": 0.320293128490448,
+          "mean": 0.6548969745635986,
+          "occluded": 101078
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_03_caneleira",
+      "seconds": 2.0,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_03_caneleira.npz",
+          "vertices": 126024,
+          "unique_corners": 53260,
+          "min": 0.32121869921684265,
+          "mean": 0.7868037819862366,
+          "occluded": 116788
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_04_amendoeira",
+      "seconds": 2.32,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_04_amendoeira.npz",
+          "vertices": 126024,
+          "unique_corners": 53260,
+          "min": 0.3207089900970459,
+          "mean": 0.665063202381134,
+          "occluded": 121047
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_05_flamboyant",
+      "seconds": 3.37,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_05_flamboyant.npz",
+          "vertices": 196296,
+          "unique_corners": 82540,
+          "min": 0.3213350176811218,
+          "mean": 0.7481289505958557,
+          "occluded": 183640
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_06_arvore_rua",
+      "seconds": 2.4,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_06_arvore_rua.npz",
+          "vertices": 126024,
+          "unique_corners": 53260,
+          "min": 0.32030826807022095,
+          "mean": 0.5752955675125122,
+          "occluded": 122300
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_07_reseda",
+      "seconds": 4.24,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_07_reseda.npz",
+          "vertices": 196296,
+          "unique_corners": 82540,
+          "min": 0.32017388939857483,
+          "mean": 0.5261133313179016,
+          "occluded": 191801
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_08_ipe_amarelo",
+      "seconds": 3.69,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_08_ipe_amarelo.npz",
+          "vertices": 196296,
+          "unique_corners": 82540,
+          "min": 0.32041239738464355,
+          "mean": 0.607457160949707,
+          "occluded": 190660
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_09_oliveira",
+      "seconds": 2.13,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_09_oliveira.npz",
+          "vertices": 126024,
+          "unique_corners": 53260,
+          "min": 0.321944922208786,
+          "mean": 0.7927325367927551,
+          "occluded": 116587
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_10_castanhola",
+      "seconds": 2.43,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_10_castanhola.npz",
+          "vertices": 126024,
+          "unique_corners": 53260,
+          "min": 0.32011473178863525,
+          "mean": 0.5939400792121887,
+          "occluded": 121347
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_11_mangueira",
+      "seconds": 2.56,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_11_mangueira.npz",
+          "vertices": 127464,
+          "unique_corners": 54700,
+          "min": 0.3201320767402649,
+          "mean": 0.5800807476043701,
+          "occluded": 123404
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_12_bananeira",
+      "seconds": 0.04,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_12_bananeira.npz",
+          "vertices": 4440,
+          "unique_corners": 1280,
+          "min": 0.34552326798439026,
+          "mean": 0.8666948080062866,
+          "occluded": 3041
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_13_mangue",
+      "seconds": 2.38,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_13_mangue.npz",
+          "vertices": 126600,
+          "unique_corners": 53620,
+          "min": 0.32051703333854675,
+          "mean": 0.597496747970581,
+          "occluded": 122120
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_14_arbusto_costeiro",
+      "seconds": 0.87,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_14_arbusto_costeiro.npz",
+          "vertices": 42168,
+          "unique_corners": 17950,
+          "min": 0.3205138146877289,
+          "mean": 0.504875898361206,
+          "occluded": 40573
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_15_palmeira_ana",
+      "seconds": 1.74,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_15_palmeira_ana.npz",
+          "vertices": 113220,
+          "unique_corners": 33551,
+          "min": 0.320036381483078,
+          "mean": 0.6351985931396484,
+          "occluded": 107343
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_16_palma_azul",
+      "seconds": 0.42,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_16_palma_azul.npz",
+          "vertices": 39684,
+          "unique_corners": 11548,
+          "min": 0.32108983397483826,
+          "mean": 0.7595569491386414,
+          "occluded": 34751
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_17_yucca",
+      "seconds": 0.04,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_17_yucca.npz",
+          "vertices": 2256,
+          "unique_corners": 992,
+          "min": 0.335835337638855,
+          "mean": 0.8132909536361694,
+          "occluded": 1772
+        }
+      ]
+    },
+    {
+      "name": "pe_veg_18_cerca_viva",
+      "seconds": 1.16,
+      "samples": 12,
+      "radius_m": 1.25,
+      "lods": [
+        {
+          "cache": "pe_veg_18_cerca_viva.npz",
+          "vertices": 42168,
+          "unique_corners": 17950,
+          "min": 0.3203422427177429,
+          "mean": 0.45568349957466125,
+          "occluded": 40815
+        }
+      ]
+    }
+  ],
+  "source": "geometric_BVH",
+  "albedo_unchanged": true
+}

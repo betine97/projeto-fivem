@@ -1,0 +1,144 @@
+{
+  "mansao_spot_embutido.ydr": {
+    "native_reload": true,
+    "system_mib": 0.3671875,
+    "graphics_mib": 0.0078125,
+    "disk_mib": 0.10992145538330078
+  },
+  "mansao_quadros_refs.ytd": {
+    "native_reload": true,
+    "system_mib": 0.0078125,
+    "graphics_mib": 12.0,
+    "disk_mib": 5.141888618469238
+  },
+  "mansao_referencias.ytyp": {
+    "native_reload": true,
+    "system_mib": 0.0078125,
+    "graphics_mib": 0.0,
+    "disk_mib": 0.0008182525634765625
+  },
+  "mansao_referencias.ymap": {
+    "native_reload": true,
+    "system_mib": 0.0234375,
+    "graphics_mib": 0.0,
+    "disk_mib": 0.0020122528076171875
+  },
+  "mansao_pisos.ydr": {
+    "native_reload": true,
+    "system_mib": 1.0625,
+    "graphics_mib": 6.0,
+    "disk_mib": 2.4704818725585938,
+    "preserved_physics": true,
+    "preserved_shader_values": true,
+    "preserved_texture_bytes": true
+  },
+  "mansao_teto.ydr": {
+    "native_reload": true,
+    "system_mib": 1.0,
+    "graphics_mib": 0.0078125,
+    "disk_mib": 0.2118387222290039,
+    "preserved_physics": true,
+    "preserved_shader_values": true,
+    "preserved_texture_bytes": true
+  },
+  "mansao_spots_led.ydr": {
+    "native_reload": true,
+    "system_mib": 0.0625,
+    "graphics_mib": 0.0078125,
+    "disk_mib": 0.009496688842773438
+  },
+  "mansao_decoracao.ytyp": {
+    "native_reload": true,
+    "system_mib": 0.0078125,
+    "graphics_mib": 0.0,
+    "disk_mib": 0.000629425048828125
+  },
+  "mansao_quadro_ref_2.ydr": {
+    "native_reload": true,
+    "system_mib": 0.0625,
+    "graphics_mib": 0.0,
+    "disk_mib": 0.011194229125976562
+  },
+  "mansao_quadro_ref_3.ydr": {
+    "native_reload": true,
+    "system_mib": 0.0625,
+    "graphics_mib": 0.0,
+    "disk_mib": 0.011475563049316406
+  },
+  "mansao_quadro_ref_4.ydr": {
+    "native_reload": true,
+    "system_mib": 0.0625,
+    "graphics_mib": 0.0,
+    "disk_mib": 0.010484695434570312
+  },
+  "mansao_quadro_ref_5.ydr": {
+    "native_reload": true,
+    "system_mib": 0.0625,
+    "graphics_mib": 0.0,
+    "disk_mib": 0.010377883911132812
+  },
+  "shared_art_textures": {
+    "count": 12,
+    "complete_gen8_mip_chains": true,
+    "opaque_colours": true
+  },
+  "recesses": {
+    "count": 88,
+    "max_error_m": 3.3569335963767877e-07,
+    "upper_floor_top_preserved": true
+  },
+  "spot_lods": {
+    "HIGH": 2400,
+    "MEDIUM": 1200,
+    "LOW": 600,
+    "VERYLOW": 400
+  },
+  "artwork_placement": {
+    "Quadro geometrico escritorio": {
+      "wall_clearance_m": [
+        0.011000667572021339,
+        0.011000667572021339
+      ],
+      "height_from_floor_center_m": 1.75,
+      "correct_front_uv": true
+    },
+    "Quadro composicao sala jogos": {
+      "wall_clearance_m": [
+        0.020000286102295206,
+        0.020000286102295206
+      ],
+      "height_from_floor_center_m": 1.75,
+      "correct_front_uv": true
+    },
+    "Quadro abstrato hall esquerdo": {
+      "wall_clearance_m": [
+        0.010999523162841918,
+        0.010999523162841918
+      ],
+      "height_from_floor_center_m": 1.75,
+      "correct_front_uv": true
+    },
+    "Quadro abstrato hall direito": {
+      "wall_clearance_m": [
+        0.010999523162841918,
+        0.010999523162841918
+      ],
+      "height_from_floor_center_m": 1.75,
+      "correct_front_uv": true
+    }
+  },
+  "map": {
+    "ceiling_spots": 88,
+    "new_artworks": 4,
+    "existing_decor_preserved": true
+  },
+  "allocation_delta": {
+    "graphics_mib": 12.007812,
+    "system_mib": -0.726562,
+    "disk_mib": 5.073293
+  },
+  "allocation_note": "RSC7 declared allocation, not measured FPS/VRAM.",
+  "passed": true,
+  "verified_location": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_mansao\\stream",
+  "in_game_verified": false
+}

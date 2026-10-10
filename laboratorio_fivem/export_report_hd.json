@@ -1,0 +1,2684 @@
+{
+  "models": [
+    {
+      "name": "lab_estrutura",
+      "lo": [
+        -4.199999809265137,
+        -8.199999809265137,
+        -0.1599999964237213
+      ],
+      "hi": [
+        4.199999809265137,
+        6.199999809265137,
+        3.75
+      ],
+      "triangles": 2376,
+      "source_objects": 30,
+      "materials": [
+        {
+          "material": "MAT_Concrete_Wall_XZ",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE8_PAREDE_REFERENCIAS",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE8_CHAO_REFERENCIAS",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_piso",
+      "lo": [
+        -4.0,
+        -6.0,
+        -0.20000000298023224
+      ],
+      "hi": [
+        4.0,
+        6.0,
+        0.004000000189989805
+      ],
+      "triangles": 336,
+      "source_objects": 12,
+      "materials": [
+        {
+          "material": "STAGE8_CHAO_REFERENCIAS",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Floor_Joint",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_leds",
+      "lo": [
+        -3.6024999618530273,
+        -3.4186666011810303,
+        2.5824999809265137
+      ],
+      "hi": [
+        3.6904404163360596,
+        1.818666696548462,
+        2.7891929149627686
+      ],
+      "triangles": 11232,
+      "source_objects": 108,
+      "materials": [
+        {
+          "material": "STAGE15_LED_preto",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Rubber",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE15_LED_rosa",
+          "resolution": 4096,
+          "shader": "emissive.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_vasos",
+      "lo": [
+        -3.4800000190734863,
+        -4.2916669845581055,
+        0.26749998331069946
+      ],
+      "hi": [
+        3.4799277782440186,
+        2.691666603088379,
+        0.6804904341697693
+      ],
+      "triangles": 44064,
+      "source_objects": 216,
+      "materials": [
+        {
+          "material": "STAGE12_solo",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_vaso",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_racks",
+      "lo": [
+        -3.7825000286102295,
+        -4.53249979019165,
+        0.0
+      ],
+      "hi": [
+        3.7825000286102295,
+        2.932499885559082,
+        2.802500009536743
+      ],
+      "triangles": 9288,
+      "source_objects": 86,
+      "materials": [
+        {
+          "material": "STAGE13_RACK_Metal_Escuro_Desgastado",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_equipamentos",
+      "lo": [
+        -4.150000095367432,
+        -6.0,
+        -0.06949999928474426
+      ],
+      "hi": [
+        4.0,
+        6.150000095367432,
+        3.3999998569488525
+      ],
+      "triangles": 143462,
+      "source_objects": 618,
+      "materials": [
+        {
+          "material": "MAT_Structural_Dark",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE8_PAREDE_REFERENCIAS",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Vent_Inner",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Galvanized_Metal",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Rubber",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Dark_Metal",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Electrical_Metal",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE14_preto_desgastado",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE14_metal_claro",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "PLACAS_Metal_Bordas",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "PLACA_acesso",
+          "resolution": 1024,
+          "shader": "default.sps"
+        },
+        {
+          "material": "PLACA_alta_tensao",
+          "resolution": 1024,
+          "shader": "default.sps"
+        },
+        {
+          "material": "PLACA_emergencia",
+          "resolution": 1024,
+          "shader": "default.sps"
+        },
+        {
+          "material": "PLACA_reservatorio",
+          "resolution": 1024,
+          "shader": "default.sps"
+        },
+        {
+          "material": "PLACA_ventilacao",
+          "resolution": 1024,
+          "shader": "default.sps"
+        },
+        {
+          "material": "MAT_Cable_Accent",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE10_Cintas_Suportes",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Storage_Drum",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Storage_Drum_Label",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Closed_Container",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Generic_Crate",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE14_azul_desgastado",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Generic_Bucket",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_ventilacao",
+      "lo": [
+        -3.995000123977661,
+        -5.300000190734863,
+        0.5199999809265137
+      ],
+      "hi": [
+        3.995000123977661,
+        5.992000102996826,
+        3.5824999809265137
+      ],
+      "triangles": 106660,
+      "source_objects": 608,
+      "materials": [
+        {
+          "material": "STAGE10_Cintas_Suportes",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE10_Galvanizado_Industrial",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE11_FAN_carcaca_oxidada",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE11_FAN_metal_riscado",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE11_FAN_grade",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Vent_Inner",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE11_FAN_moldura",
+          "resolution": 4096,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Rubber",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "MAT_Structural_Dark",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_00",
+      "lo": [
+        -0.40616148710250854,
+        -0.42602238059043884,
+        -0.0009633403969928622
+      ],
+      "hi": [
+        0.398859441280365,
+        0.34798890352249146,
+        1.0620187520980835
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_01",
+      "lo": [
+        -0.40053510665893555,
+        -0.43080851435661316,
+        -0.0009479869622737169
+      ],
+      "hi": [
+        0.4127156436443329,
+        0.34766697883605957,
+        1.081457257270813
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_02",
+      "lo": [
+        -0.4105120003223419,
+        -0.4292587339878082,
+        -0.0009331133915111423
+      ],
+      "hi": [
+        0.3947606384754181,
+        0.3841439187526703,
+        1.0972371101379395
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_03",
+      "lo": [
+        -0.39961251616477966,
+        -0.39804136753082275,
+        -0.0009633403969928622
+      ],
+      "hi": [
+        0.386167973279953,
+        0.3719686269760132,
+        1.0637366771697998
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_04",
+      "lo": [
+        -0.42344221472740173,
+        -0.42116788029670715,
+        -0.0009479869622737169
+      ],
+      "hi": [
+        0.3890337347984314,
+        0.34520184993743896,
+        1.083315134048462
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_05",
+      "lo": [
+        -0.41661128401756287,
+        -0.3984127342700958,
+        -0.0009331133915111423
+      ],
+      "hi": [
+        0.385642409324646,
+        0.34821817278862,
+        1.096686840057373
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_06",
+      "lo": [
+        -0.40356218814849854,
+        -0.41777968406677246,
+        -0.0009633403969928622
+      ],
+      "hi": [
+        0.4005567729473114,
+        0.3205564320087433,
+        1.0620229244232178
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_07",
+      "lo": [
+        -0.4064011871814728,
+        -0.4068776071071625,
+        -0.0009479869622737169
+      ],
+      "hi": [
+        0.41054558753967285,
+        0.34552061557769775,
+        1.081298828125
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_08",
+      "lo": [
+        -0.42957818508148193,
+        -0.42208823561668396,
+        -0.0009331133915111423
+      ],
+      "hi": [
+        0.39075443148612976,
+        0.38431453704833984,
+        1.0996415615081787
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_09",
+      "lo": [
+        -0.4126449525356293,
+        -0.40188905596733093,
+        -0.0009633403969928622
+      ],
+      "hi": [
+        0.387031614780426,
+        0.32712531089782715,
+        1.0648025274276733
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_10",
+      "lo": [
+        -0.3977520763874054,
+        -0.41985321044921875,
+        -0.0009479869622737169
+      ],
+      "hi": [
+        0.3886328637599945,
+        0.34327879548072815,
+        1.0807558298110962
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_11",
+      "lo": [
+        -0.40851059556007385,
+        -0.4046982228755951,
+        -0.0009331133915111423
+      ],
+      "hi": [
+        0.38961026072502136,
+        0.354095458984375,
+        1.0977202653884888
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_12",
+      "lo": [
+        -0.4100109338760376,
+        -0.4015306234359741,
+        -0.0009633403969928622
+      ],
+      "hi": [
+        0.40247300267219543,
+        0.33438608050346375,
+        1.0650407075881958
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_13",
+      "lo": [
+        -0.42558467388153076,
+        -0.4044855535030365,
+        -0.0009479869622737169
+      ],
+      "hi": [
+        0.41041299700737,
+        0.35144251585006714,
+        1.0796228647232056
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_14",
+      "lo": [
+        -0.3950641453266144,
+        -0.4149383306503296,
+        -0.0009331133915111423
+      ],
+      "hi": [
+        0.39169973134994507,
+        0.37090837955474854,
+        1.0982791185379028
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_15",
+      "lo": [
+        -0.4026584327220917,
+        -0.40160247683525085,
+        -0.0009633403969928622
+      ],
+      "hi": [
+        0.38254132866859436,
+        0.3693928122520447,
+        1.061538815498352
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_16",
+      "lo": [
+        -0.39799144864082336,
+        -0.4006939232349396,
+        -0.0009479869622737169
+      ],
+      "hi": [
+        0.4095693826675415,
+        0.37325695157051086,
+        1.0804144144058228
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_planta_17",
+      "lo": [
+        -0.4169630706310272,
+        -0.4190106689929962,
+        -0.0009331133915111423
+      ],
+      "hi": [
+        0.3867567181587219,
+        0.34223154187202454,
+        1.0959776639938354
+      ],
+      "triangles": 79100,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE12_caule",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_folha",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_flor",
+          "resolution": 2048,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_nervuras",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        },
+        {
+          "material": "STAGE12_pistilos",
+          "resolution": 512,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    },
+    {
+      "name": "lab_porta",
+      "lo": [
+        0.0,
+        -0.027499999850988388,
+        0.0
+      ],
+      "hi": [
+        1.149999976158142,
+        0.027499999850988388,
+        2.259999990463257
+      ],
+      "triangles": 12,
+      "source_objects": 1,
+      "materials": [
+        {
+          "material": "STAGE13_RACK_Metal_Escuro_Desgastado",
+          "resolution": 1024,
+          "shader": "normal_spec.sps"
+        }
+      ]
+    }
+  ],
+  "plants": [
+    {
+      "model": "lab_planta_00",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.2666666507720947
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_00",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -4.046666622161865
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_00",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -2.486666679382324
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_01",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.2666666507720947
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_01",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -4.046666622161865
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_01",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -2.486666679382324
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_02",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.2666666507720947
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_02",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -4.046666622161865
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_02",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -2.486666679382324
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_03",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_03",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -1.5800000429153442
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_03",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.02000001259148121
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_04",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_04",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -1.5800000429153442
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_04",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.02000001259148121
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_05",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_05",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -1.5800000429153442
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_05",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.02000001259148121
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_06",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          1.6666666269302368
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_06",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.8866666555404663
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_06",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          2.446666717529297
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_07",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          1.6666666269302368
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_07",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.8866666555404663
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_07",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          2.446666717529297
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_08",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          1.6666666269302368
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_08",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.8866666555404663
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_08",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          2.446666717529297
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_09",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.2666666507720947
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_09",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -4.046666622161865
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_09",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -2.486666679382324
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_10",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.2666666507720947
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_10",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -4.046666622161865
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_10",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -2.486666679382324
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_11",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -3.2666666507720947
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_11",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -4.046666622161865
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_11",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -2.486666679382324
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_12",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_12",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -1.5800000429153442
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_12",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.02000001259148121
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_13",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_13",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -1.5800000429153442
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_13",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.02000001259148121
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_14",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.800000011920929
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_14",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -1.5800000429153442
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_14",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.02000001259148121
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_15",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          1.6666666269302368
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_15",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.8866666555404663
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_15",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.715000033378601
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          2.446666717529297
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_16",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          1.6666666269302368
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_16",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.8866666555404663
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_16",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.4749999046325684
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          2.446666717529297
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_17",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          1.6666666269302368
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_17",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.8866666555404663
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "model": "lab_planta_17",
+      "matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.234999895095825
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          2.446666717529297
+        ],
+        [
+          0.0,
+          0.0,
+          1.649999976158142,
+          0.6725000143051147
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ]
+}

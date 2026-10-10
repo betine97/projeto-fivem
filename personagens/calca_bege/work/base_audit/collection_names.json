@@ -1,0 +1,45 @@
+{
+  "investigation": "Lua collection lookup previously compared lowercase strings case-sensitively. Use lower(name) only for matching and retain native returned name for component calls.",
+  "sources": [
+    {
+      "pack": "mpheist",
+      "source_archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mpheist\\dlc.rpf",
+      "nested_archive": "x64/models/cdimages/mpheist_streamedpeds.rpf",
+      "source_entry": "mp_m_freemode_01_male_heist.ymt",
+      "extracted_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\calca_bege\\work\\base_audit\\mpheist__mp_m_freemode_01_male_heist.ymt",
+      "sha256": "55629619b510d9a8cd26cc7a617d508afaf6463302e1c00b1b8329f69d6cbd93",
+      "rsc7_payload_compression": "raw DEFLATE beginning at byte 16",
+      "decompressed_size": 24576,
+      "exact_collection_name_strings": [
+        {
+          "value": "Male_Heist",
+          "offset_decompressed": 20780
+        }
+      ]
+    },
+    {
+      "pack": "mpapartment",
+      "source_archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mpapartment\\dlc.rpf",
+      "nested_archive": "x64/models/cdimages/mpapt01.rpf",
+      "source_entry": "mp_m_freemode_01_male_apt01.ymt",
+      "extracted_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\calca_bege\\work\\base_audit\\mpapartment__mp_m_freemode_01_male_apt01.ymt",
+      "sha256": "4e36f7545cfc20e66b04fcc18c4ec66ec9ed2770f3ddc2255823d4cdc95b77fb",
+      "rsc7_payload_compression": "raw DEFLATE beginning at byte 16",
+      "decompressed_size": 16384,
+      "exact_collection_name_strings": [
+        {
+          "value": "Male_Apt01",
+          "offset_decompressed": 8720
+        }
+      ]
+    }
+  ],
+  "client_evidence": {
+    "log": "C:\\Users\\erons\\AppData\\Local\\FiveM\\FiveM.app\\logs\\CitizenFX_log_2026-10-05T062336.log",
+    "loaded_heist_line": 537,
+    "loaded_apartment_line": 548,
+    "old_failure_line": 661,
+    "game_build": 3258
+  },
+  "safe_fallback": "If enumeration cannot find a collection, test candidate native collection names through IsPedCollectionComponentVariationValid before applying; otherwise abort without arbitrary global drawable guesses."
+}

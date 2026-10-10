@@ -1,0 +1,20 @@
+{
+  "component": "jbib_009_u",
+  "source_vertices": 254753,
+  "source_triangles": 460706,
+  "lod_triangles": {
+    "LODLevel.HIGH": 460706,
+    "LODLevel.MEDIUM": 92141,
+    "LODLevel.LOW": 27642,
+    "LODLevel.VERYLOW": 6910
+  },
+  "embedded_textures": [
+    "camisa_estampada_normal",
+    "camisa_estampada_spec"
+  ],
+  "diffuse": "jbib_diff_009_a_uni",
+  "shaders": [
+    "ped_default.sps",
+    "ped.sps"
+  ]
+}

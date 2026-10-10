@@ -1,0 +1,205 @@
+{
+  "candidates": 1830,
+  "rendered": 1814,
+  "counts": {
+    "male_feet": 145,
+    "female_feet": 156,
+    "male_p_head": 240,
+    "female_p_head": 234,
+    "male_p_eyes": 49,
+    "female_p_eyes": 51,
+    "male_p_ears": 43,
+    "female_p_ears": 26,
+    "male_p_lwrist": 50,
+    "female_p_lwrist": 39,
+    "male_p_rwrist": 17,
+    "female_p_rwrist": 24,
+    "male_accs": 191,
+    "female_accs": 224,
+    "male_hand": 96,
+    "female_hand": 107,
+    "male_task": 61,
+    "female_task": 61
+  },
+  "catalogTotal": 3770,
+  "previewImages": 3628,
+  "recoveredWithAlternateDiffuse": 11,
+  "skipped": [
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_battle",
+        "part": "accs",
+        "index": 13,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_female.rpf!/mp_f_freemode_01_mp_f_battle/accs_013_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 279
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "accs",
+        "index": 3,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_heist4/accs_003_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 1016
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "accs",
+        "index": 4,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_heist4/accs_004_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 648
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "accs",
+        "index": 5,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_heist4/accs_005_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 720
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "accs",
+        "index": 6,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_heist4/accs_006_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 600
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "accs",
+        "index": 7,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_heist4/accs_007_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 284
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "accs",
+        "index": 8,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_heist4/accs_008_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 552
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_battle",
+        "part": "accs",
+        "index": 3,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_male.rpf!/mp_m_freemode_01_mp_m_battle/accs_003_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 361
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_security",
+        "part": "accs",
+        "index": 3,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_male.rpf!/mp_m_freemode_01_mp_m_security/accs_003_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 361
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_tuner",
+        "part": "accs",
+        "index": 1,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_male.rpf!/mp_m_freemode_01_mp_m_tuner/accs_001_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 2003
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "feet",
+        "index": 0,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_female.rpf!/mp_f_freemode_01_mp_f_heist4/feet_000_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 1592
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_battle",
+        "part": "feet",
+        "index": 2,
+        "path": "patch2023_02!/x64/models/cdimages/patch2023_02_male.rpf!/mp_m_freemode_01_mp_m_battle/feet_002_u.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 1782
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_p_mp_f_security",
+        "part": "p_head",
+        "index": 1,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_female_p.rpf!/mp_f_freemode_01_p_mp_f_security/p_head_001.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 900
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_p_mp_m_heist4",
+        "part": "p_head",
+        "index": 2,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_male_p.rpf!/mp_m_freemode_01_p_mp_m_heist4/p_head_002.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 750
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_p_mp_m_security",
+        "part": "p_head",
+        "index": 7,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_male_p.rpf!/mp_m_freemode_01_p_mp_m_security/p_head_007.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 904
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_p_mp_m_tuner",
+        "part": "p_head",
+        "index": 2,
+        "path": "patch2023_01!/x64/models/cdimages/patch2023_01_male_p.rpf!/mp_m_freemode_01_p_mp_m_tuner/p_head_002.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 750
+    }
+  ]
+}

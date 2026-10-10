@@ -1,0 +1,148 @@
+{
+  "mansao_mobiliario": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 120000,
+      "MEDIUM": 53978,
+      "LOW": 20824,
+      "VERYLOW": 18782
+    }
+  },
+  "mansao_tv": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 99998,
+      "MEDIUM": 44988,
+      "LOW": 25966,
+      "VERYLOW": 25478
+    }
+  },
+  "mansao_pendentes": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 39998,
+      "MEDIUM": 19228,
+      "LOW": 17160,
+      "VERYLOW": 17132
+    }
+  },
+  "mansao_jantar": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 100000,
+      "MEDIUM": 44990,
+      "LOW": 24034,
+      "VERYLOW": 23766
+    }
+  },
+  "mansao_ilha": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 64998,
+      "MEDIUM": 29246,
+      "LOW": 11046,
+      "VERYLOW": 9322
+    }
+  },
+  "mansao_tapete_sala": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 45000,
+      "MEDIUM": 20246,
+      "LOW": 7876,
+      "VERYLOW": 3488
+    }
+  },
+  "mansao_paredes": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 13316
+    }
+  },
+  "mansao_porta_madeira_095": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 5160
+    }
+  },
+  "mansao_pisos": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 312
+    }
+  },
+  "mansao_escada": {
+    "native_roundtrip": true,
+    "hd_corners_preserved": true,
+    "physics_preserved": true,
+    "lod_triangles": {
+      "HIGH": 1416
+    }
+  },
+  "split_collision_tolerance_m": 0.0001,
+  "lighting": {
+    "lua_parsed": true,
+    "runtime_frames": 841,
+    "max_calls": 24,
+    "budget": 24,
+    "night_day_factor": 3.67,
+    "far_sleep": true,
+    "camera_only": true,
+    "spotlight_calls": 0,
+    "shadow_calls": 0
+  },
+  "colour_quality": {
+    "sofa_albedo": {
+      "psnr_db": 53.85,
+      "size": 4096
+    },
+    "dining_albedo": {
+      "psnr_db": 51.45,
+      "size": 4096
+    },
+    "island_albedo": {
+      "psnr_db": 54.02,
+      "size": 4096
+    },
+    "rug_albedo": {
+      "psnr_db": 53.46,
+      "size": 4096
+    },
+    "porta_madeira_mel": {
+      "psnr_db": 53.83,
+      "size": 2048
+    },
+    "parede_reboco": {
+      "psnr_db": 56.41,
+      "size": 2048
+    },
+    "parede_tijolo_tv": {
+      "psnr_db": 65.14,
+      "size": 2048
+    },
+    "mansao_caixilho": {
+      "psnr_db": 99.0,
+      "size": 4
+    }
+  },
+  "passed": true,
+  "game_verified": false
+}

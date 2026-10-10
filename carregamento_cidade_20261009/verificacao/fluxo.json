@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "cases": [
+    "ilha: impede entrada antecipada, espera sem timeout, aceita um clique e libera o personagem",
+    "cidade: impede entrada antecipada, espera sem timeout, aceita um clique e libera o personagem",
+    "solo ausente mantém proteção e nova tentativa recupera o spawn",
+    "perda de colisão entre pronto e clique bloqueia a liberação",
+    "parada do recurso limpa foco e proteção sem deixar o jogador preso",
+    "servidor sem o recurso mantém o fluxo anterior",
+    "reiniciar um recurso em uma sessão já aberta não prende o jogador sem tela",
+    "nativos 1/0 viram booleanos JSON; colisão zero e personagem morto continuam bloqueados",
+    "loading nativo zero não congela uma sessão já aberta",
+    "transferência mantém áudio/proteção, aguarda interface visível e dá foco uma vez; clique libera e limpa",
+    "sem resposta do áudio a interface ainda abre, sem avanço automático do personagem",
+    "sintaxe de todos os Lua alterados",
+    "background e três músicas copiados sem alteração",
+    "recurso inicia antes do personagem nos dois modos"
+  ],
+  "media": [
+    {
+      "source": "C:/Users/erons/AppData/Local/Temp/codex-clipboard-fbd7dcab-5721-41e9-a0ee-d2b8344614e6.png",
+      "asset": "assets/background.png",
+      "sha256": "262c3306ed659be878fc5c78e65ebbb0bea1c1c4d9cf64c5a03bc3fff5409a22"
+    },
+    {
+      "source": "C:/Users/erons/Downloads/YTDown.com_YouTube_Media_ilfYnhXD-bE_Breaking-Bad-Main-Title-Theme-Extended_001_1080p.mp3",
+      "asset": "audio/faixa-01.mp3",
+      "sha256": "5e09b4f040c079d41d377ca9bf2b68b97c7ec7975cc4e41fbb3351f2f50d7a73"
+    },
+    {
+      "source": "C:/Users/erons/Downloads/YTDown.com_YouTube_Media_ilfYnhXD-bE_Breaking-Bad-Main-Title-Theme-Extended_001_1080p_2.mp3",
+      "asset": "audio/faixa-02.mp3",
+      "sha256": "21a3f3e225ba184fad163c0282e781715b2a9e9c70a16d2e7701b66020aeb2de"
+    },
+    {
+      "source": "C:/Users/erons/Downloads/YTDown.com_YouTube_Media_ilfYnhXD-bE_Breaking-Bad-Main-Title-Theme-Extended_001_1080p_1.mp3",
+      "asset": "audio/faixa-03.mp3",
+      "sha256": "fd4df2b1af0a3d8979607894646c58980812cdddb546f65817d65ddb9ea09321"
+    }
+  ],
+  "native_mocks": true,
+  "in_game_verified": false
+}

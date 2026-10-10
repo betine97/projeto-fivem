@@ -1,0 +1,26 @@
+PROJETO COMPLETO - STAGE 14 - ZONA TECNICA
+
+Abra warehouse_stage14_projeto_completo.blend. Todos os componentes da cena
+e todos os materiais das etapas anteriores continuam juntos. As imagens de
+textura estao incorporadas ao .blend.
+
+Aplicacao das imagens fornecidas:
+1. Azul desgastado: corpo, topo azul e aneis de reforco do tanque.
+2. Preto desgastado: tampa pequena preta do tanque; estrutura da estante e
+   corpos dos recipientes; corpo e puxadores do armario; corpo e comando do painel.
+3. Metal claro: bancada (tampo, prateleira inferior e pes); prateleiras e tampas
+   dos recipientes da estante; portas do armario; face e parafusos do painel.
+
+Os recipientes avulsos da bancada e o balde mantem seus materiais anteriores.
+As outras texturas e a geometria da cena foram preservadas.
+
+O arquivo abre com teto e partes frontais ocultos para ver o interior, como na
+etapa 13. A luz de apoio fica na colecao APRESENTACAO_Luz_de_apoio.
+
+warehouse_stage14_projeto_completo.png: render do projeto inteiro.
+warehouse_stage14_zona_tecnica.png: detalhe do fundo com luz adicional de inspecao.
+warehouse_stage14_validacao.json: registro das pecas atualizadas e verificacoes.
+
+O script aplicar_zona_tecnica_stage14.py recria a etapa a partir de
+warehouse_stage13_projeto_completo.blend, se colocado ao lado dele.
+Nao e necessario executar scripts para abrir o projeto pronto.

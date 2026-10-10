@@ -1,0 +1,598 @@
+{
+  "total": 868,
+  "newTops": 300,
+  "maskCandidates": 478,
+  "masks": 448,
+  "skipped": [
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "teef",
+        "index": 0,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/teef_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_male_apt01",
+        "part": "jbib",
+        "index": 0,
+        "path": "mpapartment!/x64/models/cdimages/mpapt01.rpf!/mp_m_freemode_01_male_apt01/jbib_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "teef",
+        "index": 0,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/teef_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_tuner",
+        "part": "jbib",
+        "index": 0,
+        "path": "patchday28ng!/x64/models/cdimages/patchday28ng_male.rpf!/mp_m_freemode_01_mp_m_tuner/jbib_000_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "teef",
+        "index": 1,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/teef_001_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "teef",
+        "index": 1,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/teef_001_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_christmas2018",
+        "part": "jbib",
+        "index": 1,
+        "path": "mpchristmas2018!/x64/models/cdimages/mpchristmas2018_male.rpf!/mp_m_freemode_01_mp_m_christmas2018/jbib_001_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_heist4",
+        "part": "jbib",
+        "index": 1,
+        "path": "patchday25ng!/x64/models/cdimages/patchday25ng_male.rpf!/mp_m_freemode_01_mp_m_heist4/jbib_001_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "teef",
+        "index": 2,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/teef_002_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "teef",
+        "index": 2,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/teef_002_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_heist4",
+        "part": "jbib",
+        "index": 2,
+        "path": "patchday25ng!/x64/models/cdimages/patchday25ng_male.rpf!/mp_m_freemode_01_mp_m_heist4/jbib_002_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "teef",
+        "index": 3,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/teef_003_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "jbib",
+        "index": 3,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/jbib_003_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "teef",
+        "index": 3,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/teef_003_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_security",
+        "part": "jbib",
+        "index": 3,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_male.rpf!/mp_m_freemode_01_mp_m_security/jbib_003_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "teef",
+        "index": 4,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/teef_004_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "jbib",
+        "index": 4,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/jbib_004_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "teef",
+        "index": 5,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/teef_005_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "jbib",
+        "index": 5,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/jbib_005_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_02",
+        "part": "jbib",
+        "index": 5,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_male.rpf!/mp_m_freemode_01_mp_m_2023_02/jbib_005_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "teef",
+        "index": 6,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/teef_006_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "jbib",
+        "index": 6,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/jbib_006_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "teef",
+        "index": 6,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/teef_006_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_heist_01",
+        "part": "jbib",
+        "index": 6,
+        "path": "patchday5ng!/x64/models/cdimages/patchday5ng_male.rpf!/mp_m_freemode_01_mp_m_heist_01/jbib_006_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "jbib",
+        "index": 7,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/jbib_007_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "teef",
+        "index": 7,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/teef_007_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2024_01",
+        "part": "jbib",
+        "index": 7,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_male.rpf!/mp_m_freemode_01_mp_m_2024_01/jbib_007_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_battle",
+        "part": "jbib",
+        "index": 7,
+        "path": "patchday26ng!/x64/models/cdimages/patchday26ng_male.rpf!/mp_m_freemode_01_mp_m_battle/jbib_007_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_heist_01",
+        "part": "jbib",
+        "index": 7,
+        "path": "patchday5ng!/x64/models/cdimages/patchday5ng_male.rpf!/mp_m_freemode_01_mp_m_heist_01/jbib_007_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01",
+        "part": "berd",
+        "index": 0,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_f_freemode_01/berd_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "berd",
+        "index": 0,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/berd_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_female_apt01",
+        "part": "berd",
+        "index": 0,
+        "path": "mpapartment!/x64/models/cdimages/mpapt01.rpf!/mp_f_freemode_01_female_apt01/berd_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_male_apt01",
+        "part": "berd",
+        "index": 0,
+        "path": "mpapartment!/x64/models/cdimages/mpapt01.rpf!/mp_m_freemode_01_male_apt01/berd_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_smuggler_01",
+        "part": "berd",
+        "index": 10,
+        "path": "mpsmuggler!/x64/models/cdimages/mpsmuggler_female.rpf!/mp_f_freemode_01_mp_f_smuggler_01/berd_010_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_smuggler_01",
+        "part": "berd",
+        "index": 10,
+        "path": "mpsmuggler!/x64/models/cdimages/mpsmuggler_male.rpf!/mp_m_freemode_01_mp_m_smuggler_01/berd_010_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_tuner",
+        "part": "berd",
+        "index": 0,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_male.rpf!/mp_m_freemode_01_mp_m_tuner/berd_000_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_sum2_g9ec",
+        "part": "berd",
+        "index": 0,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_female.rpf!/mp_f_freemode_01_mp_f_sum2_g9ec/berd_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_sum2_g9ec",
+        "part": "berd",
+        "index": 1,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_female.rpf!/mp_f_freemode_01_mp_f_sum2_g9ec/berd_001_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_sum2_g9ec",
+        "part": "berd",
+        "index": 2,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_female.rpf!/mp_f_freemode_01_mp_f_sum2_g9ec/berd_002_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_sum2_g9ec",
+        "part": "berd",
+        "index": 3,
+        "path": "patch2023_01_g9ec!/x64/models/cdimages/patch2023_01_g9ec_female.rpf!/mp_f_freemode_01_mp_f_sum2_g9ec/berd_003_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_sum2_g9ec",
+        "part": "berd",
+        "index": 4,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_female.rpf!/mp_f_freemode_01_mp_f_sum2_g9ec/berd_004_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_sum2_g9ec",
+        "part": "berd",
+        "index": 0,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_male.rpf!/mp_m_freemode_01_mp_m_sum2_g9ec/berd_000_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_sum2_g9ec",
+        "part": "berd",
+        "index": 1,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_male.rpf!/mp_m_freemode_01_mp_m_sum2_g9ec/berd_001_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_sum2_g9ec",
+        "part": "berd",
+        "index": 2,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_male.rpf!/mp_m_freemode_01_mp_m_sum2_g9ec/berd_002_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_sum2_g9ec",
+        "part": "berd",
+        "index": 3,
+        "path": "patch2023_01_g9ec!/x64/models/cdimages/patch2023_01_g9ec_male.rpf!/mp_m_freemode_01_mp_m_sum2_g9ec/berd_003_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_sum2_g9ec",
+        "part": "berd",
+        "index": 4,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_male.rpf!/mp_m_freemode_01_mp_m_sum2_g9ec/berd_004_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "berd",
+        "index": 5,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/berd_005_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "berd",
+        "index": 6,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/berd_006_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "berd",
+        "index": 8,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/berd_008_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "berd",
+        "index": 5,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/berd_005_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "berd",
+        "index": 6,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/berd_006_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "berd",
+        "index": 8,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/berd_008_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "berd",
+        "index": 2,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/berd_002_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "berd",
+        "index": 5,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/berd_005_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_02",
+        "part": "berd",
+        "index": 2,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_male.rpf!/mp_m_freemode_01_mp_m_2023_02/berd_002_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_02",
+        "part": "berd",
+        "index": 5,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_male.rpf!/mp_m_freemode_01_mp_m_2023_02/berd_005_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_heist4",
+        "part": "berd",
+        "index": 3,
+        "path": "patch2023_02!/x64/models/cdimages/patch2023_02_male.rpf!/mp_m_freemode_01_mp_m_heist4/berd_003_u.ydd"
+      },
+      "reason": "no diffuse"
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2024_01",
+        "part": "berd",
+        "index": 6,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_female.rpf!/mp_f_freemode_01_mp_f_2024_01/berd_006_u.ydd"
+      },
+      "reason": "empty model"
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2024_01",
+        "part": "berd",
+        "index": 6,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_male.rpf!/mp_m_freemode_01_mp_m_2024_01/berd_006_u.ydd"
+      },
+      "reason": "empty model"
+    }
+  ]
+}

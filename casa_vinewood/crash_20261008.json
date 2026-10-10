@@ -1,0 +1,68 @@
+{
+  "dump": "4f1afc18-abaa-4821-b293-bae77286b967.dmp",
+  "code": "0xc0000005",
+  "address": "FiveM_b3258_GTAProcess.exe+0x93419f",
+  "parameters": [
+    "0x1",
+    "0x48"
+  ],
+  "registers": {
+    "rax": "0x0",
+    "rcx": "0x23909592cd0",
+    "rdx": "0x428a5bb2a0",
+    "rbx": "0x2389",
+    "rsp": "0x428a5bb280",
+    "rbp": "0x0",
+    "rsi": "0x2390cc378c0",
+    "rdi": "0x239044a5710",
+    "r8": "0x428a5bb2b0",
+    "r9": "0x2364",
+    "r10": "0x239093c3f80",
+    "r11": "0x2364",
+    "r12": "0x2390cc378c0",
+    "r13": "0x1",
+    "r14": "0x428a5bb3d0",
+    "r15": "0x2389",
+    "rip": "0x7ff652be419f"
+  },
+  "stack_candidates": [
+    [
+      168,
+      "extra-natives-five.dll+0x42c10"
+    ],
+    [
+      472,
+      "extra-natives-five.dll+0x43483"
+    ],
+    [
+      664,
+      "gta-streaming-five.dll+0x56fd8"
+    ]
+  ],
+  "register_memory": {
+    "rax": "",
+    "rcx": "",
+    "rdx": "183694fb38020000a071d70b3902000040b35b8a42000000d0765d0b39020000d0765d0b390200008fa39153f67f000010574a043902000010574a0439020000",
+    "rbx": "",
+    "rbp": "",
+    "rsi": "",
+    "rdi": "",
+    "r8": "40b35b8a42000000d0765d0b39020000d0765d0b390200008fa39153f67f000010574a043902000010574a04390200000000000000000000a071d70b39020000",
+    "r9": "",
+    "r10": "",
+    "r11": "",
+    "r12": "",
+    "r13": "",
+    "r14": "f9433216000000000600000000000000de3470c4e8f6b743a0ab0343cdcccc3d502cc20b39020000a071d70b3902000001b65b8a420000008923000000000000",
+    "r15": ""
+  },
+  "mansion_hashes_in_register_memory": [],
+  "possible_entity_definition": {
+    "archetype_hash": "0x163243f9",
+    "position": [
+      -960.8260498046875,
+      367.928955078125,
+      131.67041015625
+    ]
+  }
+}

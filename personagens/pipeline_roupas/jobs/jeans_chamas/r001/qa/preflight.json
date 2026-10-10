@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Same approved lowr_001_r base; original model/UV/weights/LODs/materials preserved. Independent variation, component 4 only.",
+    "Front reference mapped to native silhouette. Back textile inferred from unprinted supplied waist fabric, retaining native pocket/fold shading.",
+    "Nonrepeating transparent flame canvases share the same physical vertical frame: taller front artwork, shorter back artwork. No mirrored front flames on back.",
+    "Back weave uses the supplied cloth crop tone (20th RGB percentile) and 4% fiber contrast to avoid repeating photographic whiskers; native normal/specular and fold shading remain."
+  ],
+  "placements": [],
+  "in_game_validation": "pending"
+}

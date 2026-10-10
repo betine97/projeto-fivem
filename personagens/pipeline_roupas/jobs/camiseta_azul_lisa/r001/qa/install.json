@@ -1,0 +1,14 @@
+{
+  "resource": "cidade_camiseta_azul_lisa",
+  "installed": true,
+  "files_verified": {
+    "client.lua": "6fd111a80ce8df58404bc76186fdfac8bcb00a925bc4a2c1cd370f0aca4fbdd4",
+    "data\\shop.meta": "16f913af725b8714fb95eb3cf5f217e455641ac003d0ce15810cfd090999e138",
+    "fxmanifest.lua": "7f6a6373c8457b0af6b9a7783c672432bfe034fff5a2e90b08647be3bfc0ce8a",
+    "stream\\mp_m_freemode_01_cidade_camiseta_azul_lisa_r001.ymt": "1f40b64703e23d28cdf6c002f587c29e777e88f6406163cadccd63ee8552c53a",
+    "stream\\mp_m_freemode_01_cidade_camiseta_azul_lisa_r001^jbib_000_u.ydd": "a3bc05389de8e349cac78f534fb37c51a0213e44045e10b3bdd4c8e13f285bbe",
+    "stream\\mp_m_freemode_01_cidade_camiseta_azul_lisa_r001^jbib_diff_000_a_uni.ytd": "2a8d2c117cd00e550f6e5c69696b37d5d2027699c4d66f6c0125318f26dc593f"
+  },
+  "server_reload_required": true,
+  "in_game_verified": false
+}

@@ -1,0 +1,45 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": false,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": "palette_to_rgb",
+  "shader_changes": [
+    {
+      "from": "ped_palette.sps",
+      "to": "ped.sps"
+    },
+    {
+      "from": "ped_default_palette.sps",
+      "to": "ped_default.sps"
+    }
+  ],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_west_texas_r002^jbib_000_u.ydd",
+    "mp_m_freemode_01_cidade_west_texas_r002^jbib_diff_000_a_uni.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "6fa8d93fa8dea48e3a37057ab40d055f3df1279ae7bfe5605db1c119e862aa0f",
+  "cache_hit": false,
+  "seconds": 1.593,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_west_texas_r002^jbib_000_u.ydd": "4f5be5f6730fba32d1c9bf5b0d301115196dc80dc099764b2460e072c1c57490",
+    "exports\\mp_m_freemode_01_cidade_west_texas_r002^jbib_diff_000_a_uni.ytd": "8c62da00b49e67a59d269c860aabc70fd4441f6d28dc19526bf7c364e738ca2a"
+  }
+}

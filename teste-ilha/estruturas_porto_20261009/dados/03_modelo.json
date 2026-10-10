@@ -1,0 +1,63 @@
+{
+  "id": 3,
+  "nome": "Sobrado_azul",
+  "arquivo": "03_Sobrado_azul.blend",
+  "dimensoes": [
+    9,
+    8,
+    6.4
+  ],
+  "interiores": [
+    {
+      "pavimento": 1,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "cozinha",
+        "banheiro",
+        "armario"
+      ]
+    },
+    {
+      "pavimento": 2,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "mesa",
+        "banheiro",
+        "armario"
+      ]
+    }
+  ],
+  "aberturas": [
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 4.5,
+      "largura": 1.1,
+      "z": 0,
+      "altura": 2.28
+    },
+    {
+      "tipo": "vao_escada",
+      "z": 3.2,
+      "limites": [
+        2.7,
+        4.26,
+        -2.6,
+        2.65
+      ]
+    }
+  ],
+  "objetos": 1143,
+  "vertices": 34144,
+  "texturas_empacotadas": [
+    "Referencia_original_03"
+  ],
+  "texturas_fornecidas": {
+    "parede": 5,
+    "madeira": 3
+  },
+  "refinamento_aplicado": true,
+  "passagens_conferidas": true
+}

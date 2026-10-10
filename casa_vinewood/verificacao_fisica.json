@@ -1,0 +1,204 @@
+{
+  "offline_only": true,
+  "in_game_test": false,
+  "collision_triangles_checked": 5894,
+  "body_radius_m": 0.3,
+  "rooms": {
+    "terreo_Sala de estar": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Sala de jantar": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Cozinha": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Hall de entrada": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Escritorio": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Lavabo": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Despensa": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Sala TV Jogos": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "terreo_Lavanderia": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Suite master": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Closet": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Banheiro da suite": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Quarto 2": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Quarto 3": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Banheiro social": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Circulacao quartos": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Mezanino": {
+      "body_clear": true,
+      "floor_support": true
+    },
+    "superior_Sala intima / leitura": {
+      "body_clear": true,
+      "floor_support": true
+    }
+  },
+  "routes": {
+    "porta_exterior_ate_cozinha": {
+      "samples": 43,
+      "minimum_sample_clearance_m": 0.39513041028961604,
+      "blockers": [],
+      "passed": true
+    },
+    "escada_terreo_ao_superior": {
+      "samples": 107,
+      "minimum_sample_clearance_m": 0.3427951545085612,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Sala de estar": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Sala de jantar": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Cozinha": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Hall de entrada": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Escritorio": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Lavabo": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Despensa": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Sala TV Jogos": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "terreo_Lavanderia": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Suite master": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Closet": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Banheiro da suite": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Quarto 2": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Quarto 3": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Banheiro social": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Circulacao quartos": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Mezanino": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    },
+    "superior_Sala intima / leitura": {
+      "samples": 2,
+      "minimum_sample_clearance_m": 100.0,
+      "blockers": [],
+      "passed": true
+    }
+  },
+  "superseded_by": "verificacao_encaixe.json",
+  "status": "Relatorio historico da primeira versao; nao descreve as colisoes instaladas atuais."
+}

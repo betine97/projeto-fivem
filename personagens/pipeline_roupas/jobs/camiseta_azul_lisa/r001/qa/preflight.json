@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Supplied textile covers front, back and sleeves. Native geometry, UVs, weights, LODs and normal/specular maps preserved."
+  ],
+  "placements": [],
+  "in_game_validation": "pending"
+}

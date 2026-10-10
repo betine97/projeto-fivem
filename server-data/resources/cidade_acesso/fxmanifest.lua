@@ -1,0 +1,5 @@
+fx_version 'cerulean'
+game 'gta5'
+description 'IDs persistentes e autorização de entrada pelo painel local'
+server_script 'server.lua'
+client_script 'client.lua'

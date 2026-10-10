@@ -1,0 +1,27 @@
+{
+  "item": {
+    "id": "exclusive-camiseta_preta_listrada",
+    "sex": "male",
+    "category": "jbib",
+    "title": "Camiseta preta listrada",
+    "collection": "cidade_camiseta_preta_listrada_r001",
+    "collectionLabel": "Exclusivas da cidade",
+    "index": 0,
+    "file": "jbib_000_u.ydd",
+    "textureCount": 1,
+    "textureFile": "jbib_diff_000_a_uni.ytd",
+    "triangles": 1414,
+    "image": "previews/exclusive-camiseta_preta_listrada.png",
+    "back": "previews/exclusive-camiseta_preta_listrada-back.png",
+    "textureIndex": 0,
+    "exclusive": true,
+    "sourceId": "45d2507a98ce",
+    "resource": "cidade_camiseta_preta_listrada",
+    "compatibleArmsIndex": 0
+  },
+  "base_preserved": true,
+  "user_tags_modified": false,
+  "server_reload_required": true,
+  "web_reload_required": true,
+  "in_game_verified": false
+}

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Source front reference registered to native mesh silhouette. Back pockets/seams retained and recolored in matching denim.",
+    "Upper fabric tile box-projected to prevent lateral stretching. Thigh wear and hem panels contribute to their respective regions.",
+    "Original foot/cuff colored regions retained. Component 6 and all other outfit components unchanged by the test command."
+  ],
+  "placements": [],
+  "in_game_validation": "pending"
+}

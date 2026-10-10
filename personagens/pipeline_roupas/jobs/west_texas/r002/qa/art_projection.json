@@ -1,0 +1,23 @@
+{
+  "method": "Blender emission bake from supplied original image",
+  "front_projection_width_m": 0.36,
+  "front_projection_z_range_m": [
+    0.13,
+    0.58
+  ],
+  "back_and_sleeves": "unprinted textile from original image",
+  "native_normal_specular": "preserved",
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "visual_review": "four views inspected; uniform textile, front-only legible graphic, unmodified silhouette",
+  "cloth_sampling": "square patch baked from blank region of original image; box projection at 8 tiles/m",
+  "graphic_mask": "luminance alpha to avoid a rectangular panel edge"
+}

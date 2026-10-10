@@ -1,0 +1,44 @@
+{
+  "ok": true,
+  "tests": 6,
+  "seconds": 2.528,
+  "failures": 0,
+  "errors": 0,
+  "native_round_trip": {
+    "original_geometry_unchanged": true,
+    "native_materials_and_skeleton_unchanged": true,
+    "native_normal_specular_and_skeleton_preserved": true,
+    "material_adapter": null,
+    "shader_changes": [],
+    "diffuse_sampler_verified": true,
+    "extra_triangles_high": 128,
+    "texture_size": [
+      512,
+      512
+    ],
+    "native_files": [
+      "mp_m_freemode_01_cidade_qa_native_r001^lowr_000_r.ydd",
+      "mp_m_freemode_01_cidade_qa_native_r001^lowr_diff_000_a_whi.ytd"
+    ],
+    "lods": [
+      0,
+      1,
+      2
+    ],
+    "fingerprint": "340bee879086ee167178344ef91b2aea1fc739b5e89e4daec543494e27f52dcc",
+    "cache_hit": false,
+    "seconds": 0.237,
+    "status": "native_candidate",
+    "deployable": false,
+    "pending": [
+      "addon_ymt_and_shop_metadata",
+      "four_views_and_pose_review",
+      "in_game_test"
+    ],
+    "files": {
+      "exports\\mp_m_freemode_01_cidade_qa_native_r001^lowr_000_r.ydd": "566d2e39a14370241e757ab0c5a9c72e5cbf731318863058611919c53088d48e",
+      "exports\\mp_m_freemode_01_cidade_qa_native_r001^lowr_diff_000_a_whi.ytd": "e6eb5d0110134364ebea84f38f3e219e0f5ba88db36093180da5eb45dcee8f57"
+    }
+  },
+  "in_game_test": "pending for future variation"
+}

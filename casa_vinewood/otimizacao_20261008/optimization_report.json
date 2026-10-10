@@ -1,0 +1,1283 @@
+{
+  "models": {
+    "mansao_mobiliario": {
+      "textures": [
+        {
+          "name": "sofa_albedo",
+          "before_size": 4096,
+          "size": 4096,
+          "codec": "DXT1",
+          "before_bytes": 22369744,
+          "bytes": 11184952,
+          "normal": false
+        },
+        {
+          "name": "sofa_normal",
+          "before_size": 4096,
+          "size": 2048,
+          "codec": "DXT5",
+          "before_bytes": 22369744,
+          "bytes": 5592560,
+          "normal": true
+        },
+        {
+          "name": "sofa_spec",
+          "before_size": 2048,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 174904,
+          "normal": false
+        }
+      ],
+      "simplification": [
+        [
+          {
+            "count": 16584,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 9215,
+            "error": 0.0009611386340111494,
+            "triangles": 9829
+          },
+          {
+            "count": 4613,
+            "error": 0.00566731346771121,
+            "triangles": 3713
+          },
+          {
+            "count": 3875,
+            "error": 0.023388292640447617,
+            "triangles": 2885
+          }
+        ],
+        [
+          {
+            "count": 16785,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 9375,
+            "error": 0.0008801118237897754,
+            "triangles": 9827
+          },
+          {
+            "count": 4706,
+            "error": 0.004554751794785261,
+            "triangles": 3713
+          },
+          {
+            "count": 4328,
+            "error": 0.024657074362039566,
+            "triangles": 3259
+          }
+        ],
+        [
+          {
+            "count": 16716,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 9344,
+            "error": 0.0009438590495847166,
+            "triangles": 9825
+          },
+          {
+            "count": 4722,
+            "error": 0.006713767070323229,
+            "triangles": 3713
+          },
+          {
+            "count": 4310,
+            "error": 0.024777289479970932,
+            "triangles": 3243
+          }
+        ],
+        [
+          {
+            "count": 17136,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 9680,
+            "error": 0.0012913595419377089,
+            "triangles": 9825
+          },
+          {
+            "count": 4836,
+            "error": 0.011982246302068233,
+            "triangles": 3721
+          },
+          {
+            "count": 4734,
+            "error": 0.023784887045621872,
+            "triangles": 3607
+          }
+        ],
+        [
+          {
+            "count": 17779,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 10190,
+            "error": 0.001464629895053804,
+            "triangles": 9827
+          },
+          {
+            "count": 5584,
+            "error": 0.011964202858507633,
+            "triangles": 4101
+          },
+          {
+            "count": 5418,
+            "error": 0.024324843659996986,
+            "triangles": 3939
+          }
+        ],
+        [
+          {
+            "count": 8878,
+            "error": 0,
+            "triangles": 10775
+          },
+          {
+            "count": 5117,
+            "error": 0.0007427781238220632,
+            "triangles": 4845
+          },
+          {
+            "count": 2653,
+            "error": 0.011972028762102127,
+            "triangles": 1863
+          },
+          {
+            "count": 2635,
+            "error": 0.024459000676870346,
+            "triangles": 1849
+          }
+        ]
+      ],
+      "triangles": {
+        "HIGH": 120000,
+        "MEDIUM": 53978,
+        "LOW": 20824,
+        "VERYLOW": 18782
+      },
+      "lo": [
+        -5.745047569274902,
+        -11.399999618530273,
+        -0.7950000166893005
+      ],
+      "hi": [
+        -2.2549519538879395,
+        -6.200000286102295,
+        0.16510683298110962
+      ],
+      "disk_bytes": 16727049,
+      "system_bytes": 11796480,
+      "graphics_bytes": 25165824
+    },
+    "mansao_tv": {
+      "textures": [
+        {
+          "name": "tv_normal",
+          "before_size": 4096,
+          "size": 1024,
+          "codec": "DXT5",
+          "before_bytes": 22369744,
+          "bytes": 1398256,
+          "normal": true
+        },
+        {
+          "name": "tv_spec",
+          "before_size": 2048,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 174904,
+          "normal": false
+        },
+        {
+          "name": "tv_albedo",
+          "before_size": 4096,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 22369744,
+          "bytes": 2796344,
+          "normal": false
+        }
+      ],
+      "simplification": [
+        [
+          {
+            "count": 20906,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 12117,
+            "error": 0.0014232974499464035,
+            "triangles": 9827
+          },
+          {
+            "count": 7910,
+            "error": 0.011976698413491249,
+            "triangles": 5221
+          },
+          {
+            "count": 7826,
+            "error": 0.023629270493984222,
+            "triangles": 5143
+          }
+        ],
+        [
+          {
+            "count": 21002,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 12219,
+            "error": 0.0015416184905916452,
+            "triangles": 9827
+          },
+          {
+            "count": 8476,
+            "error": 0.011982898227870464,
+            "triangles": 5701
+          },
+          {
+            "count": 8422,
+            "error": 0.02066946029663086,
+            "triangles": 5653
+          }
+        ],
+        [
+          {
+            "count": 21229,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 12346,
+            "error": 0.0012438874691724777,
+            "triangles": 9829
+          },
+          {
+            "count": 8528,
+            "error": 0.011926546692848206,
+            "triangles": 5567
+          },
+          {
+            "count": 8323,
+            "error": 0.023844368755817413,
+            "triangles": 5377
+          }
+        ],
+        [
+          {
+            "count": 22092,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 13031,
+            "error": 0.0014234745176509023,
+            "triangles": 9829
+          },
+          {
+            "count": 9587,
+            "error": 0.011862541548907757,
+            "triangles": 6181
+          },
+          {
+            "count": 9458,
+            "error": 0.02432633563876152,
+            "triangles": 6055
+          }
+        ],
+        [
+          {
+            "count": 12521,
+            "error": 0,
+            "triangles": 12618
+          },
+          {
+            "count": 7308,
+            "error": 0.0011900049867108464,
+            "triangles": 5676
+          },
+          {
+            "count": 5131,
+            "error": 0.011611586436629295,
+            "triangles": 3296
+          },
+          {
+            "count": 5086,
+            "error": 0.024648651480674744,
+            "triangles": 3250
+          }
+        ]
+      ],
+      "triangles": {
+        "HIGH": 99998,
+        "MEDIUM": 44988,
+        "LOW": 25966,
+        "VERYLOW": 25478
+      },
+      "lo": [
+        -9.026000022888184,
+        -11.100000381469727,
+        -0.7950000166893005
+      ],
+      "hi": [
+        -8.07475757598877,
+        -6.5,
+        2.537886619567871
+      ],
+      "disk_bytes": 11910017,
+      "system_bytes": 13631488,
+      "graphics_bytes": 6291456
+    },
+    "mansao_pendentes": {
+      "textures": [
+        {
+          "name": "linear_albedo",
+          "before_size": 4096,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 22369744,
+          "bytes": 2796344,
+          "normal": false
+        },
+        {
+          "name": "cylinder_albedo",
+          "before_size": 4096,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 22369744,
+          "bytes": 2796344,
+          "normal": false
+        },
+        {
+          "name": "mansao_led_quente",
+          "before_size": 4,
+          "size": 4,
+          "codec": "DXT5",
+          "before_bytes": 144,
+          "bytes": 144,
+          "normal": false
+        },
+        {
+          "name": "linear_normal",
+          "before_size": 4096,
+          "size": 1024,
+          "codec": "DXT5",
+          "before_bytes": 22369744,
+          "bytes": 1398256,
+          "normal": true
+        },
+        {
+          "name": "cylinder_spec",
+          "before_size": 2048,
+          "size": 256,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 43832,
+          "normal": false
+        },
+        {
+          "name": "cylinder_normal",
+          "before_size": 4096,
+          "size": 1024,
+          "codec": "DXT5",
+          "before_bytes": 22369744,
+          "bytes": 1398256,
+          "normal": true
+        },
+        {
+          "name": "linear_spec",
+          "before_size": 2048,
+          "size": 256,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 43832,
+          "normal": false
+        }
+      ],
+      "simplification": [
+        [
+          {
+            "count": 25464,
+            "error": 0,
+            "triangles": 21723
+          },
+          {
+            "count": 16851,
+            "error": 0.0014222533209249377,
+            "triangles": 9775
+          },
+          {
+            "count": 15886,
+            "error": 0.010768224485218525,
+            "triangles": 8873
+          },
+          {
+            "count": 15883,
+            "error": 0.018261753022670746,
+            "triangles": 8869
+          }
+        ],
+        [
+          {
+            "count": 2544,
+            "error": 0,
+            "triangles": 2277
+          },
+          {
+            "count": 2195,
+            "error": 0.0035214463714510202,
+            "triangles": 1709
+          },
+          {
+            "count": 2186,
+            "error": 0.007194130215793848,
+            "triangles": 1697
+          },
+          {
+            "count": 2184,
+            "error": 0.012155539356172085,
+            "triangles": 1695
+          }
+        ],
+        [
+          {
+            "count": 3353,
+            "error": 0,
+            "triangles": 2942
+          },
+          {
+            "count": 2660,
+            "error": 0.0032315379939973354,
+            "triangles": 1870
+          },
+          {
+            "count": 2649,
+            "error": 0.008812946267426014,
+            "triangles": 1860
+          },
+          {
+            "count": 2645,
+            "error": 0.024595199152827263,
+            "triangles": 1856
+          }
+        ],
+        [
+          {
+            "count": 14709,
+            "error": 0,
+            "triangles": 13056
+          },
+          {
+            "count": 9537,
+            "error": 0.0009240296203643084,
+            "triangles": 5874
+          },
+          {
+            "count": 8397,
+            "error": 0.011887665838003159,
+            "triangles": 4730
+          },
+          {
+            "count": 8378,
+            "error": 0.023189900442957878,
+            "triangles": 4712
+          }
+        ]
+      ],
+      "triangles": {
+        "HIGH": 39998,
+        "MEDIUM": 19228,
+        "LOW": 17160,
+        "VERYLOW": 17132
+      },
+      "lo": [
+        2.4903974533081055,
+        -10.25,
+        1.350000023841858
+      ],
+      "hi": [
+        10.52042007446289,
+        -7.099999904632568,
+        6.447999954223633
+      ],
+      "disk_bytes": 8052717,
+      "system_bytes": 7405568,
+      "graphics_bytes": 12582912
+    },
+    "mansao_jantar": {
+      "textures": [
+        {
+          "name": "dining_normal",
+          "before_size": 4096,
+          "size": 2048,
+          "codec": "DXT5",
+          "before_bytes": 22369744,
+          "bytes": 5592560,
+          "normal": true
+        },
+        {
+          "name": "dining_spec",
+          "before_size": 2048,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 174904,
+          "normal": false
+        },
+        {
+          "name": "dining_albedo",
+          "before_size": 4096,
+          "size": 4096,
+          "codec": "DXT1",
+          "before_bytes": 22369744,
+          "bytes": 11184952,
+          "normal": false
+        }
+      ],
+      "simplification": [
+        [
+          {
+            "count": 19654,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 11027,
+            "error": 0.0011955295922234654,
+            "triangles": 9829
+          },
+          {
+            "count": 6778,
+            "error": 0.011923370882868767,
+            "triangles": 4817
+          },
+          {
+            "count": 6641,
+            "error": 0.024455389007925987,
+            "triangles": 4681
+          }
+        ],
+        [
+          {
+            "count": 19580,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 11297,
+            "error": 0.0010356319835409522,
+            "triangles": 9829
+          },
+          {
+            "count": 7297,
+            "error": 0.00911574438214302,
+            "triangles": 5295
+          },
+          {
+            "count": 7292,
+            "error": 0.009538796730339527,
+            "triangles": 5291
+          }
+        ],
+        [
+          {
+            "count": 19435,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 11186,
+            "error": 0.0010351118398830295,
+            "triangles": 9825
+          },
+          {
+            "count": 7370,
+            "error": 0.011475271545350552,
+            "triangles": 5439
+          },
+          {
+            "count": 7383,
+            "error": 0.011381843127310276,
+            "triangles": 5451
+          }
+        ],
+        [
+          {
+            "count": 18931,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 10738,
+            "error": 0.001035076449625194,
+            "triangles": 9829
+          },
+          {
+            "count": 6341,
+            "error": 0.011418568901717663,
+            "triangles": 4683
+          },
+          {
+            "count": 6327,
+            "error": 0.02454574778676033,
+            "triangles": 4663
+          }
+        ],
+        [
+          {
+            "count": 12550,
+            "error": 0,
+            "triangles": 12620
+          },
+          {
+            "count": 7344,
+            "error": 0.001816711388528347,
+            "triangles": 5678
+          },
+          {
+            "count": 5697,
+            "error": 0.011847458779811859,
+            "triangles": 3800
+          },
+          {
+            "count": 5574,
+            "error": 0.02433486469089985,
+            "triangles": 3680
+          }
+        ]
+      ],
+      "triangles": {
+        "HIGH": 100000,
+        "MEDIUM": 44990,
+        "LOW": 24034,
+        "VERYLOW": 23766
+      },
+      "lo": [
+        1.3281193971633911,
+        -10.25,
+        -0.7950000166893005
+      ],
+      "hi": [
+        3.9718806743621826,
+        -6.349999904632568,
+        0.7382397055625916
+      ],
+      "disk_bytes": 17913120,
+      "system_bytes": 12582912,
+      "graphics_bytes": 25165824
+    },
+    "mansao_ilha": {
+      "textures": [
+        {
+          "name": "island_normal",
+          "before_size": 4096,
+          "size": 2048,
+          "codec": "DXT5",
+          "before_bytes": 22369744,
+          "bytes": 5592560,
+          "normal": true
+        },
+        {
+          "name": "island_spec",
+          "before_size": 2048,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 174904,
+          "normal": false
+        },
+        {
+          "name": "island_albedo",
+          "before_size": 4096,
+          "size": 4096,
+          "codec": "DXT1",
+          "before_bytes": 22369744,
+          "bytes": 11184952,
+          "normal": false
+        }
+      ],
+      "simplification": [
+        [
+          {
+            "count": 17167,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 9938,
+            "error": 0.0007715108804404736,
+            "triangles": 9829
+          },
+          {
+            "count": 5150,
+            "error": 0.006620151922106743,
+            "triangles": 3713
+          },
+          {
+            "count": 4659,
+            "error": 0.024914085865020752,
+            "triangles": 3177
+          }
+        ],
+        [
+          {
+            "count": 16919,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 9863,
+            "error": 0.0007111838203854859,
+            "triangles": 9829
+          },
+          {
+            "count": 5119,
+            "error": 0.005676254630088806,
+            "triangles": 3713
+          },
+          {
+            "count": 4623,
+            "error": 0.02432801015675068,
+            "triangles": 3157
+          }
+        ],
+        [
+          {
+            "count": 16594,
+            "error": 0,
+            "triangles": 21308
+          },
+          {
+            "count": 9614,
+            "error": 0.00042285287054255605,
+            "triangles": 9588
+          },
+          {
+            "count": 5112,
+            "error": 0.00330368522554636,
+            "triangles": 3620
+          },
+          {
+            "count": 4541,
+            "error": 0.024721745401620865,
+            "triangles": 2988
+          }
+        ]
+      ],
+      "triangles": {
+        "HIGH": 64998,
+        "MEDIUM": 29246,
+        "LOW": 11046,
+        "VERYLOW": 9322
+      },
+      "lo": [
+        9.38893985748291,
+        -10.5,
+        -0.7950000166893005
+      ],
+      "hi": [
+        10.811059951782227,
+        -7.5,
+        0.5300725102424622
+      ],
+      "disk_bytes": 12898800,
+      "system_bytes": 6488064,
+      "graphics_bytes": 25165824
+    },
+    "mansao_tapete_sala": {
+      "textures": [
+        {
+          "name": "rug_spec",
+          "before_size": 1024,
+          "size": 256,
+          "codec": "DXT1",
+          "before_bytes": 1398224,
+          "bytes": 43832,
+          "normal": false
+        },
+        {
+          "name": "rug_normal",
+          "before_size": 4096,
+          "size": 1024,
+          "codec": "DXT5",
+          "before_bytes": 22369744,
+          "bytes": 1398256,
+          "normal": true
+        },
+        {
+          "name": "rug_albedo",
+          "before_size": 4096,
+          "size": 4096,
+          "codec": "DXT1",
+          "before_bytes": 22369744,
+          "bytes": 11184952,
+          "normal": false
+        }
+      ],
+      "simplification": [
+        [
+          {
+            "count": 14036,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 7804,
+            "error": 0.0005725412629544735,
+            "triangles": 9829
+          },
+          {
+            "count": 3738,
+            "error": 0.0022837489377707243,
+            "triangles": 3713
+          },
+          {
+            "count": 1576,
+            "error": 0.019777994602918625,
+            "triangles": 1309
+          }
+        ],
+        [
+          {
+            "count": 14553,
+            "error": 0,
+            "triangles": 21845
+          },
+          {
+            "count": 8280,
+            "error": 0.0006102905026637018,
+            "triangles": 9829
+          },
+          {
+            "count": 3959,
+            "error": 0.002673280192539096,
+            "triangles": 3713
+          },
+          {
+            "count": 2117,
+            "error": 0.023718154057860374,
+            "triangles": 1721
+          }
+        ],
+        [
+          {
+            "count": 974,
+            "error": 0,
+            "triangles": 1310
+          },
+          {
+            "count": 585,
+            "error": 0.002211230108514428,
+            "triangles": 588
+          },
+          {
+            "count": 474,
+            "error": 0.010950881987810135,
+            "triangles": 450
+          },
+          {
+            "count": 481,
+            "error": 0.022806260734796524,
+            "triangles": 458
+          }
+        ]
+      ],
+      "triangles": {
+        "HIGH": 45000,
+        "MEDIUM": 20246,
+        "LOW": 7876,
+        "VERYLOW": 3488
+      },
+      "lo": [
+        -8.049971580505371,
+        -11.899999618530273,
+        -0.796999990940094
+      ],
+      "hi": [
+        -2.950028419494629,
+        -5.700000286102295,
+        -0.781000018119812
+      ],
+      "disk_bytes": 9567756,
+      "system_bytes": 3538944,
+      "graphics_bytes": 16777216
+    },
+    "mansao_paredes": {
+      "textures": [
+        {
+          "name": "parede_reboco_n",
+          "before_size": 2048,
+          "size": 1024,
+          "codec": "DXT5",
+          "before_bytes": 5592528,
+          "bytes": 1398256,
+          "normal": true
+        },
+        {
+          "name": "porta_madeira_mel",
+          "before_size": 2048,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 2796344,
+          "normal": false
+        },
+        {
+          "name": "parede_reboco",
+          "before_size": 2048,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 2796344,
+          "normal": false
+        },
+        {
+          "name": "parede_tijolo_tv",
+          "before_size": 2048,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 2796344,
+          "normal": false
+        },
+        {
+          "name": "parede_tijolo_tv_n",
+          "before_size": 2048,
+          "size": 1024,
+          "codec": "DXT5",
+          "before_bytes": 5592528,
+          "bytes": 1398256,
+          "normal": true
+        },
+        {
+          "name": "mansao_caixilho",
+          "before_size": 4,
+          "size": 4,
+          "codec": "DXT5",
+          "before_bytes": 144,
+          "bytes": 144,
+          "normal": false
+        }
+      ],
+      "triangles": {
+        "HIGH": 13316
+      },
+      "lo": [
+        -9.305999755859375,
+        -16.01300048828125,
+        -0.8149999976158142
+      ],
+      "hi": [
+        14.435999870300293,
+        9.85200023651123,
+        6.510000228881836
+      ],
+      "disk_bytes": 6499176,
+      "system_bytes": 2162688,
+      "graphics_bytes": 16777216
+    },
+    "mansao_porta_madeira_095": {
+      "textures": [
+        {
+          "name": "corrimao_preto",
+          "before_size": 2048,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 174904,
+          "normal": false
+        },
+        {
+          "name": "mansao_friso_porta",
+          "before_size": 4,
+          "size": 4,
+          "codec": "DXT5",
+          "before_bytes": 144,
+          "bytes": 144,
+          "normal": false
+        },
+        {
+          "name": "porta_madeira_mel",
+          "before_size": 2048,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 2796344,
+          "normal": false
+        },
+        {
+          "name": "corrimao_preto_n",
+          "before_size": 2048,
+          "size": 256,
+          "codec": "DXT5",
+          "before_bytes": 5592528,
+          "bytes": 87536,
+          "normal": true
+        }
+      ],
+      "triangles": {
+        "HIGH": 5160
+      },
+      "lo": [
+        -0.9459999799728394,
+        -0.06449999660253525,
+        0.0
+      ],
+      "hi": [
+        0.008999999612569809,
+        0.06449999660253525,
+        2.430000066757202
+      ],
+      "disk_bytes": 1346089,
+      "system_bytes": 786432,
+      "graphics_bytes": 4194304
+    },
+    "mansao_pisos": {
+      "textures": [
+        {
+          "name": "piso_marmore_n",
+          "before_size": 2048,
+          "size": 1024,
+          "codec": "DXT5",
+          "before_bytes": 5592528,
+          "bytes": 1398256,
+          "normal": true
+        },
+        {
+          "name": "piso_marmore",
+          "before_size": 2048,
+          "size": 2048,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 2796344,
+          "normal": false
+        },
+        {
+          "name": "im_wood_panels_05",
+          "before_size": 512,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 174888,
+          "bytes": 174888,
+          "normal": false
+        },
+        {
+          "name": "im_wood_panels_05_n",
+          "before_size": 256,
+          "size": 256,
+          "codec": "DXT1",
+          "before_bytes": 43816,
+          "bytes": 43816,
+          "normal": true
+        }
+      ],
+      "triangles": {
+        "HIGH": 312
+      },
+      "lo": [
+        -9.84000015258789,
+        -15.95300006866455,
+        -1.100000023841858
+      ],
+      "hi": [
+        15.050000190734863,
+        9.791999816894531,
+        2.808000087738037
+      ],
+      "disk_bytes": 2337350,
+      "system_bytes": 49152,
+      "graphics_bytes": 6291456
+    },
+    "mansao_escada": {
+      "textures": [
+        {
+          "name": "corrimao_preto",
+          "before_size": 2048,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 5592528,
+          "bytes": 174904,
+          "normal": false
+        },
+        {
+          "name": "corrimao_preto_n",
+          "before_size": 2048,
+          "size": 256,
+          "codec": "DXT5",
+          "before_bytes": 5592528,
+          "bytes": 87536,
+          "normal": true
+        },
+        {
+          "name": "im_wood_panels_05",
+          "before_size": 512,
+          "size": 512,
+          "codec": "DXT1",
+          "before_bytes": 174888,
+          "bytes": 174888,
+          "normal": false
+        },
+        {
+          "name": "im_wood_panels_05_n",
+          "before_size": 256,
+          "size": 256,
+          "codec": "DXT1",
+          "before_bytes": 43816,
+          "bytes": 43816,
+          "normal": true
+        }
+      ],
+      "triangles": {
+        "HIGH": 1416
+      },
+      "lo": [
+        -0.7259998321533203,
+        -3.87600040435791,
+        -0.800000011920929
+      ],
+      "hi": [
+        6.345999717712402,
+        5.72599983215332,
+        3.9280004501342773
+      ],
+      "disk_bytes": 373582,
+      "system_bytes": 262144,
+      "graphics_bytes": 655360
+    }
+  },
+  "before": {
+    "mansao_mobiliario": {
+      "disk_bytes": 38591139,
+      "system_bytes": 11534336,
+      "graphics_bytes": 134217728
+    },
+    "mansao_pendentes": {
+      "disk_bytes": 21629967,
+      "system_bytes": 2621440,
+      "graphics_bytes": 134217728
+    },
+    "mansao_jantar": {
+      "disk_bytes": 19702950,
+      "system_bytes": 5505024,
+      "graphics_bytes": 67108864
+    },
+    "mansao_ilha": {
+      "disk_bytes": 16492616,
+      "system_bytes": 3145728,
+      "graphics_bytes": 67108864
+    },
+    "mansao_tapete_sala": {
+      "disk_bytes": 15113916,
+      "system_bytes": 2097152,
+      "graphics_bytes": 67108864
+    },
+    "mansao_paredes": {
+      "disk_bytes": 9823588,
+      "system_bytes": 2162688,
+      "graphics_bytes": 41943040
+    },
+    "mansao_porta_madeira_095": {
+      "disk_bytes": 4601436,
+      "system_bytes": 786432,
+      "graphics_bytes": 25165824
+    },
+    "mansao_pisos": {
+      "disk_bytes": 3415236,
+      "system_bytes": 49152,
+      "graphics_bytes": 16777216
+    },
+    "mansao_escada": {
+      "disk_bytes": 3505871,
+      "system_bytes": 262144,
+      "graphics_bytes": 16777216
+    }
+  },
+  "game_verified": false,
+  "fps_measured": false,
+  "meshoptimizer_revision": "4195af679a7e4a968b4a23874272f152600c9f72",
+  "after": {
+    "mansao_mobiliario": {
+      "disk_bytes": 16727049,
+      "system_bytes": 11796480,
+      "graphics_bytes": 25165824
+    },
+    "mansao_tv": {
+      "disk_bytes": 11910017,
+      "system_bytes": 13631488,
+      "graphics_bytes": 6291456
+    },
+    "mansao_pendentes": {
+      "disk_bytes": 8052717,
+      "system_bytes": 7405568,
+      "graphics_bytes": 12582912
+    },
+    "mansao_jantar": {
+      "disk_bytes": 17913120,
+      "system_bytes": 12582912,
+      "graphics_bytes": 25165824
+    },
+    "mansao_ilha": {
+      "disk_bytes": 12898800,
+      "system_bytes": 6488064,
+      "graphics_bytes": 25165824
+    },
+    "mansao_tapete_sala": {
+      "disk_bytes": 9567756,
+      "system_bytes": 3538944,
+      "graphics_bytes": 16777216
+    },
+    "mansao_paredes": {
+      "disk_bytes": 6499176,
+      "system_bytes": 2162688,
+      "graphics_bytes": 16777216
+    },
+    "mansao_porta_madeira_095": {
+      "disk_bytes": 1346089,
+      "system_bytes": 786432,
+      "graphics_bytes": 4194304
+    },
+    "mansao_pisos": {
+      "disk_bytes": 2337350,
+      "system_bytes": 49152,
+      "graphics_bytes": 6291456
+    },
+    "mansao_escada": {
+      "disk_bytes": 373582,
+      "system_bytes": 262144,
+      "graphics_bytes": 655360
+    }
+  },
+  "graphics_bytes": {
+    "before": 570425344,
+    "after": 139067392,
+    "reduction_percent": 75.62
+  },
+  "system_bytes": {
+    "before": 28164096,
+    "after": 58703872,
+    "reduction_percent": -108.44
+  },
+  "disk_bytes": {
+    "before": 132876719,
+    "after": 87625656,
+    "reduction_percent": 34.05
+  }
+}

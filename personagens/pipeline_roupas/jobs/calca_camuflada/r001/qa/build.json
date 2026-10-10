@@ -1,0 +1,36 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": true,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": null,
+  "shader_changes": [],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_calca_camuflada_r001^lowr_000_r.ydd",
+    "mp_m_freemode_01_cidade_calca_camuflada_r001^lowr_diff_000_a_whi.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "69e0a8aa34dd4f52a329a810e4ec95e61d7ea51280c4a715657f57838ad4ab93",
+  "cache_hit": false,
+  "seconds": 1.639,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_calca_camuflada_r001^lowr_000_r.ydd": "746ecf08c483ee23fff76dc2669ee07301694406319f46692a3ecd866fb1686f",
+    "exports\\mp_m_freemode_01_cidade_calca_camuflada_r001^lowr_diff_000_a_whi.ytd": "596073702aef8c2e050dfe0f40acc63a840f3d36d80c27ed2f83876f4171cb8e"
+  }
+}

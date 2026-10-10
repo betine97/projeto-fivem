@@ -1,0 +1,2674 @@
+{
+  "models": [
+    {
+      "name": "pe_estrutura_01",
+      "lod_triangles": {
+        "HIGH": 32502,
+        "MEDIUM": 12478,
+        "LOW": 5020,
+        "VERYLOW": 2150
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_01_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e8532",
+        "pe_cor_558597",
+        "pe_cor_5d4a31",
+        "pe_cor_61716e",
+        "pe_cor_825b38",
+        "pe_cor_a4abab",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2ded3",
+        "pe_cor_e3ded0",
+        "pe_cor_e9ece7",
+        "pe_cor_e9f1f0",
+        "pe_cor_f9dd95",
+        "pe_tex_0c19e7724f166b",
+        "pe_tex_50dcef0842529b",
+        "pe_tex_ab6afdf27362cc"
+      ],
+      "bb_min": [
+        -4.925000190734863,
+        -4.425000190734863,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        4.925000190734863,
+        4.425000190734863,
+        5.458400249481201
+      ]
+    },
+    {
+      "name": "pe_estrutura_02",
+      "lod_triangles": {
+        "HIGH": 64754,
+        "MEDIUM": 13162,
+        "LOW": 5704,
+        "VERYLOW": 2354
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_02_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e8532",
+        "pe_cor_558597",
+        "pe_cor_61716e",
+        "pe_cor_825b38",
+        "pe_cor_a4abab",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_d8497a",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2af55",
+        "pe_cor_e2ded3",
+        "pe_cor_e9ece7",
+        "pe_cor_e9f1f0",
+        "pe_cor_f9dd95",
+        "pe_tex_70d12f9c4cc3f5",
+        "pe_tex_a2b1813e265dae",
+        "pe_tex_a35a7f8d121c01"
+      ],
+      "bb_min": [
+        -4.925000190734863,
+        -4.721473693847656,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        4.925000190734863,
+        4.425000190734863,
+        5.458400249481201
+      ]
+    },
+    {
+      "name": "pe_estrutura_03",
+      "lod_triangles": {
+        "HIGH": 108674,
+        "MEDIUM": 16378,
+        "LOW": 8704,
+        "VERYLOW": 3674
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_03_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e8532",
+        "pe_cor_558597",
+        "pe_cor_61716e",
+        "pe_cor_74afcd",
+        "pe_cor_825b38",
+        "pe_cor_a4abab",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_d8497a",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2ded3",
+        "pe_cor_e9ece7",
+        "pe_cor_e9f1f0",
+        "pe_cor_f9dd95",
+        "pe_tex_82fed1c8fa67ec",
+        "pe_tex_d45b4e5e16c14a",
+        "pe_tex_fc225b3087654e"
+      ],
+      "bb_min": [
+        -4.925000190734863,
+        -4.716604232788086,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        4.925000190734863,
+        4.425000190734863,
+        8.65839958190918
+      ]
+    },
+    {
+      "name": "pe_estrutura_04",
+      "lod_triangles": {
+        "HIGH": 159094,
+        "MEDIUM": 33346,
+        "LOW": 23328,
+        "VERYLOW": 7828
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_04_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e8532",
+        "pe_cor_558597",
+        "pe_cor_5d4a31",
+        "pe_cor_61716e",
+        "pe_cor_825b38",
+        "pe_cor_9cc2bb",
+        "pe_cor_a4abab",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2ded3",
+        "pe_cor_e9ece7",
+        "pe_cor_e9f1f0",
+        "pe_cor_efecd3",
+        "pe_cor_f9dd95",
+        "pe_tex_10a3f4ae6fc495",
+        "pe_tex_2093148ad5c34b",
+        "pe_tex_70d12f9c4cc3f5"
+      ],
+      "bb_min": [
+        -5.675000190734863,
+        -5.460000038146973,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        5.675000190734863,
+        4.675000190734863,
+        11.968400001525879
+      ]
+    },
+    {
+      "name": "pe_estrutura_05",
+      "lod_triangles": {
+        "HIGH": 159094,
+        "MEDIUM": 33346,
+        "LOW": 23352,
+        "VERYLOW": 7852
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_05_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e8532",
+        "pe_cor_558597",
+        "pe_cor_5d4a31",
+        "pe_cor_61716e",
+        "pe_cor_825b38",
+        "pe_cor_a4abab",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_d8497a",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2ded3",
+        "pe_cor_e5dfd0",
+        "pe_cor_e9ece7",
+        "pe_cor_e9f1f0",
+        "pe_cor_f9dd95",
+        "pe_tex_0c19e7724f166b",
+        "pe_tex_70d12f9c4cc3f5",
+        "pe_tex_c7710d3bfffc40"
+      ],
+      "bb_min": [
+        -5.675000190734863,
+        -5.460000038146973,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        5.675000190734863,
+        4.675000190734863,
+        11.968400001525879
+      ]
+    },
+    {
+      "name": "pe_estrutura_06",
+      "lod_triangles": {
+        "HIGH": 64902,
+        "MEDIUM": 19284,
+        "LOW": 5880,
+        "VERYLOW": 2528
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_06_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e8532",
+        "pe_cor_4e87c5",
+        "pe_cor_4e91af",
+        "pe_cor_558597",
+        "pe_cor_5d4a31",
+        "pe_cor_61716e",
+        "pe_cor_6ea06e",
+        "pe_cor_6ea832",
+        "pe_cor_6eb1cd",
+        "pe_cor_825b38",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_d5d8ce",
+        "pe_cor_d85d37",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e9f1f0",
+        "pe_cor_ebd361",
+        "pe_cor_f08737",
+        "pe_cor_f1742b",
+        "pe_cor_f3cb33",
+        "pe_cor_f9dd95",
+        "pe_tex_1527f5ae2f0dbc",
+        "pe_tex_82fed1c8fa67ec",
+        "pe_tex_aa817db6734e5f"
+      ],
+      "bb_min": [
+        -6.925000190734863,
+        -5.2179999351501465,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        6.925000190734863,
+        4.425000190734863,
+        5.458400249481201
+      ]
+    },
+    {
+      "name": "pe_estrutura_07",
+      "lod_triangles": {
+        "HIGH": 141140,
+        "MEDIUM": 22998,
+        "LOW": 9550,
+        "VERYLOW": 4110
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_07_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4c8e77",
+        "pe_cor_4e8532",
+        "pe_cor_4e87c5",
+        "pe_cor_558597",
+        "pe_cor_5d4a31",
+        "pe_cor_61716e",
+        "pe_cor_6ea06e",
+        "pe_cor_825b38",
+        "pe_cor_a0cbba",
+        "pe_cor_a4abab",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_d5d8ce",
+        "pe_cor_d8497a",
+        "pe_cor_d85d37",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2ded3",
+        "pe_cor_e9ece7",
+        "pe_cor_e9f1f0",
+        "pe_cor_ebd361",
+        "pe_cor_f9dd95",
+        "pe_tex_5553f28da69813",
+        "pe_tex_70d12f9c4cc3f5",
+        "pe_tex_ee668b4c5a748a"
+      ],
+      "bb_min": [
+        -6.720330238342285,
+        -5.51800012588501,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        6.425000190734863,
+        4.425000190734863,
+        8.65839958190918
+      ]
+    },
+    {
+      "name": "pe_estrutura_08",
+      "lod_triangles": {
+        "HIGH": 101176,
+        "MEDIUM": 19522,
+        "LOW": 11158,
+        "VERYLOW": 4360
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_08_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e8532",
+        "pe_cor_4e87c5",
+        "pe_cor_4e91af",
+        "pe_cor_558597",
+        "pe_cor_5d4a31",
+        "pe_cor_61716e",
+        "pe_cor_6ea06e",
+        "pe_cor_6ea832",
+        "pe_cor_74adcb",
+        "pe_cor_825b38",
+        "pe_cor_a4abab",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca7749",
+        "pe_cor_d5d8ce",
+        "pe_cor_d85d37",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2ded3",
+        "pe_cor_e9ece7",
+        "pe_cor_e9f1f0",
+        "pe_cor_ebd361",
+        "pe_cor_efecd3",
+        "pe_cor_f1742b",
+        "pe_cor_f3cb33",
+        "pe_cor_f9dd95",
+        "pe_tex_50dcef0842529b",
+        "pe_tex_82fed1c8fa67ec",
+        "pe_tex_e0c00bbd1abf48"
+      ],
+      "bb_min": [
+        -5.425000190734863,
+        -5.618000030517578,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        5.425000190734863,
+        4.425000190734863,
+        8.65839958190918
+      ]
+    },
+    {
+      "name": "pe_estrutura_09",
+      "lod_triangles": {
+        "HIGH": 90424,
+        "MEDIUM": 36998,
+        "LOW": 11982,
+        "VERYLOW": 4956
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_09_tx",
+      "texture_names": [
+        "pe_cor_2f87b4",
+        "pe_cor_323736",
+        "pe_cor_4e87c5",
+        "pe_cor_558597",
+        "pe_cor_61716e",
+        "pe_cor_6ea06e",
+        "pe_cor_6ea832",
+        "pe_cor_825b38",
+        "pe_cor_a4a6a2",
+        "pe_cor_ba9c61",
+        "pe_cor_baa88c",
+        "pe_cor_ca291c",
+        "pe_cor_ca7749",
+        "pe_cor_d5d8ce",
+        "pe_cor_d85d37",
+        "pe_cor_dad3bd",
+        "pe_cor_ddddd3",
+        "pe_cor_e2ded3",
+        "pe_cor_e3e1d3",
+        "pe_cor_e9f1f0",
+        "pe_cor_ebd361",
+        "pe_cor_f1742b",
+        "pe_cor_f3cb33",
+        "pe_cor_f6c22b",
+        "pe_cor_f9dd95",
+        "pe_tex_0c19e7724f166b",
+        "pe_tex_1527f5ae2f0dbc",
+        "pe_tex_786fd078f227a6"
+      ],
+      "bb_min": [
+        -9.600000381469727,
+        -14.399999618530273,
+        -0.3199999928474426
+      ],
+      "bb_max": [
+        9.600000381469727,
+        4.599999904632568,
+        6.940001010894775
+      ]
+    },
+    {
+      "name": "pe_estrutura_10",
+      "lod_triangles": {
+        "HIGH": 31346,
+        "MEDIUM": 25954,
+        "LOW": 25878,
+        "VERYLOW": 25878
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_estrutura_10_tx",
+      "texture_names": [
+        "pe_cor_323736",
+        "pe_cor_4e87c5",
+        "pe_cor_6ea06e",
+        "pe_cor_825b38",
+        "pe_cor_a4a6a2",
+        "pe_cor_a4abab",
+        "pe_cor_baa88c",
+        "pe_cor_cbcdca",
+        "pe_cor_d5d8ce",
+        "pe_cor_d85d37",
+        "pe_cor_dad3bd",
+        "pe_cor_e9f1f0",
+        "pe_cor_ebd361",
+        "pe_cor_f9dd95",
+        "pe_tex_94a09ef218b5e4"
+      ],
+      "bb_min": [
+        -6.414999961853027,
+        -8.414999961853027,
+        -0.20000000298023224
+      ],
+      "bb_max": [
+        6.414999961853027,
+        8.414999961853027,
+        8.950000762939453
+      ]
+    },
+    {
+      "name": "pe_veg_01_coqueiro",
+      "lod_triangles": {
+        "HIGH": 37966,
+        "MEDIUM": 19750,
+        "LOW": 10642,
+        "VERYLOW": 6090
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_01_coqueiro_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_a14e38d3ec0fe5",
+        "pe_tex_aff1d5f6a2355b"
+      ],
+      "bb_min": [
+        -2.5810177326202393,
+        -4.087804794311523,
+        -0.0014945552684366703
+      ],
+      "bb_max": [
+        4.538697242736816,
+        3.5497095584869385,
+        15.486228942871094
+      ]
+    },
+    {
+      "name": "pe_veg_02_imperial",
+      "lod_triangles": {
+        "HIGH": 37708,
+        "MEDIUM": 19492,
+        "LOW": 10384,
+        "VERYLOW": 5832
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_02_imperial_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_4b7d66e32023c7",
+        "pe_tex_ac441914624ca9"
+      ],
+      "bb_min": [
+        -3.238797426223755,
+        -3.130486249923706,
+        -0.0004243811999913305
+      ],
+      "bb_max": [
+        3.2463181018829346,
+        3.4707696437835693,
+        13.260807991027832
+      ]
+    },
+    {
+      "name": "pe_veg_03_caneleira",
+      "lod_triangles": {
+        "HIGH": 42008,
+        "MEDIUM": 21608,
+        "LOW": 11408,
+        "VERYLOW": 6308
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_03_caneleira_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_0a1b1212ac5a90",
+        "pe_tex_76cf69ed309e42"
+      ],
+      "bb_min": [
+        -7.740412712097168,
+        -7.593399524688721,
+        -0.0488198921084404
+      ],
+      "bb_max": [
+        7.763498783111572,
+        7.814062118530273,
+        12.867624282836914
+      ]
+    },
+    {
+      "name": "pe_veg_04_amendoeira",
+      "lod_triangles": {
+        "HIGH": 42008,
+        "MEDIUM": 21608,
+        "LOW": 11408,
+        "VERYLOW": 6308
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_04_amendoeira_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_32c111261b81bb",
+        "pe_tex_ab968a8bdbb3e8"
+      ],
+      "bb_min": [
+        -5.662819862365723,
+        -5.543186664581299,
+        -0.039252545684576035
+      ],
+      "bb_max": [
+        5.674978733062744,
+        5.712328910827637,
+        8.86918830871582
+      ]
+    },
+    {
+      "name": "pe_veg_05_flamboyant",
+      "lod_triangles": {
+        "HIGH": 65432,
+        "MEDIUM": 33320,
+        "LOW": 17264,
+        "VERYLOW": 9236
+      },
+      "collision": true,
+      "wind_shaders": 2,
+      "texture_dictionary": "pe_veg_05_flamboyant_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_21c00e581ae9ce",
+        "pe_tex_f403f5c8bfe934"
+      ],
+      "bb_min": [
+        -8.006072998046875,
+        -7.849900722503662,
+        -0.039252545684576035
+      ],
+      "bb_max": [
+        8.068914413452148,
+        8.121223449707031,
+        9.034736633300781
+      ]
+    },
+    {
+      "name": "pe_veg_06_arvore_rua",
+      "lod_triangles": {
+        "HIGH": 42008,
+        "MEDIUM": 21608,
+        "LOW": 11408,
+        "VERYLOW": 6308
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_06_arvore_rua_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_84b96861193ef9",
+        "pe_tex_b5332935838540"
+      ],
+      "bb_min": [
+        -4.389496803283691,
+        -4.249292850494385,
+        -0.03906095027923584
+      ],
+      "bb_max": [
+        4.344318866729736,
+        4.388113975524902,
+        7.933720588684082
+      ]
+    },
+    {
+      "name": "pe_veg_07_reseda",
+      "lod_triangles": {
+        "HIGH": 65432,
+        "MEDIUM": 33320,
+        "LOW": 17264,
+        "VERYLOW": 9236
+      },
+      "collision": true,
+      "wind_shaders": 2,
+      "texture_dictionary": "pe_veg_07_reseda_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_5742cc73cbb964",
+        "pe_tex_d51efd99f4de7a"
+      ],
+      "bb_min": [
+        -4.026488304138184,
+        -3.9357974529266357,
+        -0.03837461769580841
+      ],
+      "bb_max": [
+        3.9647674560546875,
+        4.10819149017334,
+        6.157822608947754
+      ]
+    },
+    {
+      "name": "pe_veg_08_ipe_amarelo",
+      "lod_triangles": {
+        "HIGH": 65432,
+        "MEDIUM": 33320,
+        "LOW": 17264,
+        "VERYLOW": 9236
+      },
+      "collision": true,
+      "wind_shaders": 2,
+      "texture_dictionary": "pe_veg_08_ipe_amarelo_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_bf167fd3a7ce5b",
+        "pe_tex_e5992298a18352"
+      ],
+      "bb_min": [
+        -5.015744686126709,
+        -4.892352104187012,
+        -0.039252545684576035
+      ],
+      "bb_max": [
+        4.977198123931885,
+        5.018444538116455,
+        9.201212882995605
+      ]
+    },
+    {
+      "name": "pe_veg_09_oliveira",
+      "lod_triangles": {
+        "HIGH": 42008,
+        "MEDIUM": 21608,
+        "LOW": 11408,
+        "VERYLOW": 6308
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_09_oliveira_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_31ab8215815a80",
+        "pe_tex_a36d3f14bcaa0e"
+      ],
+      "bb_min": [
+        -4.824655532836914,
+        -4.665066242218018,
+        -0.038786448538303375
+      ],
+      "bb_max": [
+        4.714810848236084,
+        4.753208637237549,
+        7.2021803855896
+      ]
+    },
+    {
+      "name": "pe_veg_10_castanhola",
+      "lod_triangles": {
+        "HIGH": 42008,
+        "MEDIUM": 21608,
+        "LOW": 11408,
+        "VERYLOW": 6308
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_10_castanhola_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_2af265bad63e97",
+        "pe_tex_b8f7d3bf7aef81"
+      ],
+      "bb_min": [
+        -6.371744155883789,
+        -6.510085105895996,
+        -0.038786448538303375
+      ],
+      "bb_max": [
+        6.589011192321777,
+        6.663382530212402,
+        7.300116539001465
+      ]
+    },
+    {
+      "name": "pe_veg_11_mangueira",
+      "lod_triangles": {
+        "HIGH": 42488,
+        "MEDIUM": 22088,
+        "LOW": 11888,
+        "VERYLOW": 6788
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_11_mangueira_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_0a1b1212ac5a90",
+        "pe_tex_af9c70208c0c59"
+      ],
+      "bb_min": [
+        -5.607104301452637,
+        -5.50189733505249,
+        -0.03939133882522583
+      ],
+      "bb_max": [
+        5.53964900970459,
+        5.694908618927002,
+        10.184394836425781
+      ]
+    },
+    {
+      "name": "pe_veg_12_bananeira",
+      "lod_triangles": {
+        "HIGH": 1480,
+        "MEDIUM": 852,
+        "LOW": 536,
+        "VERYLOW": 380
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_12_bananeira_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_1da20fa17fdaa3",
+        "pe_tex_bf37601529415f"
+      ],
+      "bb_min": [
+        -3.2062573432922363,
+        -3.0061757564544678,
+        0.0
+      ],
+      "bb_max": [
+        3.4468626976013184,
+        3.4332175254821777,
+        5.514078140258789
+      ]
+    },
+    {
+      "name": "pe_veg_13_mangue",
+      "lod_triangles": {
+        "HIGH": 42200,
+        "MEDIUM": 21800,
+        "LOW": 11600,
+        "VERYLOW": 6500
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_13_mangue_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_253291a6d45e4e",
+        "pe_tex_6bad950c8845b3"
+      ],
+      "bb_min": [
+        -5.022762298583984,
+        -4.89016056060791,
+        -0.03180838003754616
+      ],
+      "bb_max": [
+        4.900088310241699,
+        5.107481956481934,
+        7.115983486175537
+      ]
+    },
+    {
+      "name": "pe_veg_14_arbusto_costeiro",
+      "lod_triangles": {
+        "HIGH": 14056,
+        "MEDIUM": 7336,
+        "LOW": 3976,
+        "VERYLOW": 2296
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_14_arbusto_costeiro_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_dc6e4ba99d9681",
+        "pe_tex_ddfdd81e29dde2"
+      ],
+      "bb_min": [
+        -2.6126630306243896,
+        -1.886338710784912,
+        -0.01005635503679514
+      ],
+      "bb_max": [
+        2.410484552383423,
+        2.573153018951416,
+        2.858581066131592
+      ]
+    },
+    {
+      "name": "pe_veg_15_palmeira_ana",
+      "lod_triangles": {
+        "HIGH": 37740,
+        "MEDIUM": 18872,
+        "LOW": 9436,
+        "VERYLOW": 4720
+      },
+      "collision": true,
+      "wind_shaders": 2,
+      "texture_dictionary": "pe_veg_15_palmeira_ana_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_a298588e9f352b",
+        "pe_tex_a4ecd5c2fc7380"
+      ],
+      "bb_min": [
+        -3.4209952354431152,
+        -2.803074598312378,
+        -0.0009609594708308578
+      ],
+      "bb_max": [
+        3.285045862197876,
+        2.9590373039245605,
+        5.919013500213623
+      ]
+    },
+    {
+      "name": "pe_veg_16_palma_azul",
+      "lod_triangles": {
+        "HIGH": 13228,
+        "MEDIUM": 6616,
+        "LOW": 3308,
+        "VERYLOW": 1656
+      },
+      "collision": true,
+      "wind_shaders": 2,
+      "texture_dictionary": "pe_veg_16_palma_azul_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_9db78112914308",
+        "pe_tex_9eaf47a539ec9f"
+      ],
+      "bb_min": [
+        -3.838540554046631,
+        -3.16757869720459,
+        -0.0005511589697562158
+      ],
+      "bb_max": [
+        3.7747628688812256,
+        3.610107898712158,
+        10.390371322631836
+      ]
+    },
+    {
+      "name": "pe_veg_17_yucca",
+      "lod_triangles": {
+        "HIGH": 752,
+        "MEDIUM": 432,
+        "LOW": 272,
+        "VERYLOW": 192
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_17_yucca_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_5a343c01c5ed39",
+        "pe_tex_8f834009064116"
+      ],
+      "bb_min": [
+        -1.3647494316101074,
+        -1.4547499418258667,
+        0.0
+      ],
+      "bb_max": [
+        1.5657075643539429,
+        1.438075304031372,
+        4.3172101974487305
+      ]
+    },
+    {
+      "name": "pe_veg_18_cerca_viva",
+      "lod_triangles": {
+        "HIGH": 14056,
+        "MEDIUM": 7336,
+        "LOW": 3976,
+        "VERYLOW": 2296
+      },
+      "collision": true,
+      "wind_shaders": 1,
+      "texture_dictionary": "pe_veg_18_cerca_viva_tx",
+      "texture_names": [
+        "pe_cor_9e913e",
+        "pe_cor_d56b9a",
+        "pe_cor_db4926",
+        "pe_cor_ecead0",
+        "pe_cor_f3c72f",
+        "pe_tex_566f12be5307c8",
+        "pe_tex_ddfdd81e29dde2"
+      ],
+      "bb_min": [
+        -2.2126128673553467,
+        -1.7338576316833496,
+        -0.013851957395672798
+      ],
+      "bb_max": [
+        2.0615196228027344,
+        2.1147868633270264,
+        1.8935009241104126
+      ]
+    },
+    {
+      "name": "pe_porto_00",
+      "lod_triangles": {
+        "HIGH": 192,
+        "MEDIUM": 192,
+        "LOW": 192,
+        "VERYLOW": 192
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_646e71",
+        "pe_cor_ada89a"
+      ],
+      "bb_min": [
+        -12.32499885559082,
+        -43.412506103515625,
+        -3.0999999046325684
+      ],
+      "bb_max": [
+        12.32499885559082,
+        43.412506103515625,
+        4.900000095367432
+      ]
+    },
+    {
+      "name": "pe_porto_01",
+      "lod_triangles": {
+        "HIGH": 108,
+        "MEDIUM": 108,
+        "LOW": 108,
+        "VERYLOW": 108
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_ada89a",
+        "pe_cor_e1d187"
+      ],
+      "bb_min": [
+        -62.011962890625,
+        -51.92999267578125,
+        -1.2000000476837158
+      ],
+      "bb_max": [
+        62.011962890625,
+        51.92999267578125,
+        9.837499618530273
+      ]
+    },
+    {
+      "name": "pe_porto_02",
+      "lod_triangles": {
+        "HIGH": 456,
+        "MEDIUM": 456,
+        "LOW": 456,
+        "VERYLOW": 456
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_646e71",
+        "pe_cor_ada89a"
+      ],
+      "bb_min": [
+        -98.625,
+        -55.25,
+        -3.0999999046325684
+      ],
+      "bb_max": [
+        98.625,
+        55.25,
+        4.900000095367432
+      ]
+    },
+    {
+      "name": "pe_porto_03",
+      "lod_triangles": {
+        "HIGH": 1718,
+        "MEDIUM": 1718,
+        "LOW": 1718,
+        "VERYLOW": 1718
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_4e4f4c",
+        "pe_cor_646e71",
+        "pe_cor_ada89a",
+        "pe_cor_b3714e",
+        "pe_cor_b8ad97",
+        "pe_cor_e1dbc5"
+      ],
+      "bb_min": [
+        -451.0802001953125,
+        -96.779052734375,
+        -4.344176292419434
+      ],
+      "bb_max": [
+        451.0802001953125,
+        96.779052734375,
+        11.102187156677246
+      ]
+    },
+    {
+      "name": "pe_porto_04",
+      "lod_triangles": {
+        "HIGH": 72,
+        "MEDIUM": 72,
+        "LOW": 72,
+        "VERYLOW": 72
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_e1d187"
+      ],
+      "bb_min": [
+        -64.0,
+        -0.05999755859375,
+        9.802499771118164
+      ],
+      "bb_max": [
+        64.0,
+        0.05999755859375,
+        9.837499618530273
+      ]
+    },
+    {
+      "name": "pe_porto_05",
+      "lod_triangles": {
+        "HIGH": 392,
+        "MEDIUM": 392,
+        "LOW": 392,
+        "VERYLOW": 392
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_4e4f4c",
+        "pe_cor_b8ad97"
+      ],
+      "bb_min": [
+        -7.0,
+        -148.0,
+        6.590000152587891
+      ],
+      "bb_max": [
+        7.0,
+        148.0,
+        17.010000228881836
+      ]
+    },
+    {
+      "name": "pe_porto_06",
+      "lod_triangles": {
+        "HIGH": 336,
+        "MEDIUM": 336,
+        "LOW": 336,
+        "VERYLOW": 336
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_646e71",
+        "pe_cor_ada89a"
+      ],
+      "bb_min": [
+        -71.0,
+        -59.0,
+        -3.0999999046325684
+      ],
+      "bb_max": [
+        71.0,
+        59.0,
+        4.900000095367432
+      ]
+    },
+    {
+      "name": "pe_porto_07",
+      "lod_triangles": {
+        "HIGH": 96,
+        "MEDIUM": 96,
+        "LOW": 96,
+        "VERYLOW": 96
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_646e71",
+        "pe_cor_ada89a",
+        "pe_cor_e1dbc5"
+      ],
+      "bb_min": [
+        -19.912506103515625,
+        -59.38751220703125,
+        -3.0999999046325684
+      ],
+      "bb_max": [
+        19.912506103515625,
+        59.38751220703125,
+        8.600000381469727
+      ]
+    },
+    {
+      "name": "pe_porto_08",
+      "lod_triangles": {
+        "HIGH": 688,
+        "MEDIUM": 688,
+        "LOW": 688,
+        "VERYLOW": 688
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_4e4f4c",
+        "pe_cor_b8ad97",
+        "pe_cor_e1d187"
+      ],
+      "bb_min": [
+        -227.5,
+        -7.0,
+        9.494999885559082
+      ],
+      "bb_max": [
+        227.5,
+        7.0,
+        9.984999656677246
+      ]
+    },
+    {
+      "name": "pe_porto_09",
+      "lod_triangles": {
+        "HIGH": 1600,
+        "MEDIUM": 1600,
+        "LOW": 1600,
+        "VERYLOW": 1600
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_4e4f4c",
+        "pe_cor_b8ad97"
+      ],
+      "bb_min": [
+        -227.5,
+        -148.0,
+        6.590000152587891
+      ],
+      "bb_max": [
+        227.5,
+        148.0,
+        17.010000228881836
+      ]
+    },
+    {
+      "name": "pe_porto_10",
+      "lod_triangles": {
+        "HIGH": 168,
+        "MEDIUM": 168,
+        "LOW": 168,
+        "VERYLOW": 168
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_646e71",
+        "pe_cor_ada89a"
+      ],
+      "bb_min": [
+        -90.0,
+        -14.0,
+        2.5999999046325684
+      ],
+      "bb_max": [
+        90.0,
+        14.0,
+        4.900000095367432
+      ]
+    },
+    {
+      "name": "pe_porto_11",
+      "lod_triangles": {
+        "HIGH": 12,
+        "MEDIUM": 12,
+        "LOW": 12,
+        "VERYLOW": 12
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_595d59"
+      ],
+      "bb_min": [
+        -67.5,
+        -47.5,
+        4.369999885559082
+      ],
+      "bb_max": [
+        67.5,
+        47.5,
+        4.590000152587891
+      ]
+    },
+    {
+      "name": "pe_porto_12",
+      "lod_triangles": {
+        "HIGH": 60,
+        "MEDIUM": 60,
+        "LOW": 60,
+        "VERYLOW": 60
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_e1d187"
+      ],
+      "bb_min": [
+        -52.0,
+        -0.05999755859375,
+        9.802499771118164
+      ],
+      "bb_max": [
+        52.0,
+        0.05999755859375,
+        9.837499618530273
+      ]
+    },
+    {
+      "name": "pe_porto_13",
+      "lod_triangles": {
+        "HIGH": 552,
+        "MEDIUM": 552,
+        "LOW": 552,
+        "VERYLOW": 552
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_4e4f4c",
+        "pe_cor_b8ad97"
+      ],
+      "bb_min": [
+        -94.57872009277344,
+        -145.1800079345703,
+        15.73576831817627
+      ],
+      "bb_max": [
+        94.57872009277344,
+        145.1800079345703,
+        61.65237808227539
+      ]
+    },
+    {
+      "name": "pe_porto_14",
+      "lod_triangles": {
+        "HIGH": 24,
+        "MEDIUM": 24,
+        "LOW": 24,
+        "VERYLOW": 24
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_646e71"
+      ],
+      "bb_min": [
+        -6.32501220703125,
+        -0.32501220703125,
+        4.400000095367432
+      ],
+      "bb_max": [
+        6.32501220703125,
+        0.32501220703125,
+        4.900000095367432
+      ]
+    },
+    {
+      "name": "pe_porto_15",
+      "lod_triangles": {
+        "HIGH": 168,
+        "MEDIUM": 168,
+        "LOW": 168,
+        "VERYLOW": 168
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_porto_texturas",
+      "texture_names": [
+        "pe_cor_4e4f4c",
+        "pe_cor_b8ad97"
+      ],
+      "bb_min": [
+        -25.01470947265625,
+        -61.694915771484375,
+        4.699999809265137
+      ],
+      "bb_max": [
+        25.01470947265625,
+        61.694915771484375,
+        6.671318054199219
+      ]
+    },
+    {
+      "name": "ti_terreno_01_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        -65.0
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63519287109375,
+        67.5228042602539
+      ]
+    },
+    {
+      "name": "ti_terreno_01_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        -43.57610321044922
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63519287109375,
+        25.919700622558594
+      ]
+    },
+    {
+      "name": "ti_terreno_01_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        -65.0
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63519287109375,
+        5.038921356201172
+      ]
+    },
+    {
+      "name": "ti_terreno_01_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        -65.0
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63519287109375,
+        4.130586624145508
+      ]
+    },
+    {
+      "name": "ti_terreno_02_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        7.282642364501953
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63522338867188,
+        132.93959045410156
+      ]
+    },
+    {
+      "name": "ti_terreno_02_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        -2.1875076293945312
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63522338867188,
+        75.28707885742188
+      ]
+    },
+    {
+      "name": "ti_terreno_02_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        -2.773056983947754
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63522338867188,
+        17.158056259155273
+      ]
+    },
+    {
+      "name": "ti_terreno_02_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63525390625,
+        -2.6180734634399414
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63522338867188,
+        15.405532836914062
+      ]
+    },
+    {
+      "name": "ti_terreno_02_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.7274169921875,
+        -210.63525390625,
+        -65.0
+      ],
+      "bb_max": [
+        159.72747802734375,
+        210.63522338867188,
+        17.342700958251953
+      ]
+    },
+    {
+      "name": "ti_terreno_03_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        18.0
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        125.86456298828125
+      ]
+    },
+    {
+      "name": "ti_terreno_03_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        6.875869274139404
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        114.24354553222656
+      ]
+    },
+    {
+      "name": "ti_terreno_03_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        15.405532836914062
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        150.05613708496094
+      ]
+    },
+    {
+      "name": "ti_terreno_03_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        15.405532836914062
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        139.5941162109375
+      ]
+    },
+    {
+      "name": "ti_terreno_03_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.7274169921875,
+        -210.63523864746094,
+        -33.67515182495117
+      ],
+      "bb_max": [
+        159.72747802734375,
+        210.63523864746094,
+        116.16925811767578
+      ]
+    },
+    {
+      "name": "ti_terreno_04_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        22.114408493041992
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        253.690185546875
+      ]
+    },
+    {
+      "name": "ti_terreno_04_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        38.40863037109375
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        280.2479248046875
+      ]
+    },
+    {
+      "name": "ti_terreno_04_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        79.3508071899414
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        365.2458190917969
+      ]
+    },
+    {
+      "name": "ti_terreno_04_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.72744750976562,
+        -210.63523864746094,
+        91.86515808105469
+      ],
+      "bb_max": [
+        159.72744750976562,
+        210.63523864746094,
+        359.93768310546875
+      ]
+    },
+    {
+      "name": "ti_terreno_04_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision": true,
+      "wind_shaders": 0,
+      "texture_dictionary": "pe_solo",
+      "texture_names": [
+        "ap_rls_sand_scrabl_warm",
+        "cs_rsn_sl_agrdirttrack2",
+        "pe_solo_grama",
+        "pe_solo_rocha"
+      ],
+      "bb_min": [
+        -159.7274169921875,
+        -210.63523864746094,
+        1.3297271728515625
+      ],
+      "bb_max": [
+        159.72747802734375,
+        210.63523864746094,
+        160.47039794921875
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "name": "pe_bairro_00",
+      "entities": 2
+    },
+    {
+      "name": "pe_bairro_01",
+      "entities": 4
+    },
+    {
+      "name": "pe_bairro_02",
+      "entities": 67
+    },
+    {
+      "name": "pe_bairro_03",
+      "entities": 89
+    },
+    {
+      "name": "pe_bairro_04",
+      "entities": 65
+    },
+    {
+      "name": "pe_bairro_05",
+      "entities": 3
+    },
+    {
+      "name": "pe_bairro_06",
+      "entities": 85
+    },
+    {
+      "name": "pe_bairro_07",
+      "entities": 207
+    },
+    {
+      "name": "pe_bairro_08",
+      "entities": 174
+    },
+    {
+      "name": "pe_bairro_09",
+      "entities": 22
+    },
+    {
+      "name": "pe_bairro_10",
+      "entities": 256
+    },
+    {
+      "name": "pe_bairro_11",
+      "entities": 238
+    },
+    {
+      "name": "pe_bairro_12",
+      "entities": 248
+    },
+    {
+      "name": "pe_bairro_13",
+      "entities": 132
+    },
+    {
+      "name": "pe_bairro_14",
+      "entities": 8
+    },
+    {
+      "name": "pe_bairro_15",
+      "entities": 123
+    },
+    {
+      "name": "pe_bairro_16",
+      "entities": 131
+    },
+    {
+      "name": "pe_bairro_17",
+      "entities": 109
+    },
+    {
+      "name": "pe_bairro_18",
+      "entities": 40
+    },
+    {
+      "name": "pe_bairro_19",
+      "entities": 223
+    },
+    {
+      "name": "pe_bairro_20",
+      "entities": 219
+    },
+    {
+      "name": "pe_bairro_21",
+      "entities": 219
+    },
+    {
+      "name": "pe_bairro_22",
+      "entities": 178
+    },
+    {
+      "name": "pe_bairro_23",
+      "entities": 3
+    },
+    {
+      "name": "pe_bairro_24",
+      "entities": 354
+    },
+    {
+      "name": "pe_bairro_25",
+      "entities": 697
+    },
+    {
+      "name": "pe_bairro_26",
+      "entities": 780
+    },
+    {
+      "name": "pe_bairro_27",
+      "entities": 522
+    },
+    {
+      "name": "pe_bairro_28",
+      "entities": 135
+    },
+    {
+      "name": "pe_bairro_29",
+      "entities": 163
+    },
+    {
+      "name": "pe_bairro_30",
+      "entities": 219
+    },
+    {
+      "name": "pe_bairro_31",
+      "entities": 213
+    },
+    {
+      "name": "pe_bairro_32",
+      "entities": 25
+    },
+    {
+      "name": "pe_bairro_33",
+      "entities": 141
+    },
+    {
+      "name": "pe_bairro_34",
+      "entities": 582
+    },
+    {
+      "name": "pe_bairro_35",
+      "entities": 786
+    },
+    {
+      "name": "pe_bairro_36",
+      "entities": 644
+    },
+    {
+      "name": "pe_bairro_37",
+      "entities": 23
+    },
+    {
+      "name": "pe_bairro_38",
+      "entities": 36
+    },
+    {
+      "name": "pe_bairro_39",
+      "entities": 174
+    },
+    {
+      "name": "pe_bairro_40",
+      "entities": 224
+    },
+    {
+      "name": "pe_bairro_41",
+      "entities": 49
+    },
+    {
+      "name": "pe_bairro_42",
+      "entities": 201
+    },
+    {
+      "name": "pe_bairro_43",
+      "entities": 510
+    },
+    {
+      "name": "pe_bairro_44",
+      "entities": 684
+    },
+    {
+      "name": "pe_bairro_45",
+      "entities": 558
+    },
+    {
+      "name": "pe_bairro_46",
+      "entities": 44
+    },
+    {
+      "name": "pe_bairro_47",
+      "entities": 20
+    },
+    {
+      "name": "pe_bairro_48",
+      "entities": 107
+    },
+    {
+      "name": "pe_bairro_49",
+      "entities": 52
+    },
+    {
+      "name": "pe_bairro_50",
+      "entities": 14
+    },
+    {
+      "name": "pe_bairro_51",
+      "entities": 283
+    },
+    {
+      "name": "pe_bairro_52",
+      "entities": 660
+    },
+    {
+      "name": "pe_bairro_53",
+      "entities": 824
+    },
+    {
+      "name": "pe_bairro_54",
+      "entities": 618
+    },
+    {
+      "name": "pe_bairro_55",
+      "entities": 149
+    },
+    {
+      "name": "pe_bairro_56",
+      "entities": 187
+    },
+    {
+      "name": "pe_bairro_57",
+      "entities": 93
+    },
+    {
+      "name": "pe_bairro_58",
+      "entities": 8
+    },
+    {
+      "name": "pe_bairro_59",
+      "entities": 47
+    },
+    {
+      "name": "pe_bairro_60",
+      "entities": 212
+    },
+    {
+      "name": "pe_bairro_61",
+      "entities": 154
+    },
+    {
+      "name": "pe_bairro_62",
+      "entities": 5
+    },
+    {
+      "name": "pe_bairro_63",
+      "entities": 2
+    }
+  ],
+  "counts": {
+    "casas": 91,
+    "arvores": 7556,
+    "vegetacao_rasteira": 5951,
+    "pedras": 430
+  },
+  "textures": 113,
+  "texture_dictionaries": {
+    "pe_estrutura_01_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e8532",
+      "pe_cor_558597",
+      "pe_cor_5d4a31",
+      "pe_cor_61716e",
+      "pe_cor_825b38",
+      "pe_cor_a4abab",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2ded3",
+      "pe_cor_e3ded0",
+      "pe_cor_e9ece7",
+      "pe_cor_e9f1f0",
+      "pe_cor_f9dd95",
+      "pe_tex_0c19e7724f166b",
+      "pe_tex_50dcef0842529b",
+      "pe_tex_ab6afdf27362cc"
+    ],
+    "pe_estrutura_02_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e8532",
+      "pe_cor_558597",
+      "pe_cor_61716e",
+      "pe_cor_825b38",
+      "pe_cor_a4abab",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_d8497a",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2af55",
+      "pe_cor_e2ded3",
+      "pe_cor_e9ece7",
+      "pe_cor_e9f1f0",
+      "pe_cor_f9dd95",
+      "pe_tex_70d12f9c4cc3f5",
+      "pe_tex_a2b1813e265dae",
+      "pe_tex_a35a7f8d121c01"
+    ],
+    "pe_estrutura_03_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e8532",
+      "pe_cor_558597",
+      "pe_cor_61716e",
+      "pe_cor_74afcd",
+      "pe_cor_825b38",
+      "pe_cor_a4abab",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_d8497a",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2ded3",
+      "pe_cor_e9ece7",
+      "pe_cor_e9f1f0",
+      "pe_cor_f9dd95",
+      "pe_tex_82fed1c8fa67ec",
+      "pe_tex_d45b4e5e16c14a",
+      "pe_tex_fc225b3087654e"
+    ],
+    "pe_estrutura_04_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e8532",
+      "pe_cor_558597",
+      "pe_cor_5d4a31",
+      "pe_cor_61716e",
+      "pe_cor_825b38",
+      "pe_cor_9cc2bb",
+      "pe_cor_a4abab",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2ded3",
+      "pe_cor_e9ece7",
+      "pe_cor_e9f1f0",
+      "pe_cor_efecd3",
+      "pe_cor_f9dd95",
+      "pe_tex_10a3f4ae6fc495",
+      "pe_tex_2093148ad5c34b",
+      "pe_tex_70d12f9c4cc3f5"
+    ],
+    "pe_estrutura_05_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e8532",
+      "pe_cor_558597",
+      "pe_cor_5d4a31",
+      "pe_cor_61716e",
+      "pe_cor_825b38",
+      "pe_cor_a4abab",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_d8497a",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2ded3",
+      "pe_cor_e5dfd0",
+      "pe_cor_e9ece7",
+      "pe_cor_e9f1f0",
+      "pe_cor_f9dd95",
+      "pe_tex_0c19e7724f166b",
+      "pe_tex_70d12f9c4cc3f5",
+      "pe_tex_c7710d3bfffc40"
+    ],
+    "pe_estrutura_06_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e8532",
+      "pe_cor_4e87c5",
+      "pe_cor_4e91af",
+      "pe_cor_558597",
+      "pe_cor_5d4a31",
+      "pe_cor_61716e",
+      "pe_cor_6ea06e",
+      "pe_cor_6ea832",
+      "pe_cor_6eb1cd",
+      "pe_cor_825b38",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_d5d8ce",
+      "pe_cor_d85d37",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e9f1f0",
+      "pe_cor_ebd361",
+      "pe_cor_f08737",
+      "pe_cor_f1742b",
+      "pe_cor_f3cb33",
+      "pe_cor_f9dd95",
+      "pe_tex_1527f5ae2f0dbc",
+      "pe_tex_82fed1c8fa67ec",
+      "pe_tex_aa817db6734e5f"
+    ],
+    "pe_estrutura_07_tx": [
+      "pe_cor_323736",
+      "pe_cor_4c8e77",
+      "pe_cor_4e8532",
+      "pe_cor_4e87c5",
+      "pe_cor_558597",
+      "pe_cor_5d4a31",
+      "pe_cor_61716e",
+      "pe_cor_6ea06e",
+      "pe_cor_825b38",
+      "pe_cor_a0cbba",
+      "pe_cor_a4abab",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_d5d8ce",
+      "pe_cor_d8497a",
+      "pe_cor_d85d37",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2ded3",
+      "pe_cor_e9ece7",
+      "pe_cor_e9f1f0",
+      "pe_cor_ebd361",
+      "pe_cor_f9dd95",
+      "pe_tex_5553f28da69813",
+      "pe_tex_70d12f9c4cc3f5",
+      "pe_tex_ee668b4c5a748a"
+    ],
+    "pe_estrutura_08_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e8532",
+      "pe_cor_4e87c5",
+      "pe_cor_4e91af",
+      "pe_cor_558597",
+      "pe_cor_5d4a31",
+      "pe_cor_61716e",
+      "pe_cor_6ea06e",
+      "pe_cor_6ea832",
+      "pe_cor_74adcb",
+      "pe_cor_825b38",
+      "pe_cor_a4abab",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca7749",
+      "pe_cor_d5d8ce",
+      "pe_cor_d85d37",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2ded3",
+      "pe_cor_e9ece7",
+      "pe_cor_e9f1f0",
+      "pe_cor_ebd361",
+      "pe_cor_efecd3",
+      "pe_cor_f1742b",
+      "pe_cor_f3cb33",
+      "pe_cor_f9dd95",
+      "pe_tex_50dcef0842529b",
+      "pe_tex_82fed1c8fa67ec",
+      "pe_tex_e0c00bbd1abf48"
+    ],
+    "pe_estrutura_09_tx": [
+      "pe_cor_2f87b4",
+      "pe_cor_323736",
+      "pe_cor_4e87c5",
+      "pe_cor_558597",
+      "pe_cor_61716e",
+      "pe_cor_6ea06e",
+      "pe_cor_6ea832",
+      "pe_cor_825b38",
+      "pe_cor_a4a6a2",
+      "pe_cor_ba9c61",
+      "pe_cor_baa88c",
+      "pe_cor_ca291c",
+      "pe_cor_ca7749",
+      "pe_cor_d5d8ce",
+      "pe_cor_d85d37",
+      "pe_cor_dad3bd",
+      "pe_cor_ddddd3",
+      "pe_cor_e2ded3",
+      "pe_cor_e3e1d3",
+      "pe_cor_e9f1f0",
+      "pe_cor_ebd361",
+      "pe_cor_f1742b",
+      "pe_cor_f3cb33",
+      "pe_cor_f6c22b",
+      "pe_cor_f9dd95",
+      "pe_tex_0c19e7724f166b",
+      "pe_tex_1527f5ae2f0dbc",
+      "pe_tex_786fd078f227a6"
+    ],
+    "pe_estrutura_10_tx": [
+      "pe_cor_323736",
+      "pe_cor_4e87c5",
+      "pe_cor_6ea06e",
+      "pe_cor_825b38",
+      "pe_cor_a4a6a2",
+      "pe_cor_a4abab",
+      "pe_cor_baa88c",
+      "pe_cor_cbcdca",
+      "pe_cor_d5d8ce",
+      "pe_cor_d85d37",
+      "pe_cor_dad3bd",
+      "pe_cor_e9f1f0",
+      "pe_cor_ebd361",
+      "pe_cor_f9dd95",
+      "pe_tex_94a09ef218b5e4"
+    ],
+    "pe_veg_01_coqueiro_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_a14e38d3ec0fe5",
+      "pe_tex_aff1d5f6a2355b"
+    ],
+    "pe_veg_02_imperial_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_4b7d66e32023c7",
+      "pe_tex_ac441914624ca9"
+    ],
+    "pe_veg_03_caneleira_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_0a1b1212ac5a90",
+      "pe_tex_76cf69ed309e42"
+    ],
+    "pe_veg_04_amendoeira_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_32c111261b81bb",
+      "pe_tex_ab968a8bdbb3e8"
+    ],
+    "pe_veg_05_flamboyant_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_21c00e581ae9ce",
+      "pe_tex_f403f5c8bfe934"
+    ],
+    "pe_veg_06_arvore_rua_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_84b96861193ef9",
+      "pe_tex_b5332935838540"
+    ],
+    "pe_veg_07_reseda_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_5742cc73cbb964",
+      "pe_tex_d51efd99f4de7a"
+    ],
+    "pe_veg_08_ipe_amarelo_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_bf167fd3a7ce5b",
+      "pe_tex_e5992298a18352"
+    ],
+    "pe_veg_09_oliveira_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_31ab8215815a80",
+      "pe_tex_a36d3f14bcaa0e"
+    ],
+    "pe_veg_10_castanhola_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_2af265bad63e97",
+      "pe_tex_b8f7d3bf7aef81"
+    ],
+    "pe_veg_11_mangueira_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_0a1b1212ac5a90",
+      "pe_tex_af9c70208c0c59"
+    ],
+    "pe_veg_12_bananeira_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_1da20fa17fdaa3",
+      "pe_tex_bf37601529415f"
+    ],
+    "pe_veg_13_mangue_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_253291a6d45e4e",
+      "pe_tex_6bad950c8845b3"
+    ],
+    "pe_veg_14_arbusto_costeiro_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_dc6e4ba99d9681",
+      "pe_tex_ddfdd81e29dde2"
+    ],
+    "pe_veg_15_palmeira_ana_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_a298588e9f352b",
+      "pe_tex_a4ecd5c2fc7380"
+    ],
+    "pe_veg_16_palma_azul_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_9db78112914308",
+      "pe_tex_9eaf47a539ec9f"
+    ],
+    "pe_veg_17_yucca_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_5a343c01c5ed39",
+      "pe_tex_8f834009064116"
+    ],
+    "pe_veg_18_cerca_viva_tx": [
+      "pe_cor_9e913e",
+      "pe_cor_d56b9a",
+      "pe_cor_db4926",
+      "pe_cor_ecead0",
+      "pe_cor_f3c72f",
+      "pe_tex_566f12be5307c8",
+      "pe_tex_ddfdd81e29dde2"
+    ],
+    "pe_porto_texturas": [
+      "pe_cor_4e4f4c",
+      "pe_cor_595d59",
+      "pe_cor_646e71",
+      "pe_cor_ada89a",
+      "pe_cor_b3714e",
+      "pe_cor_b8ad97",
+      "pe_cor_e1d187",
+      "pe_cor_e1dbc5"
+    ],
+    "pe_solo": [
+      "ap_rls_sand_scrabl_warm",
+      "cs_rsn_sl_agrdirttrack2",
+      "pe_solo_grama",
+      "pe_solo_rocha"
+    ]
+  },
+  "in_game_verified": false
+}

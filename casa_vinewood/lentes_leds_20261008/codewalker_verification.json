@@ -1,0 +1,34 @@
+[
+  {
+    "model": "mansao_pendentes.ydr",
+    "lights": 9,
+    "nativeLoaded": true,
+    "shaders": null,
+    "systemBytes": 7405568,
+    "graphicsBytes": 12582912
+  },
+  {
+    "model": "mansao_spot_embutido.ydr",
+    "lights": 0,
+    "nativeLoaded": true,
+    "shaders": null,
+    "systemBytes": 385024,
+    "graphicsBytes": 8192
+  },
+  {
+    "model": "mansao_spots_led.ydr",
+    "lights": 20,
+    "nativeLoaded": true,
+    "shaders": null,
+    "systemBytes": 65536,
+    "graphicsBytes": 8192
+  },
+  {
+    "model": "mansao_tv.ydr",
+    "lights": 3,
+    "nativeLoaded": true,
+    "shaders": null,
+    "systemBytes": 13631488,
+    "graphicsBytes": 6291456
+  }
+]

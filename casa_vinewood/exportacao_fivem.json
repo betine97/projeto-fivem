@@ -1,0 +1,1962 @@
+{
+  "models": [
+    {
+      "name": "mansao_paredes",
+      "lo": [
+        -9.305999755859375,
+        -16.01300048828125,
+        -0.8149999976158142
+      ],
+      "hi": [
+        14.435999870300293,
+        9.85200023651123,
+        6.510000228881836
+      ],
+      "objects": 144,
+      "triangles": 13316
+    },
+    {
+      "name": "mansao_pisos",
+      "lo": [
+        -9.84000015258789,
+        -15.95300006866455,
+        -1.100000023841858
+      ],
+      "hi": [
+        15.050000190734863,
+        9.791999816894531,
+        2.808000087738037
+      ],
+      "objects": 8,
+      "triangles": 312
+    },
+    {
+      "name": "mansao_escada",
+      "lo": [
+        -0.7259998321533203,
+        -3.87600040435791,
+        -0.800000011920929
+      ],
+      "hi": [
+        6.345999717712402,
+        5.72599983215332,
+        3.9280004501342773
+      ],
+      "objects": 62,
+      "triangles": 1416
+    },
+    {
+      "name": "mansao_teto",
+      "lo": [
+        -9.246000289916992,
+        -15.95300006866455,
+        6.450000286102295
+      ],
+      "hi": [
+        14.37600040435791,
+        9.70199966430664,
+        6.650000095367432
+      ],
+      "objects": 1,
+      "triangles": 76
+    },
+    {
+      "name": "mansao_vidros",
+      "lo": [
+        -8.94986343383789,
+        -15.82144546508789,
+        -0.7333984375
+      ],
+      "hi": [
+        14.08072280883789,
+        9.62515640258789,
+        6.43359375
+      ],
+      "objects": 1,
+      "triangles": 174
+    },
+    {
+      "name": "mansao_mobiliario",
+      "lo": [
+        -9.026000022888184,
+        -11.399999618530273,
+        -0.7950000166893005
+      ],
+      "hi": [
+        -2.2549519538879395,
+        -6.200000286102295,
+        2.537886619567871
+      ],
+      "objects": 2,
+      "triangles": 219998
+    },
+    {
+      "name": "mansao_jantar",
+      "lo": [
+        1.3281193971633911,
+        -10.25,
+        -0.7950000166893005
+      ],
+      "hi": [
+        3.9718806743621826,
+        -6.349999904632568,
+        0.7382397055625916
+      ],
+      "objects": 1,
+      "triangles": 100000
+    },
+    {
+      "name": "mansao_ilha",
+      "lo": [
+        9.38893985748291,
+        -10.5,
+        -0.7950000166893005
+      ],
+      "hi": [
+        10.811059951782227,
+        -7.5,
+        0.5300725102424622
+      ],
+      "objects": 1,
+      "triangles": 64998
+    },
+    {
+      "name": "mansao_pendentes",
+      "lo": [
+        2.4903974533081055,
+        -10.25,
+        1.350000023841858
+      ],
+      "hi": [
+        10.52042007446289,
+        -7.099999904632568,
+        6.447999954223633
+      ],
+      "objects": 2,
+      "triangles": 39998
+    }
+  ],
+  "dynamic_models": [
+    {
+      "name": "mansao_porta_madeira_095",
+      "lo": [
+        -0.9459999799728394,
+        -0.06449999660253525,
+        0.0
+      ],
+      "hi": [
+        0.008999999612569809,
+        0.06449999660253525,
+        2.430000066757202
+      ],
+      "objects": 1,
+      "triangles": 5160,
+      "dynamic": true,
+      "collision_box_lo": [
+        -0.946,
+        -0.0225,
+        0.0
+      ],
+      "collision_box_hi": [
+        0.0,
+        0.0225,
+        2.43
+      ]
+    }
+  ],
+  "wood_source": "Central upper hall and stairs: native wood; other walking floor areas: supplied marble",
+  "finish_assignments": [
+    {
+      "source": "Fechamento borda mezanino",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Fechamento borda quarto sobre sala",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Caixilhos solidos das janelas",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "frame"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 00 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall",
+        "brick"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 01 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 02 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 03 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 04 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 05 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 06 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 07 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 08 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 09 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 10 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 11 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 12 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 13 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 14 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 15 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 16 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 17 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 17 1",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 18 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo terreo 19 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 00 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall",
+        "brick"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 01 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 02 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 03 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 04 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 05 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 06 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 07 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 08 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 09 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 10 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 11 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 12 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 13 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 14 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 15 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 16 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 17 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 18 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Revestimento continuo superior 19 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Escritorio_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Escritorio_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Escritorio_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Lavabo_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Lavabo_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Lavabo_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Escada_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Escada_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Despensa_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Despensa_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Despensa_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Sala TV Jogos_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Sala TV Jogos_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Sala TV Jogos_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Lavanderia_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Lavanderia_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall para Lavanderia_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Divisoria apoio 5.4_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Divisoria apoio 8.2_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Divisoria apoio 11.4_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Divisoria apoio 14.5_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Divisoria apoio 19.3_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall estar_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall estar_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall jantar_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall jantar_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall cozinha_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Hall cozinha_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Cozinha lateral_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Cozinha lateral_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite closet banheiro_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite closet banheiro_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite closet banheiro_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite closet banheiro_03_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite closet banheiro_04_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Closet banheiro divisoria_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Banheiro suite acesso hall_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Banheiro suite acesso hall_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Banheiro suite acesso hall_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Closet limite vazio_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Banheiro limite vazio_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 2 fundos_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 2 fundos_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 2 fundos_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 2 lateral vazio_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 3 frente_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 3 frente_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 3 frente_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Quarto 3 lado leitura_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Banheiro social lado hall_00_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Banheiro social lado hall_01_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Banheiro social lado hall_02_0 ajustada 0",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite master lado hall Sul",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite master lado hall Norte",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Suite master lado hall Verga",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "wall"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Escritorio esquerdo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Escritorio direito",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente superior Hall para Escritorio",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Escritorio",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Escritorio.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Escritorio",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Escritorio.002",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Escritorio.003",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Escritorio.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Lavabo esquerdo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Lavabo direito",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente superior Hall para Lavabo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavabo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavabo.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Lavabo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavabo.002",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavabo.003",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Lavabo.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Despensa esquerdo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Despensa direito",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente superior Hall para Despensa",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Despensa",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Despensa.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Despensa",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Despensa.002",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Despensa.003",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Despensa.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Sala TV Jogos esquerdo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Sala TV Jogos direito",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente superior Hall para Sala TV Jogos",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Sala TV Jogos",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Sala TV Jogos.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Sala TV Jogos",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Sala TV Jogos.002",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Sala TV Jogos.003",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Sala TV Jogos.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Lavanderia esquerdo",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente Hall para Lavanderia direito",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Batente superior Hall para Lavanderia",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavanderia",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavanderia.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Lavanderia",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavanderia.002",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao Hall para Lavanderia.003",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Guarnicao topo Hall para Lavanderia.001",
+      "drawable": "mansao_paredes",
+      "materials": [
+        "doorwood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Piso continuo Entrada",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Piso continuo Sacada esquerda",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Piso continuo Sacada direita",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Piso continuo Sala deck",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Piso continuo Fundos",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Piso terreo contorno nativo",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Laje superior contorno nativo",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "wood",
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Piso continuo Portao da rua",
+      "drawable": "mansao_pisos",
+      "materials": [
+        "marble"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 01",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 02",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 03",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 04",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 05",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 06",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 07",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 08",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 1 degrau 09",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 11",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 12",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 13",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 14",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 15",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 16",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 17",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 18",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada lance 2 degrau 19",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala montante",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala montante.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala montante.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala montante.003",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala montante.004",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala montante.005",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala montante.006",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala travessa",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala travessa.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Mezanino sala travessa.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda montante",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda montante.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda montante.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda montante.003",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda montante.004",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda travessa",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda travessa.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada esquerda travessa.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada fundo montante",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada fundo montante.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada fundo montante.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada fundo montante.003",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada fundo travessa",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada fundo travessa.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada fundo travessa.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita montante",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita montante.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita montante.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita montante.003",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita montante.004",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita travessa",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita travessa.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vao escada direita travessa.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar montante",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar montante.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar montante.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar montante.003",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar travessa",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar travessa.001",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar travessa.002",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada corrimao lance1",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada corrimao lance2",
+      "drawable": "mansao_escada",
+      "materials": [
+        "metal"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada patamar intermediario",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Escada chegada superior",
+      "drawable": "mansao_escada",
+      "materials": [
+        "wood"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Teto contorno nativo",
+      "drawable": "mansao_teto",
+      "materials": [
+        "ceiling"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Vidros nos vaos nativos.001",
+      "drawable": "mansao_vidros",
+      "materials": [
+        "glass"
+      ],
+      "preserve_source_uv": false
+    },
+    {
+      "source": "Sofa e mesa de centro Meshy",
+      "drawable": "mansao_mobiliario",
+      "materials": [
+        "sofa"
+      ],
+      "preserve_source_uv": true
+    },
+    {
+      "source": "Painel TV rack e decoracao Meshy",
+      "drawable": "mansao_mobiliario",
+      "materials": [
+        "tv"
+      ],
+      "preserve_source_uv": true
+    },
+    {
+      "source": "Mesa jantar oito cadeiras Meshy",
+      "drawable": "mansao_jantar",
+      "materials": [
+        "dining"
+      ],
+      "preserve_source_uv": true
+    },
+    {
+      "source": "Ilha cozinha quatro banquetas Meshy",
+      "drawable": "mansao_ilha",
+      "materials": [
+        "island"
+      ],
+      "preserve_source_uv": true
+    },
+    {
+      "source": "Pendente cilindros sala jantar Meshy",
+      "drawable": "mansao_pendentes",
+      "materials": [
+        "cylinder",
+        "led"
+      ],
+      "preserve_source_uv": true
+    },
+    {
+      "source": "Pendente linear ilha cozinha Meshy",
+      "drawable": "mansao_pendentes",
+      "materials": [
+        "linear",
+        "led"
+      ],
+      "preserve_source_uv": true
+    },
+    {
+      "source": "mansao_porta_madeira_095",
+      "drawable": "mansao_porta_madeira_095",
+      "materials": [
+        "doorgroove",
+        "doorwood",
+        "metal"
+      ],
+      "preserve_source_uv": false
+    }
+  ],
+  "revision": "jantar-cozinha-2026-10-07"
+}

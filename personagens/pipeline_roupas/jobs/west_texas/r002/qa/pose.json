@@ -1,0 +1,11 @@
+{
+  "action": "QA_FLEXAO_VAR_jbib_000_u",
+  "frame": 15,
+  "bones": 128,
+  "views": [
+    "pose_front",
+    "pose_side"
+  ],
+  "visual_review": "technical flexion inspected; front and lateral cloth surfaces intact, complete garment framed; real runtime pending",
+  "in_game_motion": "pending"
+}

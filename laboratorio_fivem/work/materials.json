@@ -1,0 +1,484 @@
+{
+  "MAT_Cable_Accent": {
+    "images": [],
+    "color": [
+      0.1599999964237213,
+      0.07500000298023224,
+      0.04500000178813934,
+      1.0
+    ],
+    "users": 2
+  },
+  "MAT_Closed_Container": {
+    "images": [],
+    "color": [
+      0.4000000059604645,
+      0.4300000071525574,
+      0.3799999952316284,
+      1.0
+    ],
+    "users": 3
+  },
+  "MAT_Concrete_Wall_XZ": {
+    "images": [],
+    "color": [
+      0.36000001430511475,
+      0.3700000047683716,
+      0.36000001430511475,
+      1.0
+    ],
+    "users": 1
+  },
+  "MAT_Dark_Metal": {
+    "images": [],
+    "color": [
+      0.07000000029802322,
+      0.07500000298023224,
+      0.07999999821186066,
+      1.0
+    ],
+    "users": 57
+  },
+  "MAT_Door_Metal": {
+    "images": [],
+    "color": [
+      0.09000000357627869,
+      0.0949999988079071,
+      0.10000000149011612,
+      1.0
+    ],
+    "users": 2
+  },
+  "MAT_Electrical_Metal": {
+    "images": [],
+    "color": [
+      0.18000000715255737,
+      0.1899999976158142,
+      0.19499999284744263,
+      1.0
+    ],
+    "users": 10
+  },
+  "MAT_Floor_Joint": {
+    "images": [],
+    "color": [
+      0.04500000178813934,
+      0.05000000074505806,
+      0.04500000178813934,
+      1.0
+    ],
+    "users": 8
+  },
+  "MAT_Galvanized_Metal": {
+    "images": [],
+    "color": [
+      0.46000000834465027,
+      0.47999998927116394,
+      0.49000000953674316,
+      1.0
+    ],
+    "users": 226
+  },
+  "MAT_Generic_Bucket": {
+    "images": [],
+    "color": [
+      0.6200000047683716,
+      0.6299999952316284,
+      0.5600000023841858,
+      1.0
+    ],
+    "users": 2
+  },
+  "MAT_Generic_Crate": {
+    "images": [],
+    "color": [
+      0.20999999344348907,
+      0.23000000417232513,
+      0.23999999463558197,
+      1.0
+    ],
+    "users": 3
+  },
+  "MAT_Rubber": {
+    "images": [],
+    "color": [
+      0.017999999225139618,
+      0.017999999225139618,
+      0.017999999225139618,
+      1.0
+    ],
+    "users": 201
+  },
+  "MAT_Storage_Drum": {
+    "images": [],
+    "color": [
+      0.23000000417232513,
+      0.25,
+      0.2199999988079071,
+      1.0
+    ],
+    "users": 2
+  },
+  "MAT_Storage_Drum_Label": {
+    "images": [],
+    "color": [
+      0.6700000166893005,
+      0.6499999761581421,
+      0.550000011920929,
+      1.0
+    ],
+    "users": 2
+  },
+  "MAT_Structural_Dark": {
+    "images": [],
+    "color": [
+      0.04500000178813934,
+      0.05000000074505806,
+      0.054999999701976776,
+      1.0
+    ],
+    "users": 19
+  },
+  "MAT_Vent_Inner": {
+    "images": [],
+    "color": [
+      0.017999999225139618,
+      0.019999999552965164,
+      0.02199999988079071,
+      1.0
+    ],
+    "users": 3
+  },
+  "PLACA_acesso": {
+    "images": [
+      "acesso.png"
+    ],
+    "color": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "users": 1
+  },
+  "PLACA_alta_tensao": {
+    "images": [
+      "alta_tensao.png"
+    ],
+    "color": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "users": 1
+  },
+  "PLACA_emergencia": {
+    "images": [
+      "emergencia.png"
+    ],
+    "color": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "users": 1
+  },
+  "PLACA_reservatorio": {
+    "images": [
+      "reservatorio.png"
+    ],
+    "color": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "users": 1
+  },
+  "PLACA_ventilacao": {
+    "images": [
+      "ventilacao.png"
+    ],
+    "color": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "users": 1
+  },
+  "PLACAS_Metal_Bordas": {
+    "images": [],
+    "color": [
+      0.800000011920929,
+      0.800000011920929,
+      0.800000011920929,
+      1.0
+    ],
+    "users": 5
+  },
+  "STAGE10_Cintas_Suportes": {
+    "images": [],
+    "color": [
+      0.11999999731779099,
+      0.12999999523162842,
+      0.14000000059604645,
+      1.0
+    ],
+    "users": 170
+  },
+  "STAGE10_Galvanizado_Industrial": {
+    "images": [],
+    "color": [
+      0.3199999928474426,
+      0.3400000035762787,
+      0.36000001430511475,
+      1.0
+    ],
+    "users": 86
+  },
+  "STAGE11_FAN_carcaca_oxidada": {
+    "images": [
+      "carcaca_oxidada.png",
+      "carcaca_oxidada.png",
+      "carcaca_oxidada.png"
+    ],
+    "color": [
+      0.30000001192092896,
+      0.23999999463558197,
+      0.1899999976158142,
+      1.0
+    ],
+    "users": 50
+  },
+  "STAGE11_FAN_grade": {
+    "images": [
+      "grade.png",
+      "grade.png",
+      "grade.png"
+    ],
+    "color": [
+      0.23000000417232513,
+      0.25,
+      0.25999999046325684,
+      1.0
+    ],
+    "users": 210
+  },
+  "STAGE11_FAN_metal_riscado": {
+    "images": [
+      "metal_riscado.png",
+      "metal_riscado.png",
+      "metal_riscado.png"
+    ],
+    "color": [
+      0.23000000417232513,
+      0.25,
+      0.25999999046325684,
+      1.0
+    ],
+    "users": 86
+  },
+  "STAGE11_FAN_moldura": {
+    "images": [
+      "moldura.png",
+      "moldura.png",
+      "moldura.png"
+    ],
+    "color": [
+      0.23000000417232513,
+      0.25,
+      0.25999999046325684,
+      1.0
+    ],
+    "users": 40
+  },
+  "STAGE12_caule": {
+    "images": [
+      "caule.png"
+    ],
+    "color": [
+      0.07500000298023224,
+      0.1899999976158142,
+      0.02500000037252903,
+      1.0
+    ],
+    "users": 36
+  },
+  "STAGE12_flor": {
+    "images": [
+      "flor.png"
+    ],
+    "color": [
+      0.09000000357627869,
+      0.07500000298023224,
+      0.04500000178813934,
+      1.0
+    ],
+    "users": 36
+  },
+  "STAGE12_folha": {
+    "images": [
+      "folha.png"
+    ],
+    "color": [
+      0.07500000298023224,
+      0.1899999976158142,
+      0.02500000037252903,
+      1.0
+    ],
+    "users": 36
+  },
+  "STAGE12_nervuras": {
+    "images": [],
+    "color": [
+      0.20000000298023224,
+      0.30000001192092896,
+      0.054999999701976776,
+      1.0
+    ],
+    "users": 36
+  },
+  "STAGE12_pistilos": {
+    "images": [],
+    "color": [
+      0.47999998927116394,
+      0.2199999988079071,
+      0.054999999701976776,
+      1.0
+    ],
+    "users": 36
+  },
+  "STAGE12_solo": {
+    "images": [
+      "solo.png"
+    ],
+    "color": [
+      0.09000000357627869,
+      0.07500000298023224,
+      0.04500000178813934,
+      1.0
+    ],
+    "users": 18
+  },
+  "STAGE12_vaso": {
+    "images": [
+      "vaso.png"
+    ],
+    "color": [
+      0.09000000357627869,
+      0.07500000298023224,
+      0.04500000178813934,
+      1.0
+    ],
+    "users": 54
+  },
+  "STAGE13_RACK_Metal_Escuro_Desgastado": {
+    "images": [
+      "metal_escuro_desgastado.png"
+    ],
+    "color": [
+      0.05999999865889549,
+      0.054999999701976776,
+      0.04699999839067459,
+      1.0
+    ],
+    "users": 86
+  },
+  "STAGE14_azul_desgastado": {
+    "images": [
+      "azul_desgastado.png",
+      "azul_desgastado.png",
+      "azul_desgastado.png"
+    ],
+    "color": [
+      0.014999999664723873,
+      0.09000000357627869,
+      0.30000001192092896,
+      1.0
+    ],
+    "users": 6
+  },
+  "STAGE14_metal_claro": {
+    "images": [
+      "metal_claro.png",
+      "metal_claro.png",
+      "metal_claro.png"
+    ],
+    "color": [
+      0.4000000059604645,
+      0.41999998688697815,
+      0.4399999976158142,
+      1.0
+    ],
+    "users": 23
+  },
+  "STAGE14_preto_desgastado": {
+    "images": [
+      "preto_desgastado.png",
+      "preto_desgastado.png",
+      "preto_desgastado.png"
+    ],
+    "color": [
+      0.054999999701976776,
+      0.052000001072883606,
+      0.04800000041723251,
+      1.0
+    ],
+    "users": 23
+  },
+  "STAGE15_LED_preto": {
+    "images": [
+      "preto.png"
+    ],
+    "color": [
+      0.04500000178813934,
+      0.04500000178813934,
+      0.04500000178813934,
+      1.0
+    ],
+    "users": 84
+  },
+  "STAGE15_LED_rosa": {
+    "images": [
+      "rosa.png"
+    ],
+    "color": [
+      1.0,
+      0.00800000037997961,
+      0.14000000059604645,
+      1.0
+    ],
+    "users": 12
+  },
+  "STAGE8_CHAO_REFERENCIAS": {
+    "images": [
+      "chao_01_limpo.png",
+      "chao_02_usado.png",
+      "chao_03_desgastado.png"
+    ],
+    "color": [
+      0.30000001192092896,
+      0.27000001072883606,
+      0.23000000417232513,
+      1.0
+    ],
+    "users": 4
+  },
+  "STAGE8_PAREDE_REFERENCIAS": {
+    "images": [
+      "parede_01_limpa.png",
+      "parede_02_usada.png",
+      "parede_03_desgastada.png"
+    ],
+    "color": [
+      0.30000001192092896,
+      0.27000001072883606,
+      0.23000000417232513,
+      1.0
+    ],
+    "users": 34
+  }
+}

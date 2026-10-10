@@ -1,0 +1,2007 @@
+{
+  "in_game_verified": false,
+  "collision_rays": 387,
+  "assets": [
+    {
+      "bytes": 22532,
+      "file": "stream/_manifest.ymf"
+    },
+    {
+      "bytes": 377476,
+      "file": "stream/csx_coastalrocks.ytd"
+    },
+    {
+      "bytes": 284293,
+      "file": "stream/csx_coastalrocks+hi.ytd"
+    },
+    {
+      "bytes": 12925,
+      "file": "stream/natureza_integrada.ytyp"
+    },
+    {
+      "bytes": 12652,
+      "file": "stream/ni_csx_coastsmalrock_01_.ydr"
+    },
+    {
+      "bytes": 15707,
+      "file": "stream/ni_csx_coastsmalrock_02_.ydr"
+    },
+    {
+      "bytes": 13972,
+      "file": "stream/ni_csx_coastsmalrock_03_.ydr"
+    },
+    {
+      "bytes": 11707,
+      "file": "stream/ni_csx_coastsmalrock_04_.ydr"
+    },
+    {
+      "bytes": 10260,
+      "file": "stream/ni_csx_coastsmalrock_05_.ydr"
+    },
+    {
+      "bytes": 477181,
+      "file": "stream/ni_h4_mph4_dock_maindock_watertower.ybn"
+    },
+    {
+      "bytes": 2981840,
+      "file": "stream/ni_h4_mph4_dock_maindock_watertower.ydr"
+    },
+    {
+      "bytes": 13457,
+      "file": "stream/ni_h4_mph4_wtowers_watert_00.ybn"
+    },
+    {
+      "bytes": 18840,
+      "file": "stream/ni_h4_mph4_wtowers_watert_00.ydr"
+    },
+    {
+      "bytes": 6334,
+      "file": "stream/ni_h4_mph4_wtowers_watert_01.ybn"
+    },
+    {
+      "bytes": 9991,
+      "file": "stream/ni_h4_mph4_wtowers_watert_01.ydr"
+    },
+    {
+      "bytes": 26859,
+      "file": "stream/ni_h4_mph4_wtowers_watert_02.ybn"
+    },
+    {
+      "bytes": 808593,
+      "file": "stream/ni_h4_mph4_wtowers_watert_02.ydr"
+    },
+    {
+      "bytes": 34629,
+      "file": "stream/ni_h4_mph4_wtowers_watert_03.ybn"
+    },
+    {
+      "bytes": 35136,
+      "file": "stream/ni_h4_mph4_wtowers_watert_03.ydr"
+    },
+    {
+      "bytes": 100535,
+      "file": "stream/ni_h4_mph4_wtowers_watert_04.ybn"
+    },
+    {
+      "bytes": 809676,
+      "file": "stream/ni_h4_mph4_wtowers_watert_04.ydr"
+    },
+    {
+      "bytes": 316317,
+      "file": "stream/ni_h4_prop_bush_buddleia_sml_01.ydr"
+    },
+    {
+      "bytes": 327824,
+      "file": "stream/ni_h4_prop_bush_mang_aa.ydr"
+    },
+    {
+      "bytes": 609472,
+      "file": "stream/ni_h4_prop_bush_mang_ac.ydr"
+    },
+    {
+      "bytes": 339344,
+      "file": "stream/ni_h4_prop_bush_mang_lg_aa.ydr"
+    },
+    {
+      "bytes": 941145,
+      "file": "stream/ni_h4_prop_bush_mang_lrg_01.ydr"
+    },
+    {
+      "bytes": 1035931,
+      "file": "stream/ni_h4_prop_bush_mang_lrg_02.ydr"
+    },
+    {
+      "bytes": 432782,
+      "file": "stream/ni_h4_prop_bush_monstera_med_01.ydr"
+    },
+    {
+      "bytes": 779565,
+      "file": "stream/ni_h4_prop_bush_olndr_white_lrg.ydr"
+    },
+    {
+      "bytes": 750097,
+      "file": "stream/ni_h4_prop_bush_olndr_white_sml.ydr"
+    },
+    {
+      "bytes": 234520,
+      "file": "stream/ni_h4_prop_bush_rosemary_lrg_01.ydr"
+    },
+    {
+      "bytes": 222005,
+      "file": "stream/ni_h4_prop_palmeto_sap_aa.ydr"
+    },
+    {
+      "bytes": 257528,
+      "file": "stream/ni_h4_prop_palmeto_sap_ab.ydr"
+    },
+    {
+      "bytes": 262350,
+      "file": "stream/ni_h4_prop_palmeto_sap_ac.ydr"
+    },
+    {
+      "bytes": 497784,
+      "file": "stream/ni_h4_prop_rock_lrg_01.ydr"
+    },
+    {
+      "bytes": 372684,
+      "file": "stream/ni_h4_prop_rock_lrg_02.ydr"
+    },
+    {
+      "bytes": 496898,
+      "file": "stream/ni_h4_prop_rock_lrg_03.ydr"
+    },
+    {
+      "bytes": 447092,
+      "file": "stream/ni_h4_prop_rock_lrg_04.ydr"
+    },
+    {
+      "bytes": 486397,
+      "file": "stream/ni_h4_prop_rock_lrg_05.ydr"
+    },
+    {
+      "bytes": 386517,
+      "file": "stream/ni_h4_prop_rock_lrg_06.ydr"
+    },
+    {
+      "bytes": 488867,
+      "file": "stream/ni_h4_prop_rock_lrg_07.ydr"
+    },
+    {
+      "bytes": 364622,
+      "file": "stream/ni_h4_prop_rock_lrg_08.ydr"
+    },
+    {
+      "bytes": 379436,
+      "file": "stream/ni_h4_prop_rock_lrg_09.ydr"
+    },
+    {
+      "bytes": 394424,
+      "file": "stream/ni_h4_prop_rock_lrg_10.ydr"
+    },
+    {
+      "bytes": 377834,
+      "file": "stream/ni_h4_prop_rock_lrg_11.ydr"
+    },
+    {
+      "bytes": 435827,
+      "file": "stream/ni_h4_prop_rock_lrg_12.ydr"
+    },
+    {
+      "bytes": 11898,
+      "file": "stream/ni_h4_prop_rock_med_01.ydr"
+    },
+    {
+      "bytes": 9477,
+      "file": "stream/ni_h4_prop_rock_med_02.ydr"
+    },
+    {
+      "bytes": 12051,
+      "file": "stream/ni_h4_prop_rock_med_03.ydr"
+    },
+    {
+      "bytes": 995357,
+      "file": "stream/ni_h4_prop_rock_scree_med_01.ydr"
+    },
+    {
+      "bytes": 992966,
+      "file": "stream/ni_h4_prop_rock_scree_med_02.ydr"
+    },
+    {
+      "bytes": 993606,
+      "file": "stream/ni_h4_prop_rock_scree_med_03.ydr"
+    },
+    {
+      "bytes": 298797,
+      "file": "stream/ni_h4_prop_rock_scree_small_01.ydr"
+    },
+    {
+      "bytes": 298587,
+      "file": "stream/ni_h4_prop_rock_scree_small_02.ydr"
+    },
+    {
+      "bytes": 295964,
+      "file": "stream/ni_h4_prop_rock_scree_small_03.ydr"
+    },
+    {
+      "bytes": 175806,
+      "file": "stream/ni_h4_prop_tree_banana_med_01.ydr"
+    },
+    {
+      "bytes": 208365,
+      "file": "stream/ni_h4_prop_tree_beech_lrg_if_01.ydr"
+    },
+    {
+      "bytes": 913684,
+      "file": "stream/ni_h4_prop_tree_blk_mgrv_lrg_01.ydr"
+    },
+    {
+      "bytes": 435791,
+      "file": "stream/ni_h4_prop_tree_blk_mgrv_lrg_02.ydr"
+    },
+    {
+      "bytes": 639702,
+      "file": "stream/ni_h4_prop_tree_blk_mgrv_med_01.ydr"
+    },
+    {
+      "bytes": 392715,
+      "file": "stream/ni_h4_prop_tree_frangipani_lrg_01.ydr"
+    },
+    {
+      "bytes": 303251,
+      "file": "stream/ni_h4_prop_tree_frangipani_med_01.ydr"
+    },
+    {
+      "bytes": 381840,
+      "file": "stream/ni_h4_prop_tree_palm_areca_sap_02.ydr"
+    },
+    {
+      "bytes": 458094,
+      "file": "stream/ni_h4_prop_tree_palm_areca_sap_03.ydr"
+    },
+    {
+      "bytes": 410541,
+      "file": "stream/ni_h4_prop_tree_palm_fan_bea_03b.ydr"
+    },
+    {
+      "bytes": 409648,
+      "file": "stream/ni_h4_prop_tree_palm_thatch_01.ydr"
+    },
+    {
+      "bytes": 561320,
+      "file": "stream/ni_h4_prop_tree_palm_trvlr_03.ydr"
+    },
+    {
+      "bytes": 731470,
+      "file": "stream/ni_h4_prop_tree_umbrella_med_01.ydr"
+    },
+    {
+      "bytes": 417441,
+      "file": "stream/ni_h4_prop_tree_umbrella_sml_01.ydr"
+    },
+    {
+      "bytes": 2648,
+      "file": "stream/ni_natureza_00.ymap"
+    },
+    {
+      "bytes": 22718,
+      "file": "stream/ni_natureza_01.ymap"
+    },
+    {
+      "bytes": 6944,
+      "file": "stream/ni_natureza_02.ymap"
+    },
+    {
+      "bytes": 2261,
+      "file": "stream/ni_natureza_03.ymap"
+    },
+    {
+      "bytes": 57713,
+      "file": "stream/ni_natureza_04.ymap"
+    },
+    {
+      "bytes": 67333,
+      "file": "stream/ni_natureza_05.ymap"
+    },
+    {
+      "bytes": 39918,
+      "file": "stream/ni_natureza_06.ymap"
+    },
+    {
+      "bytes": 46718,
+      "file": "stream/ni_natureza_07.ymap"
+    },
+    {
+      "bytes": 14360,
+      "file": "stream/ni_natureza_08.ymap"
+    },
+    {
+      "bytes": 2447,
+      "file": "stream/ni_natureza_09.ymap"
+    },
+    {
+      "bytes": 51967,
+      "file": "stream/ni_natureza_10.ymap"
+    },
+    {
+      "bytes": 76483,
+      "file": "stream/ni_natureza_11.ymap"
+    },
+    {
+      "bytes": 84929,
+      "file": "stream/ni_natureza_12.ymap"
+    },
+    {
+      "bytes": 112477,
+      "file": "stream/ni_natureza_13.ymap"
+    },
+    {
+      "bytes": 6578,
+      "file": "stream/ni_natureza_14.ymap"
+    },
+    {
+      "bytes": 96414,
+      "file": "stream/ni_natureza_15.ymap"
+    },
+    {
+      "bytes": 96976,
+      "file": "stream/ni_natureza_16.ymap"
+    },
+    {
+      "bytes": 79467,
+      "file": "stream/ni_natureza_17.ymap"
+    },
+    {
+      "bytes": 84725,
+      "file": "stream/ni_natureza_18.ymap"
+    },
+    {
+      "bytes": 72981,
+      "file": "stream/ni_natureza_19.ymap"
+    },
+    {
+      "bytes": 34003,
+      "file": "stream/ni_natureza_20.ymap"
+    },
+    {
+      "bytes": 65111,
+      "file": "stream/ni_natureza_21.ymap"
+    },
+    {
+      "bytes": 29085,
+      "file": "stream/ni_natureza_22.ymap"
+    },
+    {
+      "bytes": 7092,
+      "file": "stream/ni_natureza_23.ymap"
+    },
+    {
+      "bytes": 16289,
+      "file": "stream/ni_natureza_24.ymap"
+    },
+    {
+      "bytes": 3080,
+      "file": "stream/ni_natureza_25.ymap"
+    },
+    {
+      "bytes": 27054,
+      "file": "stream/ni_natureza_26.ymap"
+    },
+    {
+      "bytes": 3336,
+      "file": "stream/ni_natureza_27.ymap"
+    },
+    {
+      "bytes": 25409,
+      "file": "stream/ni_natureza_28.ymap"
+    },
+    {
+      "bytes": 7602,
+      "file": "stream/ni_natureza_29.ymap"
+    },
+    {
+      "bytes": 17670,
+      "file": "stream/ni_natureza_30.ymap"
+    },
+    {
+      "bytes": 27367,
+      "file": "stream/ni_natureza_31.ymap"
+    },
+    {
+      "bytes": 12707,
+      "file": "stream/ni_natureza_32.ymap"
+    },
+    {
+      "bytes": 9688,
+      "file": "stream/ni_natureza_33.ymap"
+    },
+    {
+      "bytes": 15759,
+      "file": "stream/ni_natureza_34.ymap"
+    },
+    {
+      "bytes": 8005,
+      "file": "stream/ni_natureza_35.ymap"
+    },
+    {
+      "bytes": 2451,
+      "file": "stream/ni_natureza_36.ymap"
+    },
+    {
+      "bytes": 2527,
+      "file": "stream/ni_natureza_37.ymap"
+    },
+    {
+      "bytes": 46918,
+      "file": "stream/ni_natureza_38.ymap"
+    },
+    {
+      "bytes": 11543,
+      "file": "stream/ni_natureza_39.ymap"
+    },
+    {
+      "bytes": 1361,
+      "file": "stream/ni_natureza_40.ymap"
+    },
+    {
+      "bytes": 11757,
+      "file": "stream/ni_natureza_41.ymap"
+    },
+    {
+      "bytes": 16188,
+      "file": "stream/ni_natureza_42.ymap"
+    },
+    {
+      "bytes": 17587,
+      "file": "stream/ni_natureza_43.ymap"
+    },
+    {
+      "bytes": 16482,
+      "file": "stream/ni_natureza_44.ymap"
+    },
+    {
+      "bytes": 10460,
+      "file": "stream/ni_natureza_45.ymap"
+    },
+    {
+      "bytes": 25683,
+      "file": "stream/ni_natureza_46.ymap"
+    },
+    {
+      "bytes": 4508,
+      "file": "stream/ni_natureza_47.ymap"
+    },
+    {
+      "bytes": 6581,
+      "file": "stream/ni_natureza_48.ymap"
+    },
+    {
+      "bytes": 13314,
+      "file": "stream/ni_natureza_49.ymap"
+    },
+    {
+      "bytes": 14494,
+      "file": "stream/ni_natureza_50.ymap"
+    },
+    {
+      "bytes": 13260,
+      "file": "stream/ni_natureza_51.ymap"
+    },
+    {
+      "bytes": 27534,
+      "file": "stream/ni_natureza_52.ymap"
+    },
+    {
+      "bytes": 6455,
+      "file": "stream/ni_natureza_53.ymap"
+    },
+    {
+      "bytes": 13021,
+      "file": "stream/ni_natureza_54.ymap"
+    },
+    {
+      "bytes": 11292,
+      "file": "stream/ni_natureza_55.ymap"
+    },
+    {
+      "bytes": 16246,
+      "file": "stream/ni_natureza_56.ymap"
+    },
+    {
+      "bytes": 27928,
+      "file": "stream/ni_natureza_57.ymap"
+    },
+    {
+      "bytes": 10583,
+      "file": "stream/ni_natureza_58.ymap"
+    },
+    {
+      "bytes": 6839,
+      "file": "stream/ni_natureza_59.ymap"
+    },
+    {
+      "bytes": 11673,
+      "file": "stream/ni_natureza_60.ymap"
+    },
+    {
+      "bytes": 14427,
+      "file": "stream/ni_natureza_61.ymap"
+    },
+    {
+      "bytes": 15769,
+      "file": "stream/ni_natureza_62.ymap"
+    },
+    {
+      "bytes": 26143,
+      "file": "stream/ni_natureza_63.ymap"
+    },
+    {
+      "bytes": 8411,
+      "file": "stream/ni_natureza_64.ymap"
+    },
+    {
+      "bytes": 1705,
+      "file": "stream/ni_natureza_65.ymap"
+    },
+    {
+      "bytes": 11140,
+      "file": "stream/ni_natureza_66.ymap"
+    },
+    {
+      "bytes": 15363,
+      "file": "stream/ni_natureza_67.ymap"
+    },
+    {
+      "bytes": 14510,
+      "file": "stream/ni_natureza_68.ymap"
+    },
+    {
+      "bytes": 9361,
+      "file": "stream/ni_natureza_69.ymap"
+    },
+    {
+      "bytes": 7596,
+      "file": "stream/ni_natureza_70.ymap"
+    },
+    {
+      "bytes": 2542,
+      "file": "stream/ni_natureza_71.ymap"
+    },
+    {
+      "bytes": 9308,
+      "file": "stream/ni_natureza_72.ymap"
+    },
+    {
+      "bytes": 23145,
+      "file": "stream/ni_natureza_73.ymap"
+    },
+    {
+      "bytes": 27535,
+      "file": "stream/ni_natureza_74.ymap"
+    },
+    {
+      "bytes": 12333,
+      "file": "stream/ni_natureza_75.ymap"
+    },
+    {
+      "bytes": 26370,
+      "file": "stream/ni_natureza_76.ymap"
+    },
+    {
+      "bytes": 2968,
+      "file": "stream/ni_natureza_77.ymap"
+    },
+    {
+      "bytes": 15530,
+      "file": "stream/ni_natureza_78.ymap"
+    },
+    {
+      "bytes": 31332,
+      "file": "stream/ni_natureza_79.ymap"
+    },
+    {
+      "bytes": 23830,
+      "file": "stream/ni_natureza_80.ymap"
+    },
+    {
+      "bytes": 1452,
+      "file": "stream/ni_natureza_81.ymap"
+    },
+    {
+      "bytes": 103477,
+      "file": "stream/ni_prop_air_watertank1.ydr"
+    },
+    {
+      "bytes": 386053,
+      "file": "stream/ni_prop_bush_lrg_01b.ydr"
+    },
+    {
+      "bytes": 365623,
+      "file": "stream/ni_prop_bush_lrg_01d.ydr"
+    },
+    {
+      "bytes": 389702,
+      "file": "stream/ni_prop_bush_lrg_03.ydr"
+    },
+    {
+      "bytes": 300357,
+      "file": "stream/ni_prop_bush_med_01.ydr"
+    },
+    {
+      "bytes": 73078,
+      "file": "stream/ni_prop_bush_med_02.ydr"
+    },
+    {
+      "bytes": 316702,
+      "file": "stream/ni_prop_bush_med_03.ydr"
+    },
+    {
+      "bytes": 205210,
+      "file": "stream/ni_prop_bush_med_05.ydr"
+    },
+    {
+      "bytes": 154222,
+      "file": "stream/ni_prop_bush_med_06.ydr"
+    },
+    {
+      "bytes": 211065,
+      "file": "stream/ni_prop_bush_med_07.ydr"
+    },
+    {
+      "bytes": 145476,
+      "file": "stream/ni_prop_grass_dry_02.ydr"
+    },
+    {
+      "bytes": 294920,
+      "file": "stream/ni_prop_palm_med_01a.ydr"
+    },
+    {
+      "bytes": 332617,
+      "file": "stream/ni_prop_palm_med_01b.ydr"
+    },
+    {
+      "bytes": 234274,
+      "file": "stream/ni_prop_palm_med_01c.ydr"
+    },
+    {
+      "bytes": 357913,
+      "file": "stream/ni_prop_palm_med_01d.ydr"
+    },
+    {
+      "bytes": 286840,
+      "file": "stream/ni_prop_palm_sm_01a.ydr"
+    },
+    {
+      "bytes": 187828,
+      "file": "stream/ni_prop_palm_sm_01d.ydr"
+    },
+    {
+      "bytes": 309346,
+      "file": "stream/ni_prop_palm_sm_01e.ydr"
+    },
+    {
+      "bytes": 189970,
+      "file": "stream/ni_prop_palm_sm_01f.ydr"
+    },
+    {
+      "bytes": 923681,
+      "file": "stream/ni_prop_plant_01b.ydr"
+    },
+    {
+      "bytes": 203874,
+      "file": "stream/ni_prop_plant_cane_02a.ydr"
+    },
+    {
+      "bytes": 242338,
+      "file": "stream/ni_prop_plant_cane_02b.ydr"
+    },
+    {
+      "bytes": 923699,
+      "file": "stream/ni_prop_plant_fern_01b.ydr"
+    },
+    {
+      "bytes": 162012,
+      "file": "stream/ni_prop_plant_fern_02a.ydr"
+    },
+    {
+      "bytes": 199252,
+      "file": "stream/ni_prop_plant_fern_02b.ydr"
+    },
+    {
+      "bytes": 468154,
+      "file": "stream/ni_prop_plant_fern_02c.ydr"
+    },
+    {
+      "bytes": 429404,
+      "file": "stream/ni_prop_plant_group_05.ydr"
+    },
+    {
+      "bytes": 583874,
+      "file": "stream/ni_prop_plant_group_05c.ydr"
+    },
+    {
+      "bytes": 436457,
+      "file": "stream/ni_prop_plant_group_05d.ydr"
+    },
+    {
+      "bytes": 711603,
+      "file": "stream/ni_prop_plant_group_05e.ydr"
+    },
+    {
+      "bytes": 536076,
+      "file": "stream/ni_prop_plant_group_06a.ydr"
+    },
+    {
+      "bytes": 636699,
+      "file": "stream/ni_prop_plant_group_06b.ydr"
+    },
+    {
+      "bytes": 530185,
+      "file": "stream/ni_prop_rock_1_a.ydr"
+    },
+    {
+      "bytes": 500266,
+      "file": "stream/ni_prop_rock_1_g.ydr"
+    },
+    {
+      "bytes": 502982,
+      "file": "stream/ni_prop_rock_1_h.ydr"
+    },
+    {
+      "bytes": 1061503,
+      "file": "stream/ni_prop_tree_birch_01.ydr"
+    },
+    {
+      "bytes": 173330,
+      "file": "stream/ni_prop_tree_cedar_s_04.ydr"
+    },
+    {
+      "bytes": 19235,
+      "file": "stream/ni_prop_tree_cedar_s_05.ydr"
+    },
+    {
+      "bytes": 987936,
+      "file": "stream/ni_prop_tree_eucalip_01.ydr"
+    },
+    {
+      "bytes": 86739,
+      "file": "stream/ni_rasteira_000.ymap"
+    },
+    {
+      "bytes": 148351,
+      "file": "stream/ni_rasteira_001.ymap"
+    },
+    {
+      "bytes": 101562,
+      "file": "stream/ni_rasteira_002.ymap"
+    },
+    {
+      "bytes": 83469,
+      "file": "stream/ni_rasteira_003.ymap"
+    },
+    {
+      "bytes": 102175,
+      "file": "stream/ni_rasteira_004.ymap"
+    },
+    {
+      "bytes": 97218,
+      "file": "stream/ni_rasteira_005.ymap"
+    },
+    {
+      "bytes": 15351,
+      "file": "stream/ni_rasteira_006.ymap"
+    },
+    {
+      "bytes": 15192,
+      "file": "stream/ni_rasteira_007.ymap"
+    },
+    {
+      "bytes": 115980,
+      "file": "stream/ni_rasteira_008.ymap"
+    },
+    {
+      "bytes": 101152,
+      "file": "stream/ni_rasteira_009.ymap"
+    },
+    {
+      "bytes": 39003,
+      "file": "stream/ni_rasteira_010.ymap"
+    },
+    {
+      "bytes": 40713,
+      "file": "stream/ni_rasteira_011.ymap"
+    },
+    {
+      "bytes": 14384,
+      "file": "stream/ni_rasteira_012.ymap"
+    },
+    {
+      "bytes": 7658,
+      "file": "stream/ni_rasteira_013.ymap"
+    },
+    {
+      "bytes": 238215,
+      "file": "stream/ni_rasteira_014.ymap"
+    },
+    {
+      "bytes": 324349,
+      "file": "stream/ni_rasteira_015.ymap"
+    },
+    {
+      "bytes": 332829,
+      "file": "stream/ni_rasteira_016.ymap"
+    },
+    {
+      "bytes": 332998,
+      "file": "stream/ni_rasteira_017.ymap"
+    },
+    {
+      "bytes": 337305,
+      "file": "stream/ni_rasteira_018.ymap"
+    },
+    {
+      "bytes": 322288,
+      "file": "stream/ni_rasteira_019.ymap"
+    },
+    {
+      "bytes": 332362,
+      "file": "stream/ni_rasteira_020.ymap"
+    },
+    {
+      "bytes": 307141,
+      "file": "stream/ni_rasteira_021.ymap"
+    },
+    {
+      "bytes": 131242,
+      "file": "stream/ni_rasteira_022.ymap"
+    },
+    {
+      "bytes": 3357,
+      "file": "stream/ni_rasteira_023.ymap"
+    },
+    {
+      "bytes": 26659,
+      "file": "stream/ni_rasteira_024.ymap"
+    },
+    {
+      "bytes": 110496,
+      "file": "stream/ni_rasteira_025.ymap"
+    },
+    {
+      "bytes": 281447,
+      "file": "stream/ni_rasteira_026.ymap"
+    },
+    {
+      "bytes": 294929,
+      "file": "stream/ni_rasteira_027.ymap"
+    },
+    {
+      "bytes": 314835,
+      "file": "stream/ni_rasteira_028.ymap"
+    },
+    {
+      "bytes": 325211,
+      "file": "stream/ni_rasteira_029.ymap"
+    },
+    {
+      "bytes": 320465,
+      "file": "stream/ni_rasteira_030.ymap"
+    },
+    {
+      "bytes": 35068,
+      "file": "stream/ni_rasteira_031.ymap"
+    },
+    {
+      "bytes": 10712,
+      "file": "stream/ni_rasteira_032.ymap"
+    },
+    {
+      "bytes": 331900,
+      "file": "stream/ni_rasteira_033.ymap"
+    },
+    {
+      "bytes": 328132,
+      "file": "stream/ni_rasteira_034.ymap"
+    },
+    {
+      "bytes": 333909,
+      "file": "stream/ni_rasteira_035.ymap"
+    },
+    {
+      "bytes": 328947,
+      "file": "stream/ni_rasteira_036.ymap"
+    },
+    {
+      "bytes": 331306,
+      "file": "stream/ni_rasteira_037.ymap"
+    },
+    {
+      "bytes": 333001,
+      "file": "stream/ni_rasteira_038.ymap"
+    },
+    {
+      "bytes": 325776,
+      "file": "stream/ni_rasteira_039.ymap"
+    },
+    {
+      "bytes": 329440,
+      "file": "stream/ni_rasteira_040.ymap"
+    },
+    {
+      "bytes": 332041,
+      "file": "stream/ni_rasteira_041.ymap"
+    },
+    {
+      "bytes": 176964,
+      "file": "stream/ni_rasteira_042.ymap"
+    },
+    {
+      "bytes": 13986,
+      "file": "stream/ni_rasteira_043.ymap"
+    },
+    {
+      "bytes": 220202,
+      "file": "stream/ni_rasteira_044.ymap"
+    },
+    {
+      "bytes": 315230,
+      "file": "stream/ni_rasteira_045.ymap"
+    },
+    {
+      "bytes": 331372,
+      "file": "stream/ni_rasteira_046.ymap"
+    },
+    {
+      "bytes": 320961,
+      "file": "stream/ni_rasteira_047.ymap"
+    },
+    {
+      "bytes": 325825,
+      "file": "stream/ni_rasteira_048.ymap"
+    },
+    {
+      "bytes": 322345,
+      "file": "stream/ni_rasteira_049.ymap"
+    },
+    {
+      "bytes": 336220,
+      "file": "stream/ni_rasteira_050.ymap"
+    },
+    {
+      "bytes": 339298,
+      "file": "stream/ni_rasteira_051.ymap"
+    },
+    {
+      "bytes": 36574,
+      "file": "stream/ni_rasteira_052.ymap"
+    },
+    {
+      "bytes": 10322,
+      "file": "stream/ni_rasteira_053.ymap"
+    },
+    {
+      "bytes": 335506,
+      "file": "stream/ni_rasteira_054.ymap"
+    },
+    {
+      "bytes": 332418,
+      "file": "stream/ni_rasteira_055.ymap"
+    },
+    {
+      "bytes": 330847,
+      "file": "stream/ni_rasteira_056.ymap"
+    },
+    {
+      "bytes": 205924,
+      "file": "stream/ni_rasteira_057.ymap"
+    },
+    {
+      "bytes": 132762,
+      "file": "stream/ni_rasteira_058.ymap"
+    },
+    {
+      "bytes": 122278,
+      "file": "stream/ni_rasteira_059.ymap"
+    },
+    {
+      "bytes": 117217,
+      "file": "stream/ni_rasteira_060.ymap"
+    },
+    {
+      "bytes": 198079,
+      "file": "stream/ni_rasteira_061.ymap"
+    },
+    {
+      "bytes": 270755,
+      "file": "stream/ni_rasteira_062.ymap"
+    },
+    {
+      "bytes": 267500,
+      "file": "stream/ni_rasteira_063.ymap"
+    },
+    {
+      "bytes": 188667,
+      "file": "stream/ni_rasteira_064.ymap"
+    },
+    {
+      "bytes": 335743,
+      "file": "stream/ni_rasteira_065.ymap"
+    },
+    {
+      "bytes": 290707,
+      "file": "stream/ni_rasteira_066.ymap"
+    },
+    {
+      "bytes": 269908,
+      "file": "stream/ni_rasteira_067.ymap"
+    },
+    {
+      "bytes": 170374,
+      "file": "stream/ni_rasteira_068.ymap"
+    },
+    {
+      "bytes": 131434,
+      "file": "stream/ni_rasteira_069.ymap"
+    },
+    {
+      "bytes": 12493,
+      "file": "stream/ni_rasteira_070.ymap"
+    },
+    {
+      "bytes": 60593,
+      "file": "stream/ni_rasteira_071.ymap"
+    },
+    {
+      "bytes": 162104,
+      "file": "stream/ni_rasteira_072.ymap"
+    },
+    {
+      "bytes": 26131,
+      "file": "stream/ni_rasteira_073.ymap"
+    },
+    {
+      "bytes": 10880,
+      "file": "stream/ni_rasteira_074.ymap"
+    },
+    {
+      "bytes": 282201,
+      "file": "stream/ni_rasteira_075.ymap"
+    },
+    {
+      "bytes": 134304,
+      "file": "stream/ni_rasteira_076.ymap"
+    },
+    {
+      "bytes": 35578,
+      "file": "stream/ni_rasteira_077.ymap"
+    },
+    {
+      "bytes": 2175,
+      "file": "stream/ni_rasteira_078.ymap"
+    },
+    {
+      "bytes": 226196,
+      "file": "stream/ni_rasteira_079.ymap"
+    },
+    {
+      "bytes": 66325,
+      "file": "stream/ni_rasteira_080.ymap"
+    },
+    {
+      "bytes": 328611,
+      "file": "stream/ni_rasteira_081.ymap"
+    },
+    {
+      "bytes": 319163,
+      "file": "stream/ni_rasteira_082.ymap"
+    },
+    {
+      "bytes": 328693,
+      "file": "stream/ni_rasteira_083.ymap"
+    },
+    {
+      "bytes": 191417,
+      "file": "stream/ni_rasteira_084.ymap"
+    },
+    {
+      "bytes": 3979,
+      "file": "stream/ni_rasteira_085.ymap"
+    },
+    {
+      "bytes": 2444,
+      "file": "stream/ni_rasteira_086.ymap"
+    },
+    {
+      "bytes": 10698,
+      "file": "stream/ni_rasteira_087.ymap"
+    },
+    {
+      "bytes": 137516,
+      "file": "stream/ni_rasteira_088.ymap"
+    },
+    {
+      "bytes": 166116,
+      "file": "stream/ni_rasteira_089.ymap"
+    },
+    {
+      "bytes": 71672,
+      "file": "stream/ni_rasteira_090.ymap"
+    },
+    {
+      "bytes": 33302,
+      "file": "stream/ni_rasteira_091.ymap"
+    },
+    {
+      "bytes": 159668,
+      "file": "stream/ni_rasteira_092.ymap"
+    },
+    {
+      "bytes": 186195,
+      "file": "stream/ni_rasteira_093.ymap"
+    },
+    {
+      "bytes": 132677,
+      "file": "stream/ni_rasteira_094.ymap"
+    },
+    {
+      "bytes": 22476,
+      "file": "stream/ni_rasteira_095.ymap"
+    },
+    {
+      "bytes": 36618,
+      "file": "stream/ni_rasteira_096.ymap"
+    },
+    {
+      "bytes": 21590,
+      "file": "stream/ni_rasteira_097.ymap"
+    },
+    {
+      "bytes": 3939,
+      "file": "stream/ni_rasteira_098.ymap"
+    },
+    {
+      "bytes": 19118,
+      "file": "stream/ni_rasteira_099.ymap"
+    },
+    {
+      "bytes": 14050,
+      "file": "stream/ni_rasteira_100.ymap"
+    },
+    {
+      "bytes": 273311,
+      "file": "stream/ni_rasteira_101.ymap"
+    },
+    {
+      "bytes": 6316,
+      "file": "stream/ni_rasteira_102.ymap"
+    },
+    {
+      "bytes": 47371,
+      "file": "stream/ni_rasteira_103.ymap"
+    },
+    {
+      "bytes": 42866,
+      "file": "stream/ni_rasteira_104.ymap"
+    },
+    {
+      "bytes": 35235,
+      "file": "stream/ni_rasteira_105.ymap"
+    },
+    {
+      "bytes": 25728,
+      "file": "stream/ni_rasteira_106.ymap"
+    },
+    {
+      "bytes": 33630,
+      "file": "stream/ni_rasteira_107.ymap"
+    },
+    {
+      "bytes": 41763,
+      "file": "stream/ni_rasteira_108.ymap"
+    },
+    {
+      "bytes": 48808,
+      "file": "stream/ni_rasteira_109.ymap"
+    },
+    {
+      "bytes": 32972,
+      "file": "stream/ni_rasteira_110.ymap"
+    },
+    {
+      "bytes": 290570,
+      "file": "stream/ni_rasteira_111.ymap"
+    },
+    {
+      "bytes": 32693,
+      "file": "stream/ni_rasteira_112.ymap"
+    },
+    {
+      "bytes": 252136,
+      "file": "stream/ni_rasteira_113.ymap"
+    },
+    {
+      "bytes": 47707,
+      "file": "stream/ni_rasteira_114.ymap"
+    },
+    {
+      "bytes": 130855,
+      "file": "stream/ni_rasteira_115.ymap"
+    },
+    {
+      "bytes": 5861,
+      "file": "stream/ni_rasteira_116.ymap"
+    },
+    {
+      "bytes": 2768,
+      "file": "stream/ni_rasteira_117.ymap"
+    },
+    {
+      "bytes": 151555,
+      "file": "stream/ni_rasteira_118.ymap"
+    },
+    {
+      "bytes": 74547,
+      "file": "stream/ni_rasteira_119.ymap"
+    },
+    {
+      "bytes": 31427,
+      "file": "stream/ni_rasteira_120.ymap"
+    },
+    {
+      "bytes": 135213,
+      "file": "stream/ni_rasteira_121.ymap"
+    },
+    {
+      "bytes": 51158,
+      "file": "stream/ni_rasteira_122.ymap"
+    },
+    {
+      "bytes": 12025,
+      "file": "stream/ni_rasteira_123.ymap"
+    },
+    {
+      "bytes": 129050,
+      "file": "stream/ni_rasteira_124.ymap"
+    },
+    {
+      "bytes": 14167,
+      "file": "stream/ni_rasteira_125.ymap"
+    },
+    {
+      "bytes": 54751,
+      "file": "stream/ni_rasteira_126.ymap"
+    },
+    {
+      "bytes": 106617,
+      "file": "stream/ni_rasteira_127.ymap"
+    },
+    {
+      "bytes": 290314,
+      "file": "stream/ni_rasteira_128.ymap"
+    },
+    {
+      "bytes": 172709,
+      "file": "stream/ni_rasteira_129.ymap"
+    },
+    {
+      "bytes": 3064,
+      "file": "stream/ni_rasteira_130.ymap"
+    },
+    {
+      "bytes": 64311,
+      "file": "stream/ni_rasteira_131.ymap"
+    },
+    {
+      "bytes": 25257,
+      "file": "stream/ni_rasteira_132.ymap"
+    },
+    {
+      "bytes": 252938,
+      "file": "stream/ni_rasteira_133.ymap"
+    },
+    {
+      "bytes": 168799,
+      "file": "stream/ni_rasteira_134.ymap"
+    },
+    {
+      "bytes": 66590,
+      "file": "stream/ni_rasteira_135.ymap"
+    },
+    {
+      "bytes": 7155,
+      "file": "stream/ni_rasteira_136.ymap"
+    },
+    {
+      "bytes": 3858,
+      "file": "stream/ni_rasteira_137.ymap"
+    },
+    {
+      "bytes": 49022,
+      "file": "stream/ni_rasteira_138.ymap"
+    },
+    {
+      "bytes": 16954,
+      "file": "stream/ni_rasteira_139.ymap"
+    },
+    {
+      "bytes": 27523,
+      "file": "stream/ni_rasteira_140.ymap"
+    },
+    {
+      "bytes": 32020,
+      "file": "stream/ni_rasteira_141.ymap"
+    },
+    {
+      "bytes": 3785,
+      "file": "stream/ni_rasteira_142.ymap"
+    },
+    {
+      "bytes": 68364,
+      "file": "stream/ni_rasteira_143.ymap"
+    },
+    {
+      "bytes": 95543,
+      "file": "stream/ni_rasteira_144.ymap"
+    },
+    {
+      "bytes": 12138,
+      "file": "stream/ni_rasteira_145.ymap"
+    },
+    {
+      "bytes": 65883,
+      "file": "stream/ni_rasteira_146.ymap"
+    },
+    {
+      "bytes": 164357,
+      "file": "stream/ni_rasteira_147.ymap"
+    },
+    {
+      "bytes": 214441,
+      "file": "stream/ni_rasteira_148.ymap"
+    },
+    {
+      "bytes": 116396,
+      "file": "stream/ni_rasteira_149.ymap"
+    },
+    {
+      "bytes": 44350,
+      "file": "stream/ni_rasteira_150.ymap"
+    },
+    {
+      "bytes": 149950,
+      "file": "stream/ni_rasteira_151.ymap"
+    },
+    {
+      "bytes": 37194,
+      "file": "stream/ni_rasteira_152.ymap"
+    },
+    {
+      "bytes": 27600,
+      "file": "stream/ni_rasteira_153.ymap"
+    },
+    {
+      "bytes": 170845,
+      "file": "stream/ni_rasteira_154.ymap"
+    },
+    {
+      "bytes": 116448,
+      "file": "stream/ni_rasteira_155.ymap"
+    },
+    {
+      "bytes": 14906,
+      "file": "stream/ni_rasteira_156.ymap"
+    },
+    {
+      "bytes": 106613,
+      "file": "stream/ni_rasteira_157.ymap"
+    },
+    {
+      "bytes": 193955,
+      "file": "stream/ni_rasteira_158.ymap"
+    },
+    {
+      "bytes": 4657,
+      "file": "stream/ni_rasteira_159.ymap"
+    },
+    {
+      "bytes": 3801,
+      "file": "stream/ni_rasteira_160.ymap"
+    },
+    {
+      "bytes": 152666,
+      "file": "stream/ni_rasteira_161.ymap"
+    },
+    {
+      "bytes": 264043,
+      "file": "stream/ni_rasteira_162.ymap"
+    },
+    {
+      "bytes": 243312,
+      "file": "stream/ni_rasteira_163.ymap"
+    },
+    {
+      "bytes": 210171,
+      "file": "stream/ni_rasteira_164.ymap"
+    },
+    {
+      "bytes": 129063,
+      "file": "stream/ni_rasteira_165.ymap"
+    },
+    {
+      "bytes": 6180,
+      "file": "stream/ni_rasteira_166.ymap"
+    },
+    {
+      "bytes": 350639,
+      "file": "stream/prop_oldairfield.ytd"
+    },
+    {
+      "bytes": 217426,
+      "file": "stream/prop_oldairfield+hi.ytd"
+    },
+    {
+      "bytes": 1278972,
+      "file": "stream/prop_veg_palm.ytd"
+    },
+    {
+      "bytes": 1369548,
+      "file": "stream/z_eucalip_1.ytd"
+    },
+    {
+      "bytes": 1185112,
+      "file": "stream/z_prop_tree_birch_01.ytd"
+    },
+    {
+      "bytes": 774743,
+      "file": "stream/z_prop_tree_cypress1.ytd"
+    },
+    {
+      "bytes": 3665072,
+      "file": "terreno/ni_solo.ytd"
+    },
+    {
+      "bytes": 3006,
+      "file": "terreno/teste_ilha.ytyp"
+    },
+    {
+      "bytes": 284920,
+      "file": "terreno/ti_terreno_00_03.ybn"
+    },
+    {
+      "bytes": 273503,
+      "file": "terreno/ti_terreno_00_03.ydr"
+    },
+    {
+      "bytes": 280325,
+      "file": "terreno/ti_terreno_00_04.ybn"
+    },
+    {
+      "bytes": 253323,
+      "file": "terreno/ti_terreno_00_04.ydr"
+    },
+    {
+      "bytes": 298018,
+      "file": "terreno/ti_terreno_01_01.ybn"
+    },
+    {
+      "bytes": 316401,
+      "file": "terreno/ti_terreno_01_01.ydr"
+    },
+    {
+      "bytes": 340044,
+      "file": "terreno/ti_terreno_01_02.ybn"
+    },
+    {
+      "bytes": 476422,
+      "file": "terreno/ti_terreno_01_02.ydr"
+    },
+    {
+      "bytes": 324164,
+      "file": "terreno/ti_terreno_01_03.ybn"
+    },
+    {
+      "bytes": 429098,
+      "file": "terreno/ti_terreno_01_03.ydr"
+    },
+    {
+      "bytes": 309059,
+      "file": "terreno/ti_terreno_01_04.ybn"
+    },
+    {
+      "bytes": 372295,
+      "file": "terreno/ti_terreno_01_04.ydr"
+    },
+    {
+      "bytes": 283432,
+      "file": "terreno/ti_terreno_01_05.ybn"
+    },
+    {
+      "bytes": 257611,
+      "file": "terreno/ti_terreno_01_05.ydr"
+    },
+    {
+      "bytes": 286438,
+      "file": "terreno/ti_terreno_01_06.ybn"
+    },
+    {
+      "bytes": 276632,
+      "file": "terreno/ti_terreno_01_06.ydr"
+    },
+    {
+      "bytes": 346874,
+      "file": "terreno/ti_terreno_02_01.ybn"
+    },
+    {
+      "bytes": 471473,
+      "file": "terreno/ti_terreno_02_01.ydr"
+    },
+    {
+      "bytes": 353797,
+      "file": "terreno/ti_terreno_02_02.ybn"
+    },
+    {
+      "bytes": 1334412,
+      "file": "terreno/ti_terreno_02_02.ydr"
+    },
+    {
+      "bytes": 341751,
+      "file": "terreno/ti_terreno_02_03.ybn"
+    },
+    {
+      "bytes": 867173,
+      "file": "terreno/ti_terreno_02_03.ydr"
+    },
+    {
+      "bytes": 287849,
+      "file": "terreno/ti_terreno_02_04.ybn"
+    },
+    {
+      "bytes": 305261,
+      "file": "terreno/ti_terreno_02_04.ydr"
+    },
+    {
+      "bytes": 277910,
+      "file": "terreno/ti_terreno_02_05.ybn"
+    },
+    {
+      "bytes": 265648,
+      "file": "terreno/ti_terreno_02_05.ydr"
+    },
+    {
+      "bytes": 317027,
+      "file": "terreno/ti_terreno_02_06.ybn"
+    },
+    {
+      "bytes": 731609,
+      "file": "terreno/ti_terreno_02_06.ydr"
+    },
+    {
+      "bytes": 340008,
+      "file": "terreno/ti_terreno_03_01.ybn"
+    },
+    {
+      "bytes": 464485,
+      "file": "terreno/ti_terreno_03_01.ydr"
+    },
+    {
+      "bytes": 344327,
+      "file": "terreno/ti_terreno_03_02.ybn"
+    },
+    {
+      "bytes": 1219921,
+      "file": "terreno/ti_terreno_03_02.ydr"
+    },
+    {
+      "bytes": 341740,
+      "file": "terreno/ti_terreno_03_03.ybn"
+    },
+    {
+      "bytes": 1215482,
+      "file": "terreno/ti_terreno_03_03.ydr"
+    },
+    {
+      "bytes": 332565,
+      "file": "terreno/ti_terreno_03_04.ybn"
+    },
+    {
+      "bytes": 819681,
+      "file": "terreno/ti_terreno_03_04.ydr"
+    },
+    {
+      "bytes": 331961,
+      "file": "terreno/ti_terreno_03_05.ybn"
+    },
+    {
+      "bytes": 821122,
+      "file": "terreno/ti_terreno_03_05.ydr"
+    },
+    {
+      "bytes": 341024,
+      "file": "terreno/ti_terreno_03_06.ybn"
+    },
+    {
+      "bytes": 1300503,
+      "file": "terreno/ti_terreno_03_06.ydr"
+    },
+    {
+      "bytes": 308791,
+      "file": "terreno/ti_terreno_03_07.ybn"
+    },
+    {
+      "bytes": 335079,
+      "file": "terreno/ti_terreno_03_07.ydr"
+    },
+    {
+      "bytes": 298681,
+      "file": "terreno/ti_terreno_04_00.ybn"
+    },
+    {
+      "bytes": 290791,
+      "file": "terreno/ti_terreno_04_00.ydr"
+    },
+    {
+      "bytes": 350196,
+      "file": "terreno/ti_terreno_04_01.ybn"
+    },
+    {
+      "bytes": 488124,
+      "file": "terreno/ti_terreno_04_01.ydr"
+    },
+    {
+      "bytes": 353536,
+      "file": "terreno/ti_terreno_04_02.ybn"
+    },
+    {
+      "bytes": 926403,
+      "file": "terreno/ti_terreno_04_02.ydr"
+    },
+    {
+      "bytes": 352304,
+      "file": "terreno/ti_terreno_04_03.ybn"
+    },
+    {
+      "bytes": 917624,
+      "file": "terreno/ti_terreno_04_03.ydr"
+    },
+    {
+      "bytes": 350078,
+      "file": "terreno/ti_terreno_04_04.ybn"
+    },
+    {
+      "bytes": 907373,
+      "file": "terreno/ti_terreno_04_04.ydr"
+    },
+    {
+      "bytes": 348131,
+      "file": "terreno/ti_terreno_04_05.ybn"
+    },
+    {
+      "bytes": 907413,
+      "file": "terreno/ti_terreno_04_05.ydr"
+    },
+    {
+      "bytes": 349931,
+      "file": "terreno/ti_terreno_04_06.ybn"
+    },
+    {
+      "bytes": 929735,
+      "file": "terreno/ti_terreno_04_06.ydr"
+    },
+    {
+      "bytes": 335988,
+      "file": "terreno/ti_terreno_04_07.ybn"
+    },
+    {
+      "bytes": 430393,
+      "file": "terreno/ti_terreno_04_07.ydr"
+    },
+    {
+      "bytes": 296444,
+      "file": "terreno/ti_terreno_05_00.ybn"
+    },
+    {
+      "bytes": 289177,
+      "file": "terreno/ti_terreno_05_00.ydr"
+    },
+    {
+      "bytes": 351823,
+      "file": "terreno/ti_terreno_05_01.ybn"
+    },
+    {
+      "bytes": 488830,
+      "file": "terreno/ti_terreno_05_01.ydr"
+    },
+    {
+      "bytes": 356345,
+      "file": "terreno/ti_terreno_05_02.ybn"
+    },
+    {
+      "bytes": 934159,
+      "file": "terreno/ti_terreno_05_02.ydr"
+    },
+    {
+      "bytes": 351946,
+      "file": "terreno/ti_terreno_05_03.ybn"
+    },
+    {
+      "bytes": 496940,
+      "file": "terreno/ti_terreno_05_03.ydr"
+    },
+    {
+      "bytes": 355831,
+      "file": "terreno/ti_terreno_05_04.ybn"
+    },
+    {
+      "bytes": 507880,
+      "file": "terreno/ti_terreno_05_04.ydr"
+    },
+    {
+      "bytes": 347774,
+      "file": "terreno/ti_terreno_05_05.ybn"
+    },
+    {
+      "bytes": 915122,
+      "file": "terreno/ti_terreno_05_05.ydr"
+    },
+    {
+      "bytes": 343455,
+      "file": "terreno/ti_terreno_05_06.ybn"
+    },
+    {
+      "bytes": 875043,
+      "file": "terreno/ti_terreno_05_06.ydr"
+    },
+    {
+      "bytes": 286757,
+      "file": "terreno/ti_terreno_05_07.ybn"
+    },
+    {
+      "bytes": 257122,
+      "file": "terreno/ti_terreno_05_07.ydr"
+    },
+    {
+      "bytes": 317449,
+      "file": "terreno/ti_terreno_06_01.ybn"
+    },
+    {
+      "bytes": 371557,
+      "file": "terreno/ti_terreno_06_01.ydr"
+    },
+    {
+      "bytes": 337044,
+      "file": "terreno/ti_terreno_06_02.ybn"
+    },
+    {
+      "bytes": 823275,
+      "file": "terreno/ti_terreno_06_02.ydr"
+    },
+    {
+      "bytes": 341128,
+      "file": "terreno/ti_terreno_06_03.ybn"
+    },
+    {
+      "bytes": 873532,
+      "file": "terreno/ti_terreno_06_03.ydr"
+    },
+    {
+      "bytes": 346160,
+      "file": "terreno/ti_terreno_06_04.ybn"
+    },
+    {
+      "bytes": 885075,
+      "file": "terreno/ti_terreno_06_04.ydr"
+    },
+    {
+      "bytes": 324181,
+      "file": "terreno/ti_terreno_06_05.ybn"
+    },
+    {
+      "bytes": 763642,
+      "file": "terreno/ti_terreno_06_05.ydr"
+    },
+    {
+      "bytes": 279231,
+      "file": "terreno/ti_terreno_06_06.ybn"
+    },
+    {
+      "bytes": 246162,
+      "file": "terreno/ti_terreno_06_06.ydr"
+    },
+    {
+      "bytes": 727,
+      "file": "porto_filtrado/pe_bairro_00.ymap"
+    },
+    {
+      "bytes": 728,
+      "file": "porto_filtrado/pe_bairro_01.ymap"
+    },
+    {
+      "bytes": 728,
+      "file": "porto_filtrado/pe_bairro_02.ymap"
+    },
+    {
+      "bytes": 728,
+      "file": "porto_filtrado/pe_bairro_03.ymap"
+    },
+    {
+      "bytes": 729,
+      "file": "porto_filtrado/pe_bairro_04.ymap"
+    },
+    {
+      "bytes": 727,
+      "file": "porto_filtrado/pe_bairro_05.ymap"
+    },
+    {
+      "bytes": 728,
+      "file": "porto_filtrado/pe_bairro_06.ymap"
+    },
+    {
+      "bytes": 1279,
+      "file": "porto_filtrado/pe_bairro_07.ymap"
+    },
+    {
+      "bytes": 2638,
+      "file": "porto_filtrado/pe_bairro_08.ymap"
+    },
+    {
+      "bytes": 1220,
+      "file": "porto_filtrado/pe_bairro_09.ymap"
+    },
+    {
+      "bytes": 2007,
+      "file": "porto_filtrado/pe_bairro_10.ymap"
+    },
+    {
+      "bytes": 4718,
+      "file": "porto_filtrado/pe_bairro_11.ymap"
+    },
+    {
+      "bytes": 5221,
+      "file": "porto_filtrado/pe_bairro_12.ymap"
+    },
+    {
+      "bytes": 2242,
+      "file": "porto_filtrado/pe_bairro_13.ymap"
+    },
+    {
+      "bytes": 728,
+      "file": "porto_filtrado/pe_bairro_14.ymap"
+    },
+    {
+      "bytes": 728,
+      "file": "porto_filtrado/pe_bairro_15.ymap"
+    },
+    {
+      "bytes": 4046,
+      "file": "porto_filtrado/pe_bairro_16.ymap"
+    },
+    {
+      "bytes": 4732,
+      "file": "porto_filtrado/pe_bairro_17.ymap"
+    },
+    {
+      "bytes": 2342,
+      "file": "porto_filtrado/pe_bairro_18.ymap"
+    },
+    {
+      "bytes": 8269,
+      "file": "porto_filtrado/pe_bairro_19.ymap"
+    },
+    {
+      "bytes": 5572,
+      "file": "porto_filtrado/pe_bairro_22.ymap"
+    },
+    {
+      "bytes": 727,
+      "file": "porto_filtrado/pe_bairro_23.ymap"
+    },
+    {
+      "bytes": 1097,
+      "file": "porto_filtrado/pe_bairro_24.ymap"
+    },
+    {
+      "bytes": 727,
+      "file": "porto_filtrado/pe_bairro_25.ymap"
+    },
+    {
+      "bytes": 1540,
+      "file": "porto_filtrado/pe_bairro_26.ymap"
+    },
+    {
+      "bytes": 5058,
+      "file": "porto_filtrado/pe_bairro_27.ymap"
+    },
+    {
+      "bytes": 7597,
+      "file": "porto_filtrado/pe_bairro_31.ymap"
+    },
+    {
+      "bytes": 726,
+      "file": "porto_filtrado/pe_bairro_32.ymap"
+    },
+    {
+      "bytes": 1303,
+      "file": "porto_filtrado/pe_bairro_33.ymap"
+    },
+    {
+      "bytes": 1651,
+      "file": "porto_filtrado/pe_bairro_34.ymap"
+    },
+    {
+      "bytes": 4283,
+      "file": "porto_filtrado/pe_bairro_35.ymap"
+    },
+    {
+      "bytes": 8928,
+      "file": "porto_filtrado/pe_bairro_40.ymap"
+    },
+    {
+      "bytes": 2044,
+      "file": "porto_filtrado/pe_bairro_41.ymap"
+    },
+    {
+      "bytes": 1302,
+      "file": "porto_filtrado/pe_bairro_42.ymap"
+    },
+    {
+      "bytes": 1711,
+      "file": "porto_filtrado/pe_bairro_43.ymap"
+    },
+    {
+      "bytes": 2132,
+      "file": "porto_filtrado/pe_bairro_44.ymap"
+    },
+    {
+      "bytes": 9351,
+      "file": "porto_filtrado/pe_bairro_45.ymap"
+    },
+    {
+      "bytes": 2676,
+      "file": "porto_filtrado/pe_bairro_49.ymap"
+    },
+    {
+      "bytes": 1485,
+      "file": "porto_filtrado/pe_bairro_50.ymap"
+    },
+    {
+      "bytes": 1313,
+      "file": "porto_filtrado/pe_bairro_51.ymap"
+    },
+    {
+      "bytes": 1183,
+      "file": "porto_filtrado/pe_bairro_52.ymap"
+    },
+    {
+      "bytes": 5790,
+      "file": "porto_filtrado/pe_bairro_53.ymap"
+    },
+    {
+      "bytes": 4009,
+      "file": "porto_filtrado/pe_bairro_57.ymap"
+    },
+    {
+      "bytes": 1176,
+      "file": "porto_filtrado/pe_bairro_58.ymap"
+    },
+    {
+      "bytes": 1494,
+      "file": "porto_filtrado/pe_bairro_59.ymap"
+    },
+    {
+      "bytes": 7177,
+      "file": "porto_filtrado/pe_bairro_60.ymap"
+    },
+    {
+      "bytes": 5108,
+      "file": "porto_filtrado/pe_bairro_61.ymap"
+    },
+    {
+      "bytes": 727,
+      "file": "porto_filtrado/pe_bairro_62.ymap"
+    },
+    {
+      "bytes": 726,
+      "file": "porto_filtrado/pe_bairro_63.ymap"
+    }
+  ],
+  "passed": true
+}

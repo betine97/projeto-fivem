@@ -1,0 +1,48 @@
+{
+  "collision_files": [
+    {
+      "file": "bh1_45_0.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 0
+    },
+    {
+      "file": "bh1_45_1.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 684
+    },
+    {
+      "file": "bh1_45_2.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 4
+    },
+    {
+      "file": "bh1_45_3.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 0
+    },
+    {
+      "file": "hi@bh1_45_0.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 0
+    },
+    {
+      "file": "hi@bh1_45_1.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 0
+    },
+    {
+      "file": "hi@bh1_45_2.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 0
+    },
+    {
+      "file": "hi@bh1_45_3.ybn",
+      "clearance_passed": true,
+      "nearby_primitives_checked": 284
+    }
+  ],
+  "untouched_dictionary_members": 34,
+  "in_game_verified": false,
+  "new_floor_triangles": 376,
+  "native_floor_height": 66.4699999988079
+}

@@ -1,0 +1,27 @@
+{
+  "vertices": 120843,
+  "triangles": 221146,
+  "source_uv_sha256": "20d0ff8c06bd651368424b9e190853d7463d0868baa840435b89ac77469619d5",
+  "uv_unchanged": true,
+  "original_textures_sha256": {
+    "Image_0": "2227a8e3e3dc4cdb470da5ed4cc663b769c896a3f9b721ab5d36f4ab1c2e4449",
+    "Image_1": "2fe6e2fe4a86c646dd3b87b0fe53f4b4668f57f5b413c77c9c65a7de1b607ba3",
+    "Image_2": "991cf3f49df4b3138cb79e33ba240b437f78730940a6e48c749129710d45de9e"
+  },
+  "fit_scale": [
+    0.58,
+    0.58,
+    0.542
+  ],
+  "fit_translation": [
+    0,
+    0.014,
+    -0.4407
+  ],
+  "native_character": "mp_m_freemode_01",
+  "head_preserved": true,
+  "barefoot_collection": "male_apt01",
+  "barefoot_drawable": 1,
+  "extreme_stretched_edges": [],
+  "extreme_stretched_edge_count": 0
+}

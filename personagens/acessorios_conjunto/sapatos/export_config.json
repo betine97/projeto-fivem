@@ -1,0 +1,9 @@
+{
+ "component":"feet_001_u", "diffuse":"feet_diff_001_a_uni",
+ "texture_prefix":"mocassins_marrons", "blend":"../CONJUNTO_COMPLETO.blend",
+ "object":"MOCASSINS_MARRONS", "high_ratio":0.20,
+ "skin_objects":["PELE_PES_MOCASSINS","PELE_TORNOZELOS_MOCASSINS"],
+ "overlay_objects":["FORRO_MOCASSINS"],
+ "specular_intensity":0.45, "specular_falloff":55,
+ "source":"C:/Users/erons/Downloads/Meshy_AI_brown_leather_loafers_1005054801_image-to-3d-texture.glb"
+}

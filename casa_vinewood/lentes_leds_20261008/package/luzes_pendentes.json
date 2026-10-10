@@ -1,0 +1,272 @@
+{
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "embedded_in": "stream/mansao_pendentes.ydr",
+  "description": "Six cylinders with full yellow emitting lower faces and three yellow linear sources. Existing narrow floor-reaching beams preserved.",
+  "lights": [
+    {
+      "id": "cylinder_1",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65391,
+        -9.39921,
+        1.77623
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 4.601864337921143,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 16.19048309326172,
+      "outer_angle": 23.121538162231445,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.576229977607727,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_2",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6519,
+        -8.87573,
+        2.21882
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 5.219478130340576,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.91640853881836,
+      "outer_angle": 20.020767211914062,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0188200950622557,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_3",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64823,
+        -8.37012,
+        1.46593
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 4.178225517272949,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 18.2684326171875,
+      "outer_angle": 25.89434242248535,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.2659299850463865,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_4",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65108,
+        -7.83108,
+        2.14434
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 5.114664554595947,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.254257202148438,
+      "outer_angle": 20.485595703125,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.9443400382995604,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_5",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64681,
+        -7.50033,
+        1.89824
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 4.770769119262695,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 15.494318008422852,
+      "outer_angle": 22.17940330505371,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.698239970207214,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_6",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65057,
+        -7.19507,
+        2.1542
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 5.128521919250488,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.208611488342285,
+      "outer_angle": 20.422876358032227,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.9542000770568846,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "linear_1",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.75,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 3.7918663024902344,
+      "intensity": 7.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.424402236938477,
+      "outer_angle": 20.719152450561523,
+      "shadow": false,
+      "floor_radius_m": 0.8,
+      "beam_height_m": 2.115000057220459,
+      "brightness_multiplier_from_previous": 5.185185185185185
+    },
+    {
+      "id": "linear_2",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.0,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 3.7918663024902344,
+      "intensity": 7.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.424402236938477,
+      "outer_angle": 20.719152450561523,
+      "shadow": true,
+      "floor_radius_m": 0.8,
+      "beam_height_m": 2.115000057220459,
+      "brightness_multiplier_from_previous": 5.185185185185185
+    },
+    {
+      "id": "linear_3",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -8.25,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 3.7918663024902344,
+      "intensity": 7.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.424402236938477,
+      "outer_angle": 20.719152450561523,
+      "shadow": false,
+      "floor_radius_m": 0.8,
+      "beam_height_m": 2.115000057220459,
+      "brightness_multiplier_from_previous": 5.185185185185185
+    }
+  ]
+}

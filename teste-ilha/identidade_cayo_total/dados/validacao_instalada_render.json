@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "revision": "cayo-rasteira-distante-20261010-1",
+  "checks": [
+    "1597 installed maps match the new hierarchy; superseded wide HD maps removed",
+    "All 8227 installed asset checksums match the validated staged files",
+    "New groundcover archetypes registered and native texture aliases installed",
+    "Resource scripts parse as valid Lua",
+    "All five map/editor resources started and server HTTP endpoint responds"
+  ],
+  "in_game_visual_verified": false,
+  "server_console_session": 44774
+}

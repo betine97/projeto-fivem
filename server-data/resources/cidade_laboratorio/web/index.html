@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tablet do laboratório</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <main id="overlay" class="hidden" aria-hidden="true">
+    <section class="tablet" aria-label="Navegador do laboratório">
+      <header class="topbar">
+        <div class="brand"><span class="brand-dot"></span><span>LAB / REDE</span></div>
+        <div class="session">TERMINAL 01 <span class="session-dot"></span> ONLINE</div>
+        <button id="close" class="close" type="button" aria-label="Fechar tablet">×</button>
+      </header>
+      <nav class="toolbar" aria-label="Navegação">
+        <button id="back" type="button" title="Voltar" aria-label="Voltar">‹</button>
+        <button id="forward" type="button" title="Avançar" aria-label="Avançar">›</button>
+        <button id="reload" type="button" title="Recarregar" aria-label="Recarregar">↻</button>
+        <button id="home" type="button" title="Início" aria-label="Início">⌂</button>
+        <form id="address-form" autocomplete="off">
+          <span class="lock">◈</span>
+          <input id="address" type="text" inputmode="url" aria-label="Endereço ou pesquisa" placeholder="Digite um endereço ou uma pesquisa">
+          <button id="go" type="submit">IR</button>
+        </form>
+      </nav>
+      <section class="screen">
+        <div id="start" class="start-page">
+          <div class="eyebrow">NAVEGADOR / LABORATÓRIO</div>
+          <h1>Conectado à rede.</h1>
+          <p>Digite um endereço acima para navegar ou pesquise na web. Use o botão × para fechar o tablet.</p>
+          <div class="quick-links">
+            <button type="button" data-url="https://example.com"><span>↗</span><strong>Exemplo</strong><small>Testar conexão</small></button>
+            <button type="button" data-url="https://www.bing.com/search?q=noticias"><span>⌕</span><strong>Pesquisa</strong><small>Buscar na web</small></button>
+          </div>
+          <p class="compatibility">Alguns sites impedem a exibição dentro do jogo. Nesse caso, tente outro endereço.</p>
+        </div>
+        <iframe id="browser" title="Página da internet" referrerpolicy="no-referrer" allow="fullscreen" hidden></iframe>
+      </section>
+      <footer class="footer"><span id="status">Pronto para navegar</span><span>BOTÃO × PARA SAIR</span></footer>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

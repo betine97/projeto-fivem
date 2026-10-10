@@ -1,0 +1,305 @@
+{
+  "passed": true,
+  "assets": [
+    {
+      "model": "mansao_teto",
+      "native_lights": 116,
+      "geometry_material_textures_collision_preserved": true,
+      "bytes": 223553
+    },
+    {
+      "model": "mansao_pendentes",
+      "native_lights": 9,
+      "geometry_material_textures_collision_preserved": true,
+      "bytes": 8061262
+    },
+    {
+      "model": "mansao_tv",
+      "native_lights": 4,
+      "geometry_material_textures_collision_preserved": true,
+      "bytes": 11910288
+    }
+  ],
+  "indoor_native_sources": 149,
+  "existing_fixture_positions_preserved": true,
+  "emissive_multiplier_changes_only": [
+    {
+      "model": "mansao_pendentes",
+      "before": [
+        1.649999976158142,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "after": 2.4
+    },
+    {
+      "model": "mansao_tv",
+      "before": [
+        1.649999976158142,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "after": 2.2
+    }
+  ],
+  "no_geometry_collision_map_weather_changes": true,
+  "no_volumes_coronas_or_script_drawing": true,
+  "relative_distribution": [
+    {
+      "room": "Sala de estar",
+      "samples": 2009,
+      "floor_luminance_median_before": 0.35105816810400514,
+      "floor_luminance_median_after": 0.700056714104717,
+      "median_rgb_after": [
+        0.8206321013684881,
+        0.6820280113885775,
+        0.5243894615865007
+      ],
+      "floor_min_after": 0.014467369788284001,
+      "relative_median_ratio": 1.994133103028433
+    },
+    {
+      "room": "Sala de jantar",
+      "samples": 1653,
+      "floor_luminance_median_before": 0.29729017942241637,
+      "floor_luminance_median_after": 0.6233820179296508,
+      "median_rgb_after": [
+        0.741881914507478,
+        0.6073279342341408,
+        0.4533277171731667
+      ],
+      "floor_min_after": 0.01660148856737862,
+      "relative_median_ratio": 2.096880627341188
+    },
+    {
+      "room": "Cozinha",
+      "samples": 1792,
+      "floor_luminance_median_before": 0.2521630823036767,
+      "floor_luminance_median_after": 0.4035376400865558,
+      "median_rgb_after": [
+        0.4761563701094129,
+        0.39310333003727516,
+        0.29721867814381053
+      ],
+      "floor_min_after": 0.16604728010288977,
+      "relative_median_ratio": 1.6003042015507278
+    },
+    {
+      "room": "Hall de entrada",
+      "samples": 1296,
+      "floor_luminance_median_before": 0.2382024693140562,
+      "floor_luminance_median_after": 0.34076945551505344,
+      "median_rgb_after": [
+        0.3993318650224198,
+        0.33199355052844315,
+        0.255259192151586
+      ],
+      "floor_min_after": 0.16359654532544976,
+      "relative_median_ratio": 1.4305874179069429
+    },
+    {
+      "room": "Escritorio",
+      "samples": 736,
+      "floor_luminance_median_before": 0.3423249092511058,
+      "floor_luminance_median_after": 0.5083255033153327,
+      "median_rgb_after": [
+        0.5956829991425241,
+        0.4952344934047652,
+        0.3807699170989468
+      ],
+      "floor_min_after": 0.21362952883708222,
+      "relative_median_ratio": 1.4849211657643655
+    },
+    {
+      "room": "Lavabo",
+      "samples": 183,
+      "floor_luminance_median_before": 0.30213519822485535,
+      "floor_luminance_median_after": 0.45381109637874784,
+      "median_rgb_after": [
+        0.5318001028316607,
+        0.4421240070600474,
+        0.33993496769239484
+      ],
+      "floor_min_after": 0.24055967332114372,
+      "relative_median_ratio": 1.5020133339148791
+    },
+    {
+      "room": "Escada",
+      "samples": 161,
+      "floor_luminance_median_before": 0.06805764960840517,
+      "floor_luminance_median_after": 0.17779471044897016,
+      "median_rgb_after": [
+        0.20834934635616717,
+        0.17321592716669582,
+        0.1331801704159029
+      ],
+      "floor_min_after": 0.0928800791941778,
+      "relative_median_ratio": 2.612413321235419
+    },
+    {
+      "room": "Despensa",
+      "samples": 193,
+      "floor_luminance_median_before": 0.29011455227728955,
+      "floor_luminance_median_after": 0.41960280652630166,
+      "median_rgb_after": [
+        0.49171300005609697,
+        0.408796690242716,
+        0.3143106627809561
+      ],
+      "floor_min_after": 0.2504209117009621,
+      "relative_median_ratio": 1.4463349157516514
+    },
+    {
+      "room": "Sala TV Jogos",
+      "samples": 400,
+      "floor_luminance_median_before": 0.20882271829197918,
+      "floor_luminance_median_after": 0.3449197430696962,
+      "median_rgb_after": [
+        0.4041953938474134,
+        0.33603695488490837,
+        0.2583680360671702
+      ],
+      "floor_min_after": 0.07124926706732243,
+      "relative_median_ratio": 1.651734762821275
+    },
+    {
+      "room": "Lavanderia",
+      "samples": 233,
+      "floor_luminance_median_before": 0.2262874381164923,
+      "floor_luminance_median_after": 0.34507916738423855,
+      "median_rgb_after": [
+        0.40438221578179095,
+        0.33619227351270464,
+        0.2584874555781644
+      ],
+      "floor_min_after": 0.11037744624461593,
+      "relative_median_ratio": 1.5249594509377604
+    },
+    {
+      "room": "Suite master",
+      "samples": 1333,
+      "floor_luminance_median_before": 0.27910911773848673,
+      "floor_luminance_median_after": 0.4171874605194666,
+      "median_rgb_after": [
+        0.4888825684843293,
+        0.40644354713206976,
+        0.3125014065213556
+      ],
+      "floor_min_after": 0.12395095932125641,
+      "relative_median_ratio": 1.4947109714644053
+    },
+    {
+      "room": "Closet",
+      "samples": 336,
+      "floor_luminance_median_before": 0.18456907599340655,
+      "floor_luminance_median_after": 0.28637122395336323,
+      "median_rgb_after": [
+        0.3355851092264279,
+        0.2789962476705989,
+        0.21451126589767747
+      ],
+      "floor_min_after": 0.03533444399919112,
+      "relative_median_ratio": 1.5515666555300598
+    },
+    {
+      "room": "Banheiro da suite",
+      "samples": 336,
+      "floor_luminance_median_before": 0.1910936538963596,
+      "floor_luminance_median_after": 0.29955415061435414,
+      "median_rgb_after": [
+        0.3510335674282656,
+        0.2918396717442836,
+        0.22438616270904815
+      ],
+      "floor_min_after": 0.04739760050008699,
+      "relative_median_ratio": 1.5675777008106115
+    },
+    {
+      "room": "Quarto 2",
+      "samples": 1888,
+      "floor_luminance_median_before": 0.21690813661978958,
+      "floor_luminance_median_after": 0.3353036387567204,
+      "median_rgb_after": [
+        0.39292672875022394,
+        0.32666849605900966,
+        0.2511649285736725
+      ],
+      "floor_min_after": 0.1774374172904322,
+      "relative_median_ratio": 1.5458324615293801
+    },
+    {
+      "room": "Quarto 3",
+      "samples": 733,
+      "floor_luminance_median_before": 0.28929814544689303,
+      "floor_luminance_median_after": 0.42101128159394,
+      "median_rgb_after": [
+        0.49336352643542725,
+        0.4101688925659238,
+        0.3153657051332338
+      ],
+      "floor_min_after": 0.19559515223394858,
+      "relative_median_ratio": 1.4552851036897705
+    },
+    {
+      "room": "Banheiro social",
+      "samples": 270,
+      "floor_luminance_median_before": 0.30941398486224236,
+      "floor_luminance_median_after": 0.4821039298800212,
+      "median_rgb_after": [
+        0.5649551576230465,
+        0.4696882094748465,
+        0.36112819879433955
+      ],
+      "floor_min_after": 0.3630144436378354,
+      "relative_median_ratio": 1.5581193917096672
+    },
+    {
+      "room": "Circulacao quartos",
+      "samples": 234,
+      "floor_luminance_median_before": 0.22679857219479688,
+      "floor_luminance_median_after": 0.36478059739582325,
+      "median_rgb_after": [
+        0.427469404679762,
+        0.3553863285965081,
+        0.27324514887373025
+      ],
+      "floor_min_after": 0.2863156107770113,
+      "relative_median_ratio": 1.608390184584204
+    },
+    {
+      "room": "Mezanino",
+      "samples": 736,
+      "floor_luminance_median_before": 0.228667091522247,
+      "floor_luminance_median_after": 0.35608902092511363,
+      "median_rgb_after": [
+        0.41728415073208214,
+        0.34691858805961334,
+        0.26673457478168383
+      ],
+      "floor_min_after": 0.1800321915592162,
+      "relative_median_ratio": 1.5572377229911534
+    },
+    {
+      "room": "Sala intima / leitura",
+      "samples": 616,
+      "floor_luminance_median_before": 0.11983028834798204,
+      "floor_luminance_median_after": 0.250635461752597,
+      "median_rgb_after": [
+        0.29370803269660595,
+        0.24418079581051164,
+        0.18774278168449715
+      ],
+      "floor_min_after": 0.02942703152170147,
+      "relative_median_ratio": 2.0915869035110917
+    }
+  ],
+  "wall_median_red_ratio": 10.568700136198446,
+  "visual_match_verified": false,
+  "limitations": [
+    "Mathematical illumination approximation, not a GTA/FiveM screenshot",
+    "Different cameras in user references",
+    "No in-game HDR, occlusion, ambient environment or FPS verification"
+  ]
+}

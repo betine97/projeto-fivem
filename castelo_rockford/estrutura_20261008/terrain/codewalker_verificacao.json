@@ -1,0 +1,128 @@
+﻿[
+    {
+        "file":  "bh1_45_1.ybn",
+        "nativeLoaded":  true,
+        "bytes":  134801,
+        "systemBytes":  262144,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_45_em_c.ydr",
+        "nativeLoaded":  true,
+        "bytes":  467,
+        "systemBytes":  8192,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_45_em_slod_children.ydd",
+        "nativeLoaded":  true,
+        "bytes":  13021,
+        "systemBytes":  57344,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_45_plot4a_d2_1.ydr",
+        "nativeLoaded":  true,
+        "bytes":  35170,
+        "systemBytes":  98304,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_45_plot4a_d2_2.ydr",
+        "nativeLoaded":  true,
+        "bytes":  51241,
+        "systemBytes":  155648,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_45_plot4a_d2_3.ydr",
+        "nativeLoaded":  true,
+        "bytes":  50909,
+        "systemBytes":  163840,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_45_plot4a_ter_dcs.ydr",
+        "nativeLoaded":  true,
+        "bytes":  1591546,
+        "systemBytes":  1531904,
+        "graphicsBytes":  1703936
+    },
+    {
+        "file":  "bh1_45_slod1_children.ydd",
+        "nativeLoaded":  true,
+        "bytes":  541661,
+        "systemBytes":  1400832,
+        "graphicsBytes":  8192
+    },
+    {
+        "file":  "bh1_45_strm_1.ymap",
+        "nativeLoaded":  true,
+        "bytes":  15712,
+        "systemBytes":  57344,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_lod_45_48_children.ydd",
+        "nativeLoaded":  true,
+        "bytes":  352719,
+        "systemBytes":  851968,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_lod_slod3.ydr",
+        "nativeLoaded":  true,
+        "bytes":  448327,
+        "systemBytes":  614400,
+        "graphicsBytes":  524288
+    },
+    {
+        "file":  "bh1_lod_slod3_children.ydd",
+        "nativeLoaded":  true,
+        "bytes":  843363,
+        "systemBytes":  1810432,
+        "graphicsBytes":  786432
+    },
+    {
+        "file":  "bh1_occl_03.ymap",
+        "nativeLoaded":  true,
+        "bytes":  21532,
+        "systemBytes":  32768,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "bh1_occl_07.ymap",
+        "nativeLoaded":  true,
+        "bytes":  21031,
+        "systemBytes":  32768,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "hei_bh1_45_strm_1.ymap",
+        "nativeLoaded":  true,
+        "bytes":  15713,
+        "systemBytes":  57344,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "hei_bh1_occl_03.ymap",
+        "nativeLoaded":  true,
+        "bytes":  21559,
+        "systemBytes":  32768,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "hei_bh1_occl_07.ymap",
+        "nativeLoaded":  true,
+        "bytes":  21423,
+        "systemBytes":  32768,
+        "graphicsBytes":  0
+    },
+    {
+        "file":  "hi@bh1_45_3.ybn",
+        "nativeLoaded":  true,
+        "bytes":  135072,
+        "systemBytes":  245760,
+        "graphicsBytes":  0
+    }
+]

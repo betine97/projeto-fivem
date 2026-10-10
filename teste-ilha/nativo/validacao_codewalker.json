@@ -1,0 +1,756 @@
+﻿{
+    "in_game_verified":  false,
+    "assets":  [
+                   {
+                       "file":  "teste_ilha.ytyp",
+                       "reader":  "YtypFile",
+                       "bytes":  2946
+                   },
+                   {
+                       "file":  "ti_amostra_natural.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  24880
+                   },
+                   {
+                       "file":  "ti_nature.ytyp",
+                       "reader":  "YtypFile",
+                       "bytes":  2157
+                   },
+                   {
+                       "file":  "ti_n_bush_med_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  300357
+                   },
+                   {
+                       "file":  "ti_n_bush_med_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  316702
+                   },
+                   {
+                       "file":  "ti_n_palm_med_01a.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  294920
+                   },
+                   {
+                       "file":  "ti_n_palm_sm_01a.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  286840
+                   },
+                   {
+                       "file":  "ti_n_palm_sm_01d.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  187828
+                   },
+                   {
+                       "file":  "ti_n_prop_rock_4+hi.ytd",
+                       "reader":  "YtdFile",
+                       "bytes":  1098032
+                   },
+                   {
+                       "file":  "ti_n_prop_rock_4.ytd",
+                       "reader":  "YtdFile",
+                       "bytes":  318991
+                   },
+                   {
+                       "file":  "ti_n_prop_veg_palm.ytd",
+                       "reader":  "YtdFile",
+                       "bytes":  1278972
+                   },
+                   {
+                       "file":  "ti_n_rock_1_a.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  530185
+                   },
+                   {
+                       "file":  "ti_n_rock_2_a.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  282787
+                   },
+                   {
+                       "file":  "ti_n_rock_4_c.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  14770
+                   },
+                   {
+                       "file":  "ti_n_tree_eucalip_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  987936
+                   },
+                   {
+                       "file":  "ti_n_veg_grass_01_a.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  216305
+                   },
+                   {
+                       "file":  "ti_n_veg_grass_01_b.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  221006
+                   },
+                   {
+                       "file":  "ti_n_veg_grass_01_c.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  221919
+                   },
+                   {
+                       "file":  "ti_n_z_eucalip_1.ytd",
+                       "reader":  "YtdFile",
+                       "bytes":  1369548
+                   },
+                   {
+                       "file":  "ti_pista.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  729
+                   },
+                   {
+                       "file":  "ti_pista_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1066
+                   },
+                   {
+                       "file":  "ti_sinalizacao.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  8754
+                   },
+                   {
+                       "file":  "ti_sinalizacao_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1086
+                   },
+                   {
+                       "file":  "ti_terreno_00_03.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  285121
+                   },
+                   {
+                       "file":  "ti_terreno_00_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  242855
+                   },
+                   {
+                       "file":  "ti_terreno_00_03_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_00_04.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  281061
+                   },
+                   {
+                       "file":  "ti_terreno_00_04.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  228291
+                   },
+                   {
+                       "file":  "ti_terreno_00_04_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_01_01.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  298513
+                   },
+                   {
+                       "file":  "ti_terreno_01_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  276027
+                   },
+                   {
+                       "file":  "ti_terreno_01_01_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_01_02.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  340714
+                   },
+                   {
+                       "file":  "ti_terreno_01_02.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  400527
+                   },
+                   {
+                       "file":  "ti_terreno_01_02_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_01_03.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  346045
+                   },
+                   {
+                       "file":  "ti_terreno_01_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  404888
+                   },
+                   {
+                       "file":  "ti_terreno_01_03_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_01_04.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  342839
+                   },
+                   {
+                       "file":  "ti_terreno_01_04.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  401059
+                   },
+                   {
+                       "file":  "ti_terreno_01_04_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_01_05.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  297622
+                   },
+                   {
+                       "file":  "ti_terreno_01_05.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  267673
+                   },
+                   {
+                       "file":  "ti_terreno_01_05_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_02_01.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  347069
+                   },
+                   {
+                       "file":  "ti_terreno_02_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  396894
+                   },
+                   {
+                       "file":  "ti_terreno_02_01_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1121
+                   },
+                   {
+                       "file":  "ti_terreno_02_02.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  354323
+                   },
+                   {
+                       "file":  "ti_terreno_02_02.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  417317
+                   },
+                   {
+                       "file":  "ti_terreno_02_02_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1121
+                   },
+                   {
+                       "file":  "ti_terreno_02_03.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  351395
+                   },
+                   {
+                       "file":  "ti_terreno_02_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  405143
+                   },
+                   {
+                       "file":  "ti_terreno_02_03_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1117
+                   },
+                   {
+                       "file":  "ti_terreno_02_04.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  351229
+                   },
+                   {
+                       "file":  "ti_terreno_02_04.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  420292
+                   },
+                   {
+                       "file":  "ti_terreno_02_04_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_02_05.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  344468
+                   },
+                   {
+                       "file":  "ti_terreno_02_05.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  416980
+                   },
+                   {
+                       "file":  "ti_terreno_02_05_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1121
+                   },
+                   {
+                       "file":  "ti_terreno_02_06.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  318618
+                   },
+                   {
+                       "file":  "ti_terreno_02_06.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  323926
+                   },
+                   {
+                       "file":  "ti_terreno_02_06_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1121
+                   },
+                   {
+                       "file":  "ti_terreno_03_01.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  340855
+                   },
+                   {
+                       "file":  "ti_terreno_03_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  2922245
+                   },
+                   {
+                       "file":  "ti_terreno_03_01_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_03_02.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  343653
+                   },
+                   {
+                       "file":  "ti_terreno_03_02.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  390587
+                   },
+                   {
+                       "file":  "ti_terreno_03_02_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_03_03.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  346955
+                   },
+                   {
+                       "file":  "ti_terreno_03_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  402683
+                   },
+                   {
+                       "file":  "ti_terreno_03_03_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1110
+                   },
+                   {
+                       "file":  "ti_terreno_03_04.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  351669
+                   },
+                   {
+                       "file":  "ti_terreno_03_04.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  434405
+                   },
+                   {
+                       "file":  "ti_terreno_03_04_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1115
+                   },
+                   {
+                       "file":  "ti_terreno_03_05.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  351738
+                   },
+                   {
+                       "file":  "ti_terreno_03_05.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  426144
+                   },
+                   {
+                       "file":  "ti_terreno_03_05_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_03_06.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  346983
+                   },
+                   {
+                       "file":  "ti_terreno_03_06.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  431437
+                   },
+                   {
+                       "file":  "ti_terreno_03_06_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_03_07.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  309005
+                   },
+                   {
+                       "file":  "ti_terreno_03_07.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  292994
+                   },
+                   {
+                       "file":  "ti_terreno_03_07_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_04_00.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  298738
+                   },
+                   {
+                       "file":  "ti_terreno_04_00.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  258703
+                   },
+                   {
+                       "file":  "ti_terreno_04_00_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_04_01.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  350652
+                   },
+                   {
+                       "file":  "ti_terreno_04_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  409783
+                   },
+                   {
+                       "file":  "ti_terreno_04_01_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_04_02.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  352733
+                   },
+                   {
+                       "file":  "ti_terreno_04_02.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  432144
+                   },
+                   {
+                       "file":  "ti_terreno_04_02_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_04_03.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  353115
+                   },
+                   {
+                       "file":  "ti_terreno_04_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  433564
+                   },
+                   {
+                       "file":  "ti_terreno_04_03_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1116
+                   },
+                   {
+                       "file":  "ti_terreno_04_04.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  351418
+                   },
+                   {
+                       "file":  "ti_terreno_04_04.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  414164
+                   },
+                   {
+                       "file":  "ti_terreno_04_04_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1115
+                   },
+                   {
+                       "file":  "ti_terreno_04_05.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  350599
+                   },
+                   {
+                       "file":  "ti_terreno_04_05.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  437420
+                   },
+                   {
+                       "file":  "ti_terreno_04_05_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_04_06.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  350687
+                   },
+                   {
+                       "file":  "ti_terreno_04_06.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  428435
+                   },
+                   {
+                       "file":  "ti_terreno_04_06_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_04_07.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  336282
+                   },
+                   {
+                       "file":  "ti_terreno_04_07.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  368031
+                   },
+                   {
+                       "file":  "ti_terreno_04_07_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_05_00.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  296716
+                   },
+                   {
+                       "file":  "ti_terreno_05_00.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  256346
+                   },
+                   {
+                       "file":  "ti_terreno_05_00_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_05_01.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  351912
+                   },
+                   {
+                       "file":  "ti_terreno_05_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  414288
+                   },
+                   {
+                       "file":  "ti_terreno_05_01_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_05_02.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  357833
+                   },
+                   {
+                       "file":  "ti_terreno_05_02.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  447530
+                   },
+                   {
+                       "file":  "ti_terreno_05_02_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_05_03.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  352962
+                   },
+                   {
+                       "file":  "ti_terreno_05_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  431625
+                   },
+                   {
+                       "file":  "ti_terreno_05_03_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_05_04.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  357879
+                   },
+                   {
+                       "file":  "ti_terreno_05_04.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  433526
+                   },
+                   {
+                       "file":  "ti_terreno_05_04_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1116
+                   },
+                   {
+                       "file":  "ti_terreno_05_05.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  348661
+                   },
+                   {
+                       "file":  "ti_terreno_05_05.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  433224
+                   },
+                   {
+                       "file":  "ti_terreno_05_05_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1120
+                   },
+                   {
+                       "file":  "ti_terreno_05_06.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  343597
+                   },
+                   {
+                       "file":  "ti_terreno_05_06.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  411335
+                   },
+                   {
+                       "file":  "ti_terreno_05_06_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_05_07.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  286958
+                   },
+                   {
+                       "file":  "ti_terreno_05_07.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  235820
+                   },
+                   {
+                       "file":  "ti_terreno_05_07_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_06_01.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  317771
+                   },
+                   {
+                       "file":  "ti_terreno_06_01.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  317368
+                   },
+                   {
+                       "file":  "ti_terreno_06_01_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_06_02.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  337324
+                   },
+                   {
+                       "file":  "ti_terreno_06_02.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  382555
+                   },
+                   {
+                       "file":  "ti_terreno_06_02_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1121
+                   },
+                   {
+                       "file":  "ti_terreno_06_03.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  341242
+                   },
+                   {
+                       "file":  "ti_terreno_06_03.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  407675
+                   },
+                   {
+                       "file":  "ti_terreno_06_03_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1117
+                   },
+                   {
+                       "file":  "ti_terreno_06_04.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  346415
+                   },
+                   {
+                       "file":  "ti_terreno_06_04.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  413136
+                   },
+                   {
+                       "file":  "ti_terreno_06_04_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "ti_terreno_06_05.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  324710
+                   },
+                   {
+                       "file":  "ti_terreno_06_05.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  353400
+                   },
+                   {
+                       "file":  "ti_terreno_06_05_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1118
+                   },
+                   {
+                       "file":  "ti_terreno_06_06.ybn",
+                       "reader":  "YbnFile",
+                       "bytes":  279514
+                   },
+                   {
+                       "file":  "ti_terreno_06_06.ydr",
+                       "reader":  "YdrFile",
+                       "bytes":  226184
+                   },
+                   {
+                       "file":  "ti_terreno_06_06_map.ymap",
+                       "reader":  "YmapFile",
+                       "bytes":  1119
+                   },
+                   {
+                       "file":  "_manifest.ymf",
+                       "reader":  "YmfFile",
+                       "bytes":  4560
+                   }
+               ],
+    "passed":  true
+}

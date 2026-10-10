@@ -1,0 +1,231 @@
+{
+  "assets": [
+    {
+      "file": "bh1_22_0.ybn",
+      "reader": "YbnFile",
+      "bytes": 62190
+    },
+    {
+      "file": "bh1_22_base.ydr",
+      "reader": "YdrFile",
+      "bytes": 114600
+    },
+    {
+      "file": "bh1_22_critical_0.ymap",
+      "reader": "YmapFile",
+      "bytes": 1223
+    },
+    {
+      "file": "bh1_22_doorfizz_1.ydr",
+      "reader": "YdrFile",
+      "bytes": 354
+    },
+    {
+      "file": "bh1_22_doorfizz_2.ydr",
+      "reader": "YdrFile",
+      "bytes": 354
+    },
+    {
+      "file": "bh1_22_emissive_22.ydr",
+      "reader": "YdrFile",
+      "bytes": 306
+    },
+    {
+      "file": "bh1_22_emissive_slod_children.ydd",
+      "reader": "YddFile",
+      "bytes": 9908
+    },
+    {
+      "file": "bh1_22_emissivesign.ydr",
+      "reader": "YdrFile",
+      "bytes": 446290
+    },
+    {
+      "file": "bh1_22_fakeint.ydr",
+      "reader": "YdrFile",
+      "bytes": 68724
+    },
+    {
+      "file": "bh1_22_long_0.ymap",
+      "reader": "YmapFile",
+      "bytes": 1493
+    },
+    {
+      "file": "bh1_22_overlays_01.ydr",
+      "reader": "YdrFile",
+      "bytes": 602
+    },
+    {
+      "file": "bh1_22_overlays_02.ydr",
+      "reader": "YdrFile",
+      "bytes": 530
+    },
+    {
+      "file": "bh1_22_overlays_03.ydr",
+      "reader": "YdrFile",
+      "bytes": 1321747
+    },
+    {
+      "file": "bh1_22_overlays_04.ydr",
+      "reader": "YdrFile",
+      "bytes": 419
+    },
+    {
+      "file": "bh1_22_overlays.ydr",
+      "reader": "YdrFile",
+      "bytes": 529
+    },
+    {
+      "file": "bh1_22_slod1_children.ydd",
+      "reader": "YddFile",
+      "bytes": 45701
+    },
+    {
+      "file": "bh1_22_strm_0.ymap",
+      "reader": "YmapFile",
+      "bytes": 2978
+    },
+    {
+      "file": "bh1_22_towerw_dtl.ydr",
+      "reader": "YdrFile",
+      "bytes": 346
+    },
+    {
+      "file": "bh1_22_towerw.ydr",
+      "reader": "YdrFile",
+      "bytes": 131764
+    },
+    {
+      "file": "bh1_lod_17_18_22_children.ydd",
+      "reader": "YddFile",
+      "bytes": 50648
+    },
+    {
+      "file": "bh1_lod_emissive_6_21_slod3_children.ydd",
+      "reader": "YddFile",
+      "bytes": 328025
+    },
+    {
+      "file": "bh1_lod_emissive_6_21_slod3.ydr",
+      "reader": "YdrFile",
+      "bytes": 233236
+    },
+    {
+      "file": "bh1_lod_slod3_children.ydd",
+      "reader": "YddFile",
+      "bytes": 841403
+    },
+    {
+      "file": "bh1_lod_slod3.ydr",
+      "reader": "YdrFile",
+      "bytes": 450224
+    },
+    {
+      "file": "bh1_occl_05.ymap",
+      "reader": "YmapFile",
+      "bytes": 19179
+    },
+    {
+      "file": "hc_exterior.ydr",
+      "reader": "YdrFile",
+      "bytes": 709117
+    },
+    {
+      "file": "hc_jardins.ydr",
+      "reader": "YdrFile",
+      "bytes": 824102
+    },
+    {
+      "file": "hc_mobiliario_0.ydr",
+      "reader": "YdrFile",
+      "bytes": 3934852
+    },
+    {
+      "file": "hc_mobiliario_1.ydr",
+      "reader": "YdrFile",
+      "bytes": 4902081
+    },
+    {
+      "file": "hc_porta_clinica.ydr",
+      "reader": "YdrFile",
+      "bytes": 8731
+    },
+    {
+      "file": "hc_porta_entrada.ydr",
+      "reader": "YdrFile",
+      "bytes": 7479
+    },
+    {
+      "file": "hc_superior.ydr",
+      "reader": "YdrFile",
+      "bytes": 716365
+    },
+    {
+      "file": "hc_terreo.ydr",
+      "reader": "YdrFile",
+      "bytes": 661073
+    },
+    {
+      "file": "hei_bh1_22_0.ybn",
+      "reader": "YbnFile",
+      "bytes": 60476
+    },
+    {
+      "file": "hei_bh1_22_critical_0.ymap",
+      "reader": "YmapFile",
+      "bytes": 1241
+    },
+    {
+      "file": "hei_bh1_22_long_0.ymap",
+      "reader": "YmapFile",
+      "bytes": 1510
+    },
+    {
+      "file": "hei_bh1_22_strm_0.ymap",
+      "reader": "YmapFile",
+      "bytes": 2975
+    },
+    {
+      "file": "hei_bh1_occl_05.ymap",
+      "reader": "YmapFile",
+      "bytes": 19194
+    },
+    {
+      "file": "hi@bh1_22_0.ybn",
+      "reader": "YbnFile",
+      "bytes": 51949
+    },
+    {
+      "file": "hi@hei_bh1_22_0.ybn",
+      "reader": "YbnFile",
+      "bytes": 51007
+    },
+    {
+      "file": "hospital_carcer.ybn",
+      "reader": "YbnFile",
+      "bytes": 244874
+    },
+    {
+      "file": "hospital_carcer.ymap",
+      "reader": "YmapFile",
+      "bytes": 1210
+    },
+    {
+      "file": "hospital_carcer.ytyp",
+      "reader": "YtypFile",
+      "bytes": 1028
+    },
+    {
+      "file": "ma@bh1_22_0.ybn",
+      "reader": "YbnFile",
+      "bytes": 2763
+    },
+    {
+      "file": "ma@hei_bh1_22_0.ybn",
+      "reader": "YbnFile",
+      "bytes": 2562
+    }
+  ],
+  "in_game_verified": false,
+  "passed": true
+}

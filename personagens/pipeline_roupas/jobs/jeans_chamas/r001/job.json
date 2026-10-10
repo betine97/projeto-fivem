@@ -1,0 +1,55 @@
+{
+  "pipeline_version": 1,
+  "name": "jeans_chamas",
+  "revision": "r001",
+  "base_id": "8552b45e2ad8",
+  "base_manifest_sha256": "af7b451506806369279c5315d5eeedb063cd454138b94ac6061b3266be4d22b7",
+  "reference_image": "codex-clipboard-3b390b37-8593-46f3-9aa8-a6966c6977d0.png",
+  "material": {
+    "albedo_atlas": "atlas_calca.png",
+    "preserve_native_normal_specular": true
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_jeans_chamas_r001",
+    "prefix": "mp_m_freemode_01_cidade_jeans_chamas_r001",
+    "local_index": 0
+  },
+  "review": {
+    "positions": true,
+    "appearance": true,
+    "in_game": false
+  },
+  "notes": [
+    "Same approved lowr_001_r base; original model/UV/weights/LODs/materials preserved. Independent variation, component 4 only.",
+    "Front reference mapped to native silhouette. Back textile inferred from unprinted supplied waist fabric, retaining native pocket/fold shading.",
+    "Nonrepeating transparent flame canvases share the same physical vertical frame: taller front artwork, shorter back artwork. No mirrored front flames on back.",
+    "Back weave uses the supplied cloth crop tone (20th RGB percentile) and 4% fiber contrast to avoid repeating photographic whiskers; native normal/specular and fold shading remain."
+  ],
+  "display_title": "Jeans preto com chamas",
+  "pattern_scale": 28,
+  "clean_back_crop": [
+    0.08,
+    0.05,
+    0.16,
+    0.16
+  ],
+  "flame_art": {
+    "front": "chamas_frente.png",
+    "back": "chamas_costas.png",
+    "z_bottom": -0.97,
+    "z_top": -0.24,
+    "canvas_uv_left": [
+      0.04,
+      0.49
+    ],
+    "canvas_uv_right": [
+      0.55,
+      0.97
+    ]
+  },
+  "hem_panel_weight": 0,
+  "clean_back_contrast": 0.04
+}

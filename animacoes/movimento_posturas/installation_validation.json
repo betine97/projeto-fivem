@@ -1,0 +1,17 @@
+{
+  "game_tested": false,
+  "installed_dictionary_sha256": {
+    "cidade_mira_v9_deitado_ar": "983c28818927d5e9b4b7709ca732b892daf507b368e4954c317c4ee91b07d922",
+    "cidade_mira_v9_deitado_ak": "eee05c2ea893e91e4be7d94cca671c7b8c26b097b2853b3b60e55da76ed074f5",
+    "cidade_mira_v9_ajoelhado_ar": "8c6e5f407791839f70359b0a46046374792554dc8cf74647029570fe6cc63f28",
+    "cidade_mira_v9_ajoelhado_ak": "f92be503c2b6524e73a67013197e8bdc4ae5d9adc8e1d0f458359a755913a44a",
+    "cidade_rastejar_v9_ar": "35287c1d5fc506b4f0a5d513154f140011975303a75b9b87f57c099e24262ba9",
+    "cidade_rastejar_v9_ak": "2fb5aa85b5bd0acab624b01db7bfb309b1941eaae82135823f045dc3cf980b64"
+  },
+  "runtime_sources_sha256": {
+    "prone.lua": "826b38a44232d873dbbc555c55c90795fdfc7a1f23c628782e0279bde461ea8f",
+    "posture_movement.lua": "5b45b7088da9544670bed992f8de9ccd41bfd0ca280595eb2ece1a6fc70a06b5"
+  },
+  "stationary_frames": 270,
+  "crawl_samples": 5280
+}

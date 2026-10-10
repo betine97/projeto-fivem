@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "instances": 2,
+  "files": {
+    "mansao_vasos_autorais.ymap": "1da0bb2138402fc994770f4c288105d985859614a146f15ac65cdd6aff4f5bd3",
+    "mansao_vasos_autorais.ytyp": "02433adbf0bc5363d2dc89d2738c41032a42e03dc601a9a0b6e5830bd3071170",
+    "mansao_vaso_folhagem.ydr": "c785e5ad0d7df8a8fc8534dc56b28634c5fc17abdfdefd45a6e91d7b9408430d"
+  },
+  "previous_stream_files_preserved": 46,
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_vasos_autorais_20261008_101408",
+  "resource_reload_required": true,
+  "in_game_verified": false
+}

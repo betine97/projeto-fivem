@@ -1,0 +1,9 @@
+{
+  "bearDrawable": {
+    "sphereRadius": 2.3345819,
+    "minX": -1.8749967,
+    "maxX": 1.8749967
+  },
+  "passed": true,
+  "validated": 42
+}

@@ -1,0 +1,2196 @@
+{
+  "status": "Estudo inicial; adaptado ao candidato aceito, sem instalacao FiveM",
+  "native_model": "ch2_09b_hs05",
+  "native_origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "interior_origin_relative_native": [
+    -8.800000190734863,
+    -12.850000381469727,
+    -0.800000011920929
+  ],
+  "dimensions_m": [
+    22.5,
+    20.0
+  ],
+  "levels_m": [
+    0,
+    3.608,
+    7.288
+  ],
+  "areas_brutas_estudo_m2": {
+    "terreo": 450.0,
+    "superior": 321.57,
+    "total": 771.57,
+    "vazio_sala": 136.8,
+    "vazio_escada": 11.34
+  },
+  "stairs": {
+    "risers": 20,
+    "riser_height_m": 0.1804,
+    "tread_depth_m": 0.3,
+    "flight_width_m": 1.2,
+    "intermediate_landing_depth_m": 1.2,
+    "upper_floor_opening": [
+      8.5,
+      11.3,
+      15.7,
+      19.75
+    ]
+  },
+  "rooms": [
+    {
+      "level": "terreo",
+      "name": "Sala de estar",
+      "bounds": [
+        0,
+        8,
+        0,
+        12
+      ],
+      "area_bruta_referencia_m2": 96
+    },
+    {
+      "level": "terreo",
+      "name": "Sala de jantar",
+      "bounds": [
+        8,
+        15.2,
+        0,
+        12
+      ],
+      "area_bruta_referencia_m2": 86.4
+    },
+    {
+      "level": "terreo",
+      "name": "Cozinha",
+      "bounds": [
+        15.2,
+        22.5,
+        0,
+        12
+      ],
+      "area_bruta_referencia_m2": 87.6
+    },
+    {
+      "level": "terreo",
+      "name": "Hall de entrada",
+      "bounds": [
+        0,
+        22.5,
+        12,
+        15.2
+      ],
+      "area_bruta_referencia_m2": 72.0
+    },
+    {
+      "level": "terreo",
+      "name": "Escritorio",
+      "bounds": [
+        0,
+        5.4,
+        15.2,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 25.92
+    },
+    {
+      "level": "terreo",
+      "name": "Lavabo",
+      "bounds": [
+        5.4,
+        8.2,
+        15.2,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 13.44
+    },
+    {
+      "level": "terreo",
+      "name": "Escada",
+      "bounds": [
+        8.2,
+        11.4,
+        15.2,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 15.36
+    },
+    {
+      "level": "terreo",
+      "name": "Despensa",
+      "bounds": [
+        11.4,
+        14.5,
+        15.2,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 14.88
+    },
+    {
+      "level": "terreo",
+      "name": "Sala TV Jogos",
+      "bounds": [
+        14.5,
+        19.3,
+        15.2,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 23.04
+    },
+    {
+      "level": "terreo",
+      "name": "Lavanderia",
+      "bounds": [
+        19.3,
+        22.5,
+        15.2,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 15.36
+    },
+    {
+      "level": "superior",
+      "name": "Suite master",
+      "bounds": [
+        0,
+        8,
+        14,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 48.0
+    },
+    {
+      "level": "superior",
+      "name": "Closet",
+      "bounds": [
+        0,
+        4,
+        9,
+        14
+      ],
+      "area_bruta_referencia_m2": 20
+    },
+    {
+      "level": "superior",
+      "name": "Banheiro da suite",
+      "bounds": [
+        4,
+        8,
+        9,
+        14
+      ],
+      "area_bruta_referencia_m2": 20
+    },
+    {
+      "level": "superior",
+      "name": "Quarto 2",
+      "bounds": [
+        15.2,
+        22.5,
+        -2.7,
+        10
+      ],
+      "area_bruta_referencia_m2": 92.71
+    },
+    {
+      "level": "superior",
+      "name": "Quarto 3",
+      "bounds": [
+        15.2,
+        22.5,
+        14.5,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 40.15
+    },
+    {
+      "level": "superior",
+      "name": "Banheiro social",
+      "bounds": [
+        18.6,
+        22.5,
+        10,
+        14.5
+      ],
+      "area_bruta_referencia_m2": 17.55
+    },
+    {
+      "level": "superior",
+      "name": "Circulacao quartos",
+      "bounds": [
+        15.2,
+        18.6,
+        10,
+        14.5
+      ],
+      "area_bruta_referencia_m2": 15.3
+    },
+    {
+      "level": "superior",
+      "name": "Mezanino",
+      "bounds": [
+        8,
+        15.2,
+        9,
+        14.5
+      ],
+      "area_bruta_referencia_m2": 39.6
+    },
+    {
+      "level": "superior",
+      "name": "Sala intima / leitura",
+      "bounds": [
+        8,
+        15.2,
+        14.5,
+        20.0
+      ],
+      "area_bruta_referencia_m2": 28.26
+    }
+  ],
+  "door_openings": [
+    {
+      "name": "Frente sala vidro",
+      "axis": "X",
+      "fixed": 0,
+      "opening": [
+        0.7,
+        5.95,
+        0,
+        7.0680000000000005
+      ],
+      "key": "outer"
+    },
+    {
+      "name": "Entrada sob volume superior",
+      "axis": "X",
+      "fixed": 0,
+      "opening": [
+        16,
+        17.3,
+        0,
+        2.5
+      ],
+      "key": "outer"
+    },
+    {
+      "name": "Lateral esquerda",
+      "axis": "Y",
+      "fixed": 0,
+      "opening": [
+        6.6,
+        7.6,
+        0,
+        2.3
+      ],
+      "key": "outer"
+    },
+    {
+      "name": "Lateral direita",
+      "axis": "Y",
+      "fixed": 22.5,
+      "opening": [
+        10.5,
+        11.6,
+        0,
+        2.3
+      ],
+      "key": "outer"
+    },
+    {
+      "name": "Hall para Escritorio",
+      "axis": "X",
+      "fixed": 15.2,
+      "opening": [
+        2.1750000000000003,
+        3.2250000000000005,
+        0,
+        2.5
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall para Lavabo",
+      "axis": "X",
+      "fixed": 15.2,
+      "opening": [
+        6.2749999999999995,
+        7.324999999999999,
+        0,
+        2.5
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall para Escada",
+      "axis": "X",
+      "fixed": 15.2,
+      "opening": [
+        8.55,
+        11.2,
+        0,
+        3.358
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall para Despensa",
+      "axis": "X",
+      "fixed": 15.2,
+      "opening": [
+        12.424999999999999,
+        13.475,
+        0,
+        2.5
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall para Sala TV Jogos",
+      "axis": "X",
+      "fixed": 15.2,
+      "opening": [
+        16.375,
+        17.425,
+        0,
+        2.5
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall para Lavanderia",
+      "axis": "X",
+      "fixed": 15.2,
+      "opening": [
+        20.375,
+        21.425,
+        0,
+        2.5
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall estar",
+      "axis": "X",
+      "fixed": 12,
+      "opening": [
+        4.9,
+        7.2,
+        0,
+        3.358
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall jantar",
+      "axis": "X",
+      "fixed": 12,
+      "opening": [
+        9,
+        13.3,
+        0,
+        3.358
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Hall cozinha",
+      "axis": "X",
+      "fixed": 12,
+      "opening": [
+        16.2,
+        18.2,
+        0,
+        3.358
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Cozinha lateral",
+      "axis": "Y",
+      "fixed": 15.2,
+      "opening": [
+        3,
+        8.4,
+        0,
+        3.358
+      ],
+      "key": "ground"
+    },
+    {
+      "name": "Suite master lado hall",
+      "axis": "Y",
+      "fixed": 8,
+      "opening": [
+        14.35,
+        15.45,
+        3.608,
+        6.1080000000000005
+      ],
+      "key": "upper"
+    },
+    {
+      "name": "Suite closet banheiro",
+      "axis": "X",
+      "fixed": 14,
+      "opening": [
+        2.4,
+        3.45,
+        3.608,
+        6.1080000000000005
+      ],
+      "key": "upper"
+    },
+    {
+      "name": "Suite closet banheiro",
+      "axis": "X",
+      "fixed": 14,
+      "opening": [
+        5.5,
+        6.55,
+        3.608,
+        6.1080000000000005
+      ],
+      "key": "upper"
+    },
+    {
+      "name": "Banheiro suite acesso hall",
+      "axis": "Y",
+      "fixed": 8,
+      "opening": [
+        11.55,
+        12.600000000000001,
+        3.608,
+        6.1080000000000005
+      ],
+      "key": "upper"
+    },
+    {
+      "name": "Quarto 2 fundos",
+      "axis": "X",
+      "fixed": 10,
+      "opening": [
+        16,
+        17.1,
+        3.608,
+        6.1080000000000005
+      ],
+      "key": "upper"
+    },
+    {
+      "name": "Quarto 3 frente",
+      "axis": "X",
+      "fixed": 14.5,
+      "opening": [
+        16,
+        17.1,
+        3.608,
+        6.1080000000000005
+      ],
+      "key": "upper"
+    },
+    {
+      "name": "Banheiro social lado hall",
+      "axis": "Y",
+      "fixed": 18.6,
+      "opening": [
+        11.5,
+        12.55,
+        3.608,
+        6.1080000000000005
+      ],
+      "key": "upper"
+    }
+  ],
+  "validation": {
+    "upper_slab_voids_clear": true,
+    "stair_rise_matches_floor": true,
+    "arrival_contiguous": true,
+    "closed_room_access_openings": true
+  },
+  "boxes": [
+    {
+      "name": "Frente sala vidro_00_0",
+      "key": "outer",
+      "bounds": [
+        0,
+        0.7,
+        -0.09,
+        0.09,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Frente sala vidro_01_0",
+      "key": "outer",
+      "bounds": [
+        0.7,
+        5.95,
+        -0.09,
+        0.09,
+        7.0680000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Frente sala vidro_02_0",
+      "key": "outer",
+      "bounds": [
+        5.95,
+        15.2,
+        -0.09,
+        0.09,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Entrada sob volume superior_00_0",
+      "key": "outer",
+      "bounds": [
+        15.2,
+        16,
+        -0.09,
+        0.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Entrada sob volume superior_01_0",
+      "key": "outer",
+      "bounds": [
+        16,
+        17.3,
+        -0.09,
+        0.09,
+        2.5,
+        3.358
+      ]
+    },
+    {
+      "name": "Entrada sob volume superior_02_0",
+      "key": "outer",
+      "bounds": [
+        17.3,
+        22.5,
+        -0.09,
+        0.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Volume superior frente_00_0",
+      "key": "outer",
+      "bounds": [
+        15.2,
+        15.55,
+        -2.79,
+        -2.6100000000000003,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Volume superior frente_01_0",
+      "key": "outer",
+      "bounds": [
+        15.55,
+        21.95,
+        -2.79,
+        -2.6100000000000003,
+        3.608,
+        3.908
+      ]
+    },
+    {
+      "name": "Volume superior frente_01_1",
+      "key": "outer",
+      "bounds": [
+        15.55,
+        21.95,
+        -2.79,
+        -2.6100000000000003,
+        6.988,
+        7.288
+      ]
+    },
+    {
+      "name": "Volume superior frente_02_0",
+      "key": "outer",
+      "bounds": [
+        21.95,
+        22.5,
+        -2.79,
+        -2.6100000000000003,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Volume superior lateral_00_0",
+      "key": "outer",
+      "bounds": [
+        15.11,
+        15.29,
+        -2.7,
+        0,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Volume superior lateral direita_00_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        -2.7,
+        0,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral esquerda_00_0",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        0,
+        2.5,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral esquerda_01_0",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        2.5,
+        4.0,
+        0,
+        4.6080000000000005
+      ]
+    },
+    {
+      "name": "Lateral esquerda_01_1",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        2.5,
+        4.0,
+        6.008,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral esquerda_02_0",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        4.0,
+        6.6,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral esquerda_03_0",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        6.6,
+        7.6,
+        2.3,
+        4.6080000000000005
+      ]
+    },
+    {
+      "name": "Lateral esquerda_03_1",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        6.6,
+        7.6,
+        6.008,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral esquerda_04_0",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        7.6,
+        10.1,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral esquerda_05_0",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        10.1,
+        12.7,
+        0,
+        4.6080000000000005
+      ]
+    },
+    {
+      "name": "Lateral esquerda_05_1",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        10.1,
+        12.7,
+        6.008,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral esquerda_06_0",
+      "key": "outer",
+      "bounds": [
+        -0.09,
+        0.09,
+        12.7,
+        20.0,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral direita_00_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        0,
+        4,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral direita_01_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        4,
+        6.6,
+        0,
+        4.6080000000000005
+      ]
+    },
+    {
+      "name": "Lateral direita_01_1",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        4,
+        6.6,
+        6.008,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral direita_02_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        6.6,
+        10.5,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral direita_03_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        10.5,
+        11.6,
+        2.3,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral direita_04_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        11.6,
+        15.6,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral direita_05_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        15.6,
+        18.6,
+        0,
+        4.6080000000000005
+      ]
+    },
+    {
+      "name": "Lateral direita_05_1",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        15.6,
+        18.6,
+        6.008,
+        7.288
+      ]
+    },
+    {
+      "name": "Lateral direita_06_0",
+      "key": "outer",
+      "bounds": [
+        22.41,
+        22.59,
+        18.6,
+        20.0,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_00_0",
+      "key": "outer",
+      "bounds": [
+        0,
+        1,
+        19.91,
+        20.09,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_01_0",
+      "key": "outer",
+      "bounds": [
+        1,
+        4.6,
+        19.91,
+        20.09,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Fundos_01_1",
+      "key": "outer",
+      "bounds": [
+        1,
+        4.6,
+        19.91,
+        20.09,
+        2.6,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_02_0",
+      "key": "outer",
+      "bounds": [
+        4.6,
+        6,
+        19.91,
+        20.09,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_03_0",
+      "key": "outer",
+      "bounds": [
+        6,
+        7.5,
+        19.91,
+        20.09,
+        0,
+        1.2
+      ]
+    },
+    {
+      "name": "Fundos_03_1",
+      "key": "outer",
+      "bounds": [
+        6,
+        7.5,
+        19.91,
+        20.09,
+        2.5,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_04_0",
+      "key": "outer",
+      "bounds": [
+        7.5,
+        9,
+        19.91,
+        20.09,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_05_0",
+      "key": "outer",
+      "bounds": [
+        9,
+        10.8,
+        19.91,
+        20.09,
+        0,
+        4.708
+      ]
+    },
+    {
+      "name": "Fundos_05_1",
+      "key": "outer",
+      "bounds": [
+        9,
+        10.8,
+        19.91,
+        20.09,
+        6.988,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_06_0",
+      "key": "outer",
+      "bounds": [
+        10.8,
+        16.5,
+        19.91,
+        20.09,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_07_0",
+      "key": "outer",
+      "bounds": [
+        16.5,
+        19.8,
+        19.91,
+        20.09,
+        0,
+        4.408
+      ]
+    },
+    {
+      "name": "Fundos_07_1",
+      "key": "outer",
+      "bounds": [
+        16.5,
+        19.8,
+        19.91,
+        20.09,
+        6.988,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_08_0",
+      "key": "outer",
+      "bounds": [
+        19.8,
+        20.6,
+        19.91,
+        20.09,
+        0,
+        0.9
+      ]
+    },
+    {
+      "name": "Fundos_08_1",
+      "key": "outer",
+      "bounds": [
+        19.8,
+        20.6,
+        19.91,
+        20.09,
+        2.5,
+        4.408
+      ]
+    },
+    {
+      "name": "Fundos_08_2",
+      "key": "outer",
+      "bounds": [
+        19.8,
+        20.6,
+        19.91,
+        20.09,
+        6.988,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_09_0",
+      "key": "outer",
+      "bounds": [
+        20.6,
+        21.5,
+        19.91,
+        20.09,
+        0,
+        0.9
+      ]
+    },
+    {
+      "name": "Fundos_09_1",
+      "key": "outer",
+      "bounds": [
+        20.6,
+        21.5,
+        19.91,
+        20.09,
+        2.5,
+        7.288
+      ]
+    },
+    {
+      "name": "Fundos_10_0",
+      "key": "outer",
+      "bounds": [
+        21.5,
+        22.5,
+        19.91,
+        20.09,
+        0,
+        7.288
+      ]
+    },
+    {
+      "name": "Piso terreo",
+      "key": "slabs",
+      "bounds": [
+        0,
+        22.5,
+        0,
+        20.0,
+        -0.25,
+        0
+      ]
+    },
+    {
+      "name": "Hall para Escritorio_00_0",
+      "key": "ground",
+      "bounds": [
+        0,
+        2.1750000000000003,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Escritorio_01_0",
+      "key": "ground",
+      "bounds": [
+        2.1750000000000003,
+        3.2250000000000005,
+        15.11,
+        15.29,
+        2.5,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Escritorio_02_0",
+      "key": "ground",
+      "bounds": [
+        3.2250000000000005,
+        5.4,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Lavabo_00_0",
+      "key": "ground",
+      "bounds": [
+        5.4,
+        6.2749999999999995,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Lavabo_01_0",
+      "key": "ground",
+      "bounds": [
+        6.2749999999999995,
+        7.324999999999999,
+        15.11,
+        15.29,
+        2.5,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Lavabo_02_0",
+      "key": "ground",
+      "bounds": [
+        7.324999999999999,
+        8.2,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Escada_00_0",
+      "key": "ground",
+      "bounds": [
+        8.2,
+        8.55,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Escada_02_0",
+      "key": "ground",
+      "bounds": [
+        11.2,
+        11.4,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Despensa_00_0",
+      "key": "ground",
+      "bounds": [
+        11.4,
+        12.424999999999999,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Despensa_01_0",
+      "key": "ground",
+      "bounds": [
+        12.424999999999999,
+        13.475,
+        15.11,
+        15.29,
+        2.5,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Despensa_02_0",
+      "key": "ground",
+      "bounds": [
+        13.475,
+        14.5,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Sala TV Jogos_00_0",
+      "key": "ground",
+      "bounds": [
+        14.5,
+        16.375,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Sala TV Jogos_01_0",
+      "key": "ground",
+      "bounds": [
+        16.375,
+        17.425,
+        15.11,
+        15.29,
+        2.5,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Sala TV Jogos_02_0",
+      "key": "ground",
+      "bounds": [
+        17.425,
+        19.3,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Lavanderia_00_0",
+      "key": "ground",
+      "bounds": [
+        19.3,
+        20.375,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Lavanderia_01_0",
+      "key": "ground",
+      "bounds": [
+        20.375,
+        21.425,
+        15.11,
+        15.29,
+        2.5,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall para Lavanderia_02_0",
+      "key": "ground",
+      "bounds": [
+        21.425,
+        22.5,
+        15.11,
+        15.29,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Divisoria apoio 5.4_00_0",
+      "key": "ground",
+      "bounds": [
+        5.3100000000000005,
+        5.49,
+        15.2,
+        20.0,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Divisoria apoio 8.2_00_0",
+      "key": "ground",
+      "bounds": [
+        8.11,
+        8.29,
+        15.2,
+        20.0,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Divisoria apoio 11.4_00_0",
+      "key": "ground",
+      "bounds": [
+        11.31,
+        11.49,
+        15.2,
+        20.0,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Divisoria apoio 14.5_00_0",
+      "key": "ground",
+      "bounds": [
+        14.41,
+        14.59,
+        15.2,
+        20.0,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Divisoria apoio 19.3_00_0",
+      "key": "ground",
+      "bounds": [
+        19.21,
+        19.39,
+        15.2,
+        20.0,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall estar_00_0",
+      "key": "ground",
+      "bounds": [
+        0,
+        4.9,
+        11.91,
+        12.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall estar_02_0",
+      "key": "ground",
+      "bounds": [
+        7.2,
+        8,
+        11.91,
+        12.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall jantar_00_0",
+      "key": "ground",
+      "bounds": [
+        8,
+        9,
+        11.91,
+        12.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall jantar_02_0",
+      "key": "ground",
+      "bounds": [
+        13.3,
+        15.2,
+        11.91,
+        12.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall cozinha_00_0",
+      "key": "ground",
+      "bounds": [
+        15.2,
+        16.2,
+        11.91,
+        12.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Hall cozinha_02_0",
+      "key": "ground",
+      "bounds": [
+        18.2,
+        22.5,
+        11.91,
+        12.09,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Cozinha lateral_00_0",
+      "key": "ground",
+      "bounds": [
+        15.11,
+        15.29,
+        0,
+        3,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Cozinha lateral_02_0",
+      "key": "ground",
+      "bounds": [
+        15.11,
+        15.29,
+        8.4,
+        12,
+        0,
+        3.358
+      ]
+    },
+    {
+      "name": "Laje superior_0_1",
+      "key": "slabs",
+      "bounds": [
+        0,
+        8.5,
+        9.0,
+        15.7,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_0_2",
+      "key": "slabs",
+      "bounds": [
+        0,
+        8.5,
+        15.7,
+        19.75,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_0_3",
+      "key": "slabs",
+      "bounds": [
+        0,
+        8.5,
+        19.75,
+        20.0,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_1_1",
+      "key": "slabs",
+      "bounds": [
+        8.5,
+        11.3,
+        9.0,
+        15.7,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_1_3",
+      "key": "slabs",
+      "bounds": [
+        8.5,
+        11.3,
+        19.75,
+        20.0,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_2_1",
+      "key": "slabs",
+      "bounds": [
+        11.3,
+        15.2,
+        9.0,
+        15.7,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_2_2",
+      "key": "slabs",
+      "bounds": [
+        11.3,
+        15.2,
+        15.7,
+        19.75,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_2_3",
+      "key": "slabs",
+      "bounds": [
+        11.3,
+        15.2,
+        19.75,
+        20.0,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_3_0",
+      "key": "slabs",
+      "bounds": [
+        15.2,
+        22.5,
+        0,
+        9.0,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_3_1",
+      "key": "slabs",
+      "bounds": [
+        15.2,
+        22.5,
+        9.0,
+        15.7,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_3_2",
+      "key": "slabs",
+      "bounds": [
+        15.2,
+        22.5,
+        15.7,
+        19.75,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Laje superior_3_3",
+      "key": "slabs",
+      "bounds": [
+        15.2,
+        22.5,
+        19.75,
+        20.0,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Piso avancado quarto 2",
+      "key": "slabs",
+      "bounds": [
+        15.2,
+        22.5,
+        -2.7,
+        0,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Suite master lado hall_00_0",
+      "key": "upper",
+      "bounds": [
+        7.91,
+        8.09,
+        14,
+        14.35,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Suite master lado hall_01_0",
+      "key": "upper",
+      "bounds": [
+        7.91,
+        8.09,
+        14.35,
+        15.45,
+        6.1080000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Suite master lado hall_02_0",
+      "key": "upper",
+      "bounds": [
+        7.91,
+        8.09,
+        15.45,
+        20.0,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Suite closet banheiro_00_0",
+      "key": "upper",
+      "bounds": [
+        0,
+        2.4,
+        13.91,
+        14.09,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Suite closet banheiro_01_0",
+      "key": "upper",
+      "bounds": [
+        2.4,
+        3.45,
+        13.91,
+        14.09,
+        6.1080000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Suite closet banheiro_02_0",
+      "key": "upper",
+      "bounds": [
+        3.45,
+        5.5,
+        13.91,
+        14.09,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Suite closet banheiro_03_0",
+      "key": "upper",
+      "bounds": [
+        5.5,
+        6.55,
+        13.91,
+        14.09,
+        6.1080000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Suite closet banheiro_04_0",
+      "key": "upper",
+      "bounds": [
+        6.55,
+        8,
+        13.91,
+        14.09,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Closet banheiro divisoria_00_0",
+      "key": "upper",
+      "bounds": [
+        3.91,
+        4.09,
+        9,
+        14,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Banheiro suite acesso hall_00_0",
+      "key": "upper",
+      "bounds": [
+        7.91,
+        8.09,
+        9,
+        11.55,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Banheiro suite acesso hall_01_0",
+      "key": "upper",
+      "bounds": [
+        7.91,
+        8.09,
+        11.55,
+        12.600000000000001,
+        6.1080000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Banheiro suite acesso hall_02_0",
+      "key": "upper",
+      "bounds": [
+        7.91,
+        8.09,
+        12.600000000000001,
+        14,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Closet limite vazio_00_0",
+      "key": "upper",
+      "bounds": [
+        0,
+        4,
+        8.91,
+        9.09,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Banheiro limite vazio_00_0",
+      "key": "upper",
+      "bounds": [
+        4,
+        8,
+        8.91,
+        9.09,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 2 fundos_00_0",
+      "key": "upper",
+      "bounds": [
+        15.2,
+        16,
+        9.91,
+        10.09,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 2 fundos_01_0",
+      "key": "upper",
+      "bounds": [
+        16,
+        17.1,
+        9.91,
+        10.09,
+        6.1080000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 2 fundos_02_0",
+      "key": "upper",
+      "bounds": [
+        17.1,
+        22.5,
+        9.91,
+        10.09,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 2 lateral vazio_00_0",
+      "key": "upper",
+      "bounds": [
+        15.11,
+        15.29,
+        0,
+        10,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 3 frente_00_0",
+      "key": "upper",
+      "bounds": [
+        15.2,
+        16,
+        14.41,
+        14.59,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 3 frente_01_0",
+      "key": "upper",
+      "bounds": [
+        16,
+        17.1,
+        14.41,
+        14.59,
+        6.1080000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 3 frente_02_0",
+      "key": "upper",
+      "bounds": [
+        17.1,
+        22.5,
+        14.41,
+        14.59,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Quarto 3 lado leitura_00_0",
+      "key": "upper",
+      "bounds": [
+        15.11,
+        15.29,
+        14.5,
+        20.0,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Banheiro social lado hall_00_0",
+      "key": "upper",
+      "bounds": [
+        18.51,
+        18.69,
+        10,
+        11.5,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Banheiro social lado hall_01_0",
+      "key": "upper",
+      "bounds": [
+        18.51,
+        18.69,
+        11.5,
+        12.55,
+        6.1080000000000005,
+        7.288
+      ]
+    },
+    {
+      "name": "Banheiro social lado hall_02_0",
+      "key": "upper",
+      "bounds": [
+        18.51,
+        18.69,
+        12.55,
+        14.5,
+        3.608,
+        7.288
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 01",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        15.8,
+        16.1,
+        0,
+        0.1804
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 02",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        16.1,
+        16.400000000000002,
+        0,
+        0.3608
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 03",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        16.400000000000002,
+        16.7,
+        0,
+        0.5412
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 04",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        16.7,
+        17.0,
+        0,
+        0.7216
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 05",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        17.0,
+        17.3,
+        0,
+        0.902
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 06",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        17.3,
+        17.6,
+        0,
+        1.0824
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 07",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        17.6,
+        17.900000000000002,
+        0,
+        1.2628
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 08",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        17.900000000000002,
+        18.2,
+        0,
+        1.4432
+      ]
+    },
+    {
+      "name": "Escada lance 1 degrau 09",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        9.8,
+        18.2,
+        18.5,
+        0,
+        1.6236000000000002
+      ]
+    },
+    {
+      "name": "Escada patamar intermediario",
+      "key": "stairs",
+      "bounds": [
+        8.6,
+        11.2,
+        18.5,
+        19.7,
+        1.604,
+        1.804
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 11",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        18.2,
+        18.5,
+        1.7644,
+        1.9844
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 12",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        17.9,
+        18.2,
+        1.9448,
+        2.1648
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 13",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        17.599999999999998,
+        17.9,
+        2.1252,
+        2.3452
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 14",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        17.3,
+        17.6,
+        2.3055999999999996,
+        2.5256
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 15",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        17.0,
+        17.3,
+        2.4859999999999998,
+        2.706
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 16",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        16.7,
+        17.0,
+        2.6664,
+        2.8864
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 17",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        16.4,
+        16.7,
+        2.8468,
+        3.0668
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 18",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        16.099999999999998,
+        16.4,
+        3.0272,
+        3.2472000000000003
+      ]
+    },
+    {
+      "name": "Escada lance 2 degrau 19",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        15.8,
+        16.1,
+        3.2076,
+        3.4276
+      ]
+    },
+    {
+      "name": "Escada chegada superior",
+      "key": "stairs",
+      "bounds": [
+        10.0,
+        11.2,
+        15.7,
+        15.8,
+        3.358,
+        3.608
+      ]
+    },
+    {
+      "name": "Teto superior principal",
+      "key": "ceil",
+      "bounds": [
+        0,
+        22.5,
+        0,
+        20.0,
+        7.288,
+        7.438000000000001
+      ]
+    },
+    {
+      "name": "Teto avancado quarto 2",
+      "key": "ceil",
+      "bounds": [
+        15.2,
+        22.5,
+        -2.7,
+        0,
+        7.288,
+        7.438000000000001
+      ]
+    }
+  ]
+}

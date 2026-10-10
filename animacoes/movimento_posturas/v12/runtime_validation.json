@@ -1,0 +1,26 @@
+{
+  "revision": "v12-rastejo-posicao-fisica",
+  "game_tested": false,
+  "strict_native_mocks": true,
+  "injected_coordinates_only": true,
+  "checks": [
+    "C down/up independent of weapon, repeated down idempotent, draw/holster preserved, release restores standing",
+    "C released during asset loading cancels the pending entry",
+    "idle with stale axes stays still; independent W/S/A/D, both rifles and unarmed; release stops the mover; opposing keys cancel",
+    "Shift selects actual fast mover clips for all four directions armed/unarmed; movement/Shift/C release stops them; weapon controls remain native",
+    "route probes gate both prone and fast crouch in every direction; pending/invalid/floor/obstacle queries fail closed",
+    "draw/holster/rifle switch during each prone direction; reload pauses movement and release prevents automatic resumption",
+    "24 interrupted fire/reload cycles; both rifles and three poses; pitch bounds; rest clip and stale evaluation regression",
+    "twenty exit/interruption conditions stop locomotion and restore controls",
+    "missing authored locomotion assets time out without latching posture or controls",
+    "cover remains removed and native cover input disabled",
+    "12 armed/unarmed directional crawls: staggered consumable probes never reread completed handles or restart a valid task",
+    "Active movement stops on obstacle, expired pending query or invalid result; no blind restart",
+    "Four directions: telemetry measures sustained world progress, loop boundaries, rollback while moving and rollback after release",
+    "Held direction switches start a fresh validated route and replace only the owned crawl task"
+  ],
+  "source_sha256": {
+    "posture_movement.lua": "dc80a4391abb4388ca04da96b5bb2c13678025ca95f14e3d664f42fea3f789d2",
+    "prone.lua": "02550a1c4f9731e892b858c8662bd5c3d0d8087a3d279b8a21c37b84ec671d07"
+  }
+}

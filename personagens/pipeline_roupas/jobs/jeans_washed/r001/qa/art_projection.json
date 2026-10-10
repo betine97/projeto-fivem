@@ -1,0 +1,24 @@
+{
+  "method": "Blender emission bake from supplied original image",
+  "front_projection": "silhouette-registered source reference to native mesh cross-sections",
+  "back_and_sides": "supplied denim upper/thigh/hem panels with native structure retained",
+  "native_normal_specular": "preserved",
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "visual_review": "four views inspected; front pockets and stitching matched, native back pockets and seams retained, no collapsed lateral weave",
+  "source_usage": {
+    "reference": "registered front projection",
+    "denim_upper": "uniform woven tile on sides/back",
+    "denim_thigh": "subtle lateral wear",
+    "denim_hem": "stitched cuff blend restricted to front"
+  },
+  "native_geometry": "unaltered"
+}

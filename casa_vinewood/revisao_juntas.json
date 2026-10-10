@@ -1,0 +1,604 @@
+{
+  "panels": [
+    {
+      "name": "Revestimento continuo terreo 00 0",
+      "axis": 0,
+      "front": -9.056000000000001,
+      "back": -9.306000000000001,
+      "area_m2": 66.79095229748395,
+      "bounds": [
+        -12.035,
+        -0.815,
+        9.852,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 01 0",
+      "axis": 1,
+      "front": 9.602,
+      "back": 9.852,
+      "area_m2": 26.07571334730241,
+      "bounds": [
+        -9.306000000000001,
+        -0.815,
+        -1.088,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 02 0",
+      "axis": 0,
+      "front": -1.338,
+      "back": -1.088,
+      "area_m2": 9.481431375927942,
+      "bounds": [
+        5.792,
+        -0.815,
+        9.852,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 03 0",
+      "axis": 1,
+      "front": 5.792,
+      "back": 6.042,
+      "area_m2": 7.735774355102535,
+      "bounds": [
+        -1.338,
+        -0.815,
+        1.0999999999999999,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 04 0",
+      "axis": 0,
+      "front": 0.85,
+      "back": 1.0999999999999999,
+      "area_m2": 1.2628532645425667,
+      "bounds": [
+        5.644,
+        -0.815,
+        6.042,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 05 0",
+      "axis": 1,
+      "front": 5.644,
+      "back": 5.894,
+      "area_m2": 9.357177114115238,
+      "bounds": [
+        0.85,
+        -0.815,
+        3.799,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 06 0",
+      "axis": 0,
+      "front": 3.799,
+      "back": 3.549,
+      "area_m2": 6.127062298082826,
+      "bounds": [
+        5.644,
+        -0.815,
+        7.575,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 07 0",
+      "axis": 1,
+      "front": 7.325,
+      "back": 7.575,
+      "area_m2": 19.236840777106195,
+      "bounds": [
+        3.549,
+        -0.815,
+        13.435,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 08 0",
+      "axis": 0,
+      "front": 13.185,
+      "back": 13.435,
+      "area_m2": 4.597676679358969,
+      "bounds": [
+        6.126,
+        -0.815,
+        7.575,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 09 0",
+      "axis": 1,
+      "front": 6.126,
+      "back": 6.376,
+      "area_m2": 3.9694213041445128,
+      "bounds": [
+        13.185,
+        -0.815,
+        14.436,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 10 0",
+      "axis": 0,
+      "front": 14.186,
+      "back": 14.436,
+      "area_m2": 63.554492319580504,
+      "bounds": [
+        -14.491,
+        -0.815,
+        6.376,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 11 0",
+      "axis": 1,
+      "front": -14.241,
+      "back": -14.491,
+      "area_m2": 26.072541333743516,
+      "bounds": [
+        6.218999999999999,
+        -0.815,
+        14.436,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 12 0",
+      "axis": 0,
+      "front": 6.468999999999999,
+      "back": 6.218999999999999,
+      "area_m2": 6.189669936852413,
+      "bounds": [
+        -14.491,
+        -0.815,
+        -11.451,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 13 0",
+      "axis": 1,
+      "front": -11.451,
+      "back": -11.701,
+      "area_m2": 5.654286272896783,
+      "bounds": [
+        4.687,
+        -0.815,
+        6.468999999999999,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 14 0",
+      "axis": 0,
+      "front": 4.937,
+      "back": 4.687,
+      "area_m2": 1.2628532645425827,
+      "bounds": [
+        -11.701,
+        -0.815,
+        -11.303,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 15 0",
+      "axis": 1,
+      "front": -11.303,
+      "back": -11.553,
+      "area_m2": 11.441837588130909,
+      "bounds": [
+        1.331,
+        -0.815,
+        4.937,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 16 0",
+      "axis": 0,
+      "front": 1.331,
+      "back": 1.581,
+      "area_m2": 6.127062298082802,
+      "bounds": [
+        -13.234,
+        -0.815,
+        -11.303,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 17 0",
+      "axis": 1,
+      "front": -12.984,
+      "back": -13.234,
+      "area_m2": 16.429714275562734,
+      "bounds": [
+        -4.8769296875,
+        -0.815,
+        1.581,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 17 1",
+      "axis": 1,
+      "front": -12.984,
+      "back": -13.234,
+      "area_m2": 2.6719444770563205,
+      "bounds": [
+        -8.305,
+        -0.815,
+        -6.18459375,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 18 0",
+      "axis": 0,
+      "front": -8.055,
+      "back": -8.305,
+      "area_m2": 4.597678192363265,
+      "bounds": [
+        -13.234,
+        -0.815,
+        -11.785,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo terreo 19 0",
+      "axis": 1,
+      "front": -11.785,
+      "back": -12.035,
+      "area_m2": 3.969421304144376,
+      "bounds": [
+        -9.306000000000001,
+        -0.815,
+        -8.055,
+        2.358
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 00 0",
+      "axis": 0,
+      "front": -9.056000000000001,
+      "back": -9.306000000000001,
+      "area_m2": 81.78080643171762,
+      "bounds": [
+        -12.035,
+        2.358,
+        9.762,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 01 0",
+      "axis": 1,
+      "front": 9.512,
+      "back": 9.762,
+      "area_m2": 23.82299204634971,
+      "bounds": [
+        -9.306000000000001,
+        2.358,
+        -1.088,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 02 0",
+      "axis": 0,
+      "front": -1.338,
+      "back": -1.088,
+      "area_m2": 16.483439999999998,
+      "bounds": [
+        5.792,
+        2.358,
+        9.762,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 03 0",
+      "axis": 1,
+      "front": 5.792,
+      "back": 6.042,
+      "area_m2": 10.122575999999997,
+      "bounds": [
+        -1.338,
+        2.358,
+        1.0999999999999999,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 04 0",
+      "axis": 0,
+      "front": 0.85,
+      "back": 1.0999999999999999,
+      "area_m2": 1.6524959999999984,
+      "bounds": [
+        5.644,
+        2.358,
+        6.042,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 05 0",
+      "axis": 1,
+      "front": 5.644,
+      "back": 5.894,
+      "area_m2": 12.244247999999997,
+      "bounds": [
+        0.85,
+        2.358,
+        3.799,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 06 0",
+      "axis": 0,
+      "front": 3.799,
+      "back": 3.549,
+      "area_m2": 8.017511999999998,
+      "bounds": [
+        5.644,
+        2.358,
+        7.575,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 07 0",
+      "axis": 1,
+      "front": 7.325,
+      "back": 7.575,
+      "area_m2": 27.1161773896846,
+      "bounds": [
+        3.549,
+        2.358,
+        13.435,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 08 0",
+      "axis": 0,
+      "front": 13.185,
+      "back": 13.435,
+      "area_m2": 6.016247999999998,
+      "bounds": [
+        6.126,
+        2.358,
+        7.575,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 09 0",
+      "axis": 1,
+      "front": 6.126,
+      "back": 6.376,
+      "area_m2": 5.194151999999996,
+      "bounds": [
+        13.185,
+        2.358,
+        14.436,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 10 0",
+      "axis": 0,
+      "front": 14.186,
+      "back": 14.436,
+      "area_m2": 84.23947518809624,
+      "bounds": [
+        -16.012999999999998,
+        2.358,
+        6.376,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 11 0",
+      "axis": 1,
+      "front": -15.763,
+      "back": -16.012999999999998,
+      "area_m2": 17.16151185075266,
+      "bounds": [
+        6.218999999999999,
+        2.358,
+        14.436,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 12 0",
+      "axis": 0,
+      "front": 6.468999999999999,
+      "back": 6.218999999999999,
+      "area_m2": 18.941423999999987,
+      "bounds": [
+        -16.012999999999998,
+        2.358,
+        -11.451,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 13 0",
+      "axis": 1,
+      "front": -11.451,
+      "back": -11.701,
+      "area_m2": 7.398863999999995,
+      "bounds": [
+        4.687,
+        2.358,
+        6.468999999999999,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 14 0",
+      "axis": 0,
+      "front": 4.937,
+      "back": 4.687,
+      "area_m2": 1.6524959999999984,
+      "bounds": [
+        -11.701,
+        2.358,
+        -11.303,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 15 0",
+      "axis": 1,
+      "front": -11.303,
+      "back": -11.553,
+      "area_m2": 14.972112,
+      "bounds": [
+        1.331,
+        2.358,
+        4.937,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 16 0",
+      "axis": 0,
+      "front": 1.331,
+      "back": 1.581,
+      "area_m2": 8.017511999999995,
+      "bounds": [
+        -13.234,
+        2.358,
+        -11.303,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 17 0",
+      "axis": 1,
+      "front": -12.984,
+      "back": -13.234,
+      "area_m2": 27.11781777137137,
+      "bounds": [
+        -8.305,
+        2.358,
+        1.581,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 18 0",
+      "axis": 0,
+      "front": -8.055,
+      "back": -8.305,
+      "area_m2": 6.016247999999998,
+      "bounds": [
+        -13.234,
+        2.358,
+        -11.785,
+        6.51
+      ]
+    },
+    {
+      "name": "Revestimento continuo superior 19 0",
+      "axis": 1,
+      "front": -11.785,
+      "back": -12.035,
+      "area_m2": 5.194152000000004,
+      "bounds": [
+        -9.306000000000001,
+        2.358,
+        -8.055,
+        6.51
+      ]
+    }
+  ],
+  "window_masks": 174,
+  "wall_thickness_m": 0.25,
+  "wall_floor_overlap_m": 0.01,
+  "mezzanine_rail_shift_y_m": 1.12,
+  "native_doors_preserved": [
+    [
+      [
+        5.5,
+        -13.52,
+        -1.05
+      ],
+      [
+        7.18,
+        -12.27,
+        1.95
+      ]
+    ],
+    [
+      [
+        -9.55,
+        -5.72,
+        -1.05
+      ],
+      [
+        -8.87,
+        -4.62,
+        1.6
+      ]
+    ],
+    [
+      [
+        13.88,
+        -5.72,
+        -1.05
+      ],
+      [
+        14.66,
+        -4.62,
+        1.6
+      ]
+    ],
+    [
+      [
+        -6.19,
+        -13.52,
+        -1.05
+      ],
+      [
+        -4.87,
+        -12.8,
+        1.6
+      ]
+    ],
+    [
+      [
+        -2.1,
+        6.37,
+        -1.05
+      ],
+      [
+        -0.35,
+        7.6,
+        1.95
+      ]
+    ]
+  ],
+  "in_game_verified": false
+}

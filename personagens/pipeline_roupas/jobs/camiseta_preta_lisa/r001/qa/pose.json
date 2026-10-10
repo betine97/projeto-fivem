@@ -1,0 +1,11 @@
+{
+  "action": "QA_FLEXAO_VAR_jbib_000_u",
+  "frame": 15,
+  "views": [
+    "pose_front",
+    "pose_side"
+  ],
+  "visual_review": "reviewed",
+  "in_game_motion": "pending",
+  "review_notes": "Front, back, both sides and two flexion views inspected. Native silhouette and skinning preserved. Fine weave can show filtering/moire; native seams remain. FiveM lighting, motion and clothing combinations still require in-game review."
+}

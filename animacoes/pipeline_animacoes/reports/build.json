@@ -1,0 +1,124 @@
+{
+  "game_tested": false,
+  "sources": {
+    "ajoelhado_ar": {
+      "original": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\ajoelhado_refinado.blend",
+      "original_sha256": "eb43ab489f8e5ced36ad6e660770be9cb4cf58e7ad13645bc7ef2b4fe1290426",
+      "native_bones": 98,
+      "rest_and_tags_preserved": true
+    },
+    "ajoelhado_ak": {
+      "original": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\ajoelhado_refinado.blend",
+      "original_sha256": "eb43ab489f8e5ced36ad6e660770be9cb4cf58e7ad13645bc7ef2b4fe1290426",
+      "native_bones": 98,
+      "rest_and_tags_preserved": true
+    },
+    "deitado_ar": {
+      "original": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\deitado_tiro.blend",
+      "original_sha256": "05bf3656841cf1cfa441daf634adab589efe79f18b20a1b06993204772b9919c",
+      "native_bones": 98,
+      "rest_and_tags_preserved": true
+    },
+    "deitado_ak": {
+      "original": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\deitado_tiro.blend",
+      "original_sha256": "05bf3656841cf1cfa441daf634adab589efe79f18b20a1b06993204772b9919c",
+      "native_bones": 98,
+      "rest_and_tags_preserved": true
+    },
+    "sentado_ar": {
+      "original": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\ajoelhado_refinado.blend",
+      "original_sha256": "eb43ab489f8e5ced36ad6e660770be9cb4cf58e7ad13645bc7ef2b4fe1290426",
+      "native_bones": 98,
+      "rest_and_tags_preserved": true
+    },
+    "sentado_ak": {
+      "original": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\ajoelhado_refinado.blend",
+      "original_sha256": "eb43ab489f8e5ced36ad6e660770be9cb4cf58e7ad13645bc7ef2b4fe1290426",
+      "native_bones": 98,
+      "rest_and_tags_preserved": true
+    }
+  },
+  "clips": {
+    "cidade_ajoelhado_v5_ar": {
+      "count": 3,
+      "xml_roundtrip": true,
+      "binary_roundtrip": true,
+      "reload_seconds": 2.2
+    },
+    "cidade_ajoelhado_v5_ak": {
+      "count": 3,
+      "xml_roundtrip": true,
+      "binary_roundtrip": true,
+      "reload_seconds": 2.2
+    },
+    "cidade_deitado_v5_ar": {
+      "count": 4,
+      "xml_roundtrip": true,
+      "binary_roundtrip": true,
+      "reload_seconds": 2.2
+    },
+    "cidade_deitado_v5_ak": {
+      "count": 4,
+      "xml_roundtrip": true,
+      "binary_roundtrip": true,
+      "reload_seconds": 2.2
+    },
+    "cidade_sentado_v5_ar": {
+      "count": 3,
+      "xml_roundtrip": true,
+      "binary_roundtrip": true,
+      "reload_seconds": 2.2
+    },
+    "cidade_sentado_v5_ak": {
+      "count": 3,
+      "xml_roundtrip": true,
+      "binary_roundtrip": true,
+      "reload_seconds": 2.2
+    }
+  },
+  "contacts": {
+    "ajoelhado_ar": {
+      "frames": 67,
+      "lower_body_drift_m": 0,
+      "right_grip_error_m": 8.024520884654677E-08,
+      "return_error_m": 4.172325134277344E-07,
+      "max_arm_reach_ratio": 0.8480647175692549
+    },
+    "ajoelhado_ak": {
+      "frames": 67,
+      "lower_body_drift_m": 0,
+      "right_grip_error_m": 1.2644054553268208E-07,
+      "return_error_m": 6.556510925292969E-07,
+      "max_arm_reach_ratio": 0.9084220140278441
+    },
+    "deitado_ar": {
+      "frames": 67,
+      "lower_body_drift_m": 0,
+      "right_grip_error_m": 2.669762502188819E-07,
+      "return_error_m": 6.556510925292969E-07,
+      "max_arm_reach_ratio": 0.8538293066714446
+    },
+    "deitado_ak": {
+      "frames": 67,
+      "lower_body_drift_m": 0,
+      "right_grip_error_m": 2.497889789080651E-07,
+      "return_error_m": 8.642673492431641E-07,
+      "max_arm_reach_ratio": 0.9181681636931622
+    },
+    "sentado_ar": {
+      "frames": 67,
+      "lower_body_drift_m": 0,
+      "right_grip_error_m": 1.4600096599955427E-07,
+      "return_error_m": 8.344650268554688E-07,
+      "max_arm_reach_ratio": 0.8480647509405592
+    },
+    "sentado_ak": {
+      "frames": 67,
+      "lower_body_drift_m": 0,
+      "right_grip_error_m": 1.4675941767984784E-07,
+      "return_error_m": 4.172325134277344E-07,
+      "max_arm_reach_ratio": 0.9084220826527951
+    }
+  },
+  "installed_on_disk": true
+}

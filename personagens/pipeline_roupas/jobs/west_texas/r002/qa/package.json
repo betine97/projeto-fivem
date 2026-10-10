@@ -1,0 +1,25 @@
+{
+  "status": "addon_packaged",
+  "in_game_verified": false,
+  "metadata": {
+    "collection": "cidade_west_texas_r002",
+    "component": 11,
+    "drawables": 1,
+    "textures": 1,
+    "cross_component_rules": false,
+    "round_trip_verified": true
+  },
+  "test_commands": {
+    "apply": "camisetatexas",
+    "restore": "roupastexasanterior"
+  },
+  "base_manifest_sha256": "8b1555ea72cfce7e995ef1a80bf98821aa7a4fecda6431ad5b76548fe987a75b",
+  "files": {
+    "client.lua": "31966d47c008c5cbc8ae4b783b4380d5add9bdcaeb7b75a826690be6788cea44",
+    "data\\shop.meta": "5cbc9631af3ed98c22d1fd030d5378632ae71d876d232e1db062c579973eb996",
+    "fxmanifest.lua": "0baef3d69b31966c61ef1f386256c8ca8d92ea81bc1a60180defd81f17404600",
+    "stream\\mp_m_freemode_01_cidade_west_texas_r002.ymt": "cd41e8273eb305abd8cdf5f08946f7c4d13f4a87c0e2cbd44c3a8598c287aeed",
+    "stream\\mp_m_freemode_01_cidade_west_texas_r002^jbib_000_u.ydd": "4f5be5f6730fba32d1c9bf5b0d301115196dc80dc099764b2460e072c1c57490",
+    "stream\\mp_m_freemode_01_cidade_west_texas_r002^jbib_diff_000_a_uni.ytd": "8c62da00b49e67a59d269c860aabc70fd4441f6d28dc19526bf7c364e738ca2a"
+  }
+}

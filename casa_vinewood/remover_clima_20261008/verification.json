@@ -1,0 +1,32 @@
+{
+  "changed": [
+    "stream/cidade_mansao.ymap",
+    "stream/cidade_mansao.ytyp",
+    "stream/mansao_paredes.ydr",
+    "stream/mansao_pisos.ydr",
+    "stream/mansao_escada.ydr",
+    "stream/mansao_teto.ydr",
+    "fxmanifest.lua",
+    "README.md"
+  ],
+  "removed": [
+    "clima_client.lua",
+    "clima_shared.lua",
+    "clima_interior.json",
+    "clima_interior.xml",
+    "stream/mansao_teto.ybn"
+  ],
+  "collision_triangles": {
+    "mansao_paredes": 13316,
+    "mansao_pisos": 312,
+    "mansao_escada": 1224,
+    "mansao_teto": 76
+  },
+  "native_lights_preserved": 68,
+  "map_and_archetypes_restored_byte_for_byte": true,
+  "native_mlo_removed": true,
+  "mesh_materials_textures_preserved": true,
+  "embedded_collision_matches_pre_climate_backup": true,
+  "manifest_syntax_valid": true,
+  "in_game_verified": false
+}

@@ -1,0 +1,21 @@
+{
+  "status": "addon_packaged",
+  "in_game_verified": false,
+  "metadata": {
+    "collection": "cidade_west_texas_r002",
+    "component": 11,
+    "drawables": 1,
+    "textures": 1,
+    "cross_component_rules": false,
+    "round_trip_verified": true
+  },
+  "base_manifest_sha256": "8b1555ea72cfce7e995ef1a80bf98821aa7a4fecda6431ad5b76548fe987a75b",
+  "files": {
+    "client.lua": "31966d47c008c5cbc8ae4b783b4380d5add9bdcaeb7b75a826690be6788cea44",
+    "data\\shop.meta": "5cbc9631af3ed98c22d1fd030d5378632ae71d876d232e1db062c579973eb996",
+    "fxmanifest.lua": "69b2f649d39a3073d4a44ea96944205005a2583f6ee59baa87bd371fb82a46d2",
+    "stream\\mp_m_freemode_01_cidade_west_texas_r002.ymt": "cd41e8273eb305abd8cdf5f08946f7c4d13f4a87c0e2cbd44c3a8598c287aeed",
+    "stream\\mp_m_freemode_01_cidade_west_texas_r002^jbib_000_u.ydd": "c878c6de36cd6f416a39a616268cf4dc1d44b5706df1de5bc329ec5596148b2a",
+    "stream\\mp_m_freemode_01_cidade_west_texas_r002^jbib_diff_000_a_uni.ytd": "6b27a4958da88e33a79ff4d31812f6335a6c1ac6f6410055028f0e5873102ccc"
+  }
+}

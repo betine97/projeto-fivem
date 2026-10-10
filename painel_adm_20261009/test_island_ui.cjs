@@ -1,0 +1,65 @@
+const fs=require('fs'),path=require('path');
+const {chromium}=require('C:/Users/erons/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const root=path.resolve(__dirname,'..'),base='http://127.0.0.1:50075';
+const cat=JSON.parse(fs.readFileSync(path.join(root,'server-data/resources/cidade_admin/ui/catalog.json'),'utf8'));
+const cayo=JSON.parse(fs.readFileSync(path.join(root,'server-data/resources/cidade_admin/ui/cayo.json'),'utf8'));cat.cayo=cayo.objects;
+const checks=[];function assert(x,name){if(!x)throw new Error(name);checks.push(name);}
+(async()=>{
+ const browser=await chromium.launch({headless:true,channel:'msedge'});
+ try{
+  const p=await browser.newPage({viewport:{width:1600,height:1000}}),errors=[];
+  p.on('pageerror',e=>errors.push(e.message));
+  await p.goto(base+'/?preview=1&tab=cayo');await p.locator('.card').first().waitFor();
+  assert(await p.locator('.card').count()===24,'Cayo catalog paginated');
+  assert(Number(await p.locator('#count-cayo').innerText())===cayo.objects.length,'All catalog models exposed in preview');
+  assert(cayo.objects.every(x=>x.image==='cayo/'+x.sourceModel+'.webp'),'Every catalog entry uses its actual native model image');
+  await p.locator('#category').selectOption('Árvores e palmeiras');
+  await p.waitForFunction(()=>Array.from(document.querySelectorAll('.thumbnail img')).every(i=>i.complete&&i.naturalWidth>0));
+  assert(await p.locator('.thumbnail img[src^="cayo/"]').count()>0,'Native tree previews render from local thumbnails');
+  await p.screenshot({path:path.join(__dirname,'painel-editor-ilha.png')});
+  const firstName=await p.locator('.card h3').first().innerText();
+  await p.locator('.thumbnail').first().click();
+  await p.locator('.island-image-dialog[open]').waitFor();
+  assert((await p.locator('#island-image-title').innerText())===firstName,'Image enlargement identifies selected model');
+  await p.waitForFunction(()=>document.querySelector('.island-image-dialog>img').naturalWidth===384);
+  await p.screenshot({path:path.join(__dirname,'painel-editor-ilha-imagem.png')});
+  await p.keyboard.press('Escape');
+  assert(await p.locator('.island-image-dialog[open]').count()===0&&await p.locator('#app').isVisible(),'Escape closes enlargement and keeps editor open');
+  await p.keyboard.press('Enter');
+  assert(await p.locator('.island-image-dialog[open]').count()===1,'Thumbnail supports keyboard access and restores focus');
+  await p.getByRole('button',{name:'Fechar',exact:true}).click();
+  const target=cayo.objects.find(x=>x.image.startsWith('cayo/'));
+  await p.locator('#category').selectOption('');await p.locator('#search').fill(target.sourceModel);
+  assert(await p.locator('.card').count()===1,'Search finds original Cayo model through native alias');
+  await p.locator('.favorite').click();await p.locator('#search').fill('');await p.locator('#favorites-only').check();assert(await p.locator('.card').count()===1,'Island favorites filter correctly');
+  await p.locator('#paint-count').fill('99');await p.locator('#paint-count').blur();assert(await p.locator('#paint-count').inputValue()==='1','Invalid paint quantity corrected');
+  await p.locator('.spawn').click();assert((await p.locator('#toast').innerText()).includes('Prévia'),'Browser preview does not pretend to save objects');
+  await p.setViewportSize({width:1024,height:768});assert(await p.locator('main').evaluate(n=>n.scrollWidth<=n.clientWidth),'Island controls fit 1024x768');
+  await p.keyboard.press('Escape');assert(await p.locator('#app').isHidden(),'Escape closes editor catalog');
+  const game=await browser.newPage({viewport:{width:1600,height:1000}}),requests=[];
+  game.on('pageerror',e=>errors.push(e.message));await game.addInitScript(()=>window.GetParentResourceName=()=> 'cidade_admin');
+  const object={id:41,model:target.model,x:150,y:50,z:18,heading:90,scale:1,author:1};
+  let world={revision:5,objects:[object],maxPlacements:5000};
+  await game.route('https://cidade_admin/**',async route=>{
+   const data=route.request().postDataJSON();requests.push({url:route.request().url(),data});
+   if(data.action==='delete')world={...world,revision:6,objects:[]};
+   await route.fulfill({status:200,contentType:'application/json',body:JSON.stringify({ok:true,message:'Salvo.',data:data.action==='begin'?{revision:world.revision}:world})});
+  });
+  await game.goto(base+'/');
+  const open=async()=>game.evaluate(c=>window.postMessage({type:'open',data:{name:'ADM teste',id:1,catalog:c,commands:[],players:[],npcs:[],tab:'cayo'}},'*'),cat);
+  await open();await game.getByRole('button',{name:'Objetos salvos · 1',exact:true}).waitFor();
+  await game.locator('#search').fill(target.sourceModel);await game.locator('#paint-count').fill('8');await game.locator('#paint-radius').fill('12');await game.locator('#paint-radius').blur();
+  await game.locator('.thumbnail').click();
+  await game.getByRole('button',{name:'Posicionar este elemento ↗',exact:true}).click();await game.locator('#app').waitFor({state:'hidden'});
+  assert(requests.at(-1).url.endsWith('/islandAction')&&requests.at(-1).data.action==='begin'&&requests.at(-1).data.model===target.model&&requests.at(-1).data.count===8&&requests.at(-1).data.radius===12,'Placement from image sends chosen model, count and radius to authorized bridge');
+  assert(await game.locator('.island-image-dialog[open]').count()===0,'Image overlay releases focus when placement starts');
+  await open();await game.getByRole('button',{name:'Objetos salvos · 1',exact:true}).click();assert(await game.locator('tbody tr').count()===1,'Saved objects load from server snapshot');
+  await game.getByRole('button',{name:'Marcar',exact:true}).click();await game.waitForFunction(()=>document.getElementById('toast').textContent==='Salvo.');assert(requests.at(-1).data.action==='locate'&&requests.at(-1).data.id===41,'Mark location uses persisted object ID');
+  await game.getByRole('button',{name:'Reposicionar',exact:true}).click();await game.locator('#app').waitFor({state:'hidden'});assert(requests.at(-1).data.id===41&&requests.at(-1).data.count===1,'Reposition retains persisted ID and selects one object');
+  await open();await game.getByRole('button',{name:'Objetos salvos · 1',exact:true}).waitFor();
+  const before=requests.filter(x=>x.data.action==='delete').length;await game.getByRole('button',{name:'Remover',exact:true}).click();assert(requests.filter(x=>x.data.action==='delete').length===before,'Remove asks for concrete second click before mutation');
+  await game.getByRole('button',{name:'Confirmar remoção',exact:true}).click();await game.getByRole('button',{name:'Objetos salvos · 0',exact:true}).waitFor();assert(requests.at(-1).data.action==='delete'&&requests.at(-1).data.id===41,'Confirmed removal sends correct ID and refreshes saved count');
+  assert(errors.length===0,'No browser errors across catalog and saved object flows');
+  fs.writeFileSync(path.join(__dirname,'island-ui-verification.json'),JSON.stringify({passed:true,checks,in_game_visual_verified:false},null,2));console.log('ISLAND_UI_TESTS_PASSED',checks.length);
+ }finally{await browser.close();}
+})().catch(e=>{console.error(e);process.exit(1)});

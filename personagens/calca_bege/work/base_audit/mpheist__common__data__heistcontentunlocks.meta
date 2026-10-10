@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_FLAREGUN</Item>
+	<Item>CU_CASCO_VEH</Item>
+	<Item>CU_ENDURO_VEH</Item>
+	<Item>CU_GBURRITO2_VEH</Item>
+	<Item>CU_GUARDIAN_VEH</Item>
+	<Item>CU_HYDRA_VEH</Item>
+	<Item>CU_INSURGENT_VEH</Item>
+	<Item>CU_INSURGENT2_VEH</Item>
+	<Item>CU_KURUMA_VEH</Item>
+	<Item>CU_KURUMA2_VEH</Item>
+	<Item>CU_LECTRO_VEH</Item>
+    <Item>CU_SAVAGE_VEH</Item>
+    <Item>CU_SLAMVAN2_VEH</Item>
+    <Item>CU_TECHNICAL_VEH</Item>
+    <Item>CU_VALKYRIE_VEH</Item>
+    <Item>CU_VELUM2_VEH</Item>
+	<Item>CU_HEIST_TATTOOS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>

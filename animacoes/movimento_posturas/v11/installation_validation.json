@@ -1,0 +1,16 @@
+{
+  "revision": "v11-segurar-c-rastejo-direcional",
+  "installed_on_disk": true,
+  "server_restarted": false,
+  "game_tested": false,
+  "assets": {
+    "cidade_deitado_move_v11": "20b67e7db4a3ea52e0f63898f7c9a69090a2211a5426430a929c3046228bea3e",
+    "cidade_agachado_move_v11": "474bd04d56cd8ae56901da24126ce4514414e52b14047fa5e41971f75dd793f3"
+  },
+  "source_sha256": {
+    "prone.lua": "ace223a110fc806c4f6f55cababf7fc8c284ce4a98491d3af4fb6c8e3c27d21b",
+    "posture_movement.lua": "856d459484b04ed9157e7ebc0e4940bee7e141c459f19050817083b68af339ce",
+    "sandbox.lua": "e493e2df83a6ae1d2d7dc1ac0fbd1b43b2ab6083ff22e43819be53fd83607d65",
+    "cover.lua": "f88d1ea8b5952336255219bc66a4fd9ba0dfc2ec33ffb32d38965b77883ac691"
+  }
+}

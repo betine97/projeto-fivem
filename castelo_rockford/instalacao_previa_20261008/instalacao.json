@@ -1,0 +1,36 @@
+{
+  "installed": true,
+  "resource": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_castelo_previa",
+  "files": {
+    "client.lua": "e6709d311333961a9963909bc02ca98213fe07be808971b3dd04fe00ada11270",
+    "fxmanifest.lua": "463068de3ccf29f1483d529e0e11afc5d30c993736b5369b25738034dc9a45c4",
+    "LEIA-ME.md": "079ce181bfbc2b93eeecfc9bea9e5fbfd04ccb956a28f88c06d56d6641f332d8",
+    "server.lua": "988f77f7d870cad0d1a1e91751a86508cc43e5a66fbd6e2a9e70cbc4de0aab80",
+    "stream/crf_castelo_previa.ymap": "5c8f67c05730533c91568e71d7b6ff735b2128e24bf0a530d070f33e03e877ff",
+    "stream/crf_castelo_previa.ytyp": "bb062e70b35c9aa97135b04e816e51de9eb8fbc1259c9690f9fe21a125ab5f14",
+    "stream/crf_castelo_texturas.ytd": "fc893ec9aa0d24c6a7a896bca4b7046b2ff907543d4b0f33ebff82bf8b176290",
+    "stream/crf_cobertura_arquitetura.ydr": "cc221459af0329462532a0c9b6f31331fe47f48a160d349111344fa46b7f114e",
+    "stream/crf_conselho_arquitetura.ydr": "1a87812027f3da6e6a5274958ced8e7a9fa45f71ceab9206686fde4229ce80f5",
+    "stream/crf_conselho_detalhes.ydr": "9bffc7445f230e6886fcf3075696ba3236aa3defe8efc03af3f9592226e3630d",
+    "stream/crf_implantacao_arquitetura.ydr": "010bea77783517349047bb149ac239f251a38afcf64cf6ac26e8f2f671b32d3d",
+    "stream/crf_suites_arquitetura.ydr": "30ed0aa099a14137c089fda4be65c530fc8f87134b27b744a7908f37cdc37c62",
+    "stream/crf_suites_detalhes.ydr": "2b30269e14d88bc042adb36c4ac8c1083c59bd460c631bb69921007103b541d6",
+    "stream/crf_terreo_arquitetura.ydr": "5ec0a913df8d68d21e17832b9be29b3bb2a71c4f682a75700ca73d6e50af128b",
+    "stream/crf_terreo_detalhes.ydr": "28c6df623c474f5d04630895db461d6641fa806ebf5f4f8cbed4385cd062abeb"
+  },
+  "cfg_previous_sha256": "a83e0301a22f75f2ccf6cae511f93e45f0a265b01874ed4414768915d3eb2f0c",
+  "cfg_backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\castelo_rockford\\instalacao_previa_20261008\\backup\\server.cfg",
+  "cleared_lot_resource_preserved_files": 24,
+  "original_blender_unchanged": true,
+  "command": "castelo",
+  "return_command": "voltarcastelo",
+  "live_server_activated": false,
+  "in_game_verified": false,
+  "installed_hashes_verified": true,
+  "cfg_additive_change_verified": true,
+  "live_server_checked": true,
+  "activation_instructions": [
+    "refresh",
+    "ensure cidade_castelo_previa"
+  ]
+}

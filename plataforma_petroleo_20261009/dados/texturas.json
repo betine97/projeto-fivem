@@ -1,0 +1,68 @@
+{
+  "textures": [
+    {
+      "key": "white",
+      "file": "texturas/01_chapa_branca.png",
+      "material": "Paineis claros e intemperie",
+      "tile_metres": 6.0,
+      "source_sha256": "1bc85df675848200e4e6d801c2f0feb6bbc6ac8c7d334b933d8211e142129f87",
+      "resolution": [
+        1254,
+        1254
+      ],
+      "packed": true
+    },
+    {
+      "key": "yellow",
+      "file": "texturas/02_pintura_amarela.png",
+      "material": "Pintura amarela industrial",
+      "tile_metres": 2.0,
+      "source_sha256": "9e0fcc2ef3952f2760dd38f1c9e77a99f8e23c246a2fd0fe57604ade41743f7d",
+      "resolution": [
+        1254,
+        1254
+      ],
+      "packed": true
+    },
+    {
+      "key": "dark",
+      "file": "texturas/03_aco_enferrujado.png",
+      "material": "Aco estrutural escuro",
+      "tile_metres": 2.5,
+      "source_sha256": "16c550cd5c2f656502009e97b9e422f4c02ba977023b96aa10ad1ce3af5737e8",
+      "resolution": [
+        1254,
+        1254
+      ],
+      "packed": true
+    },
+    {
+      "key": "steel",
+      "file": "texturas/04_metal_cinza.png",
+      "material": "Aco galvanizado | desgaste procedural",
+      "tile_metres": 2.0,
+      "source_sha256": "632d1ceb9a095edf319a4e7335418025dc380061d2afcca5614eb26b328f17be",
+      "resolution": [
+        1254,
+        1254
+      ],
+      "packed": true
+    },
+    {
+      "key": "deck",
+      "file": "texturas/05_piso_antiderrapante.png",
+      "material": "Chapas antiderrapantes",
+      "tile_metres": 0.72,
+      "source_sha256": "f78b41afc9f6daadeabebec2d62de7f10ccf215710a8a41b645cdef1a043ec65",
+      "resolution": [
+        1254,
+        1254
+      ],
+      "packed": true
+    }
+  ],
+  "walking_faces": 153,
+  "source_images_edited": false,
+  "relief": "Shader approximation from supplied colour PNGs",
+  "in_game_exported": false
+}

@@ -1,0 +1,12 @@
+{
+  "game_tested": false,
+  "mock_only": true,
+  "repeated_reload_cycles": 72,
+  "rifles": 2,
+  "postures": 3,
+  "async_tasks": true,
+  "native_reload_recovery": true,
+  "recoil_recovery": true,
+  "noninterruptible_flags_removed": true,
+  "cleanup_and_prone_exit": true
+}

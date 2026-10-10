@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "native_sources_in_changed_models": 139,
+  "resource_native_sources": 155,
+  "unrelated_native_sources_preserved": 16,
+  "types": {
+    "SPOT": 97,
+    "POINT": 21,
+    "CAPSULE": 21
+  },
+  "checks": [
+    {
+      "model": "mansao_teto",
+      "geometry_materials_textures_lods_collision_identical": true,
+      "before_lights": 88,
+      "after_lights": 109,
+      "before_bytes": 223042,
+      "after_bytes": 223321
+    },
+    {
+      "model": "mansao_pendentes",
+      "geometry_materials_textures_lods_collision_identical": true,
+      "before_lights": 9,
+      "after_lights": 9,
+      "before_bytes": 8060685,
+      "after_bytes": 8061263
+    },
+    {
+      "model": "mansao_spots_led",
+      "geometry_materials_textures_lods_collision_identical": true,
+      "before_lights": 20,
+      "after_lights": 20,
+      "before_bytes": 10395,
+      "after_bytes": 10423
+    },
+    {
+      "model": "mansao_tv",
+      "geometry_materials_textures_lods_collision_identical": true,
+      "before_lights": 3,
+      "after_lights": 1,
+      "before_bytes": 11910259,
+      "after_bytes": 11910336
+    }
+  ],
+  "all_fixture_positions_preserved": true,
+  "only_one_existing_shadow_source_in_changed_models": true,
+  "no_volumes_coronas_weather_filters_or_script_draw_threads": true,
+  "in_game_visual_verified": false
+}

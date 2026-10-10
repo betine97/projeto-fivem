@@ -1,0 +1,19 @@
+{
+  "method": "Blender emission bake of exact supplied textile",
+  "tiles_per_m": 5,
+  "projection": "separate torso and sleeve cylinders, original UV output",
+  "native_geometry_uv_weights_lods": "unchanged",
+  "normal_specular": "preserved",
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "visual_review": "reviewed",
+  "review_notes": "Front, back, both sides and two flexion views inspected. Native silhouette and skinning preserved. Fine weave can show filtering/moire; native seams remain. FiveM lighting, motion and clothing combinations still require in-game review."
+}

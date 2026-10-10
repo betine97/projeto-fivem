@@ -1,0 +1,2754 @@
+{
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "lights": [
+    {
+      "id": "room_0_0_0",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -6.71,
+        -10.73,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_0_0_1",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -6.71,
+        -6.85,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_0_0_2",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -6.71,
+        -2.97,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_0_1_0",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -2.89,
+        -10.73,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_0_1_1",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -2.89,
+        -6.85,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_0_1_2",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -2.89,
+        -2.97,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_1_0_0",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        1.09,
+        -10.73,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_1_0_1",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        1.09,
+        -6.85,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_1_0_2",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        1.09,
+        -2.97,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_1_1_0",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        4.51,
+        -10.73,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_1_1_1",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        4.51,
+        -6.85,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_1_1_2",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        4.51,
+        -2.97,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 7.4,
+      "intensity": 5.2,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_2_0_0",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        8.315,
+        -10.73,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_2_0_1",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        8.315,
+        -6.85,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_2_0_2",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        8.315,
+        -2.97,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_2_1_0",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        11.785,
+        -10.73,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_2_1_1",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        11.785,
+        -6.85,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_2_1_2",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        11.785,
+        -2.97,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_3_0_0",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        -6.406,
+        0.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_3_1_0",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        -1.978,
+        0.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_3_2_0",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        2.45,
+        0.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_3_3_0",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        6.878,
+        0.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_3_4_0",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        11.306,
+        0.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_4_0_0",
+      "room": "Escritorio",
+      "level": "terreo",
+      "position": [
+        -7.36,
+        4.265,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_4_0_1",
+      "room": "Escritorio",
+      "level": "terreo",
+      "position": [
+        -7.36,
+        7.735,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_4_1_0",
+      "room": "Escritorio",
+      "level": "terreo",
+      "position": [
+        -4.84,
+        4.265,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_4_1_1",
+      "room": "Escritorio",
+      "level": "terreo",
+      "position": [
+        -4.84,
+        7.735,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_5_0_0",
+      "room": "Lavabo",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        4.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_6_0_0",
+      "room": "Escada",
+      "level": "terreo",
+      "position": [
+        1.0,
+        4.196,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 4.4,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_7_0_0",
+      "room": "Despensa",
+      "level": "terreo",
+      "position": [
+        4.15,
+        4.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_8_0_0",
+      "room": "Sala TV Jogos",
+      "level": "terreo",
+      "position": [
+        8.1,
+        4.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_9_0_0",
+      "room": "Lavanderia",
+      "level": "terreo",
+      "position": [
+        12.1,
+        4.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_10_0_0",
+      "room": "Suite master",
+      "level": "superior",
+      "position": [
+        -6.71,
+        3.365,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_10_0_1",
+      "room": "Suite master",
+      "level": "superior",
+      "position": [
+        -6.71,
+        7.435,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_10_1_0",
+      "room": "Suite master",
+      "level": "superior",
+      "position": [
+        -2.89,
+        3.365,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_10_1_1",
+      "room": "Suite master",
+      "level": "superior",
+      "position": [
+        -2.89,
+        7.435,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_11_0_0",
+      "room": "Closet",
+      "level": "superior",
+      "position": [
+        -6.8,
+        -1.35,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_12_0_0",
+      "room": "Banheiro da suite",
+      "level": "superior",
+      "position": [
+        -2.8,
+        -1.35,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_13_0_0",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        8.315,
+        -13.313,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_13_0_1",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        8.315,
+        -9.2,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_13_0_2",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        8.315,
+        -5.087,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_13_1_0",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        11.785,
+        -13.313,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_13_1_1",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        11.785,
+        -9.2,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_13_1_2",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        11.785,
+        -5.087,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_14_0_0",
+      "room": "Quarto 3",
+      "level": "superior",
+      "position": [
+        8.315,
+        3.115,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_14_0_1",
+      "room": "Quarto 3",
+      "level": "superior",
+      "position": [
+        8.315,
+        5.685,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_14_1_0",
+      "room": "Quarto 3",
+      "level": "superior",
+      "position": [
+        11.785,
+        3.115,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_14_1_1",
+      "room": "Quarto 3",
+      "level": "superior",
+      "position": [
+        11.785,
+        5.685,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_15_0_0",
+      "room": "Banheiro social",
+      "level": "superior",
+      "position": [
+        11.75,
+        -0.6,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_16_0_0",
+      "room": "Circulacao quartos",
+      "level": "superior",
+      "position": [
+        8.1,
+        -0.6,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_17_0_0",
+      "room": "Mezanino",
+      "level": "superior",
+      "position": [
+        1.09,
+        -2.385,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_17_0_1",
+      "room": "Mezanino",
+      "level": "superior",
+      "position": [
+        1.09,
+        0.185,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_17_1_0",
+      "room": "Mezanino",
+      "level": "superior",
+      "position": [
+        4.51,
+        -2.385,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_17_1_1",
+      "room": "Mezanino",
+      "level": "superior",
+      "position": [
+        4.51,
+        0.185,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_18_0_0",
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "position": [
+        1.09,
+        3.115,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_18_0_1",
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "position": [
+        1.09,
+        5.685,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_18_1_0",
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "position": [
+        4.51,
+        3.115,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "room_18_1_1",
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "position": [
+        4.51,
+        5.685,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.5,
+      "intensity": 2.8,
+      "falloff_exponent": 12,
+      "kind": "ambient",
+      "shadow": false
+    },
+    {
+      "id": "tv_wall",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        -6.1,
+        -11.5,
+        3.05
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 5.8,
+      "intensity": 2.1,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": true
+    },
+    {
+      "id": "living_wall",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        -7.45,
+        -7.8,
+        4.1
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 5.4,
+      "intensity": 1.6,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": false
+    },
+    {
+      "id": "dining_wall",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        2.5,
+        -10.15,
+        4.2
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 5.6,
+      "intensity": 1.8,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": true
+    },
+    {
+      "id": "piano_wall",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        4.65,
+        -4.95,
+        3.45
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 5.0,
+      "intensity": 1.6,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": false
+    },
+    {
+      "id": "kitchen_worktop",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        13.3,
+        -9.7,
+        1.25
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 3.2,
+      "intensity": 1.1,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": true
+    },
+    {
+      "id": "kitchen_island",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        10.45,
+        -9,
+        1.85
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 4.5,
+      "intensity": 1.5,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": false
+    },
+    {
+      "id": "stair_landing",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        0.6,
+        4.0,
+        1.5
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 3.6,
+      "intensity": 1.2,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": false
+    },
+    {
+      "id": "stair_upper",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        1.3,
+        2.0,
+        4.25
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 3.6,
+      "intensity": 1.2,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": false
+    },
+    {
+      "id": "living_ceiling",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        -4.6,
+        -8.75,
+        5.9
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 6.8,
+      "intensity": 1.5,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": false
+    },
+    {
+      "id": "dining_ceiling",
+      "room": "Destaques",
+      "level": "both",
+      "position": [
+        2.8,
+        -8.4,
+        5.9
+      ],
+      "rgb": [
+        255,
+        228,
+        195
+      ],
+      "range": 6.8,
+      "intensity": 1.5,
+      "falloff_exponent": 16,
+      "kind": "accent",
+      "shadow": false
+    }
+  ],
+  "regions": [
+    {
+      "name": "Sala de estar",
+      "level": "terreo",
+      "polygon": [
+        [
+          -8.620000000000001,
+          -1.0299999999999996
+        ],
+        [
+          -0.9800000000000006,
+          -1.0299999999999996
+        ],
+        [
+          -0.9800000000000006,
+          -12.67
+        ],
+        [
+          -8.125,
+          -12.67
+        ],
+        [
+          -8.125,
+          -11.955
+        ],
+        [
+          -8.12548152733278,
+          -11.945198285967043
+        ],
+        [
+          -8.126921471959676,
+          -11.935490967798387
+        ],
+        [
+          -8.129305966426779,
+          -11.925971532274554
+        ],
+        [
+          -8.132612046748871,
+          -11.91673165676349
+        ],
+        [
+          -8.136807873565164,
+          -11.907860326317401
+        ],
+        [
+          -8.141853038769746,
+          -11.89944297669804
+        ],
+        [
+          -8.147698954663726,
+          -11.891560671583635
+        ],
+        [
+          -8.154289321881345,
+          -11.884289321881345
+        ],
+        [
+          -8.161560671583635,
+          -11.877698954663726
+        ],
+        [
+          -8.16944297669804,
+          -11.871853038769746
+        ],
+        [
+          -8.1778603263174,
+          -11.866807873565165
+        ],
+        [
+          -8.18673165676349,
+          -11.862612046748872
+        ],
+        [
+          -8.195971532274553,
+          -11.85930596642678
+        ],
+        [
+          -8.205490967798386,
+          -11.856921471959676
+        ],
+        [
+          -8.215198285967043,
+          -11.855481527332781
+        ],
+        [
+          -8.225,
+          -11.855
+        ],
+        [
+          -8.620000000000001,
+          -11.855
+        ],
+        [
+          -8.620000000000001,
+          -1.0299999999999996
+        ]
+      ],
+      "light_ids": [
+        "room_0_0_0",
+        "room_0_0_1",
+        "room_0_0_2",
+        "room_0_1_0",
+        "room_0_1_1",
+        "room_0_1_2"
+      ]
+    },
+    {
+      "name": "Sala de jantar",
+      "level": "terreo",
+      "polygon": [
+        [
+          -0.6200000000000008,
+          -12.67
+        ],
+        [
+          -0.6200000000000008,
+          -1.0299999999999996
+        ],
+        [
+          6.219999999999999,
+          -1.0299999999999996
+        ],
+        [
+          6.219999999999999,
+          -11.521
+        ],
+        [
+          4.867,
+          -11.521
+        ],
+        [
+          4.867,
+          -11.473
+        ],
+        [
+          4.86651847266722,
+          -11.463198285967044
+        ],
+        [
+          4.865078528040323,
+          -11.453490967798388
+        ],
+        [
+          4.862694033573221,
+          -11.443971532274555
+        ],
+        [
+          4.859387953251129,
+          -11.434731656763491
+        ],
+        [
+          4.855192126434836,
+          -11.425860326317402
+        ],
+        [
+          4.850146961230255,
+          -11.417442976698041
+        ],
+        [
+          4.844301045336274,
+          -11.409560671583636
+        ],
+        [
+          4.837710678118655,
+          -11.402289321881346
+        ],
+        [
+          4.8304393284163645,
+          -11.395698954663727
+        ],
+        [
+          4.822557023301961,
+          -11.389853038769747
+        ],
+        [
+          4.8141396736826,
+          -11.384807873565165
+        ],
+        [
+          4.805268343236509,
+          -11.380612046748873
+        ],
+        [
+          4.7960284677254466,
+          -11.37730596642678
+        ],
+        [
+          4.7865090322016135,
+          -11.374921471959677
+        ],
+        [
+          4.776801714032956,
+          -11.373481527332782
+        ],
+        [
+          4.767,
+          -11.373000000000001
+        ],
+        [
+          1.5010000000000001,
+          -11.373000000000001
+        ],
+        [
+          1.491198285967044,
+          -11.373481527332782
+        ],
+        [
+          1.4814909677983872,
+          -11.374921471959677
+        ],
+        [
+          1.471971532274554,
+          -11.37730596642678
+        ],
+        [
+          1.4627316567634912,
+          -11.380612046748873
+        ],
+        [
+          1.4538603263174004,
+          -11.384807873565165
+        ],
+        [
+          1.44544297669804,
+          -11.389853038769747
+        ],
+        [
+          1.4375606715836355,
+          -11.395698954663727
+        ],
+        [
+          1.4302893218813453,
+          -11.402289321881346
+        ],
+        [
+          1.4236989546637264,
+          -11.409560671583636
+        ],
+        [
+          1.4178530387697457,
+          -11.417442976698041
+        ],
+        [
+          1.4128078735651646,
+          -11.425860326317402
+        ],
+        [
+          1.4086120467488714,
+          -11.434731656763491
+        ],
+        [
+          1.4053059664267793,
+          -11.443971532274555
+        ],
+        [
+          1.402921471959677,
+          -11.453490967798388
+        ],
+        [
+          1.4014815273327805,
+          -11.463198285967044
+        ],
+        [
+          1.401,
+          -11.473
+        ],
+        [
+          1.401,
+          -12.67
+        ],
+        [
+          -0.6200000000000008,
+          -12.67
+        ]
+      ],
+      "light_ids": [
+        "room_1_0_0",
+        "room_1_0_1",
+        "room_1_0_2",
+        "room_1_1_0",
+        "room_1_1_1",
+        "room_1_1_2"
+      ]
+    },
+    {
+      "name": "Cozinha",
+      "level": "terreo",
+      "polygon": [
+        [
+          6.579999999999998,
+          -12.67
+        ],
+        [
+          6.579999999999998,
+          -1.0299999999999996
+        ],
+        [
+          13.52,
+          -1.0299999999999996
+        ],
+        [
+          13.52,
+          -12.67
+        ],
+        [
+          6.579999999999998,
+          -12.67
+        ]
+      ],
+      "light_ids": [
+        "room_2_0_0",
+        "room_2_0_1",
+        "room_2_0_2",
+        "room_2_1_0",
+        "room_2_1_1",
+        "room_2_1_2"
+      ]
+    },
+    {
+      "name": "Hall de entrada",
+      "level": "terreo",
+      "polygon": [
+        [
+          -8.620000000000001,
+          -0.6699999999999997
+        ],
+        [
+          -8.620000000000001,
+          2.1699999999999995
+        ],
+        [
+          13.52,
+          2.1699999999999995
+        ],
+        [
+          13.52,
+          -0.6699999999999997
+        ],
+        [
+          -8.620000000000001,
+          -0.6699999999999997
+        ]
+      ],
+      "light_ids": [
+        "room_3_0_0",
+        "room_3_1_0",
+        "room_3_2_0",
+        "room_3_3_0",
+        "room_3_4_0"
+      ]
+    },
+    {
+      "name": "Escritorio",
+      "level": "terreo",
+      "polygon": [
+        [
+          -8.620000000000001,
+          2.53
+        ],
+        [
+          -8.620000000000001,
+          9.47
+        ],
+        [
+          -3.5800000000000005,
+          9.47
+        ],
+        [
+          -3.5800000000000005,
+          2.53
+        ],
+        [
+          -8.620000000000001,
+          2.53
+        ]
+      ],
+      "light_ids": [
+        "room_4_0_0",
+        "room_4_0_1",
+        "room_4_1_0",
+        "room_4_1_1"
+      ]
+    },
+    {
+      "name": "Lavabo",
+      "level": "terreo",
+      "polygon": [
+        [
+          -0.7800000000000014,
+          2.53
+        ],
+        [
+          -3.22,
+          2.53
+        ],
+        [
+          -3.22,
+          6.970000000000001
+        ],
+        [
+          -1.268,
+          6.970000000000001
+        ],
+        [
+          -1.268,
+          5.962
+        ],
+        [
+          -1.2675184726672195,
+          5.952198285967044
+        ],
+        [
+          -1.266078528040323,
+          5.942490967798387
+        ],
+        [
+          -1.2636940335732207,
+          5.9329715322745535
+        ],
+        [
+          -1.2603879532511286,
+          5.923731656763491
+        ],
+        [
+          -1.2561921264348355,
+          5.9148603263174
+        ],
+        [
+          -1.2511469612302544,
+          5.90644297669804
+        ],
+        [
+          -1.2453010453362736,
+          5.898560671583636
+        ],
+        [
+          -1.2387106781186548,
+          5.891289321881345
+        ],
+        [
+          -1.2314393284163645,
+          5.884698954663726
+        ],
+        [
+          -1.2235570233019601,
+          5.878853038769745
+        ],
+        [
+          -1.2151396736825997,
+          5.873807873565164
+        ],
+        [
+          -1.2062683432365089,
+          5.8696120467488715
+        ],
+        [
+          -1.1970284677254461,
+          5.866305966426779
+        ],
+        [
+          -1.1875090322016129,
+          5.863921471959677
+        ],
+        [
+          -1.177801714032956,
+          5.86248152733278
+        ],
+        [
+          -1.168,
+          5.862
+        ],
+        [
+          -0.7800000000000014,
+          5.862
+        ],
+        [
+          -0.7800000000000014,
+          2.53
+        ]
+      ],
+      "light_ids": [
+        "room_5_0_0"
+      ]
+    },
+    {
+      "name": "Escada",
+      "level": "terreo",
+      "polygon": [
+        [
+          2.4199999999999995,
+          2.53
+        ],
+        [
+          -0.4200000000000014,
+          2.53
+        ],
+        [
+          -0.4200000000000014,
+          5.862
+        ],
+        [
+          0.92,
+          5.862
+        ],
+        [
+          0.92,
+          5.814
+        ],
+        [
+          0.9204815273327803,
+          5.804198285967044
+        ],
+        [
+          0.921921471959677,
+          5.794490967798387
+        ],
+        [
+          0.9243059664267791,
+          5.784971532274554
+        ],
+        [
+          0.9276120467488713,
+          5.775731656763491
+        ],
+        [
+          0.9318078735651645,
+          5.7668603263174
+        ],
+        [
+          0.9368530387697455,
+          5.75844297669804
+        ],
+        [
+          0.9426989546637263,
+          5.750560671583636
+        ],
+        [
+          0.9492893218813453,
+          5.743289321881345
+        ],
+        [
+          0.9565606715836354,
+          5.736698954663726
+        ],
+        [
+          0.9644429766980398,
+          5.730853038769745
+        ],
+        [
+          0.9728603263174003,
+          5.725807873565165
+        ],
+        [
+          0.9817316567634911,
+          5.721612046748872
+        ],
+        [
+          0.9909715322745538,
+          5.7183059664267795
+        ],
+        [
+          1.0004909677983873,
+          5.715921471959677
+        ],
+        [
+          1.010198285967044,
+          5.71448152733278
+        ],
+        [
+          1.02,
+          5.714
+        ],
+        [
+          2.4199999999999995,
+          5.714
+        ],
+        [
+          2.4199999999999995,
+          2.53
+        ]
+      ],
+      "light_ids": [
+        "room_6_0_0"
+      ]
+    },
+    {
+      "name": "Despensa",
+      "level": "terreo",
+      "polygon": [
+        [
+          5.52,
+          6.970000000000001
+        ],
+        [
+          5.52,
+          2.53
+        ],
+        [
+          2.78,
+          2.53
+        ],
+        [
+          2.78,
+          5.714
+        ],
+        [
+          3.629,
+          5.714
+        ],
+        [
+          3.6388017140329563,
+          5.71448152733278
+        ],
+        [
+          3.6485090322016127,
+          5.715921471959677
+        ],
+        [
+          3.658028467725446,
+          5.7183059664267795
+        ],
+        [
+          3.667268343236509,
+          5.721612046748872
+        ],
+        [
+          3.6761396736826,
+          5.725807873565165
+        ],
+        [
+          3.68455702330196,
+          5.730853038769745
+        ],
+        [
+          3.6924393284163646,
+          5.736698954663726
+        ],
+        [
+          3.6997106781186546,
+          5.743289321881345
+        ],
+        [
+          3.7063010453362737,
+          5.750560671583636
+        ],
+        [
+          3.7121469612302547,
+          5.75844297669804
+        ],
+        [
+          3.7171921264348353,
+          5.7668603263174
+        ],
+        [
+          3.7213879532511287,
+          5.775731656763491
+        ],
+        [
+          3.724694033573221,
+          5.784971532274554
+        ],
+        [
+          3.727078528040323,
+          5.794490967798387
+        ],
+        [
+          3.72851847266722,
+          5.804198285967044
+        ],
+        [
+          3.729,
+          5.814
+        ],
+        [
+          3.729,
+          6.970000000000001
+        ],
+        [
+          5.52,
+          6.970000000000001
+        ]
+      ],
+      "light_ids": [
+        "room_7_0_0"
+      ]
+    },
+    {
+      "name": "Sala TV Jogos",
+      "level": "terreo",
+      "polygon": [
+        [
+          5.879999999999999,
+          2.53
+        ],
+        [
+          5.879999999999999,
+          6.970000000000001
+        ],
+        [
+          10.32,
+          6.970000000000001
+        ],
+        [
+          10.32,
+          2.53
+        ],
+        [
+          5.879999999999999,
+          2.53
+        ]
+      ],
+      "light_ids": [
+        "room_8_0_0"
+      ]
+    },
+    {
+      "name": "Lavanderia",
+      "level": "terreo",
+      "polygon": [
+        [
+          13.52,
+          2.53
+        ],
+        [
+          10.68,
+          2.53
+        ],
+        [
+          10.68,
+          6.970000000000001
+        ],
+        [
+          13.255,
+          6.970000000000001
+        ],
+        [
+          13.255,
+          6.296
+        ],
+        [
+          13.255481527332782,
+          6.286198285967044
+        ],
+        [
+          13.256921471959677,
+          6.276490967798387
+        ],
+        [
+          13.25930596642678,
+          6.266971532274554
+        ],
+        [
+          13.262612046748872,
+          6.257731656763491
+        ],
+        [
+          13.266807873565165,
+          6.2488603263174
+        ],
+        [
+          13.271853038769747,
+          6.24044297669804
+        ],
+        [
+          13.277698954663727,
+          6.232560671583636
+        ],
+        [
+          13.284289321881346,
+          6.225289321881346
+        ],
+        [
+          13.291560671583635,
+          6.218698954663727
+        ],
+        [
+          13.29944297669804,
+          6.212853038769746
+        ],
+        [
+          13.307860326317401,
+          6.207807873565165
+        ],
+        [
+          13.31673165676349,
+          6.203612046748872
+        ],
+        [
+          13.325971532274554,
+          6.20030596642678
+        ],
+        [
+          13.335490967798387,
+          6.197921471959678
+        ],
+        [
+          13.345198285967044,
+          6.1964815273327805
+        ],
+        [
+          13.355,
+          6.196000000000001
+        ],
+        [
+          13.52,
+          6.196000000000001
+        ],
+        [
+          13.52,
+          2.53
+        ]
+      ],
+      "light_ids": [
+        "room_9_0_0"
+      ]
+    },
+    {
+      "name": "Suite master",
+      "level": "superior",
+      "polygon": [
+        [
+          -0.9800000000000006,
+          1.3300000000000003
+        ],
+        [
+          -8.620000000000001,
+          1.3300000000000003
+        ],
+        [
+          -8.620000000000001,
+          9.47
+        ],
+        [
+          -1.268,
+          9.47
+        ],
+        [
+          -1.268,
+          5.962
+        ],
+        [
+          -1.2675184726672195,
+          5.952198285967044
+        ],
+        [
+          -1.266078528040323,
+          5.942490967798387
+        ],
+        [
+          -1.2636940335732207,
+          5.9329715322745535
+        ],
+        [
+          -1.2603879532511286,
+          5.923731656763491
+        ],
+        [
+          -1.2561921264348355,
+          5.9148603263174
+        ],
+        [
+          -1.2511469612302544,
+          5.90644297669804
+        ],
+        [
+          -1.2453010453362736,
+          5.898560671583636
+        ],
+        [
+          -1.2387106781186548,
+          5.891289321881345
+        ],
+        [
+          -1.2314393284163645,
+          5.884698954663726
+        ],
+        [
+          -1.2235570233019601,
+          5.878853038769745
+        ],
+        [
+          -1.2151396736825997,
+          5.873807873565164
+        ],
+        [
+          -1.2062683432365089,
+          5.8696120467488715
+        ],
+        [
+          -1.1970284677254461,
+          5.866305966426779
+        ],
+        [
+          -1.1875090322016129,
+          5.863921471959677
+        ],
+        [
+          -1.177801714032956,
+          5.86248152733278
+        ],
+        [
+          -1.168,
+          5.862
+        ],
+        [
+          -0.9800000000000006,
+          5.862
+        ],
+        [
+          -0.9800000000000006,
+          1.3300000000000003
+        ]
+      ],
+      "light_ids": [
+        "room_10_0_0",
+        "room_10_0_1",
+        "room_10_1_0",
+        "room_10_1_1"
+      ]
+    },
+    {
+      "name": "Closet",
+      "level": "superior",
+      "polygon": [
+        [
+          -8.620000000000001,
+          -3.6699999999999995
+        ],
+        [
+          -8.620000000000001,
+          0.9700000000000004
+        ],
+        [
+          -4.98,
+          0.9700000000000004
+        ],
+        [
+          -4.98,
+          -3.6699999999999995
+        ],
+        [
+          -8.620000000000001,
+          -3.6699999999999995
+        ]
+      ],
+      "light_ids": [
+        "room_11_0_0"
+      ]
+    },
+    {
+      "name": "Banheiro da suite",
+      "level": "superior",
+      "polygon": [
+        [
+          -4.620000000000001,
+          -3.6699999999999995
+        ],
+        [
+          -4.620000000000001,
+          0.9700000000000004
+        ],
+        [
+          -0.9800000000000006,
+          0.9700000000000004
+        ],
+        [
+          -0.9800000000000006,
+          -3.6699999999999995
+        ],
+        [
+          -4.620000000000001,
+          -3.6699999999999995
+        ]
+      ],
+      "light_ids": [
+        "room_12_0_0"
+      ]
+    },
+    {
+      "name": "Quarto 2",
+      "level": "superior",
+      "polygon": [
+        [
+          6.579999999999998,
+          -15.370000000000001
+        ],
+        [
+          6.579999999999998,
+          -3.03
+        ],
+        [
+          13.52,
+          -3.03
+        ],
+        [
+          13.52,
+          -15.370000000000001
+        ],
+        [
+          6.579999999999998,
+          -15.370000000000001
+        ]
+      ],
+      "light_ids": [
+        "room_13_0_0",
+        "room_13_0_1",
+        "room_13_0_2",
+        "room_13_1_0",
+        "room_13_1_1",
+        "room_13_1_2"
+      ]
+    },
+    {
+      "name": "Quarto 3",
+      "level": "superior",
+      "polygon": [
+        [
+          13.52,
+          1.8300000000000003
+        ],
+        [
+          6.579999999999998,
+          1.8300000000000003
+        ],
+        [
+          6.579999999999998,
+          6.970000000000001
+        ],
+        [
+          13.255,
+          6.970000000000001
+        ],
+        [
+          13.255,
+          6.296
+        ],
+        [
+          13.255481527332782,
+          6.286198285967044
+        ],
+        [
+          13.256921471959677,
+          6.276490967798387
+        ],
+        [
+          13.25930596642678,
+          6.266971532274554
+        ],
+        [
+          13.262612046748872,
+          6.257731656763491
+        ],
+        [
+          13.266807873565165,
+          6.2488603263174
+        ],
+        [
+          13.271853038769747,
+          6.24044297669804
+        ],
+        [
+          13.277698954663727,
+          6.232560671583636
+        ],
+        [
+          13.284289321881346,
+          6.225289321881346
+        ],
+        [
+          13.291560671583635,
+          6.218698954663727
+        ],
+        [
+          13.29944297669804,
+          6.212853038769746
+        ],
+        [
+          13.307860326317401,
+          6.207807873565165
+        ],
+        [
+          13.31673165676349,
+          6.203612046748872
+        ],
+        [
+          13.325971532274554,
+          6.20030596642678
+        ],
+        [
+          13.335490967798387,
+          6.197921471959678
+        ],
+        [
+          13.345198285967044,
+          6.1964815273327805
+        ],
+        [
+          13.355,
+          6.196000000000001
+        ],
+        [
+          13.52,
+          6.196000000000001
+        ],
+        [
+          13.52,
+          1.8300000000000003
+        ]
+      ],
+      "light_ids": [
+        "room_14_0_0",
+        "room_14_0_1",
+        "room_14_1_0",
+        "room_14_1_1"
+      ]
+    },
+    {
+      "name": "Banheiro social",
+      "level": "superior",
+      "polygon": [
+        [
+          9.98,
+          -2.6699999999999995
+        ],
+        [
+          9.98,
+          1.4700000000000004
+        ],
+        [
+          13.52,
+          1.4700000000000004
+        ],
+        [
+          13.52,
+          -2.6699999999999995
+        ],
+        [
+          9.98,
+          -2.6699999999999995
+        ]
+      ],
+      "light_ids": [
+        "room_15_0_0"
+      ]
+    },
+    {
+      "name": "Circulacao quartos",
+      "level": "superior",
+      "polygon": [
+        [
+          6.579999999999998,
+          -2.6699999999999995
+        ],
+        [
+          6.579999999999998,
+          1.4700000000000004
+        ],
+        [
+          9.620000000000001,
+          1.4700000000000004
+        ],
+        [
+          9.620000000000001,
+          -2.6699999999999995
+        ],
+        [
+          6.579999999999998,
+          -2.6699999999999995
+        ]
+      ],
+      "light_ids": [
+        "room_16_0_0"
+      ]
+    },
+    {
+      "name": "Mezanino",
+      "level": "superior",
+      "polygon": [
+        [
+          -0.6200000000000008,
+          -3.6699999999999995
+        ],
+        [
+          -0.6200000000000008,
+          1.4700000000000004
+        ],
+        [
+          6.219999999999999,
+          1.4700000000000004
+        ],
+        [
+          6.219999999999999,
+          -3.6699999999999995
+        ],
+        [
+          -0.6200000000000008,
+          -3.6699999999999995
+        ]
+      ],
+      "light_ids": [
+        "room_17_0_0",
+        "room_17_0_1",
+        "room_17_1_0",
+        "room_17_1_1"
+      ]
+    },
+    {
+      "name": "Sala intima / leitura",
+      "level": "superior",
+      "polygon": [
+        [
+          6.219999999999999,
+          6.970000000000001
+        ],
+        [
+          6.219999999999999,
+          1.8300000000000003
+        ],
+        [
+          -0.6200000000000008,
+          1.8300000000000003
+        ],
+        [
+          -0.6200000000000008,
+          5.862
+        ],
+        [
+          0.92,
+          5.862
+        ],
+        [
+          0.92,
+          5.814
+        ],
+        [
+          0.9204815273327803,
+          5.804198285967044
+        ],
+        [
+          0.921921471959677,
+          5.794490967798387
+        ],
+        [
+          0.9243059664267791,
+          5.784971532274554
+        ],
+        [
+          0.9276120467488713,
+          5.775731656763491
+        ],
+        [
+          0.9318078735651645,
+          5.7668603263174
+        ],
+        [
+          0.9368530387697455,
+          5.75844297669804
+        ],
+        [
+          0.9426989546637263,
+          5.750560671583636
+        ],
+        [
+          0.9492893218813453,
+          5.743289321881345
+        ],
+        [
+          0.9565606715836354,
+          5.736698954663726
+        ],
+        [
+          0.9644429766980398,
+          5.730853038769745
+        ],
+        [
+          0.9728603263174003,
+          5.725807873565165
+        ],
+        [
+          0.9817316567634911,
+          5.721612046748872
+        ],
+        [
+          0.9909715322745538,
+          5.7183059664267795
+        ],
+        [
+          1.0004909677983873,
+          5.715921471959677
+        ],
+        [
+          1.010198285967044,
+          5.71448152733278
+        ],
+        [
+          1.02,
+          5.714
+        ],
+        [
+          3.629,
+          5.714
+        ],
+        [
+          3.6388017140329563,
+          5.71448152733278
+        ],
+        [
+          3.6485090322016127,
+          5.715921471959677
+        ],
+        [
+          3.658028467725446,
+          5.7183059664267795
+        ],
+        [
+          3.667268343236509,
+          5.721612046748872
+        ],
+        [
+          3.6761396736826,
+          5.725807873565165
+        ],
+        [
+          3.68455702330196,
+          5.730853038769745
+        ],
+        [
+          3.6924393284163646,
+          5.736698954663726
+        ],
+        [
+          3.6997106781186546,
+          5.743289321881345
+        ],
+        [
+          3.7063010453362737,
+          5.750560671583636
+        ],
+        [
+          3.7121469612302547,
+          5.75844297669804
+        ],
+        [
+          3.7171921264348353,
+          5.7668603263174
+        ],
+        [
+          3.7213879532511287,
+          5.775731656763491
+        ],
+        [
+          3.724694033573221,
+          5.784971532274554
+        ],
+        [
+          3.727078528040323,
+          5.794490967798387
+        ],
+        [
+          3.72851847266722,
+          5.804198285967044
+        ],
+        [
+          3.729,
+          5.814
+        ],
+        [
+          3.729,
+          6.970000000000001
+        ],
+        [
+          6.219999999999999,
+          6.970000000000001
+        ]
+      ],
+      "light_ids": [
+        "room_18_0_0",
+        "room_18_0_1",
+        "room_18_1_0",
+        "room_18_1_1"
+      ]
+    }
+  ],
+  "description": "Fixed room fill, vertical wall wash and restrained shadow accents; permanent all hours."
+}

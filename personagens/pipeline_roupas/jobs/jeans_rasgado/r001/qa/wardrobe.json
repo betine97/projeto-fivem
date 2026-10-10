@@ -1,0 +1,26 @@
+{
+  "item": {
+    "id": "exclusive-jeans_rasgado",
+    "sex": "male",
+    "category": "lowr",
+    "title": "Jeans azul rasgado",
+    "collection": "cidade_jeans_rasgado_r001",
+    "collectionLabel": "Exclusivas da cidade",
+    "index": 0,
+    "file": "lowr_000_r.ydd",
+    "textureCount": 1,
+    "textureFile": "lowr_diff_000_a_whi.ytd",
+    "triangles": 1914,
+    "image": "previews/exclusive-jeans_rasgado.png",
+    "back": "previews/exclusive-jeans_rasgado-back.png",
+    "textureIndex": 0,
+    "exclusive": true,
+    "sourceId": "8552b45e2ad8",
+    "resource": "cidade_jeans_rasgado"
+  },
+  "base_preserved": true,
+  "user_tags_modified": false,
+  "server_reload_required": true,
+  "web_reload_required": true,
+  "in_game_verified": false
+}

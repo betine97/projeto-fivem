@@ -1,0 +1,47 @@
+[
+  {
+    "model": "ch2_09b_emissive_05.ydr",
+    "lights": 0,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_adega_vitrines.ydr",
+    "lights": 0,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_bar_referencia.ydr",
+    "lights": 0,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_cozinha_parede.ydr",
+    "lights": 0,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_parede_aparador.ydr",
+    "lights": 0,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_pendentes.ydr",
+    "lights": 9,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_spot_embutido.ydr",
+    "lights": 0,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_spots_led.ydr",
+    "lights": 0,
+    "nativeLoaded": true
+  },
+  {
+    "model": "mansao_teto.ydr",
+    "lights": 88,
+    "nativeLoaded": true
+  }
+]

@@ -1,0 +1,8174 @@
+[
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 8,
+    "name": "prop_pot_plant_03a",
+    "pos": [
+      -554.78564453125,
+      -328.1297912597656,
+      33.905330657958984
+    ],
+    "rot": [
+      0.8372659087181091,
+      0.0,
+      0.0,
+      0.5467959642410278
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 9,
+    "name": "prop_pot_plant_03a",
+    "pos": [
+      -552.5440673828125,
+      -331.9892883300781,
+      33.905330657958984
+    ],
+    "rot": [
+      0.8372659087181091,
+      0.0,
+      0.0,
+      0.5467959642410278
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 10,
+    "name": "prop_pot_plant_03a",
+    "pos": [
+      -551.3273315429688,
+      -347.2794494628906,
+      34.141319274902344
+    ],
+    "rot": [
+      0.8372659087181091,
+      0.0,
+      0.0,
+      0.5467959642410278
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 11,
+    "name": "prop_pot_plant_03a",
+    "pos": [
+      -549.44384765625,
+      -343.8006896972656,
+      34.1445198059082
+    ],
+    "rot": [
+      0.8372659087181091,
+      0.0,
+      0.0,
+      0.5467959642410278
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 18,
+    "name": "prop_pot_plant_6b",
+    "pos": [
+      -551.262451171875,
+      -349.2040710449219,
+      38.01927947998047
+    ],
+    "rot": [
+      0.8635139465332031,
+      0.0,
+      0.0,
+      -0.5043250322341919
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 19,
+    "name": "prop_pot_plant_6b",
+    "pos": [
+      -547.8326416015625,
+      -342.7189636230469,
+      38.01927947998047
+    ],
+    "rot": [
+      0.8635139465332031,
+      0.0,
+      0.0,
+      -0.5043250322341919
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 20,
+    "name": "prop_pot_plant_6b",
+    "pos": [
+      -551.6378173828125,
+      -333.1495056152344,
+      38.01927947998047
+    ],
+    "rot": [
+      -0.5039220452308655,
+      0.0,
+      0.0,
+      0.8637491464614868
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_17_strm_0.ymap",
+    "index": 21,
+    "name": "prop_pot_plant_6b",
+    "pos": [
+      -555.3668212890625,
+      -326.6891174316406,
+      38.01927947998047
+    ],
+    "rot": [
+      -0.5039220452308655,
+      0.0,
+      0.0,
+      0.8637491464614868
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18.ymap",
+    "index": 3,
+    "name": "bh1_18_rd01_lod",
+    "pos": [
+      -559.9335327148438,
+      -424.61248779296875,
+      33.64948272705078
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_18_critical_0.ymap",
+    "index": 0,
+    "name": "prop_streetlight_01b",
+    "pos": [
+      -540.7761840820312,
+      -447.35089111328125,
+      33.23918914794922
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_critical_0.ymap",
+    "index": 2,
+    "name": "prop_streetlight_01b",
+    "pos": [
+      -514.8963012695312,
+      -432.05084228515625,
+      33.365234375
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_critical_0.ymap",
+    "index": 3,
+    "name": "prop_streetlight_01b",
+    "pos": [
+      -515.4788208007812,
+      -404.30633544921875,
+      33.923519134521484
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_critical_0.ymap",
+    "index": 4,
+    "name": "prop_streetlight_01b",
+    "pos": [
+      -525.5614624023438,
+      -414.1487121582031,
+      33.744747161865234
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_critical_0.ymap",
+    "index": 5,
+    "name": "prop_streetlight_01b",
+    "pos": [
+      -525.5614624023438,
+      -441.8581848144531,
+      33.27055358886719
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 1,
+    "name": "bh1_18_fireescapes_ref",
+    "pos": [
+      -543.534912109375,
+      -391.14178466796875,
+      51.63232421875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 2,
+    "name": "bh1_18_rd01",
+    "pos": [
+      -559.9335327148438,
+      -424.61248779296875,
+      33.64948272705078
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 3,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 5,
+    "name": "bh1_18_bld01_glue",
+    "pos": [
+      -562.1232299804688,
+      -426.45623779296875,
+      33.83416748046875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 6,
+    "name": "bh1_18_bld01_grime",
+    "pos": [
+      -569.7689819335938,
+      -426.0794982910156,
+      52.671112060546875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 8,
+    "name": "bh1_18_bld01_arch",
+    "pos": [
+      -543.5780029296875,
+      -391.84619140625,
+      37.41645431518555
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 9,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 9,
+    "name": "bh1_18_bld01_arch",
+    "pos": [
+      -550.424560546875,
+      -391.84619140625,
+      37.41645431518555
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 9,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 10,
+    "name": "bh1_18_bld01_arch",
+    "pos": [
+      -557.2711181640625,
+      -391.84619140625,
+      37.41645431518555
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 9,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 14,
+    "name": "bh1_18_bld01_arch",
+    "pos": [
+      -529.0989990234375,
+      -414.2005615234375,
+      37.41645050048828
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": 9,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 15,
+    "name": "bh1_18_bld01_arch",
+    "pos": [
+      -529.0989990234375,
+      -407.35400390625,
+      37.41645050048828
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": 9,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 16,
+    "name": "bh1_18_bld01_arch",
+    "pos": [
+      -529.0989990234375,
+      -400.5074462890625,
+      37.41645050048828
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": 9,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 17,
+    "name": "bh1_18_bld01_arch",
+    "pos": [
+      -536.7314453125,
+      -391.8462219238281,
+      37.41645050048828
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 9,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 35,
+    "name": "bh1_18_fringe_flap2",
+    "pos": [
+      -563.8950805664062,
+      -391.8550109863281,
+      37.41645050048828
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 36,
+    "name": "bh1_18_fringe_flap2",
+    "pos": [
+      -557.2710571289062,
+      -391.84619140625,
+      37.41645431518555
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 37,
+    "name": "bh1_18_fringe_flap2",
+    "pos": [
+      -550.4244995117188,
+      -391.84619140625,
+      37.41645431518555
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 38,
+    "name": "bh1_18_fringe_flap2",
+    "pos": [
+      -543.5779418945312,
+      -391.84619140625,
+      37.41645431518555
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 39,
+    "name": "bh1_18_fringe_flap2",
+    "pos": [
+      -536.7313842773438,
+      -391.8462219238281,
+      37.41645050048828
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 40,
+    "name": "bh1_18_fringe_flap3",
+    "pos": [
+      -529.0989990234375,
+      -400.5074768066406,
+      37.41645050048828
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 41,
+    "name": "bh1_18_fringe_flap3",
+    "pos": [
+      -529.0989990234375,
+      -407.3540344238281,
+      37.41645050048828
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 42,
+    "name": "bh1_18_fringe_flap3",
+    "pos": [
+      -529.0989990234375,
+      -414.20062255859375,
+      37.41645050048828
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 47,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -568.2445678710938,
+      -406.50921630859375,
+      40.55387496948242
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 48,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -553.8248901367188,
+      -393.89141845703125,
+      40.55365753173828
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 49,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -558.1830444335938,
+      -393.89141845703125,
+      40.55555725097656
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 50,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -529.7599487304688,
+      -395.29339599609375,
+      40.720176696777344
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 51,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -529.7599487304688,
+      -398.93121337890625,
+      40.73388671875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 52,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -529.7599487304688,
+      -402.56903076171875,
+      40.7410888671875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 53,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -529.7599487304688,
+      -406.20684814453125,
+      40.742271423339844
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 54,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -529.7599487304688,
+      -409.84466552734375,
+      40.7398567199707
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 55,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -532.3827514648438,
+      -392.766845703125,
+      40.732303619384766
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 61,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -562.4179077148438,
+      -393.89141845703125,
+      40.55635452270508
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 62,
+    "name": "prop_pot_plant_05b",
+    "pos": [
+      -566.7759399414062,
+      -393.89141845703125,
+      40.554290771484375
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 68,
+    "name": "prop_pot_plant_05d",
+    "pos": [
+      -564.5426635742188,
+      -442.61004638671875,
+      33.33359146118164
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 70,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -564.7280883789062,
+      -393.80096435546875,
+      40.55479049682617
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 73,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -563.8297729492188,
+      -391.336181640625,
+      33.97694778442383
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 74,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -557.3601684570312,
+      -391.47174072265625,
+      34.006080627441406
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 75,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -550.4811401367188,
+      -391.33197021484375,
+      34.064109802246094
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 76,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -543.6121215820312,
+      -391.0461730957031,
+      34.106224060058594
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 77,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -536.9143676757812,
+      -391.0210266113281,
+      34.09967041015625
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 78,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -560.3136596679688,
+      -393.80096435546875,
+      40.55479049682617
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 79,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -556.2111206054688,
+      -393.80096435546875,
+      40.55479049682617
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 83,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -568.3012084960938,
+      -394.6866455078125,
+      33.76271438598633
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 86,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -567.912353515625,
+      -391.89141845703125,
+      36.92905807495117
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 89,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -559.625732421875,
+      -441.5511474609375,
+      36.71373748779297
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 91,
+    "name": "prop_cctv_cam_01b",
+    "pos": [
+      -553.4269409179688,
+      -441.26043701171875,
+      38.95529556274414
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 93,
+    "name": "prop_flagpole_1a",
+    "pos": [
+      -567.8812255859375,
+      -393.5363464355469,
+      38.93262481689453
+    ],
+    "rot": [
+      0.9238797426223755,
+      0.3826829195022583,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 94,
+    "name": "prop_elecbox_18",
+    "pos": [
+      -553.1849975585938,
+      -442.0155334472656,
+      37.68909454345703
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 95,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -536.8739624023438,
+      -395.16290283203125,
+      68.96858978271484
+    ],
+    "rot": [
+      0.9990589022636414,
+      0.0,
+      0.0,
+      0.04337499663233757
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 96,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -533.4732055664062,
+      -425.32415771484375,
+      68.94985961914062
+    ],
+    "rot": [
+      0.0017389992717653513,
+      0.0,
+      0.0,
+      0.9999985098838806
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 97,
+    "name": "prop_roofvent_04a",
+    "pos": [
+      -549.4642944335938,
+      -395.5757751464844,
+      68.98391723632812
+    ],
+    "rot": [
+      0.9832262396812439,
+      0.0,
+      0.0,
+      -0.18239004909992218
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 98,
+    "name": "prop_aircon_m_06",
+    "pos": [
+      -558.1906127929688,
+      -426.1412048339844,
+      72.10346221923828
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 99,
+    "name": "prop_aircon_m_06",
+    "pos": [
+      -550.3344116210938,
+      -426.1412048339844,
+      72.10346221923828
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 100,
+    "name": "prop_aircon_m_06",
+    "pos": [
+      -542.4779663085938,
+      -426.1412048339844,
+      72.10346221923828
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 104,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -560.9406127929688,
+      -433.77203369140625,
+      40.521934509277344
+    ],
+    "rot": [
+      0.0017389992717653513,
+      0.0,
+      0.0,
+      0.9999985098838806
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 105,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -548.2232666015625,
+      -441.9513244628906,
+      40.521934509277344
+    ],
+    "rot": [
+      0.0017389992717653513,
+      0.0,
+      0.0,
+      0.9999985098838806
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 107,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -534.5319213867188,
+      -433.59423828125,
+      40.521934509277344
+    ],
+    "rot": [
+      0.0017389992717653513,
+      0.0,
+      0.0,
+      0.9999985098838806
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 108,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -542.6333618164062,
+      -441.908447265625,
+      40.521934509277344
+    ],
+    "rot": [
+      0.0017389992717653513,
+      0.0,
+      0.0,
+      0.9999985098838806
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 112,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -547.2182006835938,
+      -427.68011474609375,
+      68.43299865722656
+    ],
+    "rot": [
+      0.0017389992717653513,
+      0.0,
+      0.0,
+      0.9999985098838806
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 120,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -528.7267456054688,
+      -400.2933349609375,
+      33.976749420166016
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 121,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -528.6718139648438,
+      -407.2889709472656,
+      33.86437225341797
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 122,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -528.6431884765625,
+      -414.1971435546875,
+      33.72241973876953
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 123,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -528.4075317382812,
+      -421.928955078125,
+      33.56169128417969
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 124,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -528.4484252929688,
+      -427.61749267578125,
+      33.45463562011719
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 125,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -528.5763549804688,
+      -434.14453125,
+      33.35169982910156
+    ],
+    "rot": [
+      0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 126,
+    "name": "prop_wall_light_06a",
+    "pos": [
+      -558.8280639648438,
+      -446.06878662109375,
+      39.56900405883789
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 130,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.6815795898438,
+      -430.26239013671875,
+      41.6816520690918
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 131,
+    "name": "prop_aircon_s_01a",
+    "pos": [
+      -562.9711303710938,
+      -441.2432861328125,
+      34.34300994873047
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 132,
+    "name": "prop_aircon_s_04a",
+    "pos": [
+      -551.2227172851562,
+      -444.83837890625,
+      37.120567321777344
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 133,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -531.2091674804688,
+      -430.26239013671875,
+      41.6816520690918
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 134,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.0518798828125,
+      -394.07232666015625,
+      41.79706954956055
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 135,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -540.785888671875,
+      -430.26239013671875,
+      41.6816520690918
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 136,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -547.2567138671875,
+      -430.26239013671875,
+      41.6816520690918
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 137,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -553.7289428710938,
+      -430.26239013671875,
+      41.6816520690918
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 138,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -562.387451171875,
+      -430.26239013671875,
+      41.6816520690918
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 144,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -525.8060913085938,
+      -392.2486572265625,
+      41.7895393371582
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 145,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -525.8060913085938,
+      -392.9456787109375,
+      41.7895393371582
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 146,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -515.1033325195312,
+      -392.2486572265625,
+      41.7895393371582
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 147,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -515.1033325195312,
+      -392.9456787109375,
+      41.7895393371582
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 153,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -511.86578369140625,
+      -399.82672119140625,
+      33.843223571777344
+    ],
+    "rot": [
+      0.7372772693634033,
+      0.0,
+      0.0,
+      -0.6755903363227844
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 154,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -512.0861206054688,
+      -402.34552001953125,
+      33.843223571777344
+    ],
+    "rot": [
+      0.7372772693634033,
+      0.0,
+      0.0,
+      -0.6755903363227844
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 155,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -511.8466491699219,
+      -417.85577392578125,
+      33.5711784362793
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 156,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -511.89569091796875,
+      -415.48712158203125,
+      33.5711784362793
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 157,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -511.6285095214844,
+      -423.26861572265625,
+      33.420494079589844
+    ],
+    "rot": [
+      -0.6755902767181396,
+      0.0,
+      0.0,
+      0.7372773289680481
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 158,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -511.3732604980469,
+      -425.62396240234375,
+      33.420494079589844
+    ],
+    "rot": [
+      -0.6755902767181396,
+      0.0,
+      0.0,
+      0.7372773289680481
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 159,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -511.22125244140625,
+      -431.00018310546875,
+      33.30611801147461
+    ],
+    "rot": [
+      -0.6886176466941833,
+      0.0,
+      0.0,
+      0.7251246571540833
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 160,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -511.0500183105469,
+      -433.36309814453125,
+      33.30611801147461
+    ],
+    "rot": [
+      -0.6886176466941833,
+      0.0,
+      0.0,
+      0.7251246571540833
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 161,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -510.7440490722656,
+      -438.56903076171875,
+      33.16226577758789
+    ],
+    "rot": [
+      -0.6886176466941833,
+      0.0,
+      0.0,
+      0.7251246571540833
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 162,
+    "name": "prop_pot_plant_04a",
+    "pos": [
+      -510.57281494140625,
+      -440.93194580078125,
+      33.16226577758789
+    ],
+    "rot": [
+      -0.6886176466941833,
+      0.0,
+      0.0,
+      0.7251246571540833
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 177,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -529.00341796875,
+      -423.1231384277344,
+      61.563209533691406
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 178,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -529.00341796875,
+      -423.1231384277344,
+      57.522865295410156
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 179,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -528.9905395507812,
+      -414.48272705078125,
+      61.538780212402344
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 180,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -528.9905395507812,
+      -414.48272705078125,
+      57.53495407104492
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 181,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -528.9905395507812,
+      -414.48272705078125,
+      53.52899169921875
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 182,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -529.00341796875,
+      -423.1231384277344,
+      53.52899169921875
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 183,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.0306396484375,
+      -401.31390380859375,
+      61.538780212402344
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 184,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.0306396484375,
+      -401.31390380859375,
+      57.53495407104492
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 185,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.0306396484375,
+      -401.31390380859375,
+      53.52899169921875
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 186,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.0231323242188,
+      -409.58941650390625,
+      53.52899169921875
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 187,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.0231323242188,
+      -409.58941650390625,
+      57.522865295410156
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 188,
+    "name": "prop_aircon_s_02a",
+    "pos": [
+      -534.0231323242188,
+      -409.58941650390625,
+      61.563209533691406
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 190,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -562.8152465820312,
+      -398.2596740722656,
+      40.55226516723633
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 197,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -559.7359619140625,
+      -442.69873046875,
+      44.384098052978516
+    ],
+    "rot": [
+      0.0017389992717653513,
+      0.0,
+      0.0,
+      0.9999985098838806
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 202,
+    "name": "prop_pot_plant_03a",
+    "pos": [
+      -567.788330078125,
+      -391.4034729003906,
+      33.971309661865234
+    ],
+    "rot": [
+      0.3826829195022583,
+      0.0,
+      0.0,
+      0.9238797426223755
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 233,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -553.1100463867188,
+      -392.79296875,
+      44.66809844970703
+    ],
+    "rot": [
+      -0.5416749119758606,
+      -0.45451992750167847,
+      -0.45451992750167847,
+      0.5416749119758606
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 236,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -565.566650390625,
+      -407.2144470214844,
+      45.16548538208008
+    ],
+    "rot": [
+      0.7660440802574158,
+      0.6427880525588989,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 238,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -564.3478393554688,
+      -391.66351318359375,
+      41.06035232543945
+    ],
+    "rot": [
+      0.7660440802574158,
+      0.6427880525588989,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 240,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -558.1484375,
+      -391.66351318359375,
+      41.06035232543945
+    ],
+    "rot": [
+      0.7660440802574158,
+      0.6427880525588989,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 241,
+    "name": "prop_wall_light_05c",
+    "pos": [
+      -530.4629516601562,
+      -393.326171875,
+      37.1095085144043
+    ],
+    "rot": [
+      0.9238797426223755,
+      0.0,
+      0.0,
+      0.3826829195022583
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 244,
+    "name": "prop_wall_light_08a",
+    "pos": [
+      -566.445068359375,
+      -391.87982177734375,
+      36.524681091308594
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 250,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -547.0402221679688,
+      -445.02801513671875,
+      33.27290344238281
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 251,
+    "name": "prop_pot_plant_05c",
+    "pos": [
+      -557.5020141601562,
+      -441.857421875,
+      33.34308624267578
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 252,
+    "name": "prop_bush_ivy_02_pot",
+    "pos": [
+      -532.7239379882812,
+      -442.2765197753906,
+      33.613365173339844
+    ],
+    "rot": [
+      0.9921641945838928,
+      0.0,
+      0.0,
+      -0.12494104355573654
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 266,
+    "name": "prop_flagpole_2b",
+    "pos": [
+      -567.8341674804688,
+      -388.9571228027344,
+      43.46290969848633
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      0.3826829195022583,
+      0.9238797426223755
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 268,
+    "name": "prop_aircon_m_06",
+    "pos": [
+      -567.0167846679688,
+      -414.5020446777344,
+      75.8504867553711
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 269,
+    "name": "prop_aircon_m_06",
+    "pos": [
+      -567.0167846679688,
+      -412.58026123046875,
+      75.8504867553711
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 274,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -545.9695434570312,
+      -430.460693359375,
+      43.74269485473633
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      -0.6919379830360413,
+      0.7219570279121399
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 275,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -557.9368896484375,
+      -430.460693359375,
+      43.74269485473633
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      -0.6919379830360413,
+      0.7219570279121399
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 276,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -532.8960571289062,
+      -430.460693359375,
+      43.74269485473633
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      -0.6919379830360413,
+      0.7219570279121399
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 277,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -568.59814453125,
+      -434.4654541015625,
+      71.42143249511719
+    ],
+    "rot": [
+      0.0,
+      0.0,
+      -0.6919379830360413,
+      0.7219570279121399
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_18_strm_0.ymap",
+    "index": 279,
+    "name": "prop_wall_light_12a",
+    "pos": [
+      -568.6554565429688,
+      -434.458251953125,
+      64.4010009765625
+    ],
+    "rot": [
+      -0.6919379830360413,
+      0.7219570279121399,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21.ymap",
+    "index": 0,
+    "name": "bh1_21_em_slod",
+    "pos": [
+      -538.8553466796875,
+      -213.37057495117188,
+      63.51646041870117
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 30,
+    "lod": "EntityLodLevel.SLOD1"
+  },
+  {
+    "map": "bh1_21.ymap",
+    "index": 1,
+    "name": "bh1_21_slod1",
+    "pos": [
+      -538.8553466796875,
+      -213.37057495117188,
+      63.51646041870117
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 25,
+    "lod": "EntityLodLevel.SLOD1"
+  },
+  {
+    "map": "bh1_21.ymap",
+    "index": 7,
+    "name": "bh1_21_grnd02_lod",
+    "pos": [
+      -538.1129150390625,
+      -214.28060913085938,
+      36.648006439208984
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_21.ymap",
+    "index": 11,
+    "name": "bh1_21_hedges_lod",
+    "pos": [
+      -567.768798828125,
+      -226.2633056640625,
+      35.9242057800293
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_21.ymap",
+    "index": 12,
+    "name": "bh1_21_roof_lod",
+    "pos": [
+      -544.6673583984375,
+      -203.12881469726562,
+      50.08771896362305
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_21.ymap",
+    "index": 14,
+    "name": "bh1_21_props_combo_25_lod",
+    "pos": [
+      -533.8650512695312,
+      -218.85765075683594,
+      36.14613723754883
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 2,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_21_long_0.ymap",
+    "index": 1,
+    "name": "prop_plant_group_06c",
+    "pos": [
+      -507.2652893066406,
+      -212.40252685546875,
+      36.05866622924805
+    ],
+    "rot": [
+      0.8145338892936707,
+      0.0,
+      0.0,
+      -0.5801159739494324
+    ],
+    "parent": 14,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 3,
+    "name": "bh1_21_grnd_d_2",
+    "pos": [
+      -536.6026611328125,
+      -213.71115112304688,
+      35.9543342590332
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 6,
+    "name": "bh1_21_grnd02_1",
+    "pos": [
+      -520.8450927734375,
+      -239.35128784179688,
+      35.2470817565918
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 7,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 9,
+    "name": "bh1_21_deta",
+    "pos": [
+      -551.4625244140625,
+      -202.94815063476562,
+      75.2197265625
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 14,
+    "name": "bh1_21_deta",
+    "pos": [
+      -555.1251220703125,
+      -201.95401000976562,
+      75.21974182128906
+    ],
+    "rot": [
+      0.8660255670547485,
+      0.0,
+      0.0,
+      0.4999997317790985
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 15,
+    "name": "bh1_21_detb",
+    "pos": [
+      -563.4730224609375,
+      -228.99642944335938,
+      41.162166595458984
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 16,
+    "name": "bh1_21_grnd_d",
+    "pos": [
+      -536.6026611328125,
+      -213.71115112304688,
+      35.9543342590332
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 17,
+    "name": "bh1_21_roof",
+    "pos": [
+      -544.7227783203125,
+      -203.17330932617188,
+      48.98598861694336
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 12,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 21,
+    "name": "bh1_21_railscastshadow",
+    "pos": [
+      -536.3641357421875,
+      -219.23074340820312,
+      36.159610748291016
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 25,
+    "name": "bh1_21_hedges",
+    "pos": [
+      -567.7515869140625,
+      -226.26815795898438,
+      35.9394416809082
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 11,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 26,
+    "name": "bh1_21_proxy",
+    "pos": [
+      -525.8665771484375,
+      -237.40750122070312,
+      36.18827438354492
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 28,
+    "name": "bh1_21_grnd_d_3",
+    "pos": [
+      -514.4530029296875,
+      -216.86190795898438,
+      54.37711715698242
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 29,
+    "name": "bh1_21_detb",
+    "pos": [
+      -514.3565673828125,
+      -200.63742065429688,
+      41.16867446899414
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 30,
+    "name": "bh1_21_steps",
+    "pos": [
+      -544.7283935546875,
+      -224.99270629882812,
+      34.7298698425293
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 33,
+    "name": "bh1_21_bld_decals01",
+    "pos": [
+      -547.3365478515625,
+      -203.22225952148438,
+      42.81081771850586
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 35,
+    "name": "bh1_21_waterfall_new",
+    "pos": [
+      -519.1612548828125,
+      -249.00735473632812,
+      34.564571380615234
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 46,
+    "name": "bh1_21_furgrass_07",
+    "pos": [
+      -543.90673828125,
+      -253.87039184570312,
+      35.035396575927734
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 47,
+    "name": "bh1_21_furgrass_06",
+    "pos": [
+      -506.51904296875,
+      -236.60821533203125,
+      35.22495651245117
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 48,
+    "name": "bh1_21_furgrass_05",
+    "pos": [
+      -487.95654296875,
+      -224.23367309570312,
+      35.469539642333984
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 50,
+    "name": "bh1_21_furgrass_08",
+    "pos": [
+      -562.7081298828125,
+      -263.6124572753906,
+      34.5432243347168
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 53,
+    "name": "bh1_21_furhedge09",
+    "pos": [
+      -555.8209228515625,
+      -268.7719421386719,
+      34.733943939208984
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 54,
+    "name": "bh1_21_furhedge08",
+    "pos": [
+      -565.8089599609375,
+      -257.8988037109375,
+      35.09071731567383
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 56,
+    "name": "bh1_21_furhedge06",
+    "pos": [
+      -528.125244140625,
+      -233.26889038085938,
+      36.405948638916016
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 57,
+    "name": "bh1_21_furhedge05",
+    "pos": [
+      -550.6522216796875,
+      -219.08865356445312,
+      36.93564987182617
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 58,
+    "name": "bh1_21_furhedge04",
+    "pos": [
+      -528.7288818359375,
+      -206.62258911132812,
+      36.93564987182617
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 60,
+    "name": "bh1_21_furhedge02",
+    "pos": [
+      -507.3624267578125,
+      -213.96932983398438,
+      36.062076568603516
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 63,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -539.7199096679688,
+      -203.4168701171875,
+      38.82158279418945
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 64,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -548.4714965820312,
+      -208.43966674804688,
+      38.81520462036133
+    ],
+    "rot": [
+      -0.5591928362846375,
+      0.0,
+      0.0,
+      0.8290377259254456
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 65,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -522.1763305664062,
+      -225.64588928222656,
+      35.509944915771484
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 66,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -540.0321655273438,
+      -202.78004455566406,
+      41.129249572753906
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 67,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -537.7623901367188,
+      -234.6558837890625,
+      35.502197265625
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 68,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -530.1359252929688,
+      -247.31903076171875,
+      34.95058822631836
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 69,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -515.0394897460938,
+      -238.60317993164062,
+      34.9596061706543
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 70,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -521.962890625,
+      -260.36737060546875,
+      34.45164489746094
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 71,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -507.6356201171875,
+      -252.42739868164062,
+      34.40550231933594
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 72,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -548.8168334960938,
+      -207.83998107910156,
+      41.129249572753906
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 73,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -505.52081298828125,
+      -210.314697265625,
+      39.46634292602539
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 74,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -510.32159423828125,
+      -213.09640502929688,
+      39.46634292602539
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 75,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -559.4559936523438,
+      -241.46249389648438,
+      39.46634292602539
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 76,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -554.6552124023438,
+      -238.68081665039062,
+      39.46634292602539
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 77,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -528.2363891601562,
+      -219.6660614013672,
+      36.600955963134766
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 78,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -499.08990478515625,
+      -209.52301025390625,
+      35.7738037109375
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 79,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -539.9467163085938,
+      -226.48451232910156,
+      36.59671401977539
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 80,
+    "name": "prop_streetlight_08",
+    "pos": [
+      -563.0253295898438,
+      -242.6337432861328,
+      37.10629653930664
+    ],
+    "rot": [
+      0.9659258127212524,
+      0.0,
+      0.0,
+      -0.25881898403167725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 89,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -561.7275390625,
+      -245.92477416992188,
+      35.56792068481445
+    ],
+    "rot": [
+      0.4305111765861511,
+      0.0,
+      0.0,
+      0.9025853276252747
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 90,
+    "name": "prop_flagpole_2a",
+    "pos": [
+      -555.7172241210938,
+      -257.6116638183594,
+      35.356746673583984
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 91,
+    "name": "prop_flagpole_2a",
+    "pos": [
+      -555.4502563476562,
+      -252.47317504882812,
+      35.73686981201172
+    ],
+    "rot": [
+      0.9802472591400146,
+      0.0,
+      0.0,
+      -0.19777604937553406
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 92,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -519.0568237304688,
+      -209.2316436767578,
+      36.63361358642578
+    ],
+    "rot": [
+      0.7040120363235474,
+      0.0,
+      0.0,
+      0.7101880311965942
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 94,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -562.0618896484375,
+      -215.28465270996094,
+      36.578006744384766
+    ],
+    "rot": [
+      -0.7071067690849304,
+      0.0,
+      0.0,
+      0.7071068286895752
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 95,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -555.904541015625,
+      -225.5918426513672,
+      36.6934814453125
+    ],
+    "rot": [
+      -0.1482820361852646,
+      0.0,
+      0.0,
+      0.9889451265335083
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 96,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -551.2001342773438,
+      -209.05874633789062,
+      36.49100875854492
+    ],
+    "rot": [
+      0.23344501852989197,
+      0.0,
+      0.0,
+      0.9723700284957886
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 97,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -550.8406372070312,
+      -237.75048828125,
+      35.593544006347656
+    ],
+    "rot": [
+      0.7771461009979248,
+      0.0,
+      0.0,
+      0.6293202638626099
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 98,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -567.2098999023438,
+      -251.87193298339844,
+      34.99669647216797
+    ],
+    "rot": [
+      -0.6427879929542542,
+      0.0,
+      0.0,
+      0.7660441398620605
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 99,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -563.3325805664062,
+      -251.27809143066406,
+      35.35359573364258
+    ],
+    "rot": [
+      0.4771590232849121,
+      0.0,
+      0.0,
+      0.8788170218467712
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 100,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -564.7683715820312,
+      -255.38595581054688,
+      35.04998779296875
+    ],
+    "rot": [
+      -0.6427879929542542,
+      0.0,
+      0.0,
+      0.7660441398620605
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 101,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -560.42529296875,
+      -264.76397705078125,
+      34.62263488769531
+    ],
+    "rot": [
+      0.4771590232849121,
+      0.0,
+      0.0,
+      0.8788170218467712
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 102,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -552.5839233398438,
+      -268.11553955078125,
+      34.360782623291016
+    ],
+    "rot": [
+      0.8191522359848022,
+      0.0,
+      0.0,
+      0.5735762119293213
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 103,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -556.6832885742188,
+      -270.4897155761719,
+      34.37633514404297
+    ],
+    "rot": [
+      -0.43867895007133484,
+      0.0,
+      0.0,
+      0.8986438512802124
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 104,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -552.8548583984375,
+      -270.5126953125,
+      34.48085403442383
+    ],
+    "rot": [
+      0.9681476354598999,
+      0.0,
+      0.0,
+      -0.25037992000579834
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 105,
+    "name": "prop_flag_sa",
+    "pos": [
+      -555.714599609375,
+      -257.7218017578125,
+      44.841617584228516
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 106,
+    "name": "prop_flag_us",
+    "pos": [
+      -555.4051513671875,
+      -252.5736846923828,
+      45.221744537353516
+    ],
+    "rot": [
+      0.9802472591400146,
+      0.0,
+      0.0,
+      -0.19777604937553406
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 107,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -525.5459594726562,
+      -258.4143981933594,
+      35.164791107177734
+    ],
+    "rot": [
+      -0.1993679702281952,
+      0.0,
+      0.0,
+      0.979924738407135
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 108,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -502.6343688964844,
+      -211.04330444335938,
+      35.63142395019531
+    ],
+    "rot": [
+      0.9271837472915649,
+      0.0,
+      0.0,
+      -0.3746069073677063
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 109,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -511.075439453125,
+      -215.787109375,
+      35.70216751098633
+    ],
+    "rot": [
+      0.7253744602203369,
+      0.0,
+      0.0,
+      0.6883545517921448
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 110,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -497.49481201171875,
+      -204.58721923828125,
+      35.837249755859375
+    ],
+    "rot": [
+      0.7872710227966309,
+      0.0,
+      0.0,
+      0.6166071891784668
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 111,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -500.0217590332031,
+      -203.65283203125,
+      35.80463409423828
+    ],
+    "rot": [
+      0.9997931122779846,
+      0.0,
+      0.0,
+      -0.020341001451015472
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 126,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -518.4253540039062,
+      -218.87759399414062,
+      35.667884826660156
+    ],
+    "rot": [
+      0.9104582071304321,
+      0.0,
+      0.0,
+      -0.4136011004447937
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 128,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -569.5424194335938,
+      -246.494873046875,
+      35.56580352783203
+    ],
+    "rot": [
+      0.9997931122779846,
+      0.0,
+      0.0,
+      -0.020341001451015472
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 131,
+    "name": "prop_wall_light_07a",
+    "pos": [
+      -568.0385131835938,
+      -235.35537719726562,
+      35.98762130737305
+    ],
+    "rot": [
+      0.8660252690315247,
+      0.0,
+      0.0,
+      0.5000002980232239
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 137,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -512.6483764648438,
+      -209.86647033691406,
+      45.11457824707031
+    ],
+    "rot": [
+      0.85390305519104,
+      0.0,
+      0.0,
+      0.5204320549964905
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 138,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -515.3248901367188,
+      -200.45497131347656,
+      45.1605339050293
+    ],
+    "rot": [
+      0.23579896986484528,
+      0.0,
+      0.0,
+      0.9718018770217896
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 140,
+    "name": "prop_cctv_cam_01a",
+    "pos": [
+      -514.6464233398438,
+      -213.55755615234375,
+      41.346622467041016
+    ],
+    "rot": [
+      0.8660252690315247,
+      0.0,
+      0.0,
+      0.5000002980232239
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 143,
+    "name": "prop_roofvent_03a",
+    "pos": [
+      -562.0704956054688,
+      -238.4003448486328,
+      45.11457824707031
+    ],
+    "rot": [
+      0.85390305519104,
+      0.0,
+      0.0,
+      0.5204320549964905
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 147,
+    "name": "prop_wall_light_02a",
+    "pos": [
+      -519.9141235351562,
+      -205.0359649658203,
+      40.36273956298828
+    ],
+    "rot": [
+      0.8660255670547485,
+      0.0,
+      0.0,
+      0.4999997317790985
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 148,
+    "name": "prop_wall_light_02a",
+    "pos": [
+      -556.8869018554688,
+      -226.37107849121094,
+      40.36273956298828
+    ],
+    "rot": [
+      -0.5000002384185791,
+      0.0,
+      0.0,
+      0.8660253882408142
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 151,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -506.7821350097656,
+      -249.2455596923828,
+      35.05096435546875
+    ],
+    "rot": [
+      0.8910067677497864,
+      0.0,
+      0.0,
+      0.45399001240730286
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 153,
+    "name": "prop_sprink_park_01",
+    "pos": [
+      -505.2161865234375,
+      -232.59298706054688,
+      35.42461013793945
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 154,
+    "name": "prop_sprink_park_01",
+    "pos": [
+      -541.5608520507812,
+      -252.77716064453125,
+      35.03971481323242
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 155,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -527.00390625,
+      -233.02645874023438,
+      36.308189392089844
+    ],
+    "rot": [
+      0.996298611164093,
+      0.0,
+      0.0,
+      -0.08595997095108032
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 156,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -528.9603271484375,
+      -234.419189453125,
+      36.16845703125
+    ],
+    "rot": [
+      -0.3998490571975708,
+      0.0,
+      0.0,
+      0.9165810942649841
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 159,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -498.5613098144531,
+      -205.14463806152344,
+      35.837249755859375
+    ],
+    "rot": [
+      0.9469611644744873,
+      0.0,
+      0.0,
+      0.3213481307029724
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 161,
+    "name": "prop_plant_fern_02c",
+    "pos": [
+      -526.5003051757812,
+      -257.72869873046875,
+      35.2447509765625
+    ],
+    "rot": [
+      0.9945817589759827,
+      0.010147997178137302,
+      -0.0028099992778152227,
+      0.10342297703027725
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 162,
+    "name": "prop_plant_fern_02c",
+    "pos": [
+      -525.00634765625,
+      -260.24505615234375,
+      35.2766227722168
+    ],
+    "rot": [
+      0.9962669610977173,
+      0.0,
+      0.0,
+      0.086326003074646
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 163,
+    "name": "prop_plant_fern_02c",
+    "pos": [
+      -508.3214416503906,
+      -247.2151336669922,
+      35.199119567871094
+    ],
+    "rot": [
+      0.9946019053459167,
+      -0.014519997872412205,
+      -0.013086996972560883,
+      0.10190698504447937
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 164,
+    "name": "prop_plant_fern_02c",
+    "pos": [
+      -505.3487243652344,
+      -251.9582977294922,
+      35.16684341430664
+    ],
+    "rot": [
+      0.9980480670928955,
+      -0.01805500127375126,
+      -0.05946801230311394,
+      -0.006139001343399286
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 165,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -506.1348876953125,
+      -250.04400634765625,
+      35.05096435546875
+    ],
+    "rot": [
+      0.9236184358596802,
+      0.0,
+      0.0,
+      -0.3833131790161133
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 170,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -540.8497924804688,
+      -227.1575164794922,
+      36.5719108581543
+    ],
+    "rot": [
+      0.27694493532180786,
+      0.0,
+      0.0,
+      0.960885763168335
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 171,
+    "name": "prop_veg_grass_01_c",
+    "pos": [
+      -542.9754638671875,
+      -228.45948791503906,
+      36.47819137573242
+    ],
+    "rot": [
+      0.17659705877304077,
+      0.0,
+      0.0,
+      0.9842833280563354
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 172,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -547.2407836914062,
+      -231.5584716796875,
+      36.5719108581543
+    ],
+    "rot": [
+      0.9112882614135742,
+      0.0,
+      0.0,
+      -0.4117690920829773
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 173,
+    "name": "prop_veg_grass_01_c",
+    "pos": [
+      -545.1573486328125,
+      -230.62315368652344,
+      36.47819137573242
+    ],
+    "rot": [
+      0.9488227963447571,
+      0.0,
+      0.0,
+      -0.3158090114593506
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 174,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -549.6702270507812,
+      -232.38778686523438,
+      36.47159194946289
+    ],
+    "rot": [
+      0.27694493532180786,
+      0.0,
+      0.0,
+      0.960885763168335
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 175,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -551.8836669921875,
+      -233.58139038085938,
+      36.5719108581543
+    ],
+    "rot": [
+      0.27694493532180786,
+      0.0,
+      0.0,
+      0.960885763168335
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 176,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -516.5091552734375,
+      -213.1761016845703,
+      36.5719108581543
+    ],
+    "rot": [
+      0.27694493532180786,
+      0.0,
+      0.0,
+      0.960885763168335
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 177,
+    "name": "prop_veg_grass_01_c",
+    "pos": [
+      -518.634765625,
+      -214.4780731201172,
+      36.47819137573242
+    ],
+    "rot": [
+      0.17659705877304077,
+      0.0,
+      0.0,
+      0.9842833280563354
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 178,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -522.9000854492188,
+      -217.5770721435547,
+      36.5719108581543
+    ],
+    "rot": [
+      0.9112882614135742,
+      0.0,
+      0.0,
+      -0.4117690920829773
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 179,
+    "name": "prop_veg_grass_01_c",
+    "pos": [
+      -520.8167114257812,
+      -216.64173889160156,
+      36.47819137573242
+    ],
+    "rot": [
+      0.9488227963447571,
+      0.0,
+      0.0,
+      -0.3158090114593506
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 180,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -525.32958984375,
+      -218.4063720703125,
+      36.47159194946289
+    ],
+    "rot": [
+      0.27694493532180786,
+      0.0,
+      0.0,
+      0.960885763168335
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 181,
+    "name": "prop_veg_grass_01_b",
+    "pos": [
+      -527.5430297851562,
+      -219.59999084472656,
+      36.5719108581543
+    ],
+    "rot": [
+      0.27694493532180786,
+      0.0,
+      0.0,
+      0.960885763168335
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 182,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -540.3214111328125,
+      -229.50511169433594,
+      39.28400802612305
+    ],
+    "rot": [
+      0.3611009120941162,
+      0.0,
+      0.0,
+      0.9325267672538757
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 183,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -525.4017944335938,
+      -220.90052795410156,
+      39.2360725402832
+    ],
+    "rot": [
+      0.7856091260910034,
+      0.0,
+      0.0,
+      0.6187230944633484
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 184,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -529.8201904296875,
+      -233.10919189453125,
+      36.68645477294922
+    ],
+    "rot": [
+      0.7497501373291016,
+      0.0,
+      0.0,
+      -0.6617209911346436
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 185,
+    "name": "prop_plant_fern_02b",
+    "pos": [
+      -527.4727783203125,
+      -232.07095336914062,
+      36.47747039794922
+    ],
+    "rot": [
+      0.024977002292871475,
+      0.0,
+      0.0,
+      0.9996880292892456
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 186,
+    "name": "prop_veg_grass_01_c",
+    "pos": [
+      -555.4482421875,
+      -210.96463012695312,
+      36.22871398925781
+    ],
+    "rot": [
+      0.17659705877304077,
+      0.0,
+      0.0,
+      0.9842833280563354
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 188,
+    "name": "prop_veg_grass_01_d",
+    "pos": [
+      -536.3772583007812,
+      -238.02371215820312,
+      35.14891052246094
+    ],
+    "rot": [
+      0.8407909274101257,
+      0.0,
+      0.0,
+      0.5413599014282227
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 189,
+    "name": "prop_veg_grass_01_d",
+    "pos": [
+      -536.1699829101562,
+      -238.91110229492188,
+      34.906517028808594
+    ],
+    "rot": [
+      0.9883849620819092,
+      0.0,
+      0.0,
+      -0.1519709974527359
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 190,
+    "name": "prop_veg_grass_01_d",
+    "pos": [
+      -518.7103271484375,
+      -229.26583862304688,
+      34.787872314453125
+    ],
+    "rot": [
+      0.9883849620819092,
+      0.0,
+      0.0,
+      -0.1519709974527359
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 191,
+    "name": "prop_veg_grass_01_d",
+    "pos": [
+      -520.0188598632812,
+      -226.39083862304688,
+      35.43182373046875
+    ],
+    "rot": [
+      0.8407909274101257,
+      0.0,
+      0.0,
+      0.5413599014282227
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 194,
+    "name": "prop_wall_light_08a",
+    "pos": [
+      -522.9178466796875,
+      -247.98208618164062,
+      35.09157943725586
+    ],
+    "rot": [
+      0.35355332493782043,
+      0.35355332493782043,
+      0.6123725771903992,
+      -0.6123725175857544
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 195,
+    "name": "prop_wall_light_08a",
+    "pos": [
+      -525.4569702148438,
+      -243.5540313720703,
+      35.09157943725586
+    ],
+    "rot": [
+      0.35355332493782043,
+      0.35355332493782043,
+      0.6123725771903992,
+      -0.6123725175857544
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 196,
+    "name": "prop_wall_light_08a",
+    "pos": [
+      -527.9843139648438,
+      -239.1191864013672,
+      35.09157943725586
+    ],
+    "rot": [
+      0.35355332493782043,
+      0.35355332493782043,
+      0.6123725771903992,
+      -0.6123725175857544
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 197,
+    "name": "prop_wall_light_08a",
+    "pos": [
+      -523.1728515625,
+      -236.3412628173828,
+      35.09157943725586
+    ],
+    "rot": [
+      0.6123725771903992,
+      0.6123725175857544,
+      -0.35355329513549805,
+      0.35355329513549805
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 198,
+    "name": "prop_wall_light_08a",
+    "pos": [
+      -520.6163940429688,
+      -240.75933837890625,
+      35.09157943725586
+    ],
+    "rot": [
+      0.6123725771903992,
+      0.6123725175857544,
+      -0.35355329513549805,
+      0.35355329513549805
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_21_strm_0.ymap",
+    "index": 199,
+    "name": "prop_wall_light_08a",
+    "pos": [
+      -518.0728759765625,
+      -245.184814453125,
+      35.09157943725586
+    ],
+    "rot": [
+      0.6123725771903992,
+      0.6123725175857544,
+      -0.35355329513549805,
+      0.35355329513549805
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 0,
+    "name": "bh1_22_emissive_slod",
+    "pos": [
+      -437.52789306640625,
+      -318.3162841796875,
+      61.40848922729492
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 7,
+    "lod": "EntityLodLevel.SLOD1"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 1,
+    "name": "bh1_22_slod1",
+    "pos": [
+      -437.52789306640625,
+      -318.3162841796875,
+      61.40848922729492
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 26,
+    "lod": "EntityLodLevel.SLOD1"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 2,
+    "name": "bh1_22_emissive_22_lod",
+    "pos": [
+      -475.59228515625,
+      -315.2257080078125,
+      65.84799194335938
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 0,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 3,
+    "name": "bh1_22_emissive_22b_lod",
+    "pos": [
+      -380.4429931640625,
+      -340.402587890625,
+      47.0246696472168
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 0,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 4,
+    "name": "bh1_22_b03_lod",
+    "pos": [
+      -380.4429931640625,
+      -340.402587890625,
+      47.0246696472168
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 5,
+    "name": "bh1_22_b01_lod",
+    "pos": [
+      -475.5923156738281,
+      -315.2257080078125,
+      65.84799194335938
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 6,
+    "name": "bh1_22_fakeint_lod",
+    "pos": [
+      -391.43133544921875,
+      -339.704345703125,
+      38.07082748413086
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_22.ymap",
+    "index": 7,
+    "name": "bh1_22_base_lod",
+    "pos": [
+      -477.84368896484375,
+      -316.25189208984375,
+      38.8648567199707
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 1,
+    "lod": "EntityLodLevel.LOD"
+  },
+  {
+    "map": "bh1_22_critical_0.ymap",
+    "index": 0,
+    "name": "prop_streetlight_14a",
+    "pos": [
+      -349.57568359375,
+      -356.0276794433594,
+      30.55077362060547
+    ],
+    "rot": [
+      0.9891459941864014,
+      0.0,
+      0.0,
+      0.14693599939346313
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_critical_0.ymap",
+    "index": 1,
+    "name": "prop_streetlight_14a",
+    "pos": [
+      -352.4967956542969,
+      -366.12530517578125,
+      30.551002502441406
+    ],
+    "rot": [
+      -0.14403004944324493,
+      0.0,
+      0.0,
+      0.9895733594894409
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_critical_0.ymap",
+    "index": 2,
+    "name": "prop_streetlight_14a",
+    "pos": [
+      -358.64837646484375,
+      -349.6636657714844,
+      30.561004638671875
+    ],
+    "rot": [
+      0.9898666739463806,
+      0.0,
+      0.0,
+      0.1419999748468399
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_critical_0.ymap",
+    "index": 3,
+    "name": "prop_streetlight_14a",
+    "pos": [
+      -363.35980224609375,
+      -364.6453857421875,
+      30.551002502441406
+    ],
+    "rot": [
+      -0.1564350426197052,
+      0.0,
+      0.0,
+      0.9876882433891296
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_critical_0.ymap",
+    "index": 4,
+    "name": "prop_streetlight_14a",
+    "pos": [
+      -483.94073486328125,
+      -294.3384704589844,
+      34.47522735595703
+    ],
+    "rot": [
+      0.8377708792686462,
+      0.0,
+      0.0,
+      0.5460219383239746
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_critical_0.ymap",
+    "index": 5,
+    "name": "prop_streetlight_14a",
+    "pos": [
+      -476.9690246582031,
+      -310.1372985839844,
+      34.70179748535156
+    ],
+    "rot": [
+      0.8377708792686462,
+      0.0,
+      0.0,
+      0.5460219383239746
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 0,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -411.35980224609375,
+      -362.9566650390625,
+      31.881729125976562
+    ],
+    "rot": [
+      0.05480998381972313,
+      0.0,
+      0.0,
+      0.9984967708587646
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 2,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -341.61004638671875,
+      -358.0667724609375,
+      30.810073852539062
+    ],
+    "rot": [
+      0.9828475713729858,
+      0.0,
+      0.0,
+      0.1844199001789093
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 3,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -366.4712829589844,
+      -368.1092529296875,
+      30.810073852539062
+    ],
+    "rot": [
+      0.25485411286354065,
+      0.0,
+      0.0,
+      0.9669795036315918
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 4,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -359.308349609375,
+      -344.9551086425781,
+      30.63292694091797
+    ],
+    "rot": [
+      0.9854336977005005,
+      0.0,
+      0.0,
+      0.1700599491596222
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 5,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -375.2707824707031,
+      -367.6659240722656,
+      31.260391235351562
+    ],
+    "rot": [
+      0.05279800668358803,
+      0.0,
+      0.0,
+      0.9986052513122559
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 6,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -417.4294128417969,
+      -362.0476989746094,
+      31.881729125976562
+    ],
+    "rot": [
+      0.013776000589132309,
+      0.0,
+      0.0,
+      0.9999051094055176
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 7,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -367.36273193359375,
+      -339.4159851074219,
+      31.310440063476562
+    ],
+    "rot": [
+      -0.2547420263290405,
+      0.0,
+      0.0,
+      0.9670091271400452
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 8,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -375.7134704589844,
+      -332.8345642089844,
+      32.04676818847656
+    ],
+    "rot": [
+      0.9665720462799072,
+      0.0,
+      0.0,
+      0.2563950717449188
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 9,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -390.4410400390625,
+      -322.2266540527344,
+      32.89906311035156
+    ],
+    "rot": [
+      0.9641565680503845,
+      0.0,
+      0.0,
+      0.2653339207172394
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 10,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -407.37200927734375,
+      -310.48382568359375,
+      33.88014221191406
+    ],
+    "rot": [
+      0.9609076976776123,
+      0.0,
+      0.0,
+      0.27686893939971924
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 11,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -426.58526611328125,
+      -302.35546875,
+      34.93434143066406
+    ],
+    "rot": [
+      0.7466331124305725,
+      0.0,
+      0.0,
+      0.6652359962463379
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 12,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -428.6750793457031,
+      -298.1356201171875,
+      34.93434143066406
+    ],
+    "rot": [
+      0.7082447409629822,
+      0.0,
+      0.0,
+      -0.705967128276825
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 13,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -443.7729187011719,
+      -281.8281555175781,
+      34.86585998535156
+    ],
+    "rot": [
+      0.960828959941864,
+      0.0,
+      0.0,
+      0.2771419882774353
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 14,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -457.7873840332031,
+      -355.7265930175781,
+      41.388004302978516
+    ],
+    "rot": [
+      0.9998781085014343,
+      0.0,
+      0.0,
+      -0.015613002702593803
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 15,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -492.274169921875,
+      -351.2965393066406,
+      41.56068420410156
+    ],
+    "rot": [
+      0.9998781085014343,
+      0.0,
+      0.0,
+      -0.015613002702593803
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 16,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -514.0607299804688,
+      -348.3180236816406,
+      41.30867385864258
+    ],
+    "rot": [
+      0.9998781085014343,
+      0.0,
+      0.0,
+      -0.015613002702593803
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 17,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -438.0867614746094,
+      -358.2235107421875,
+      41.56068420410156
+    ],
+    "rot": [
+      0.9998781085014343,
+      0.0,
+      0.0,
+      -0.015613002702593803
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 18,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -435.44464111328125,
+      -292.7172546386719,
+      41.39971923828125
+    ],
+    "rot": [
+      0.8969395160675049,
+      0.0,
+      0.0,
+      0.44215327501296997
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 19,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -472.7936706542969,
+      -341.3007507324219,
+      33.88756561279297
+    ],
+    "rot": [
+      0.7242960929870605,
+      0.0,
+      0.0,
+      0.6894890666007996
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 20,
+    "name": "prop_plant_group_02",
+    "pos": [
+      -473.5679931640625,
+      -337.8677673339844,
+      33.94120788574219
+    ],
+    "rot": [
+      0.778130054473877,
+      0.0,
+      0.0,
+      -0.6281032562255859
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_long_0.ymap",
+    "index": 21,
+    "name": "prop_bush_med_03",
+    "pos": [
+      -474.2135314941406,
+      -317.1857604980469,
+      34.13663864135742
+    ],
+    "rot": [
+      0.778130054473877,
+      0.0,
+      0.0,
+      -0.6281032562255859
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 0,
+    "name": "bh1_22_emissive_22",
+    "pos": [
+      -475.6519775390625,
+      -315.23199462890625,
+      67.57000732421875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 2,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 1,
+    "name": "bh1_22_emissive_22b",
+    "pos": [
+      -377.260986328125,
+      -338.57098388671875,
+      52.65400314331055
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 3,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 2,
+    "name": "bh1_22_base",
+    "pos": [
+      -478.2113037109375,
+      -316.26226806640625,
+      38.839778900146484
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 7,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 3,
+    "name": "bh1_22_towere",
+    "pos": [
+      -377.26141357421875,
+      -338.5709228515625,
+      52.6539421081543
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 4,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 4,
+    "name": "bh1_22_glue_02",
+    "pos": [
+      -377.279541015625,
+      -338.45404052734375,
+      35.525699615478516
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 5,
+    "name": "bh1_22_towerw",
+    "pos": [
+      -475.65179443359375,
+      -315.23223876953125,
+      67.569580078125
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 5,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 6,
+    "name": "bh1_22_fakeint",
+    "pos": [
+      -440.59283447265625,
+      -322.16497802734375,
+      38.079586029052734
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 7,
+    "name": "bh1_22_towerw_dtl",
+    "pos": [
+      -475.9127197265625,
+      -319.67340087890625,
+      39.912967681884766
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 8,
+    "name": "bh1_22_basee",
+    "pos": [
+      -391.43133544921875,
+      -339.704345703125,
+      38.07082748413086
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": 6,
+    "lod": "EntityLodLevel.HD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 9,
+    "name": "bh1_22_overlays_01",
+    "pos": [
+      -448.2186279296875,
+      -340.6905517578125,
+      36.83798599243164
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 10,
+    "name": "bh1_22_overlays",
+    "pos": [
+      -450.71368408203125,
+      -296.16644287109375,
+      37.160152435302734
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 11,
+    "name": "bh1_22_overlays_03",
+    "pos": [
+      -508.46417236328125,
+      -326.4840087890625,
+      37.59823226928711
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 12,
+    "name": "bh1_22_overlays_02",
+    "pos": [
+      -493.55828857421875,
+      -310.1844482421875,
+      37.56949996948242
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 13,
+    "name": "bh1_22_overlays_04",
+    "pos": [
+      -445.35296630859375,
+      -340.51251220703125,
+      90.21246337890625
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 14,
+    "name": "bh1_22_door_det",
+    "pos": [
+      -366.6693115234375,
+      -355.37591552734375,
+      32.65887451171875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 15,
+    "name": "bh1_22_doorfizz_1",
+    "pos": [
+      -507.237548828125,
+      -349.5228271484375,
+      35.57053756713867
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 16,
+    "name": "bh1_22_doorfizz_2",
+    "pos": [
+      -444.1318359375,
+      -357.83001708984375,
+      35.16133117675781
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 17,
+    "name": "bh1_22_doorfizz_3",
+    "pos": [
+      -395.1399230957031,
+      -363.18798828125,
+      33.17867660522461
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 18,
+    "name": "bh1_22_emissivesign",
+    "pos": [
+      -474.91766357421875,
+      -351.25909423828125,
+      38.93742752075195
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 19,
+    "name": "prop_bench_07",
+    "pos": [
+      -348.0511169433594,
+      -356.9981689453125,
+      30.562000274658203
+    ],
+    "rot": [
+      0.9510564804077148,
+      0.0,
+      0.0,
+      0.3090171813964844
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 20,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -352.2409973144531,
+      -370.1547546386719,
+      31.43243408203125
+    ],
+    "rot": [
+      0.6811422109603882,
+      0.0,
+      0.0,
+      0.732151210308075
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 21,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -343.07470703125,
+      -369.3612060546875,
+      31.28466796875
+    ],
+    "rot": [
+      0.04650399833917618,
+      0.0,
+      0.0,
+      0.9989181160926819
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 23,
+    "name": "prop_plant_cane_02b",
+    "pos": [
+      -480.0660705566406,
+      -300.26947021484375,
+      34.738006591796875
+    ],
+    "rot": [
+      0.39142289757728577,
+      0.0,
+      0.0,
+      0.9202108979225159
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 24,
+    "name": "prop_plant_cane_02b",
+    "pos": [
+      -480.64990234375,
+      -303.13433837890625,
+      34.738006591796875
+    ],
+    "rot": [
+      0.7014448046684265,
+      0.0,
+      0.0,
+      0.7127237915992737
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 25,
+    "name": "prop_plant_cane_02b",
+    "pos": [
+      -475.80035400390625,
+      -310.7542724609375,
+      34.562957763671875
+    ],
+    "rot": [
+      -0.6653207540512085,
+      0.0,
+      0.0,
+      0.7465577721595764
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 26,
+    "name": "prop_plant_cane_02b",
+    "pos": [
+      -476.32098388671875,
+      -313.56488037109375,
+      34.562957763671875
+    ],
+    "rot": [
+      0.7465575933456421,
+      0.0,
+      0.0,
+      0.665320873260498
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 27,
+    "name": "prop_bench_07",
+    "pos": [
+      -344.00146484375,
+      -359.8880920410156,
+      30.562175750732422
+    ],
+    "rot": [
+      0.9510564804077148,
+      0.0,
+      0.0,
+      0.3090171813964844
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 28,
+    "name": "prop_bench_07",
+    "pos": [
+      -341.54302978515625,
+      -363.8739318847656,
+      30.562000274658203
+    ],
+    "rot": [
+      0.5877850651741028,
+      0.0,
+      0.0,
+      0.8090171217918396
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 29,
+    "name": "prop_bench_07",
+    "pos": [
+      -349.09332275390625,
+      -366.63433837890625,
+      30.562000274658203
+    ],
+    "rot": [
+      -0.06975699961185455,
+      0.0,
+      0.0,
+      0.9975640177726746
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 30,
+    "name": "prop_bench_07",
+    "pos": [
+      -344.5286560058594,
+      -367.25946044921875,
+      30.562000274658203
+    ],
+    "rot": [
+      -0.06975699961185455,
+      0.0,
+      0.0,
+      0.9975640177726746
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 31,
+    "name": "prop_bench_07",
+    "pos": [
+      -361.69708251953125,
+      -348.6252746582031,
+      30.561290740966797
+    ],
+    "rot": [
+      0.9876882433891296,
+      0.0,
+      0.0,
+      0.1564350426197052
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 32,
+    "name": "prop_bench_07",
+    "pos": [
+      -364.7210693359375,
+      -364.36492919921875,
+      30.566246032714844
+    ],
+    "rot": [
+      -0.1564340740442276,
+      0.0,
+      0.0,
+      0.9876884818077087
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 33,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -435.5472106933594,
+      -301.9402160644531,
+      41.215999603271484
+    ],
+    "rot": [
+      0.9799246788024902,
+      0.0,
+      0.0,
+      -0.1993679702281952
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 34,
+    "name": "prop_bench_02",
+    "pos": [
+      -436.8642578125,
+      -298.9781494140625,
+      41.21429443359375
+    ],
+    "rot": [
+      0.833885908126831,
+      0.0,
+      0.0,
+      0.55193692445755
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 35,
+    "name": "prop_bench_02",
+    "pos": [
+      -439.1177978515625,
+      -293.58770751953125,
+      41.21429443359375
+    ],
+    "rot": [
+      0.833885908126831,
+      0.0,
+      0.0,
+      0.55193692445755
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 36,
+    "name": "prop_bench_02",
+    "pos": [
+      -447.3646240234375,
+      -278.93798828125,
+      41.19944381713867
+    ],
+    "rot": [
+      0.9335804581642151,
+      0.0,
+      0.0,
+      0.3583678901195526
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 37,
+    "name": "prop_bench_02",
+    "pos": [
+      -444.9486083984375,
+      -281.0807800292969,
+      41.19961166381836
+    ],
+    "rot": [
+      0.9335804581642151,
+      0.0,
+      0.0,
+      0.3583678901195526
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 38,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -442.095703125,
+      -283.7523498535156,
+      41.229698181152344
+    ],
+    "rot": [
+      0.9135452508926392,
+      0.0,
+      0.0,
+      -0.4067370891571045
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 39,
+    "name": "prop_bench_02",
+    "pos": [
+      -440.70892333984375,
+      -284.95880126953125,
+      41.207420349121094
+    ],
+    "rot": [
+      0.9335804581642151,
+      0.0,
+      0.0,
+      0.3583678901195526
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 40,
+    "name": "prop_bench_02",
+    "pos": [
+      -438.44793701171875,
+      -286.99468994140625,
+      41.207420349121094
+    ],
+    "rot": [
+      0.9335804581642151,
+      0.0,
+      0.0,
+      0.3583678901195526
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 41,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -440.0843811035156,
+      -291.130126953125,
+      41.2198371887207
+    ],
+    "rot": [
+      0.9799246788024902,
+      0.0,
+      0.0,
+      -0.1993679702281952
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 42,
+    "name": "prop_bench_02",
+    "pos": [
+      -470.9979553222656,
+      -292.6180419921875,
+      41.20051193237305
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 43,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -471.8797607421875,
+      -290.3606872558594,
+      41.21853256225586
+    ],
+    "rot": [
+      0.1993679702281952,
+      0.0,
+      0.0,
+      0.979924738407135
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 44,
+    "name": "prop_bench_02",
+    "pos": [
+      -472.8339538574219,
+      -288.292724609375,
+      41.20423889160156
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 45,
+    "name": "prop_bench_02",
+    "pos": [
+      -467.00732421875,
+      -301.8563537597656,
+      41.23695373535156
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 46,
+    "name": "prop_bench_02",
+    "pos": [
+      -465.3981628417969,
+      -305.6307373046875,
+      41.23305892944336
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 47,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -466.5228576660156,
+      -303.8936767578125,
+      41.21863555908203
+    ],
+    "rot": [
+      0.1993679702281952,
+      0.0,
+      0.0,
+      0.979924738407135
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 48,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -460.3778076171875,
+      -317.7826232910156,
+      41.221675872802734
+    ],
+    "rot": [
+      0.1993679702281952,
+      0.0,
+      0.0,
+      0.979924738407135
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 49,
+    "name": "prop_bench_02",
+    "pos": [
+      -461.182373046875,
+      -315.7987060546875,
+      41.21274948120117
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 50,
+    "name": "prop_bench_02",
+    "pos": [
+      -459.4657897949219,
+      -319.9083557128906,
+      41.21407699584961
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 51,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -490.5222473144531,
+      -310.247314453125,
+      41.221309661865234
+    ],
+    "rot": [
+      0.9799246788024902,
+      0.0,
+      0.0,
+      -0.1993679702281952
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 52,
+    "name": "prop_bench_02",
+    "pos": [
+      -489.88592529296875,
+      -311.8151550292969,
+      41.202423095703125
+    ],
+    "rot": [
+      0.833885908126831,
+      0.0,
+      0.0,
+      0.55193692445755
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 53,
+    "name": "prop_bench_02",
+    "pos": [
+      -491.1993103027344,
+      -308.72088623046875,
+      41.202423095703125
+    ],
+    "rot": [
+      0.833885908126831,
+      0.0,
+      0.0,
+      0.55193692445755
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 54,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -495.3893127441406,
+      -299.3655090332031,
+      41.22078323364258
+    ],
+    "rot": [
+      0.9846615791320801,
+      0.0,
+      0.0,
+      -0.17447493970394135
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 55,
+    "name": "prop_bench_02",
+    "pos": [
+      -496.3934326171875,
+      -296.47149658203125,
+      41.21125793457031
+    ],
+    "rot": [
+      0.833885908126831,
+      0.0,
+      0.0,
+      0.55193692445755
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 56,
+    "name": "prop_bench_02",
+    "pos": [
+      -514.8976440429688,
+      -321.1415100097656,
+      41.20808792114258
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 57,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -515.9727783203125,
+      -318.3406982421875,
+      41.229698181152344
+    ],
+    "rot": [
+      0.1993679702281952,
+      0.0,
+      0.0,
+      0.979924738407135
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 58,
+    "name": "prop_bench_02",
+    "pos": [
+      -515.2493896484375,
+      -327.5962219238281,
+      41.211856842041016
+    ],
+    "rot": [
+      0.9799246788024902,
+      0.0,
+      0.0,
+      -0.1993679702281952
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 59,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -516.7477416992188,
+      -328.4772644042969,
+      41.21427536010742
+    ],
+    "rot": [
+      0.1993679702281952,
+      0.0,
+      0.0,
+      0.979924738407135
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 60,
+    "name": "prop_bench_02",
+    "pos": [
+      -505.61151123046875,
+      -351.042724609375,
+      41.23119354248047
+    ],
+    "rot": [
+      -0.06975600123405457,
+      0.0,
+      0.0,
+      0.9975641369819641
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 61,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -503.2435607910156,
+      -351.2757568359375,
+      41.221622467041016
+    ],
+    "rot": [
+      0.6560593247413635,
+      0.0,
+      0.0,
+      0.7547093629837036
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 62,
+    "name": "prop_bench_02",
+    "pos": [
+      -500.6390380859375,
+      -351.67840576171875,
+      41.23119354248047
+    ],
+    "rot": [
+      -0.06975600123405457,
+      0.0,
+      0.0,
+      0.9975641369819641
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 63,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -447.41693115234375,
+      -358.56951904296875,
+      41.22194290161133
+    ],
+    "rot": [
+      0.6560593247413635,
+      0.0,
+      0.0,
+      0.7547093629837036
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 64,
+    "name": "prop_bench_02",
+    "pos": [
+      -444.8404846191406,
+      -358.8602600097656,
+      41.23119354248047
+    ],
+    "rot": [
+      -0.06453198194503784,
+      0.0,
+      0.0,
+      0.9979156255722046
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 65,
+    "name": "prop_bench_02",
+    "pos": [
+      -449.9419860839844,
+      -358.197998046875,
+      41.23119354248047
+    ],
+    "rot": [
+      -0.06191901117563248,
+      0.0,
+      0.0,
+      0.9980812668800354
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 66,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -517.2809448242188,
+      -345.7378845214844,
+      41.22330856323242
+    ],
+    "rot": [
+      -0.0610479936003685,
+      0.0,
+      0.0,
+      0.9981348514556885
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 67,
+    "name": "prop_bench_02",
+    "pos": [
+      -517.4977416992188,
+      -343.7550048828125,
+      41.23119354248047
+    ],
+    "rot": [
+      0.7489553689956665,
+      0.0,
+      0.0,
+      -0.662620484828949
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 68,
+    "name": "prop_bench_02",
+    "pos": [
+      -517.0789794921875,
+      -340.59344482421875,
+      41.23119354248047
+    ],
+    "rot": [
+      0.7489553689956665,
+      0.0,
+      0.0,
+      -0.662620484828949
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 69,
+    "name": "prop_bench_02",
+    "pos": [
+      -429.190185546875,
+      -322.71783447265625,
+      41.21303939819336
+    ],
+    "rot": [
+      0.6626198291778564,
+      0.0,
+      0.0,
+      0.7489558458328247
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 70,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -429.4334716796875,
+      -325.5340576171875,
+      41.229698181152344
+    ],
+    "rot": [
+      0.9981348514556885,
+      0.0,
+      0.0,
+      0.0610479936003685
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 71,
+    "name": "prop_bench_02",
+    "pos": [
+      -428.80810546875,
+      -319.60662841796875,
+      41.21303939819336
+    ],
+    "rot": [
+      0.6626198291778564,
+      0.0,
+      0.0,
+      0.7489558458328247
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 72,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -431.66839599609375,
+      -309.2986755371094,
+      41.220909118652344
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 73,
+    "name": "prop_streetlight_11b",
+    "pos": [
+      -520.4530029296875,
+      -309.90655517578125,
+      41.22093963623047
+    ],
+    "rot": [
+      -0.55193692445755,
+      0.0,
+      0.0,
+      0.833885908126831
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 74,
+    "name": "prop_bench_09",
+    "pos": [
+      -521.0947875976562,
+      -335.896240234375,
+      34.43865203857422
+    ],
+    "rot": [
+      0.7343148589134216,
+      0.002962000435218215,
+      -0.0032040004152804613,
+      -0.6787950992584229
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 75,
+    "name": "prop_bench_09",
+    "pos": [
+      -534.4094848632812,
+      -310.9097900390625,
+      34.23486328125
+    ],
+    "rot": [
+      0.9816271662712097,
+      0.0,
+      0.0,
+      0.19080904126167297
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 76,
+    "name": "prop_bench_09",
+    "pos": [
+      -534.7854614257812,
+      -306.001953125,
+      34.38393783569336
+    ],
+    "rot": [
+      0.2036421000957489,
+      0.0,
+      0.0,
+      0.9790454506874084
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 77,
+    "name": "prop_bin_01a",
+    "pos": [
+      -536.8668212890625,
+      -309.9853210449219,
+      34.19690704345703
+    ],
+    "rot": [
+      0.9868495464324951,
+      -0.016350992023944855,
+      -0.009301994927227497,
+      0.16054292023181915
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 78,
+    "name": "prop_bin_01a",
+    "pos": [
+      -521.7457885742188,
+      -331.9778747558594,
+      34.1661376953125
+    ],
+    "rot": [
+      0.9874165654182434,
+      0.003388999029994011,
+      -0.002781999297440052,
+      0.15807995200157166
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 79,
+    "name": "prop_bin_05a",
+    "pos": [
+      -345.3486022949219,
+      -359.0220031738281,
+      30.55950164794922
+    ],
+    "rot": [
+      0.9868198037147522,
+      0.00041999993845820427,
+      -0.0003929999365936965,
+      0.16182200610637665
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 80,
+    "name": "prop_bin_05a",
+    "pos": [
+      -347.811767578125,
+      -366.7708740234375,
+      30.55950927734375
+    ],
+    "rot": [
+      0.9869738221168518,
+      -0.00042299999040551484,
+      0.00034100000630132854,
+      0.16087999939918518
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 81,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -483.9436950683594,
+      -296.0094299316406,
+      35.64936828613281
+    ],
+    "rot": [
+      0.23892809450626373,
+      0.0,
+      0.0,
+      0.9710373282432556
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 82,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -472.192138671875,
+      -293.3915710449219,
+      35.19645690917969
+    ],
+    "rot": [
+      0.8321797847747803,
+      0.0,
+      0.0,
+      0.5545058846473694
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 83,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -469.0942077636719,
+      -296.9314880371094,
+      35.12084197998047
+    ],
+    "rot": [
+      -0.5655708909034729,
+      0.0,
+      0.0,
+      0.8246998190879822
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 84,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -465.5768737792969,
+      -308.98931884765625,
+      35.14738464355469
+    ],
+    "rot": [
+      0.8321797847747803,
+      0.0,
+      0.0,
+      0.5545058846473694
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 85,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -489.53668212890625,
+      -309.5252685546875,
+      35.150604248046875
+    ],
+    "rot": [
+      -0.5545058846473694,
+      0.0,
+      0.0,
+      0.832179844379425
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 86,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -492.27032470703125,
+      -302.6560363769531,
+      35.237937927246094
+    ],
+    "rot": [
+      0.7081769108772278,
+      0.0,
+      0.0,
+      -0.7060350775718689
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 87,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -494.56964111328125,
+      -298.562744140625,
+      35.20648956298828
+    ],
+    "rot": [
+      -0.2786009907722473,
+      0.0,
+      0.0,
+      0.960407018661499
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 88,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -495.55865478515625,
+      -295.69293212890625,
+      35.09463119506836
+    ],
+    "rot": [
+      -0.5545058846473694,
+      0.0,
+      0.0,
+      0.832179844379425
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 89,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -472.69244384765625,
+      -283.0156555175781,
+      42.35208511352539
+    ],
+    "rot": [
+      0.7695054411888123,
+      0.0,
+      0.0,
+      -0.6386402249336243
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 90,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -494.2826843261719,
+      -303.41900634765625,
+      42.09813690185547
+    ],
+    "rot": [
+      -0.3234880864620209,
+      0.0,
+      0.0,
+      0.946232259273529
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 91,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -495.7037353515625,
+      -301.26129150390625,
+      42.09813690185547
+    ],
+    "rot": [
+      -0.045246995985507965,
+      0.0,
+      0.0,
+      0.9989758729934692
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 92,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -499.0196838378906,
+      -294.3267822265625,
+      42.27048110961914
+    ],
+    "rot": [
+      0.953381359577179,
+      0.0,
+      0.0,
+      0.3017682135105133
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 93,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -516.1842041015625,
+      -312.9676513671875,
+      42.31732940673828
+    ],
+    "rot": [
+      -0.587660014629364,
+      0.0,
+      0.0,
+      0.8091080188751221
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 94,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -348.9223327636719,
+      -371.2155456542969,
+      31.23468780517578
+    ],
+    "rot": [
+      0.9550579786300659,
+      0.0,
+      0.0,
+      0.29641905426979065
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 96,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -346.26861572265625,
+      -356.2000732421875,
+      31.319847106933594
+    ],
+    "rot": [
+      0.9550579786300659,
+      0.0,
+      0.0,
+      0.29641905426979065
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 97,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -360.62139892578125,
+      -347.6864013671875,
+      31.487667083740234
+    ],
+    "rot": [
+      0.9806038737297058,
+      0.0,
+      0.0,
+      0.19599996507167816
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 98,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -370.6063537597656,
+      -368.39520263671875,
+      32.382484436035156
+    ],
+    "rot": [
+      0.96745765209198,
+      0.0,
+      0.0,
+      -0.2530328929424286
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 99,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -406.91595458984375,
+      -363.8640441894531,
+      32.69660568237305
+    ],
+    "rot": [
+      0.9994899034500122,
+      0.0,
+      0.0,
+      -0.03193599730730057
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 100,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -362.5486145019531,
+      -342.05865478515625,
+      31.882518768310547
+    ],
+    "rot": [
+      -0.6631439328193665,
+      0.0,
+      0.0,
+      0.7484919428825378
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 101,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -382.2575378417969,
+      -327.22088623046875,
+      32.46342849731445
+    ],
+    "rot": [
+      -0.19845503568649292,
+      0.0,
+      0.0,
+      0.9801101088523865
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 102,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -412.7969665527344,
+      -308.5373229980469,
+      34.622230529785156
+    ],
+    "rot": [
+      0.2620690166950226,
+      0.0,
+      0.0,
+      0.965049147605896
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 103,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -476.8757019042969,
+      -312.81298828125,
+      34.721435546875
+    ],
+    "rot": [
+      0.8280581831932068,
+      0.0,
+      0.0,
+      0.5606421232223511
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 104,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -435.4454650878906,
+      -307.40386962890625,
+      42.08525848388672
+    ],
+    "rot": [
+      0.8177312016487122,
+      0.0,
+      0.0,
+      0.575600266456604
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 105,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -467.60968017578125,
+      -295.72564697265625,
+      42.07596969604492
+    ],
+    "rot": [
+      -0.5249457955360413,
+      0.0,
+      0.0,
+      0.8511357307434082
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 106,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -462.92132568359375,
+      -310.68603515625,
+      42.12762451171875
+    ],
+    "rot": [
+      0.8072004318237305,
+      0.0,
+      0.0,
+      0.5902774333953857
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 107,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -488.3612060546875,
+      -316.3470764160156,
+      41.95417785644531
+    ],
+    "rot": [
+      -0.5249457955360413,
+      0.0,
+      0.0,
+      0.8511357307434082
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 108,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -451.6453857421875,
+      -350.0400695800781,
+      33.513858795166016
+    ],
+    "rot": [
+      0.998150646686554,
+      0.0,
+      0.0,
+      0.06078897416591644
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 109,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -450.9754333496094,
+      -344.6275329589844,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 110,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -449.89410400390625,
+      -336.48919677734375,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 111,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -449.0221862792969,
+      -330.25909423828125,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 112,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -497.1632385253906,
+      -344.9081726074219,
+      33.513858795166016
+    ],
+    "rot": [
+      0.998150646686554,
+      0.0,
+      0.0,
+      0.06078897416591644
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 113,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -496.55975341796875,
+      -340.19122314453125,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 114,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -495.5213928222656,
+      -332.2371520996094,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 115,
+    "name": "prop_bollard_02a",
+    "pos": [
+      -494.8914794921875,
+      -327.53436279296875,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 116,
+    "name": "prop_elecbox_23",
+    "pos": [
+      -460.4373474121094,
+      -353.0111083984375,
+      34.638389587402344
+    ],
+    "rot": [
+      -0.06078897416591644,
+      0.0,
+      0.0,
+      0.998150646686554
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 117,
+    "name": "prop_fire_exting_2a",
+    "pos": [
+      -461.982421875,
+      -353.00836181640625,
+      34.06987762451172
+    ],
+    "rot": [
+      -0.06078897416591644,
+      0.0,
+      0.0,
+      0.998150646686554
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 118,
+    "name": "prop_fire_exting_2a",
+    "pos": [
+      -489.92364501953125,
+      -324.4659423828125,
+      34.712467193603516
+    ],
+    "rot": [
+      0.998150646686554,
+      0.0,
+      0.0,
+      0.06078897416591644
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 119,
+    "name": "prop_bin_12a",
+    "pos": [
+      -484.7235412597656,
+      -325.5904846191406,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9877331852912903,
+      0.0,
+      0.0,
+      0.15615102648735046
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 120,
+    "name": "prop_bin_12a",
+    "pos": [
+      -456.3861389160156,
+      -326.30035400390625,
+      33.513858795166016
+    ],
+    "rot": [
+      0.998117208480835,
+      0.0,
+      0.0,
+      -0.06133502349257469
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 121,
+    "name": "prop_bin_12a",
+    "pos": [
+      -487.693359375,
+      -349.148193359375,
+      33.513858795166016
+    ],
+    "rot": [
+      -0.32529696822166443,
+      0.0,
+      0.0,
+      0.9456118941307068
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 122,
+    "name": "prop_bench_02",
+    "pos": [
+      -458.8013610839844,
+      -340.3497619628906,
+      33.513858795166016
+    ],
+    "rot": [
+      0.754521906375885,
+      0.0,
+      0.0,
+      -0.6562749147415161
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 123,
+    "name": "prop_cctv_cam_04c",
+    "pos": [
+      -449.2447814941406,
+      -347.97369384765625,
+      38.47824478149414
+    ],
+    "rot": [
+      0.6628145575523376,
+      0.0,
+      0.0,
+      0.7487835884094238
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 124,
+    "name": "prop_cctv_cam_04c",
+    "pos": [
+      -447.32733154296875,
+      -333.3885498046875,
+      38.47824478149414
+    ],
+    "rot": [
+      0.6628145575523376,
+      0.0,
+      0.0,
+      0.7487835884094238
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 125,
+    "name": "prop_cctv_cam_04c",
+    "pos": [
+      -497.18463134765625,
+      -328.7900085449219,
+      38.47824478149414
+    ],
+    "rot": [
+      0.7487835884094238,
+      0.0,
+      0.0,
+      -0.6628145575523376
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 126,
+    "name": "prop_cctv_cam_04c",
+    "pos": [
+      -499.04046630859375,
+      -342.928955078125,
+      38.47824478149414
+    ],
+    "rot": [
+      0.7487835884094238,
+      0.0,
+      0.0,
+      -0.6628145575523376
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 127,
+    "name": "prop_bench_02",
+    "pos": [
+      -454.6878356933594,
+      -326.502197265625,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 128,
+    "name": "prop_bench_02",
+    "pos": [
+      -451.0681457519531,
+      -327.0087890625,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 129,
+    "name": "prop_bench_02",
+    "pos": [
+      -453.4770812988281,
+      -353.5441589355469,
+      33.513858795166016
+    ],
+    "rot": [
+      -0.06947099417448044,
+      0.0,
+      0.0,
+      0.9975839853286743
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 130,
+    "name": "prop_bench_02",
+    "pos": [
+      -457.6170959472656,
+      -352.9647521972656,
+      33.513858795166016
+    ],
+    "rot": [
+      -0.06947099417448044,
+      0.0,
+      0.0,
+      0.9975839853286743
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 131,
+    "name": "prop_bin_12a",
+    "pos": [
+      -455.4900817871094,
+      -353.217529296875,
+      33.513858795166016
+    ],
+    "rot": [
+      0.1480930745601654,
+      0.0,
+      0.0,
+      0.9889734983444214
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 132,
+    "name": "prop_wall_light_03a",
+    "pos": [
+      -457.4356384277344,
+      -325.7132263183594,
+      38.50724411010742
+    ],
+    "rot": [
+      0.9983066916465759,
+      0.0,
+      0.0,
+      0.05816999077796936
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 133,
+    "name": "prop_wall_light_03a",
+    "pos": [
+      -461.0249938964844,
+      -353.1073303222656,
+      38.50724411010742
+    ],
+    "rot": [
+      -0.05816998332738876,
+      0.0,
+      0.0,
+      0.9983067512512207
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 134,
+    "name": "prop_wall_light_03a",
+    "pos": [
+      -488.7571716308594,
+      -349.4542541503906,
+      38.50724411010742
+    ],
+    "rot": [
+      -0.05816998332738876,
+      0.0,
+      0.0,
+      0.9983067512512207
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 135,
+    "name": "prop_wall_light_03a",
+    "pos": [
+      -485.6154479980469,
+      -325.0181884765625,
+      38.50724411010742
+    ],
+    "rot": [
+      0.9983066916465759,
+      0.0,
+      0.0,
+      0.05816999077796936
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 136,
+    "name": "prop_weeds_nxg01",
+    "pos": [
+      -432.1446838378906,
+      -354.3035583496094,
+      32.126808166503906
+    ],
+    "rot": [
+      0.7489559054374695,
+      0.0,
+      0.0,
+      -0.6626197695732117
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 137,
+    "name": "prop_weeds_nxg01",
+    "pos": [
+      -429.8268737792969,
+      -336.16229248046875,
+      32.184139251708984
+    ],
+    "rot": [
+      0.6586652398109436,
+      0.05762602761387825,
+      -0.06538703292608261,
+      0.7473713755607605
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 138,
+    "name": "prop_weeds_nxg01",
+    "pos": [
+      -427.1268310546875,
+      -315.5874938964844,
+      33.018245697021484
+    ],
+    "rot": [
+      0.6566542983055115,
+      0.03737901896238327,
+      -0.08318803459405899,
+      0.7486573457717896
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 139,
+    "name": "prop_cctv_cam_04c",
+    "pos": [
+      -486.93115234375,
+      -354.4207458496094,
+      38.972721099853516
+    ],
+    "rot": [
+      0.9482325315475464,
+      0.0,
+      0.0,
+      -0.3175768554210663
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 140,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -486.5313415527344,
+      -352.1078186035156,
+      37.59189224243164
+    ],
+    "rot": [
+      0.7545214295387268,
+      0.0,
+      0.0,
+      -0.6562753915786743
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 141,
+    "name": "prop_fire_driser_2b",
+    "pos": [
+      -489.7676696777344,
+      -354.0840759277344,
+      34.778594970703125
+    ],
+    "rot": [
+      0.9978433847427368,
+      0.0,
+      0.0,
+      0.06564002484083176
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 142,
+    "name": "prop_cctv_cam_04c",
+    "pos": [
+      -464.1117248535156,
+      -357.4264831542969,
+      38.972721099853516
+    ],
+    "rot": [
+      0.895062267780304,
+      0.0,
+      0.0,
+      0.44594117999076843
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 143,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -463.8322448730469,
+      -354.7406005859375,
+      37.33073425292969
+    ],
+    "rot": [
+      0.7545214295387268,
+      0.0,
+      0.0,
+      -0.6562753915786743
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 144,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -459.7959899902344,
+      -324.0669860839844,
+      37.103233337402344
+    ],
+    "rot": [
+      0.7519387602806091,
+      0.0,
+      0.0,
+      -0.659233033657074
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 145,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -500.29437255859375,
+      -290.7099914550781,
+      37.11704635620117
+    ],
+    "rot": [
+      0.9799198508262634,
+      0.0,
+      0.0,
+      -0.1993919312953949
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 146,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -516.4725952148438,
+      -350.6026306152344,
+      37.085906982421875
+    ],
+    "rot": [
+      0.9978548288345337,
+      0.0,
+      0.0,
+      0.06546500325202942
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 147,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -494.2422180175781,
+      -348.6370849609375,
+      37.142940521240234
+    ],
+    "rot": [
+      -0.06415898352861404,
+      0.0,
+      0.0,
+      0.9979397654533386
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 148,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -493.2568054199219,
+      -324.0942687988281,
+      37.142940521240234
+    ],
+    "rot": [
+      -0.06553900241851807,
+      0.0,
+      0.0,
+      0.9978500008583069
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 149,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -451.9654541015625,
+      -326.50445556640625,
+      37.11103057861328
+    ],
+    "rot": [
+      -0.06553900241851807,
+      0.0,
+      0.0,
+      0.9978500008583069
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 150,
+    "name": "prop_wall_light_17a",
+    "pos": [
+      -453.4688720703125,
+      -354.00634765625,
+      37.12713623046875
+    ],
+    "rot": [
+      -0.06553900241851807,
+      0.0,
+      0.0,
+      0.9978500008583069
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 151,
+    "name": "prop_wall_light_13a",
+    "pos": [
+      -477.9674072265625,
+      -350.7605285644531,
+      39.391387939453125
+    ],
+    "rot": [
+      0.04690701887011528,
+      0.04690701887011528,
+      0.7055492401123047,
+      -0.7055492401123047
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 152,
+    "name": "prop_cctv_cam_04c",
+    "pos": [
+      -482.6708679199219,
+      -322.3326416015625,
+      38.972721099853516
+    ],
+    "rot": [
+      -0.4064749479293823,
+      0.0,
+      0.0,
+      0.9136618971824646
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 153,
+    "name": "prop_wall_light_13a",
+    "pos": [
+      -471.9570617675781,
+      -351.5476379394531,
+      39.391387939453125
+    ],
+    "rot": [
+      0.04690701887011528,
+      0.04690701887011528,
+      0.7055492401123047,
+      -0.7055492401123047
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 154,
+    "name": "prop_wall_light_13a",
+    "pos": [
+      -476.93768310546875,
+      -323.2400817871094,
+      39.39137649536133
+    ],
+    "rot": [
+      0.7055492401123047,
+      0.7055492401123047,
+      -0.04690701887011528,
+      0.04690701887011528
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 155,
+    "name": "prop_wall_light_13a",
+    "pos": [
+      -469.7366943359375,
+      -324.2018127441406,
+      39.39137649536133
+    ],
+    "rot": [
+      0.7055492401123047,
+      0.7055492401123047,
+      -0.04690701887011528,
+      0.04690701887011528
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 156,
+    "name": "prop_fire_driser_2b",
+    "pos": [
+      -461.4429626464844,
+      -357.8288879394531,
+      33.93263244628906
+    ],
+    "rot": [
+      0.9978433847427368,
+      0.0,
+      0.0,
+      0.06564002484083176
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 157,
+    "name": "prop_agave_01",
+    "pos": [
+      -449.2962951660156,
+      -358.55755615234375,
+      33.955406188964844
+    ],
+    "rot": [
+      0.025953005999326706,
+      0.0,
+      0.0,
+      0.999663233757019
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 158,
+    "name": "prop_plant_cane_01b",
+    "pos": [
+      -439.3930358886719,
+      -360.0880126953125,
+      33.80747604370117
+    ],
+    "rot": [
+      0.369269996881485,
+      0.0,
+      0.0,
+      0.9293221235275269
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 159,
+    "name": "prop_agave_01",
+    "pos": [
+      -512.8356323242188,
+      -350.0755920410156,
+      34.94244384765625
+    ],
+    "rot": [
+      0.5040363073348999,
+      0.0,
+      0.0,
+      0.8636825084686279
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 160,
+    "name": "prop_agave_01",
+    "pos": [
+      -502.04705810546875,
+      -351.54913330078125,
+      34.923336029052734
+    ],
+    "rot": [
+      0.8724462389945984,
+      0.0,
+      0.0,
+      0.48871007561683655
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 161,
+    "name": "prop_plant_cane_01b",
+    "pos": [
+      -466.47906494140625,
+      -278.72406005859375,
+      34.7769889831543
+    ],
+    "rot": [
+      0.11700098216533661,
+      0.0,
+      0.0,
+      0.9931318759918213
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 162,
+    "name": "prop_plant_cane_01b",
+    "pos": [
+      -471.34954833984375,
+      -280.68359375,
+      34.7769889831543
+    ],
+    "rot": [
+      0.6392118334770203,
+      0.0,
+      0.0,
+      0.7690306901931763
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 163,
+    "name": "prop_agave_01",
+    "pos": [
+      -502.89276123046875,
+      -292.7467041015625,
+      34.64677429199219
+    ],
+    "rot": [
+      0.6399781703948975,
+      0.0,
+      0.0,
+      0.7683931589126587
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 164,
+    "name": "prop_agave_01",
+    "pos": [
+      -507.6729431152344,
+      -294.8320007324219,
+      34.679473876953125
+    ],
+    "rot": [
+      0.9107470512390137,
+      -0.025137003511190414,
+      -0.011372001841664314,
+      0.4120420813560486
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 165,
+    "name": "prop_bench_02",
+    "pos": [
+      -491.8545837402344,
+      -324.6524658203125,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 166,
+    "name": "prop_bench_02",
+    "pos": [
+      -488.2348937988281,
+      -325.1590576171875,
+      33.513858795166016
+    ],
+    "rot": [
+      0.9975839853286743,
+      0.0,
+      0.0,
+      0.06947099417448044
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 167,
+    "name": "prop_bench_02",
+    "pos": [
+      -494.7048645019531,
+      -348.1375732421875,
+      33.513858795166016
+    ],
+    "rot": [
+      -0.06947099417448044,
+      0.0,
+      0.0,
+      0.9975839853286743
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 168,
+    "name": "prop_bench_02",
+    "pos": [
+      -490.6116638183594,
+      -348.7104797363281,
+      33.513858795166016
+    ],
+    "rot": [
+      -0.06947099417448044,
+      0.0,
+      0.0,
+      0.9975839853286743
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  },
+  {
+    "map": "bh1_22_strm_0.ymap",
+    "index": 169,
+    "name": "prop_plant_cane_02a",
+    "pos": [
+      -467.1999816894531,
+      -304.52423095703125,
+      35.25926208496094
+    ],
+    "rot": [
+      0.8321797847747803,
+      0.0,
+      0.0,
+      0.5545058846473694
+    ],
+    "parent": -1,
+    "lod": "EntityLodLevel.ORPHANHD"
+  }
+]

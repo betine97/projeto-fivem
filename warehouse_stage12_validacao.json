@@ -1,0 +1,128 @@
+[
+  {
+    "plant": "PLACEHOLDER_LEFT_00_00_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7345187664031982,
+    "vegetation_height_m": 1.0620187602043152,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_00_01_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7539572715759277,
+    "vegetation_height_m": 1.0814572653770447,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_00_02_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7697371244430542,
+    "vegetation_height_m": 1.0972371182441711,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_01_00_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7362366914749146,
+    "vegetation_height_m": 1.0637366852760315,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_01_01_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7558151483535767,
+    "vegetation_height_m": 1.0833151421546936,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_01_02_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7691868543624878,
+    "vegetation_height_m": 1.0966868481636047,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_02_00_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7345229387283325,
+    "vegetation_height_m": 1.0620229325294495,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_02_01_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7537988424301147,
+    "vegetation_height_m": 1.0812988362312317,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_LEFT_02_02_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7721415758132935,
+    "vegetation_height_m": 1.0996415696144104,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_00_00_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.737302541732788,
+    "vegetation_height_m": 1.064802535533905,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_00_01_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.753255844116211,
+    "vegetation_height_m": 1.0807558379173279,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_00_02_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7702202796936035,
+    "vegetation_height_m": 1.0977202734947205,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_01_00_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7375407218933105,
+    "vegetation_height_m": 1.0650407156944275,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_01_01_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7521228790283203,
+    "vegetation_height_m": 1.0796228728294373,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_01_02_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7707791328430176,
+    "vegetation_height_m": 1.0982791266441345,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_02_00_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7340388298034668,
+    "vegetation_height_m": 1.0615388236045837,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_02_01_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7529144287109375,
+    "vegetation_height_m": 1.0804144225120544,
+    "pot_height_m": 0.4000000059604645
+  },
+  {
+    "plant": "PLACEHOLDER_RIGHT_02_02_PLANT",
+    "old_top_m": 1.4800000190734863,
+    "new_top_m": 1.7684776782989502,
+    "vegetation_height_m": 1.0959776721000671,
+    "pot_height_m": 0.4000000059604645
+  }
+]

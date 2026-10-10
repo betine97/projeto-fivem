@@ -1,0 +1,63 @@
+{
+  "installed": true,
+  "doors": [
+    {
+      "id": 8,
+      "name": "Sacada ao lado do bar",
+      "closed_bbox": [
+        [
+          6.273999999701977,
+          -13.470000095367432,
+          -0.785
+        ],
+        [
+          6.4140000002980235,
+          -12.312045489139855,
+          1.891999807357788
+        ]
+      ],
+      "fits_opening": true,
+      "all_four_lods": true,
+      "hinge_space_collision": true,
+      "interaction": "E"
+    },
+    {
+      "id": 9,
+      "name": "Sacada da sala ao lado da TV",
+      "closed_bbox": [
+        [
+          -9.251000000298022,
+          -5.6760000839233395,
+          -0.785
+        ],
+        [
+          -9.110999999701976,
+          -4.657000030517578,
+          1.641999807357788
+        ]
+      ],
+      "fits_opening": true,
+      "all_four_lods": true,
+      "hinge_space_collision": true,
+      "interaction": "E"
+    }
+  ],
+  "original_seven_doors_preserved": true,
+  "source_door_unchanged": true,
+  "shared_E_runtime_preserved": true,
+  "changed": {
+    "auditoria_client.lua": "2557cd2ad3b1e6a801f0a00bbdaa6e96f93290fad5180f6d04fd62efed9c5587",
+    "fxmanifest.lua": "722b09f3043930cf5e1740605f68cd947318c6e38e1225ad856f6078320f4c75",
+    "objetos_catalogo.json": "c40ccb10734776f79578b804c8ee7492344d3991c04ff281777cb221c9a61abe",
+    "portas_madeira.json": "473f9eb9c8fb78c70b97848bedcc1e63cc1a57725b6f97327e2810ce2d49378b",
+    "stream/mansao_batente_vidro_bar.ydr": "75de54089d109d09c891d8ac3b35dbe505bf3b2df433687fe7b02e30cb96eba5",
+    "stream/mansao_batente_vidro_sala.ydr": "faa86af4ea4f01f6660b9a60fbf9b7e95fbfcd7cb47948b69b24901470b67c6c",
+    "stream/mansao_portas_sacadas.ymap": "843329d88b4d677f9dfb0cbb9eb6b26779fe4bdd9c44a903b31af396f0d98227",
+    "stream/mansao_portas_sacadas.ytyp": "eede925105d76ee63d1e110e585067d5dda87aead3c86c9f1b414e0050900a23",
+    "stream/mansao_porta_vidro_bar.ydr": "59aef9a29cf02309b82cb5e08d0779642e0f36a041b5c379e1ff4e3d04fc3f53"
+  },
+  "unrelated_files_preserved": 121,
+  "saved_prop_positions_preserved": true,
+  "architecture_lighting_preserved": true,
+  "in_game_verified": false
+}

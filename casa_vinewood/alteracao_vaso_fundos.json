@@ -1,0 +1,16 @@
+{
+  "file": "ch2_09b_strm_1.ymap",
+  "model": "prop_pot_plant_02d",
+  "old": [
+    -968.9298095703125,
+    684.9696655273438,
+    157.44149780273438
+  ],
+  "new": [
+    -968.9298095703125,
+    685.3696655273437,
+    157.44149780273438
+  ],
+  "shift_m": 0.4,
+  "reason": "Foliage bound crossed the continuous rear wall; shift only this courtyard instance outward."
+}

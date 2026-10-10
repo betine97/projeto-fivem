@@ -1,0 +1,8 @@
+{
+  "pot_hoses": 18,
+  "closed_drums": 2,
+  "detail_reapplication_no_duplicates": true,
+  "minimum_clear_center_width_m": 1.784,
+  "drain_clear": true,
+  "floor_penetrations": false
+}

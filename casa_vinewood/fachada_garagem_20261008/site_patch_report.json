@@ -1,0 +1,207 @@
+{
+  "render": [
+    {
+      "file": "ch2_09b_hs05.ydr",
+      "triangles_cut": 203,
+      "offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "original_shader_keys_preserved": true
+    },
+    {
+      "file": "ch2_09b_hs05_details.ydr",
+      "triangles_cut": 160,
+      "offset": [
+        1.64703369140625,
+        0.270751953125,
+        -0.0522613525390625
+      ],
+      "original_shader_keys_preserved": true
+    },
+    {
+      "file": "ch2_09b_l2.ydr",
+      "triangles_cut": 27,
+      "offset": [
+        6.81524658203125,
+        -6.431640625,
+        -10.677001953125
+      ],
+      "original_shader_keys_preserved": true
+    },
+    {
+      "file": "mansao_paredes.ydr",
+      "triangles_cut": 10,
+      "offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "original_shader_keys_preserved": true
+    }
+  ],
+  "collision": [
+    {
+      "file": "apa_ch2_09b_0.ybn",
+      "primitives_cut": 27
+    },
+    {
+      "file": "apa_ch2_09b_1.ybn",
+      "primitives_cut": 9
+    },
+    {
+      "file": "apa_ch2_09b_2.ybn",
+      "primitives_cut": 2
+    },
+    {
+      "file": "apa_ch2_09b_3.ybn",
+      "primitives_cut": 52
+    },
+    {
+      "file": "ch2_09b_0.ybn",
+      "primitives_cut": 27
+    },
+    {
+      "file": "ch2_09b_1.ybn",
+      "primitives_cut": 9
+    },
+    {
+      "file": "ch2_09b_2.ybn",
+      "primitives_cut": 2
+    },
+    {
+      "file": "ch2_09b_3.ybn",
+      "primitives_cut": 52
+    },
+    {
+      "file": "hei_ch2_09b_0.ybn",
+      "primitives_cut": 27
+    },
+    {
+      "file": "hei_ch2_09b_1.ybn",
+      "primitives_cut": 9
+    },
+    {
+      "file": "hei_ch2_09b_2.ybn",
+      "primitives_cut": 2
+    },
+    {
+      "file": "hei_ch2_09b_3.ybn",
+      "primitives_cut": 52
+    },
+    {
+      "file": "hi@apa_ch2_09b_0.ybn",
+      "primitives_cut": 6
+    },
+    {
+      "file": "hi@apa_ch2_09b_1.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@apa_ch2_09b_2.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@apa_ch2_09b_3.ybn",
+      "primitives_cut": 7
+    },
+    {
+      "file": "hi@ch2_09b_0.ybn",
+      "primitives_cut": 6
+    },
+    {
+      "file": "hi@ch2_09b_1.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@ch2_09b_2.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@ch2_09b_3.ybn",
+      "primitives_cut": 7
+    },
+    {
+      "file": "hi@hei_ch2_09b_0.ybn",
+      "primitives_cut": 6
+    },
+    {
+      "file": "hi@hei_ch2_09b_1.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@hei_ch2_09b_2.ybn",
+      "primitives_cut": 20
+    },
+    {
+      "file": "hi@hei_ch2_09b_3.ybn",
+      "primitives_cut": 7
+    },
+    {
+      "file": "cidade_mansao.ybn",
+      "primitives_cut": 14
+    }
+  ],
+  "occlusion": [
+    {
+      "file": "ch2_occl_02.ymap",
+      "opened": 1
+    },
+    {
+      "file": "apa_ch2_occl_02.ymap",
+      "opened": 1
+    }
+  ],
+  "maps": [],
+  "cuts": [
+    [
+      [
+        6.1,
+        -1.97,
+        -4.45
+      ],
+      [
+        13.08,
+        9.58,
+        -1.096
+      ]
+    ],
+    [
+      [
+        6.145,
+        9.53,
+        -4.45
+      ],
+      [
+        13.055,
+        19.23,
+        1.6
+      ]
+    ],
+    [
+      [
+        3.62,
+        14.52,
+        -3.34
+      ],
+      [
+        5.87,
+        19.23,
+        1.6
+      ]
+    ],
+    [
+      [
+        3.9,
+        7.19,
+        -0.825
+      ],
+      [
+        5.43,
+        7.71,
+        2.27
+      ]
+    ]
+  ]
+}

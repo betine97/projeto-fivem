@@ -1,0 +1,39 @@
+{
+  "lod_triangles": {
+    "HIGH": 18432,
+    "MEDIUM": 4608,
+    "LOW": 1152,
+    "VERYLOW": 288
+  },
+  "collision_surfaces": {
+    "SAND_LOOSE": 9752,
+    "GRASS": 7563,
+    "MUD_SOFT": 43,
+    "ROCK": 613,
+    "DIRT_TRACK": 461
+  },
+  "sector": "ti_terreno_03_01",
+  "entities": 687,
+  "counts": {
+    "palm": 55,
+    "tree": 12,
+    "rock": 65,
+    "bush": 95,
+    "grass": 460
+  },
+  "native_assets_reused": [
+    "prop_palm_med_01a",
+    "prop_palm_sm_01a",
+    "prop_palm_sm_01d",
+    "prop_tree_eucalip_01",
+    "prop_rock_1_a",
+    "prop_rock_2_a",
+    "prop_rock_4_c",
+    "prop_bush_med_01",
+    "prop_bush_med_03",
+    "prop_veg_grass_01_a",
+    "prop_veg_grass_01_b",
+    "prop_veg_grass_01_c"
+  ],
+  "in_game_verified": false
+}

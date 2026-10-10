@@ -1,0 +1,20 @@
+{
+  "suite": "fundos direita",
+  "bathroom_relocated_to_exterior_corner": true,
+  "objects": [
+    "Banheiro bancada.003",
+    "Banheiro suite verga.003",
+    "Banheiro suite.009",
+    "Banheiro suite.010",
+    "Banheiro suite.011"
+  ],
+  "door_and_hardware_aligned": [
+    "Banheiro suite porta aberta.003",
+    "Almofada porta.004",
+    "Almofada porta.005",
+    "Almofada porta.006",
+    "Almofada porta.007",
+    "Macaneta bronze.002",
+    "Macaneta bronze.003"
+  ]
+}

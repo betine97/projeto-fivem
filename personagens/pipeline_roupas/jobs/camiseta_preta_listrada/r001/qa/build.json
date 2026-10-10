@@ -1,0 +1,45 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": false,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": "palette_to_rgb",
+  "shader_changes": [
+    {
+      "from": "ped_palette.sps",
+      "to": "ped.sps"
+    },
+    {
+      "from": "ped_default_palette.sps",
+      "to": "ped_default.sps"
+    }
+  ],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_camiseta_preta_listrada_r001^jbib_000_u.ydd",
+    "mp_m_freemode_01_cidade_camiseta_preta_listrada_r001^jbib_diff_000_a_uni.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "ade199e41810e150ff8c2801a0cc995a80bc92d0fcd870014e1fe4c37b3bce54",
+  "cache_hit": false,
+  "seconds": 0.945,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_camiseta_preta_listrada_r001^jbib_000_u.ydd": "f1c4fc5e3b1a40a3fe508ec22199564202f99cb0f4e0a78bf9977dff9918bdda",
+    "exports\\mp_m_freemode_01_cidade_camiseta_preta_listrada_r001^jbib_diff_000_a_uni.ytd": "4d8f689157929e0c7af009facc99cbd7e73e04dc7495309c0e8d16ca5f57aac9"
+  }
+}

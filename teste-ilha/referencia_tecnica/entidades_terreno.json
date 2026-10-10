@@ -1,0 +1,274 @@
+[
+  {
+    "map": "h4_islandxcanal_props_slod.ymap",
+    "name": "h4_mph4_isl_lod_dockp_islandxcanal_props_slod4",
+    "pos": [
+      5118.02197265625,
+      -5140.994140625,
+      13.282245635986328
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxcanal_props_slod.ymap",
+    "name": "h4_mph4_isl_lod_dockp_islandxcanal_props_slod3",
+    "pos": [
+      5120.4736328125,
+      -5138.6962890625,
+      13.282245635986328
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxcanal_props_slod.ymap",
+    "name": "h4_mph4_isl_lod_dockp_islandxcanal_props_slod2",
+    "pos": [
+      5120.4736328125,
+      -5138.6962890625,
+      13.282245635986328
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_props_2_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_props_2_slod4",
+    "pos": [
+      5129.30810546875,
+      -4643.32861328125,
+      12.18198013305664
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_props_2_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_props_2_slod3",
+    "pos": [
+      5129.30810546875,
+      -4638.93505859375,
+      12.329556465148926
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_props_2_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_props_2_slod2",
+    "pos": [
+      5129.30810546875,
+      -4638.93505859375,
+      12.329556465148926
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_props_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_props_slod4",
+    "pos": [
+      5163.30810546875,
+      -4648.85986328125,
+      15.227752685546875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_props_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_props_slod3",
+    "pos": [
+      5163.30810546875,
+      -4648.85986328125,
+      15.227752685546875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_props_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_props_slod2",
+    "pos": [
+      5163.30810546875,
+      -4648.85986328125,
+      15.227752685546875
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_slod4",
+    "pos": [
+      4936.7294921875,
+      -4754.4755859375,
+      17.176074981689453
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_slod3",
+    "pos": [
+      4936.7294921875,
+      -4754.4755859375,
+      17.176074981689453
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandxdock_slod.ymap",
+    "name": "h4_mph4_isl_lod_beachp_islandxdock_slod2",
+    "pos": [
+      4936.7294921875,
+      -4754.4755859375,
+      17.176074981689453
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandx_terrain_05.ymap",
+    "name": "h4_mph4_ter05_islandx_l_cloth_01",
+    "pos": [
+      5409.1103515625,
+      -5212.06201171875,
+      35.611732482910156
+    ],
+    "rot": [
+      0.07417600601911545,
+      0.0,
+      0.0,
+      0.9972452521324158
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandx_terrain_05.ymap",
+    "name": "h4_mph4_ter05_islandx_l_cloth_02",
+    "pos": [
+      5400.681640625,
+      -5223.0888671875,
+      35.636817932128906
+    ],
+    "rot": [
+      0.07417600601911545,
+      0.0,
+      0.0,
+      0.9972452521324158
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandx_terrain_05.ymap",
+    "name": "h4_mph4_ter05_islandx_astic05",
+    "pos": [
+      5406.9150390625,
+      -5217.58984375,
+      34.86921691894531
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  },
+  {
+    "map": "h4_islandx_terrain_05_lod.ymap",
+    "name": "h4_mph4_ter05_islandx_astic05_lod",
+    "pos": [
+      5406.90869140625,
+      -5217.61962890625,
+      34.87071228027344
+    ],
+    "rot": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale_xy": 1.0,
+    "scale_z": 1.0
+  }
+]

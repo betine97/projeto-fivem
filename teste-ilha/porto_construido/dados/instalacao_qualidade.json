@@ -1,0 +1,451 @@
+{
+  "revision": "ilha-materiais-20261009-1",
+  "created_at": "20261009_185526",
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\backups\\qualidade_20261009_185526",
+  "records": [
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_01.ydr",
+      "old_sha256": "7082c39efe4dfdbc8c60e188468a4266ade6d379e02f2980c2998058428d1cca",
+      "new_sha256": "4caa11493bb551152fa574f9a9b99e55322ad935cfc68cbd9b5f3e8a50e57597",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_01.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_01_tx.ytd",
+      "old_sha256": "d74b5e60a1183ec9f0908b8816905cc4d2107f06b2cc02ac1db4ab3dd09996bc",
+      "new_sha256": "2651bf471371e675d06736b43a18c5afd9659f643eeab17b6732f3fbaa4b7729",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_01_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_02.ydr",
+      "old_sha256": "1ab45a9415f80d37e9c722a61a7e3e067a38b33676277c3494d7258a4bffbad8",
+      "new_sha256": "905b9fd92a97c0e5d5c9aa214f31fcb783e6ff000aec690b3888fa58a2b04f20",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_02.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_02_tx.ytd",
+      "old_sha256": "fa23f651692977e0753d8ca2c9ff2eab464607b86fdff79298b8429ce6e44d36",
+      "new_sha256": "e5caaabef4f02d9816ff043cf58768ddaabd26046ed40aa44b4d0a845c02e379",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_02_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_03.ydr",
+      "old_sha256": "a3b4f512f414efe47c6a1835021220c40d2020715b236eb3eaa47ff50634d30b",
+      "new_sha256": "2937513b93557d0fbff46ea170cb3c774cdb92641649566d74afed2e533ccb6f",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_03.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_03_tx.ytd",
+      "old_sha256": "9fbbfbf57a7d4dc62cc27948233446b6090e92878dbdf4cb40af36b109d6e973",
+      "new_sha256": "c8ab330c0b4765d1fddc8edc8e6f9d402a7b16c7c2169297d3961eeb7e204ccf",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_03_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_04.ydr",
+      "old_sha256": "0186a425194ef72bf89d7dfb78b5cd1588cceb1842660204dbedc544f5b8a075",
+      "new_sha256": "be26b9556aff07e1d21399db17fe6fd011ff732da27643db29dc4664565e46a8",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_04.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_04_tx.ytd",
+      "old_sha256": "a71baaaff1d8b7b3497eb96a540e974cb0688823e7d521e02bfc31e015dea202",
+      "new_sha256": "7f4c1b57f1264305c8b6065aef9befdb9a275feab958e3888a9b00eb296f8289",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_04_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_05.ydr",
+      "old_sha256": "99d4e86acf7555d468b05988d2e0a6889218fdb1eb78282dca5cb5ae61ecf307",
+      "new_sha256": "ac4e3c7ec9806ca56a224800535e51d77801b9361ca1d794de10145304bad989",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_05.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_05_tx.ytd",
+      "old_sha256": "079ff11de619b28d915b9f8a2a9630beec0e6463b98d0a4301e2a3fdb9659e2c",
+      "new_sha256": "baa94badf0d07dee9998689bfceadf9807b3feebd8991e46ca2975d1d7c9d35a",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_05_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_06.ydr",
+      "old_sha256": "2d6bc8b19cf5216930e378e7730da93775f6aeeae71d7aa16e0f59b639c82aef",
+      "new_sha256": "214cef85a437fa5fd6d3c6c1f0e95288d93079f72d50781c5d08f93ec510bf89",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_06.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_06_tx.ytd",
+      "old_sha256": "e3982f686ee43274d0f41e5afbb8b9a5327eb509f6fa687ed83fbb5daad4d5b7",
+      "new_sha256": "bfcc845ca6282dbbfdc640ac7c71b6aa8835a7c6c69a4ebee77479d3232dc157",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_06_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_07.ydr",
+      "old_sha256": "9ad96497e575dcb47e7158cd4a91cfed5d2864e5314dc6d7d65d08eb76320359",
+      "new_sha256": "38e410cc70e888e0e59f67c606db2b87b4913471050fe9b315cca7b6e380cc8e",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_07.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_07_tx.ytd",
+      "old_sha256": "5dd3b3ebe4c7766b35a18adae5e840c26eae0d144d9efd4ec943d5d6f17a2c33",
+      "new_sha256": "eb754c3226806bb5b23557c5ce2162152dc8ea3fa4ea59c2c662b13d748d79db",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_07_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_08.ydr",
+      "old_sha256": "6ee2d3ee5865e1f98654c4cbed3a5011ac13d514c02a39eda1e0d44c1ace74b8",
+      "new_sha256": "54970aff21e6031ab63d739e58ed359c572f683c74fee564d69c2f02b30b7183",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_08.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_08_tx.ytd",
+      "old_sha256": "d39ea5616cf71659257d5933493daa82666fd6eaa37ee727a9da3bfa797ac6d8",
+      "new_sha256": "239868efe46f26b3291d8f761e51207410e6349e4fbc4ba408b01c8fcd54409a",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_08_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_09.ydr",
+      "old_sha256": "66725ac41e52a0cd55956e9136931cc4379585f00e553f0ae4b24daf835c49e4",
+      "new_sha256": "04850d698af8defa4b4d9eedca289dcb9aaee25c84eb9e5f3ed8b8a05390f65a",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_09.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_09_tx.ytd",
+      "old_sha256": "5262a553edf825d8eb779800ba0d2ee0e48d04d33cf44cb2ffab86a70eaa3b6a",
+      "new_sha256": "ac9dca58798f960aa3bca705f4e19feb9e3c01e0fb6ecf76f97c08a84619d9f6",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_09_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_10.ydr",
+      "old_sha256": "94a6405299e7275d4593c2962e53f0fe4773634b6315db4c51694f6f561f47a2",
+      "new_sha256": "0ee552999f2685eb4628676ca28e21a7d790c18341081175d803d1c2d3bb7ed0",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_10.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_10_tx.ytd",
+      "old_sha256": "13601721d7dda77fae6dd10d5472176631e96b4ddb09309aa8be3682811a848b",
+      "new_sha256": "91dc3d523c2e880f48803d7358e253025c9727e5934f3041bb6d0d301a3163e2",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_estrutura_10_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_00.ydr",
+      "old_sha256": "8b168c471664548fb6386d824d681fe35dc7428e942ad8671311f85e0d98faa7",
+      "new_sha256": "a1a94cb4bb8ad3f0eedbce9a6564f04a0558a394a97e6eaa92e376fca2d00e5f",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_00.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_01.ydr",
+      "old_sha256": "3a0c572c4a470b98f3c2bb4d5a10ee4dc4b5ae1782e7188ffc8a1c56b462b930",
+      "new_sha256": "3112c2fb1891732052048464363d9047852c1f341564e29aa1fd60638954f308",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_01.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_02.ydr",
+      "old_sha256": "52ed6f51aa9284c11fa61c1dc5cd6c775222484d7a207de181e6f8dbb05bf530",
+      "new_sha256": "9b9f3882f5da1ac7a82d94a2e17320a673252c90d2ae44206d3f7df390c80ccd",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_02.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_03.ydr",
+      "old_sha256": "4549aeb855e41412d89b67aa82a7dc5633be7d4a43a128810e8b293470aef9c7",
+      "new_sha256": "3d88e56da1a90f13b5d8c4be157f43ce95d09804a9216a91c606ffa5428c55bd",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_03.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_04.ydr",
+      "old_sha256": "b56304299f8ec157d9bea866eec67d1217d08129d538fcbfb2e46e451e3b2835",
+      "new_sha256": "26b6e9d1a80def96e54f8d504d58fb949b3266c7a3a08a9d4be4df6c475483c3",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_04.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_05.ydr",
+      "old_sha256": "9e090e6d070e508c1f97e818af7df0ef95cf6de9b562ae7282807278cbdceaf0",
+      "new_sha256": "9bf4d95f4381876ccadab354fea1d512b7b45528bd0cdac0bd74113978a8baad",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_05.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_06.ydr",
+      "old_sha256": "9a44274cea183771ad05697b147c4c8cf518923a148af4ff6b88d183b89a0647",
+      "new_sha256": "d176786093c25abc8f22744e801b1c6c2d7e51ad9ad996d00010eba899a209ee",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_06.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_07.ydr",
+      "old_sha256": "c4c5b72ceb3151649280000cfffd5090bed7b150943fc728c8f66b272095d2b9",
+      "new_sha256": "f449a0424116a5ce555d4ee88b1a7c0cb397b8d3876e4943e69f9f501715eb3c",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_07.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_08.ydr",
+      "old_sha256": "75f95d907a2d514d6d18c9c6b581469c80ca39bd86fc3a3fef85bf1d911d1694",
+      "new_sha256": "ac8186cf273406fca98a879beb8d0f2d6dc01e60ba59cbd5e093bc636ea0177d",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_08.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_09.ydr",
+      "old_sha256": "37402ed06bab83b959fac2d6eaa310cabc1ddf74131edcce4b6e9b7f6187ce05",
+      "new_sha256": "d22b22f3ded110da4b03016748139103e3bdbf035721cba0b34dd159c3621aec",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_09.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_10.ydr",
+      "old_sha256": "9c744dac8dbe6dda876d194ed0f57ad0421f09ab2f0990daab7473bf00d44c8c",
+      "new_sha256": "dfbeee48bc6b34816f6535e75b5285326db8df724c801a4e49520c065e20b3b4",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_10.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_11.ydr",
+      "old_sha256": "79de563443476dc366dc8466732d687adf69cb4eb4b0b9fb38b57986b3e59c50",
+      "new_sha256": "532eaa6a0ade807766ecf1bb67018b6446271c947b685bc22ba291722ae5b99c",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_11.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_12.ydr",
+      "old_sha256": "1942db91abd51b292c7ac488d8d78f01efb4dc1d630b9a55b6ab32b7f9140534",
+      "new_sha256": "b9f7c1bf4b45d218044574d98a3125355bc5826d87374d8d927d48504e5cce5a",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_12.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_13.ydr",
+      "old_sha256": "76e8c7b28f85b8ef4b13bc4f09ad0b119d56f741b41d8ea41b2e193b30aa968b",
+      "new_sha256": "d7b7d7f1e8ae7522639450caa73ac999a566a8eac72c8cf65198a4cf171328fd",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_13.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_14.ydr",
+      "old_sha256": "2e5a49747dc5016e4a40e546a170677267422eb300e04071eaab4240ccc2a336",
+      "new_sha256": "5024818d4564b5310185e5412717253c5bed50ee9752aa74522a7bbad35a1d66",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_14.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_15.ydr",
+      "old_sha256": "4488ff7fa4482ea6621429ef88fea7d02c2990b389758c640e735a43c67e03bf",
+      "new_sha256": "a99b35ca0d43fd3ab1e86da130dd911b63b375571a4ce1599472ac99418f1e0d",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_15.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_texturas.ytd",
+      "old_sha256": "c27d9a7ae0bd59ecb76e7326e3a06fa352ce714d99e2738623bc1ef8b04c0590",
+      "new_sha256": "200f5766c4a080413cad6dbdefb39023d3554dd9abbbbe6286126c822e2ee9c2",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_porto_texturas.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_01_coqueiro.ydr",
+      "old_sha256": "e370299132f4158f0d3e4ce1b4d5c50e200aab5b42bdf09e210c489bd2ac43d6",
+      "new_sha256": "dc2db38abc7b28b46e2c586e8def434c3db7d841fa1aa2892b7ca60982a1c98f",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_01_coqueiro.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_01_coqueiro_tx.ytd",
+      "old_sha256": "79c67703ea394d229719cd7cc5b3f75a87186c2fd0d726d9b0692fa9ddaf22b4",
+      "new_sha256": "9a782867926ed8ea829c620c04b2c3d5c7875a98e14c4657c911e2eda532ed45",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_01_coqueiro_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_02_imperial.ydr",
+      "old_sha256": "552974e8c5aaeab108e7042c2b7bf95dcfc37cff93d5f2168120bfca4546ae93",
+      "new_sha256": "2df6aefd284e4f289f367ba76f4429af82dbb488a511478882deab93596c0361",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_02_imperial.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_02_imperial_tx.ytd",
+      "old_sha256": "0036e20569c9978f5eaf9356b1207a8d306fa6d207f24e2547f61f3eb294be21",
+      "new_sha256": "68d0e0c87e0028967f0205c3d8df3ff4064d7276a28682e45fbff625cbb36503",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_02_imperial_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_03_caneleira.ydr",
+      "old_sha256": "819e3a69b740983ac1f427803e8232bfae43ca02e9bac739ce9ceae13d792564",
+      "new_sha256": "ddb7d3aa5aaf8b5fc1d920796d4ffe0fcbf7d1975b545c43bd27daab1af86243",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_03_caneleira.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_03_caneleira_tx.ytd",
+      "old_sha256": "a54ae804f8828980422d6f2af29108a694d2283bb663b2ee5393e76e657b51fb",
+      "new_sha256": "80dd3330c7bdad2ff48a4f739b95d59760e0471b16a704415193c05cfda1ed37",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_03_caneleira_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_04_amendoeira.ydr",
+      "old_sha256": "5afb69fba2ba6e638223942b1b5ff2d69c3fc91814c95c5eb0255fd76ec0db5d",
+      "new_sha256": "9844e57935bfa545a7bcf111c7e4442904384396dd3df7c602fd4742873d746c",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_04_amendoeira.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_04_amendoeira_tx.ytd",
+      "old_sha256": "b61dc0160672fb4238f0c2f362fd2c3b6e446c4e5890d11e24f8c9232ca4f685",
+      "new_sha256": "ce778b71fbca3780468c06decd6692249d7a511fa7e3c0fe57bbd0deca02f41e",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_04_amendoeira_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_05_flamboyant.ydr",
+      "old_sha256": "6190f3d1b95054be9fbf15e643e559758d2b41a3da8917283e80e3e7ddacd0a3",
+      "new_sha256": "614eba2eb70071e935dffd97558524b3b4d410c548df7d7567200ec624197961",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_05_flamboyant.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_05_flamboyant_tx.ytd",
+      "old_sha256": "9af194474d90eb61f23a29a259d1d897662c9686bf5b24701e778344ed03774c",
+      "new_sha256": "627c3cd9efd54d5c6e58bf4448a520a1e7aae401c6e424c948a4dd5c1c240b52",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_05_flamboyant_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_06_arvore_rua.ydr",
+      "old_sha256": "026272835f3453635f8e4464af161f7acbd1691b4b4766ade092c835e92ae976",
+      "new_sha256": "1c41b3d4cac6f02bb103ae7ab0ea485d4c760cc1ea3d1a53f79d0c346f49165e",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_06_arvore_rua.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_06_arvore_rua_tx.ytd",
+      "old_sha256": "57217c41651d1228fe20831786f0b0e856c10faa310d7798c59bad4a068ee5f7",
+      "new_sha256": "6814e7d3bd66926e637ae94742c2533dfaf58d3c84f194e62c93e0b9c7585ce0",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_06_arvore_rua_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_07_reseda.ydr",
+      "old_sha256": "3ad1b7fc03a8d4191f465b4a8968f49aef48cea258abbcf17a3c54ee552ee541",
+      "new_sha256": "fb02157935580a3cc5db89823fbd5ad369a25e49caf54c68ab2d3360c3f7102f",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_07_reseda.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_07_reseda_tx.ytd",
+      "old_sha256": "a955cd80a0b6699ef925bc668dfb5318a1f493842bb4a959a5a63f279953eb94",
+      "new_sha256": "4245efde094005a873d3455ba2f25216d3cdccd03d1c1debb042f6a8517d8bba",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_07_reseda_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_08_ipe_amarelo.ydr",
+      "old_sha256": "0e421bb29f6142b397c1242a9136625bc29decb49124a65ded223f94c24d487e",
+      "new_sha256": "a1825fb21913c8b36af59cc7f794f64f0d545bed3d7cf3b28a7440229b27f966",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_08_ipe_amarelo.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_08_ipe_amarelo_tx.ytd",
+      "old_sha256": "cab14a682051467fb6f93722bc9298f10d3f140cd6f054920ff1da624e90f1a0",
+      "new_sha256": "4ccb18a258317ac0c6af65a7c9408740c9a3a36cb94caac26a1318c25fb3962f",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_08_ipe_amarelo_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_09_oliveira.ydr",
+      "old_sha256": "af2df83e88285ca8838688f1d3e9672864f51e0072bf4ad9b7a7ea778bb30d7b",
+      "new_sha256": "dd3d1a954599287dc4e4f859eadc43582e39d348c6e5620f2f8cb2e0b0dfed93",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_09_oliveira.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_09_oliveira_tx.ytd",
+      "old_sha256": "0a13ea66822247e24cc0f91d7cb05dec0928fd4c20ef3b27c44aa4775c325af2",
+      "new_sha256": "6bedf764c3b7fd645ec6b45ef595efc9012fa44b6a996bf520ada45438100865",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_09_oliveira_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_10_castanhola.ydr",
+      "old_sha256": "d6850f21b5482fffaa619c905281f19d0754a9fb158fc7c26e2caeb488973911",
+      "new_sha256": "49731b7aee0ada4d2dc2313841bb437f0c3376029d98d42537ff9dbd41a4e671",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_10_castanhola.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_10_castanhola_tx.ytd",
+      "old_sha256": "4dbed8cd79721ecd726cac37c2ba162188f25d4d59a13d34b3adcd146af603df",
+      "new_sha256": "ba284e109bba20c0b3048e6ee98cd97ad89f603bde5c8e5d7dba6caa20a47bbd",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_10_castanhola_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_11_mangueira.ydr",
+      "old_sha256": "7d2d4400324d9bb5f95bb0807f853803f53b0adaa75dada7d61a3b370c9ca883",
+      "new_sha256": "20ecc20e437c25efdf8103a3db9c19d04b98a25832667788c02d867f048c418c",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_11_mangueira.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_11_mangueira_tx.ytd",
+      "old_sha256": "7884c7a9a751c087eb683d3401d5843783d8b9744b35286a7045b549c2554e7b",
+      "new_sha256": "b499cb912541315683ab872d4822e512f18612d253c880ff275f770cd86e4b04",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_11_mangueira_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_12_bananeira.ydr",
+      "old_sha256": "c34dcbc3a99a6a76a54a476f28f98785ae7714361ff3b00559ca1164b876ebac",
+      "new_sha256": "2abd3e56c7b33ff97fa2f9358fa02568d1c2b8f306081be71dfb5844cf75b68c",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_12_bananeira.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_12_bananeira_tx.ytd",
+      "old_sha256": "38e6732c3c8ea6a9490293672241a805e814d4b41c6f89beff0f492d48618860",
+      "new_sha256": "4aefe120aa944cc74b3fcaf44284151d226828c4e04a6a0cb7bc5130d11b0ee1",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_12_bananeira_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_13_mangue.ydr",
+      "old_sha256": "7f5c6df847bb4846920642a359efda8acbaae0f9abaf89d0139a12b90b88579f",
+      "new_sha256": "26ebc7906ebe79e130c0a87b51f6b56c35e9b58d8f35958dfa1c4e27016921dc",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_13_mangue.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_13_mangue_tx.ytd",
+      "old_sha256": "08eda61042b7a3b0020f06a17abdbbdedb5c85ec1c58bea7dc0de8f0a60f8bda",
+      "new_sha256": "ba8a41825f629a9e0e4cd1f9c6f7ec745f2fba01d1e226a7d85aa78e7221ae45",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_13_mangue_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_14_arbusto_costeiro.ydr",
+      "old_sha256": "70fd703d7c36853ecc65164dabed760172865c1bc0ddfdef7deded80972e1bf6",
+      "new_sha256": "132b24215eaac0c1721e04aee858237689354953daea6739efeb926d11ae3568",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_14_arbusto_costeiro.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_14_arbusto_costeiro_tx.ytd",
+      "old_sha256": "dab708803a6697a828e1576af22f48942b4cab26d8312c235d120d7e072e865b",
+      "new_sha256": "c1c5fd4fe5bbd8d787bc270f53541e40ade5b37c57e9715baf9f633bb272f726",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_14_arbusto_costeiro_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_15_palmeira_ana.ydr",
+      "old_sha256": "c3f6b0341221e75d73c0f27efca46a4cf7450e2fa03eda3c4b16451262fb9071",
+      "new_sha256": "8203d850d9bd82b576b251f43f974e15cb0b56b98bb382476be15f00b6dbb9c3",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_15_palmeira_ana.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_15_palmeira_ana_tx.ytd",
+      "old_sha256": "f2cbb0e7ff38aaaa0908e6c2889cbf2b74465a3c64e68c16b1ca95930e3991a0",
+      "new_sha256": "48dc73b11a77072c25241d84261974200e3c31106e458fbecc765cecfba6f5eb",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_15_palmeira_ana_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_16_palma_azul.ydr",
+      "old_sha256": "8325ce38104f062996d1b96531bdbe1962e6193b68e84cad73d7223caa745726",
+      "new_sha256": "b549e8d500053032679f63e9fa62174da7aa8bb0ac90cf6be0034ed89fbdf3ad",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_16_palma_azul.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_16_palma_azul_tx.ytd",
+      "old_sha256": "747e73816f4f396cbd76809a1ccfa03943c33b49b63a7e34cf2aade2ffbde4f2",
+      "new_sha256": "b1a85641656ddbdadc64b6381aa39f226e9bd065a38a50d2fca2ce4ddbcb83f1",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_16_palma_azul_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_17_yucca.ydr",
+      "old_sha256": "2d8ee048d5d308b94c58ee5c87c1a4a61c0b95464bc56eefd336e298902a12dd",
+      "new_sha256": "b513a430fdfca81233e7e571b33773c1bc7a83a280337c9c4d8bcbe261e0f149",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_17_yucca.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_17_yucca_tx.ytd",
+      "old_sha256": "c7843ddf670a17f79b886b8683ae876edf5fad827b884e4e18340373e7362304",
+      "new_sha256": "42ccfb3372b3bcdd55a9ec2dcb45d667b9e01f3e5b34cb846828813064c223a8",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_17_yucca_tx.ytd"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_18_cerca_viva.ydr",
+      "old_sha256": "2251b9982327c33b7b818c809f20d6af025986dac1d4fa250567dfeb8795d011",
+      "new_sha256": "1127e444a88d601e5b2e7d4d7eefc45396df2c9bcd6d22e6c010be39253c3a84",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_18_cerca_viva.ydr"
+    },
+    {
+      "target": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_18_cerca_viva_tx.ytd",
+      "old_sha256": "4fe2622205feb41a610d4b192a65df497244c294da617aab8f304fc6b2d312e5",
+      "new_sha256": "70f873f6abbbbe934846a1acae254654b6fddd23a7f534a17f30101c4f9d4557",
+      "backup": "server-data\\resources\\porto_esperanca\\stream\\pe_veg_18_cerca_viva_tx.ytd"
+    }
+  ],
+  "assets_changed": 73,
+  "terrain_sectors": 43,
+  "houses": 10,
+  "gameplay_scripts_unchanged": true,
+  "collision_files_unchanged": true,
+  "client_visual_verified": false
+}

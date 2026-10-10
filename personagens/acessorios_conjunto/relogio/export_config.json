@@ -1,0 +1,7 @@
+{
+ "component":"accs_001_u", "diffuse":"accs_diff_001_a_uni",
+ "texture_prefix":"relogio_dourado", "blend":"../CONJUNTO_COMPLETO.blend",
+ "object":"RELOGIO_DOURADO", "high_ratio":0.12,
+ "specular_intensity":0.9, "specular_falloff":100,
+ "source":"C:/Users/erons/Downloads/Meshy_AI_gold_luxury_watch_3d_1005054634_image-to-3d-texture.glb"
+}

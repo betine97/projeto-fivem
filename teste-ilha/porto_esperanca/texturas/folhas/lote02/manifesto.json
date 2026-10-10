@@ -1,0 +1,183 @@
+{
+  "revisao": "folhas-20261009-lote02-1",
+  "quantidade": 8,
+  "imagens_alteradas": false,
+  "arquivos": [
+    {
+      "id": "folhas_11",
+      "arquivo": "texturas/folhas/lote02/folhas_11.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_14-1.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_14-1.png",
+      "sha256": "af9c70208c0c59beb8849a770bade201fb12547116441f787312e2524636cf5b",
+      "bytes": 2915343,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "11_mangueira",
+      "tronco": "lote01_03",
+      "nota": "Casca reutilizada provisoriamente; não foi recebido tronco exclusivo de mangueira.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    },
+    {
+      "id": "folhas_12",
+      "arquivo": "texturas/folhas/lote02/folhas_12.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_14-2.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_14-2.png",
+      "sha256": "1da20fa17fdaa399485adb03be45d4cebd6d15e5c2703f002e4444cfa2737626",
+      "bytes": 2290827,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "12_bananeira",
+      "tronco": "lote02_04",
+      "nota": "Pseudocaules verdes, imagem própria.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    },
+    {
+      "id": "folhas_13",
+      "arquivo": "texturas/folhas/lote02/folhas_13.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_15-3.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_15-3.png",
+      "sha256": "6bad950c8845b3260abbcc4d3f17e928a704c9f8696befa81cbad96d211f5f49",
+      "bytes": 2507289,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "13_mangue",
+      "tronco": "lote02_07",
+      "nota": "Associação pela sequência e aparência; raízes de suporte preservadas em 3D.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    },
+    {
+      "id": "folhas_14",
+      "arquivo": "texturas/folhas/lote02/folhas_14.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_16-4.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_16-4.png",
+      "sha256": "dc6e4ba99d9681e62a6159854123862a04b19ccc6545ba165a804a07f0639c06",
+      "bytes": 2308744,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "14_arbusto_costeiro",
+      "tronco": "lote02_08",
+      "nota": "Troncos e ramos de arbusto.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    },
+    {
+      "id": "folhas_15",
+      "arquivo": "texturas/folhas/lote02/folhas_15.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_17-5.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_17-5.png",
+      "sha256": "a298588e9f352b7d2d7a20a6e6ab0aa1cca0e3c0562e7bc321b54acd16f119cc",
+      "bytes": 2707480,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "15_palmeira_ana",
+      "tronco": "lote02_06",
+      "nota": "Touceira de palmeira anã.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    },
+    {
+      "id": "folhas_16",
+      "arquivo": "texturas/folhas/lote02/folhas_16.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_18-6.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_18-6.png",
+      "sha256": "9eaf47a539ec9fe622461fd7e08533c670f862c9c80e79e2efe606ecaf90fe0e",
+      "bytes": 2973957,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "16_palma_azul",
+      "tronco": "lote02_03",
+      "nota": "Palmeira de folhas em leque azuladas.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    },
+    {
+      "id": "folhas_17",
+      "arquivo": "texturas/folhas/lote02/folhas_17.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_19-7.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_19-7.png",
+      "sha256": "8f834009064116ebb1e528b1856dab0589ce146718ca11f25a4d719e3fa10b33",
+      "bytes": 2709681,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "17_yucca",
+      "tronco": "lote02_05",
+      "nota": "Caules múltiplos de yucca.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    },
+    {
+      "id": "folhas_18",
+      "arquivo": "texturas/folhas/lote02/folhas_18.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 13_18_20-8.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 13_18_20-8.png",
+      "sha256": "566f12be5307c84c1c046428ee335d29f9c288673940e97b5e05ed485af0afe8",
+      "bytes": 2451427,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ]
+      },
+      "modelo_inicial": "18_cerca_viva",
+      "tronco": "lote02_08",
+      "nota": "Casca de arbusto reutilizada na cerca viva.",
+      "associacao": "inicial_pela_sequencia_e_aparencia; validacao_visual_pendente"
+    }
+  ]
+}

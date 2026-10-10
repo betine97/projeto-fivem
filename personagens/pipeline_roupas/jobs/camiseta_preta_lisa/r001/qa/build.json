@@ -1,0 +1,45 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": false,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": "palette_to_rgb",
+  "shader_changes": [
+    {
+      "from": "ped_palette.sps",
+      "to": "ped.sps"
+    },
+    {
+      "from": "ped_default_palette.sps",
+      "to": "ped_default.sps"
+    }
+  ],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_camiseta_preta_lisa_r001^jbib_000_u.ydd",
+    "mp_m_freemode_01_cidade_camiseta_preta_lisa_r001^jbib_diff_000_a_uni.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "714919a433569c619271bc6b388bdd29ff7d79f9441969b54c351483964be51f",
+  "cache_hit": false,
+  "seconds": 1.469,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_camiseta_preta_lisa_r001^jbib_000_u.ydd": "23952bee0c33b4a8c0814970732cc42427b877615c806775ab0c5e8a8099bb8f",
+    "exports\\mp_m_freemode_01_cidade_camiseta_preta_lisa_r001^jbib_diff_000_a_uni.ytd": "e922f251a256fbd4440c49ef47700e207b0f2c1e2d76c50a47d9d9ab0fe0c4ca"
+  }
+}

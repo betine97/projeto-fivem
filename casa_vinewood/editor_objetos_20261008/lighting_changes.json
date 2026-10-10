@@ -1,0 +1,9 @@
+{
+  "night_before": 2.2,
+  "night_after": 3.8,
+  "ambient_budget_before": 8,
+  "ambient_budget_after": 14,
+  "broad_open_room_anchors": 8,
+  "max_draw_calls_unchanged": 24,
+  "in_game_verified": false
+}

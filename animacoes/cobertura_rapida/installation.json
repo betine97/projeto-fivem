@@ -1,0 +1,63 @@
+{
+  "revision": "cobertura-v1",
+  "installed_on_disk": true,
+  "server_restarted": false,
+  "game_tested": false,
+  "animation_source": "GTA native locomotion and cover",
+  "new_ycd_exported": false,
+  "default_key": "Q",
+  "scripts": [
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\cover.lua",
+      "sha256": "9ae8c72796d60b7c2c29193228c7108431f0be80e99242e4ac600221009dd7d8"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\prone.lua",
+      "sha256": "6fa8368c0146d1d1b8b7fa4677afbaf001e8af01a563870f749eac499c14576a"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\fxmanifest.lua",
+      "sha256": "8da5dc715abc7dcf5668e417022748d0d5ee02a8888f5f589d28c5c2169a9827"
+    }
+  ],
+  "tests": {
+    "revision": "cobertura-v1",
+    "game_tested": false,
+    "mock_only": true,
+    "scenarios_passed": 28,
+    "scenarios": [
+      "armed",
+      "unarmed",
+      "armed",
+      "unarmed",
+      "open_ground",
+      "narrow_pole",
+      "too_short",
+      "no_nav",
+      "nav_wrong_side",
+      "async_timeout",
+      "wall_behind_threat",
+      "attacker_direction",
+      "stuck_route",
+      "native_cover_rejected",
+      "cancel_pending_search",
+      "cidade:preparePilot",
+      "cidade:stopProne",
+      "onResourceStop",
+      "reject_dead",
+      "reject_vehicle",
+      "reject_flight",
+      "reject_drone",
+      "reject_pause",
+      "manual_exit_preserves_task",
+      "character_swap",
+      "authored_prone_to_native_cover",
+      "death_during_route",
+      "30_repeated_scan_cancellations"
+    ],
+    "synthetic_collision": true,
+    "async_shape_tests": true,
+    "native_animations_not_rendered": true,
+    "source_sha256": "9ae8c72796d60b7c2c29193228c7108431f0be80e99242e4ac600221009dd7d8"
+  }
+}

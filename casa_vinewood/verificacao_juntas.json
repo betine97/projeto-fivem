@@ -1,0 +1,970 @@
+{
+  "serialized_geometry_checked": true,
+  "corner_rays": [
+    {
+      "floor": "ground_polygon",
+      "corner": 0,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 0,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 0,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 0,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 1,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 1,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 1,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 1,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 2,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 2,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 2,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 2,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 3,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 3,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 3,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 3,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 4,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 4,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 4,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 4,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 5,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 5,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 5,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 5,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 6,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 6,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 6,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 6,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 7,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 7,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 7,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 7,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 8,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 8,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 8,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 8,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 9,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 9,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 9,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 9,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 10,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 10,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 10,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 10,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 11,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 11,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 11,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 11,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 12,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 12,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 12,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 12,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 13,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 13,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 13,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 13,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 14,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 14,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 14,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 14,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 15,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 15,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 15,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 15,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 16,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 16,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 16,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 16,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 17,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 17,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 17,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 17,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 18,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 18,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 18,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 18,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 19,
+      "z": -0.78,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 19,
+      "z": 0.2,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 19,
+      "z": 1.4,
+      "closed": true
+    },
+    {
+      "floor": "ground_polygon",
+      "corner": 19,
+      "z": 2.52,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 0,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 0,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 0,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 0,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 1,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 1,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 1,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 1,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 2,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 2,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 2,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 2,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 3,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 3,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 3,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 3,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 4,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 4,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 4,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 4,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 5,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 5,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 5,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 5,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 6,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 6,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 6,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 6,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 7,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 7,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 7,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 7,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 8,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 8,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 8,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 8,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 9,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 9,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 9,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 9,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 10,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 10,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 10,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 10,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 11,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 11,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 11,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 11,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 12,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 12,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 12,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 12,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 13,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 13,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 13,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 13,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 14,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 14,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 14,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 14,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 15,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 15,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 15,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 15,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 16,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 16,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 16,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 16,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 17,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 17,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 17,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 17,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 18,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 18,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 18,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 18,
+      "z": 6.48,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 19,
+      "z": 2.83,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 19,
+      "z": 3.7,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 19,
+      "z": 5.6,
+      "closed": true
+    },
+    {
+      "floor": "upper_polygon",
+      "corner": 19,
+      "z": 6.48,
+      "closed": true
+    }
+  ],
+  "corner_rays_tested": 160,
+  "open_corner_rays": 0,
+  "facade_panels": 41,
+  "passed": true,
+  "in_game_verified": false
+}

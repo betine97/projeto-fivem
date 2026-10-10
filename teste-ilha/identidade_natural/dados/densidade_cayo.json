@@ -1,0 +1,2215 @@
+{
+  "area_m2_estimate": 1123444.0,
+  "raster_resolution_m": 2,
+  "origin": [
+    3816.24476171875,
+    -6035.8653671875
+  ],
+  "method": "Unique HD/ORPHANHD entity origins inside above-sea HIGH terrain union; excludes LOD duplicates, logs, potted plants and cocaine fields; instanced grass and combined geometry not counted as individual trees.",
+  "counts": {
+    "rock": 1015,
+    "tree": 6319,
+    "bush": 21859,
+    "subcanopy": 5880,
+    "water_tower": 8
+  },
+  "density_per_m2": {
+    "rock": 0.0009034718241407671,
+    "tree": 0.005624668430291141,
+    "bush": 0.01945713359989461,
+    "subcanopy": 0.005233905739849961,
+    "water_tower": 7.120960190272057e-06
+  },
+  "models": {
+    "csx_coastsmalrock_01_": {
+      "family": "rock",
+      "bb_min": [
+        -0.6043429970741272,
+        -0.9091640114784241,
+        -0.056829001754522324
+      ],
+      "bb_max": [
+        0.604341983795166,
+        0.9091619849205017,
+        0.9250680208206177
+      ],
+      "txd": "csx_coastalrocks",
+      "physics": "csx_coastalrck_bnds",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\cs_xref.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\csx_coastsmalrock_01_.ydr",
+      "embedded_collision": true,
+      "count": 116,
+      "wind_shaders": []
+    },
+    "csx_coastsmalrock_02_": {
+      "family": "rock",
+      "bb_min": [
+        -0.9979860186576843,
+        -0.8964419960975647,
+        -0.09366100281476974
+      ],
+      "bb_max": [
+        1.0394619703292847,
+        1.154114007949829,
+        0.803646981716156
+      ],
+      "txd": "csx_coastalrocks",
+      "physics": "csx_coastalrck_bnds",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\cs_xref.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\csx_coastsmalrock_02_.ydr",
+      "embedded_collision": true,
+      "count": 56,
+      "wind_shaders": []
+    },
+    "csx_coastsmalrock_03_": {
+      "family": "rock",
+      "bb_min": [
+        -1.3647559881210327,
+        -1.0324729681015015,
+        -0.10483299940824509
+      ],
+      "bb_max": [
+        1.3647810220718384,
+        1.0324729681015015,
+        1.568945050239563
+      ],
+      "txd": "csx_coastalrocks",
+      "physics": "csx_coastalrck_bnds",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\cs_xref.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\csx_coastsmalrock_03_.ydr",
+      "embedded_collision": true,
+      "count": 73,
+      "wind_shaders": []
+    },
+    "csx_coastsmalrock_04_": {
+      "family": "rock",
+      "bb_min": [
+        -1.0270329713821411,
+        -1.970149040222168,
+        -0.09167700260877609
+      ],
+      "bb_max": [
+        1.0270390510559082,
+        1.9701550006866455,
+        0.8652099967002869
+      ],
+      "txd": "csx_coastalrocks",
+      "physics": "csx_coastalrck_bnds",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\cs_xref.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\csx_coastsmalrock_04_.ydr",
+      "embedded_collision": true,
+      "count": 47,
+      "wind_shaders": []
+    },
+    "csx_coastsmalrock_05_": {
+      "family": "rock",
+      "bb_min": [
+        -1.487207055091858,
+        -1.1067490577697754,
+        -0.1057090014219284
+      ],
+      "bb_max": [
+        1.4872369766235352,
+        1.106747031211853,
+        1.2884559631347656
+      ],
+      "txd": "csx_coastalrocks",
+      "physics": "csx_coastalrck_bnds",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\cs_xref.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\csx_coastsmalrock_05_.ydr",
+      "embedded_collision": true,
+      "count": 50,
+      "wind_shaders": []
+    },
+    "h4_mph4_dock_maindock_watertower": {
+      "family": "water_tower",
+      "bb_min": [
+        -6.448455810546875,
+        -9.59782886505127,
+        -13.473028182983398
+      ],
+      "bb_max": [
+        11.161198616027832,
+        5.6432719230651855,
+        12.5360746383667
+      ],
+      "txd": "h4_mph4_dock_barracks",
+      "physics": "",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_island_combine_metadata_003_strm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_dock_maindock_watertower.ydr",
+      "embedded_collision": false,
+      "count": 1,
+      "wind_shaders": []
+    },
+    "h4_mph4_wtowers_watert_00": {
+      "family": "water_tower",
+      "bb_min": [
+        -0.5256839990615845,
+        -0.0887639969587326,
+        -3.3366990089416504
+      ],
+      "bb_max": [
+        0.525081992149353,
+        0.08949799835681915,
+        3.336699962615967
+      ],
+      "txd": "h4_mph4_wtowers_structures_03",
+      "physics": "",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_island_combine_metadata_001_strm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_wtowers_watert_00.ydr",
+      "embedded_collision": false,
+      "count": 1,
+      "wind_shaders": []
+    },
+    "h4_mph4_wtowers_watert_01": {
+      "family": "water_tower",
+      "bb_min": [
+        -0.3562150001525879,
+        -0.19023099541664124,
+        -1.6445709466934204
+      ],
+      "bb_max": [
+        0.3565880060195923,
+        0.19000500440597534,
+        2.480576992034912
+      ],
+      "txd": "h4_mph4_wtowers_structures_03",
+      "physics": "",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_island_combine_metadata_001_strm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_wtowers_watert_01.ydr",
+      "embedded_collision": false,
+      "count": 1,
+      "wind_shaders": []
+    },
+    "h4_mph4_wtowers_watert_02": {
+      "family": "water_tower",
+      "bb_min": [
+        -7.374416828155518,
+        -7.046520233154297,
+        -6.700774192810059
+      ],
+      "bb_max": [
+        6.668426990509033,
+        9.655820846557617,
+        6.700776100158691
+      ],
+      "txd": "h4_mph4_wtowers_structures_03",
+      "physics": "",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_island_combine_metadata_001_strm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_wtowers_watert_02.ydr",
+      "embedded_collision": false,
+      "count": 1,
+      "wind_shaders": []
+    },
+    "h4_mph4_wtowers_watert_03": {
+      "family": "water_tower",
+      "bb_min": [
+        -3.9603960514068604,
+        -3.976166009902954,
+        -4.11981201171875
+      ],
+      "bb_max": [
+        3.8992159366607666,
+        3.965667963027954,
+        7.537985801696777
+      ],
+      "txd": "h4_mph4_wtowers_structures_03",
+      "physics": "",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_island_combine_metadata_001_strm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_wtowers_watert_03.ydr",
+      "embedded_collision": false,
+      "count": 1,
+      "wind_shaders": []
+    },
+    "h4_mph4_wtowers_watert_04": {
+      "family": "water_tower",
+      "bb_min": [
+        -4.435013771057129,
+        -8.503047943115234,
+        -6.6318769454956055
+      ],
+      "bb_max": [
+        9.190574645996094,
+        5.324091911315918,
+        6.877571105957031
+      ],
+      "txd": "h4_mph4_wtowers_structures_03",
+      "physics": "",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_island_combine_metadata_001_strm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_mph4_wtowers_watert_04.ydr",
+      "embedded_collision": false,
+      "count": 1,
+      "wind_shaders": []
+    },
+    "h4_prop_bush_buddleia_sml_01": {
+      "family": "bush",
+      "bb_min": [
+        -1.0076199769973755,
+        -0.9556949734687805,
+        -0.052671000361442566
+      ],
+      "bb_max": [
+        0.8632040023803711,
+        0.946308970451355,
+        1.074342966079712
+      ],
+      "txd": "h4_prop_bush_buddleia_sml_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_buddleia_sml_01.ydr",
+      "embedded_collision": true,
+      "count": 28,
+      "wind_shaders": [
+        "trees_normal_spec.sps"
+      ]
+    },
+    "h4_prop_bush_mang_aa": {
+      "family": "bush",
+      "bb_min": [
+        -2.869570016860962,
+        -1.65392005443573,
+        -0.7539200186729431
+      ],
+      "bb_max": [
+        2.346318006515503,
+        1.8783589601516724,
+        1.6758719682693481
+      ],
+      "txd": "h4_prop_bush_mang_aa",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_mang_aa.ydr",
+      "embedded_collision": true,
+      "count": 2264,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_mang_ac": {
+      "family": "bush",
+      "bb_min": [
+        -2.548099994659424,
+        -1.5262089967727661,
+        -0.7571790218353271
+      ],
+      "bb_max": [
+        2.4822499752044678,
+        2.051440954208374,
+        2.3342630863189697
+      ],
+      "txd": "h4_prop_bush_mang_ac",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_mang_ac.ydr",
+      "embedded_collision": true,
+      "count": 1865,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_mang_lg_aa": {
+      "family": "bush",
+      "bb_min": [
+        -2.978343963623047,
+        -1.8762450218200684,
+        -0.5145459771156311
+      ],
+      "bb_max": [
+        2.4449939727783203,
+        2.096601963043213,
+        1.8026330471038818
+      ],
+      "txd": "h4_prop_bush_mang_lg_aa",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_mang_lg_aa.ydr",
+      "embedded_collision": true,
+      "count": 2043,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_mang_lrg_01": {
+      "family": "bush",
+      "bb_min": [
+        -3.0390288829803467,
+        -2.8712120056152344,
+        -0.9937829971313477
+      ],
+      "bb_max": [
+        2.9965009689331055,
+        2.7553560733795166,
+        1.8863470554351807
+      ],
+      "txd": "h4_prop_bush_mang_lrg_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_mang_lrg_01.ydr",
+      "embedded_collision": true,
+      "count": 3363,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_mang_lrg_02": {
+      "family": "bush",
+      "bb_min": [
+        -3.522296905517578,
+        -3.7233340740203857,
+        -1.0450140237808228
+      ],
+      "bb_max": [
+        3.19684100151062,
+        3.147413969039917,
+        5.856277942657471
+      ],
+      "txd": "h4_prop_bush_mang_lrg_02",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_mang_lrg_02.ydr",
+      "embedded_collision": true,
+      "count": 1784,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_monstera_med_01": {
+      "family": "bush",
+      "bb_min": [
+        -0.9133999943733215,
+        -0.8646960258483887,
+        -0.15306100249290466
+      ],
+      "bb_max": [
+        0.745826005935669,
+        0.9681810140609741,
+        1.0101150274276733
+      ],
+      "txd": "h4_prop_bush_monstera_med_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_monstera_med_01.ydr",
+      "embedded_collision": true,
+      "count": 3729,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_olndr_white_lrg": {
+      "family": "bush",
+      "bb_min": [
+        -1.1732980012893677,
+        -1.314466953277588,
+        -0.02672000043094158
+      ],
+      "bb_max": [
+        1.6184560060501099,
+        1.255208969116211,
+        2.850080966949463
+      ],
+      "txd": "h4_prop_bush_olndr_white_lrg",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_olndr_white_lrg.ydr",
+      "embedded_collision": true,
+      "count": 168,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_olndr_white_sml": {
+      "family": "bush",
+      "bb_min": [
+        -0.6172379851341248,
+        -0.4099459946155548,
+        -0.017645999789237976
+      ],
+      "bb_max": [
+        0.5301430225372314,
+        0.7374140024185181,
+        1.2060199975967407
+      ],
+      "txd": "h4_prop_bush_olndr_white_sml",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_olndr_white_sml.ydr",
+      "embedded_collision": true,
+      "count": 303,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_bush_rosemary_lrg_01": {
+      "family": "bush",
+      "bb_min": [
+        -2.501788377761841,
+        -1.7657849788665771,
+        -0.2123820036649704
+      ],
+      "bb_max": [
+        2.2606770992279053,
+        1.610306978225708,
+        1.8462430238723755
+      ],
+      "txd": "h4_prop_bush_rosemary_lrg_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_bush_rosemary_lrg_01.ydr",
+      "embedded_collision": true,
+      "count": 1956,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_palmeto_sap_aa": {
+      "family": "subcanopy",
+      "bb_min": [
+        -1.134628415107727,
+        -1.0672119855880737,
+        -0.026832999661564827
+      ],
+      "bb_max": [
+        1.1393845081329346,
+        1.0374079942703247,
+        1.416282057762146
+      ],
+      "txd": "h4_prop_palmeto_sap_aa",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_palmeto_sap_aa.ydr",
+      "embedded_collision": true,
+      "count": 615,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_palmeto_sap_ab": {
+      "family": "subcanopy",
+      "bb_min": [
+        -1.5550340414047241,
+        -1.300421953201294,
+        -0.030618000775575638
+      ],
+      "bb_max": [
+        1.3397530317306519,
+        1.6991970539093018,
+        1.923050045967102
+      ],
+      "txd": "h4_prop_palmeto_sap_ab",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_palmeto_sap_ab.ydr",
+      "embedded_collision": true,
+      "count": 1188,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_palmeto_sap_ac": {
+      "family": "subcanopy",
+      "bb_min": [
+        -1.493008017539978,
+        -1.1850990056991577,
+        -0.04225099831819534
+      ],
+      "bb_max": [
+        1.1094059944152832,
+        1.485002040863037,
+        2.1870319843292236
+      ],
+      "txd": "h4_prop_palmeto_sap_ac",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_palmeto_sap_ac.ydr",
+      "embedded_collision": true,
+      "count": 1120,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_rock_lrg_01": {
+      "family": "rock",
+      "bb_min": [
+        -2.0141959190368652,
+        -2.612813949584961,
+        -0.9479560256004333
+      ],
+      "bb_max": [
+        2.265894889831543,
+        1.7431440353393555,
+        1.725756049156189
+      ],
+      "txd": "h4_prop_rock_lrg_01",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_01.ydr",
+      "embedded_collision": true,
+      "count": 29,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_02": {
+      "family": "rock",
+      "bb_min": [
+        -2.7570960521698,
+        -2.9139020442962646,
+        -1.558190941810608
+      ],
+      "bb_max": [
+        3.176553964614868,
+        3.365283966064453,
+        2.2649409770965576
+      ],
+      "txd": "h4_prop_rock_lrg_02",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_02.ydr",
+      "embedded_collision": true,
+      "count": 12,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_03": {
+      "family": "rock",
+      "bb_min": [
+        -1.7909059524536133,
+        -2.920408010482788,
+        -1.8950879573822021
+      ],
+      "bb_max": [
+        2.2702999114990234,
+        2.7766289710998535,
+        1.9327540397644043
+      ],
+      "txd": "h4_prop_rock_lrg_03",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_03.ydr",
+      "embedded_collision": true,
+      "count": 34,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_04": {
+      "family": "rock",
+      "bb_min": [
+        -1.3013499975204468,
+        -2.6764369010925293,
+        -0.5905029773712158
+      ],
+      "bb_max": [
+        1.382133960723877,
+        2.6629180908203125,
+        1.0378210544586182
+      ],
+      "txd": "h4_prop_rock_lrg_04",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_04.ydr",
+      "embedded_collision": true,
+      "count": 57,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_05": {
+      "family": "rock",
+      "bb_min": [
+        -2.9995269775390625,
+        -2.4526209831237793,
+        -2.3491098880767822
+      ],
+      "bb_max": [
+        3.050995111465454,
+        2.4082489013671875,
+        2.4163339138031006
+      ],
+      "txd": "h4_prop_rock_lrg_05",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_05.ydr",
+      "embedded_collision": true,
+      "count": 41,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_06": {
+      "family": "rock",
+      "bb_min": [
+        -3.4946670532226562,
+        -3.953284978866577,
+        -1.4668940305709839
+      ],
+      "bb_max": [
+        2.976830005645752,
+        4.1649088859558105,
+        3.2474560737609863
+      ],
+      "txd": "h4_prop_rock_lrg_06",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_06.ydr",
+      "embedded_collision": true,
+      "count": 30,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_07": {
+      "family": "rock",
+      "bb_min": [
+        -3.4267539978027344,
+        -4.2454609870910645,
+        -3.359848976135254
+      ],
+      "bb_max": [
+        3.4279870986938477,
+        4.286911964416504,
+        3.3603219985961914
+      ],
+      "txd": "h4_prop_rock_lrg_07",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_07.ydr",
+      "embedded_collision": true,
+      "count": 13,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_08": {
+      "family": "rock",
+      "bb_min": [
+        -2.8231959342956543,
+        -3.4087910652160645,
+        -2.4383890628814697
+      ],
+      "bb_max": [
+        2.925323963165283,
+        1.940390944480896,
+        2.5769970417022705
+      ],
+      "txd": "h4_prop_rock_lrg_08",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_08.ydr",
+      "embedded_collision": true,
+      "count": 25,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_09": {
+      "family": "rock",
+      "bb_min": [
+        -3.546509027481079,
+        -3.571747064590454,
+        -3.2841970920562744
+      ],
+      "bb_max": [
+        3.672943115234375,
+        3.5761260986328125,
+        1.8464399576187134
+      ],
+      "txd": "h4_prop_rock_lrg_09",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_09.ydr",
+      "embedded_collision": true,
+      "count": 22,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_10": {
+      "family": "rock",
+      "bb_min": [
+        -4.1822509765625,
+        -3.4586100578308105,
+        -1.523036003112793
+      ],
+      "bb_max": [
+        3.957427978515625,
+        2.9905169010162354,
+        3.2624409198760986
+      ],
+      "txd": "h4_prop_rock_lrg_10",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_10.ydr",
+      "embedded_collision": true,
+      "count": 2,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_11": {
+      "family": "rock",
+      "bb_min": [
+        -3.1195991039276123,
+        -2.961517095565796,
+        -1.93812096118927
+      ],
+      "bb_max": [
+        3.155669927597046,
+        2.977324962615967,
+        1.9269280433654785
+      ],
+      "txd": "h4_prop_rock_lrg_11",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_11.ydr",
+      "embedded_collision": true,
+      "count": 21,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_lrg_12": {
+      "family": "rock",
+      "bb_min": [
+        -2.2723639011383057,
+        -3.140937089920044,
+        -1.3031890392303467
+      ],
+      "bb_max": [
+        2.324887990951538,
+        3.1760060787200928,
+        1.3230559825897217
+      ],
+      "txd": "h4_prop_rock_lrg_12",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_lrg_12.ydr",
+      "embedded_collision": true,
+      "count": 30,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_med_01": {
+      "family": "rock",
+      "bb_min": [
+        -0.5103279948234558,
+        -0.5738670229911804,
+        -0.017636999487876892
+      ],
+      "bb_max": [
+        0.5103279948234558,
+        0.4698069989681244,
+        0.34285101294517517
+      ],
+      "txd": "h4_prop_h4_rock_med",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_med_01.ydr",
+      "embedded_collision": true,
+      "count": 42,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_med_02": {
+      "family": "rock",
+      "bb_min": [
+        -0.42245399951934814,
+        -0.42773398756980896,
+        -0.048700001090765
+      ],
+      "bb_max": [
+        0.3887459933757782,
+        0.4564779996871948,
+        0.37916499376296997
+      ],
+      "txd": "h4_prop_h4_rock_med",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_med_02.ydr",
+      "embedded_collision": true,
+      "count": 24,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_med_03": {
+      "family": "rock",
+      "bb_min": [
+        -0.40260401368141174,
+        -0.4079110026359558,
+        -0.049821000546216965
+      ],
+      "bb_max": [
+        0.5121709704399109,
+        0.40960100293159485,
+        0.32647499442100525
+      ],
+      "txd": "h4_prop_h4_rock_med",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_med_03.ydr",
+      "embedded_collision": true,
+      "count": 27,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_scree_med_01": {
+      "family": "rock",
+      "bb_min": [
+        -0.5366870164871216,
+        -0.5620419979095459,
+        -0.03735499829053879
+      ],
+      "bb_max": [
+        0.48396798968315125,
+        0.4816330075263977,
+        0.3333809971809387
+      ],
+      "txd": "h4_prop_h4_rock_med_scree",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_scree_med_01.ydr",
+      "embedded_collision": true,
+      "count": 37,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_scree_med_02": {
+      "family": "rock",
+      "bb_min": [
+        -0.4121690094470978,
+        -0.38582301139831543,
+        -0.03773999959230423
+      ],
+      "bb_max": [
+        0.4573200047016144,
+        0.3960610032081604,
+        0.34304699301719666
+      ],
+      "txd": "h4_prop_h4_rock_med_scree",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_scree_med_02.ydr",
+      "embedded_collision": true,
+      "count": 81,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_scree_med_03": {
+      "family": "rock",
+      "bb_min": [
+        -0.40089499950408936,
+        -0.389508992433548,
+        -0.04794200137257576
+      ],
+      "bb_max": [
+        0.5158799886703491,
+        0.4207580089569092,
+        0.3193280100822449
+      ],
+      "txd": "h4_prop_h4_rock_med_scree",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_scree_med_03.ydr",
+      "embedded_collision": true,
+      "count": 43,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_scree_small_01": {
+      "family": "rock",
+      "bb_min": [
+        -0.3802509903907776,
+        -0.4455460011959076,
+        -0.03767099976539612
+      ],
+      "bb_max": [
+        0.46205300092697144,
+        0.5160049796104431,
+        0.03968000039458275
+      ],
+      "txd": "h4_prop_h4_rock_scree_small",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_scree_small_01.ydr",
+      "embedded_collision": true,
+      "count": 32,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_scree_small_02": {
+      "family": "rock",
+      "bb_min": [
+        -0.3293220102787018,
+        -0.34244799613952637,
+        -0.011865999549627304
+      ],
+      "bb_max": [
+        0.3681569993495941,
+        0.5112190246582031,
+        0.023548999801278114
+      ],
+      "txd": "h4_prop_h4_rock_scree_small",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_scree_small_02.ydr",
+      "embedded_collision": true,
+      "count": 24,
+      "wind_shaders": []
+    },
+    "h4_prop_rock_scree_small_03": {
+      "family": "rock",
+      "bb_min": [
+        -0.5436080098152161,
+        -0.5320249795913696,
+        -0.012165999971330166
+      ],
+      "bb_max": [
+        0.4582679867744446,
+        0.5838189721107483,
+        0.03705200180411339
+      ],
+      "txd": "h4_prop_h4_rock_scree_small",
+      "physics": "prop_h4_rock",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_rock.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_rock_scree_small_03.ydr",
+      "embedded_collision": true,
+      "count": 17,
+      "wind_shaders": []
+    },
+    "h4_prop_tree_banana_med_01": {
+      "family": "tree",
+      "bb_min": [
+        -4.004302978515625,
+        -1.1572270393371582,
+        -0.01680999994277954
+      ],
+      "bb_max": [
+        3.282135009765625,
+        3.5262370109558105,
+        7.3435258865356445
+      ],
+      "txd": "h4_prop_tree_banana_med_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_banana_med_01.ydr",
+      "embedded_collision": true,
+      "count": 160,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_beech_lrg_if_01": {
+      "family": "tree",
+      "bb_min": [
+        -7.776023864746094,
+        -7.7204461097717285,
+        -0.2622480094432831
+      ],
+      "bb_max": [
+        8.030702590942383,
+        6.6822710037231445,
+        21.90334701538086
+      ],
+      "txd": "h4_prop_tree_beech_lrg_if_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_beech_lrg_if_01.ydr",
+      "embedded_collision": true,
+      "count": 204,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_blk_mgrv_lrg_01": {
+      "family": "tree",
+      "bb_min": [
+        -6.511765003204346,
+        -8.921794891357422,
+        -0.20394599437713623
+      ],
+      "bb_max": [
+        7.27267599105835,
+        5.5587382316589355,
+        13.531399726867676
+      ],
+      "txd": "h4_blk_mgrv_lrg_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_blk_mgrv_lrg_01.ydr",
+      "embedded_collision": true,
+      "count": 173,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_blk_mgrv_lrg_02": {
+      "family": "tree",
+      "bb_min": [
+        -4.64736795425415,
+        -5.924194812774658,
+        -0.23370899260044098
+      ],
+      "bb_max": [
+        5.553059101104736,
+        5.043346881866455,
+        12.377864837646484
+      ],
+      "txd": "h4_blk_mgrv_lrg_02",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_blk_mgrv_lrg_02.ydr",
+      "embedded_collision": true,
+      "count": 327,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_blk_mgrv_med_01": {
+      "family": "tree",
+      "bb_min": [
+        -3.8914198875427246,
+        -4.412302017211914,
+        -0.08541200309991837
+      ],
+      "bb_max": [
+        3.0039780139923096,
+        3.474843978881836,
+        6.544229984283447
+      ],
+      "txd": "h4_blk_mgrv_med_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_blk_mgrv_med_01.ydr",
+      "embedded_collision": true,
+      "count": 573,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_frangipani_lrg_01": {
+      "family": "tree",
+      "bb_min": [
+        -2.0603220462799072,
+        -2.826206922531128,
+        -0.11797899752855301
+      ],
+      "bb_max": [
+        3.864516019821167,
+        2.814203977584839,
+        3.7796030044555664
+      ],
+      "txd": "h4_prop_tree_frangipani_lrg_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_frangipani_lrg_01.ydr",
+      "embedded_collision": true,
+      "count": 465,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_frangipani_med_01": {
+      "family": "tree",
+      "bb_min": [
+        -1.0174779891967773,
+        -0.9800689816474915,
+        -0.04159599915146828
+      ],
+      "bb_max": [
+        0.9422339797019958,
+        0.9040729999542236,
+        1.5032470226287842
+      ],
+      "txd": "h4_prop_tree_frangipani_med_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_frangipani_med_01.ydr",
+      "embedded_collision": true,
+      "count": 523,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_palm_areca_sap_02": {
+      "family": "subcanopy",
+      "bb_min": [
+        -0.8016319870948792,
+        -1.2401829957962036,
+        -0.017681999132037163
+      ],
+      "bb_max": [
+        1.049767017364502,
+        0.7437210083007812,
+        1.5293430089950562
+      ],
+      "txd": "h4_palm_areca_sap_02",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_palm_areca_sap_02.ydr",
+      "embedded_collision": true,
+      "count": 920,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_palm_areca_sap_03": {
+      "family": "subcanopy",
+      "bb_min": [
+        -1.3458240032196045,
+        -1.5453640222549438,
+        -0.050273001194000244
+      ],
+      "bb_max": [
+        1.4880850315093994,
+        1.4428670406341553,
+        2.127485990524292
+      ],
+      "txd": "h4_palm_areca_sap_03",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_palm_areca_sap_03.ydr",
+      "embedded_collision": true,
+      "count": 1678,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_palm_fan_bea_03b": {
+      "family": "tree",
+      "bb_min": [
+        -6.908054828643799,
+        -3.067260980606079,
+        -0.04591900110244751
+      ],
+      "bb_max": [
+        0.7196739912033081,
+        3.207695960998535,
+        13.352211952209473
+      ],
+      "txd": "h4_prop_tree_palm_fan_bea_03b",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_palm_fan_bea_03b.ydr",
+      "embedded_collision": true,
+      "count": 46,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_palm_thatch_01": {
+      "family": "tree",
+      "bb_min": [
+        -2.571362018585205,
+        -2.6282858848571777,
+        -0.11454799771308899
+      ],
+      "bb_max": [
+        2.823930025100708,
+        2.9150099754333496,
+        5.551600933074951
+      ],
+      "txd": "h4_prop_tree_palm_thatch_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_palm_thatch_01.ydr",
+      "embedded_collision": true,
+      "count": 348,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_palm_trvlr_03": {
+      "family": "tree",
+      "bb_min": [
+        -2.244692087173462,
+        -0.45538005232810974,
+        -0.3087190091609955
+      ],
+      "bb_max": [
+        2.124901056289673,
+        2.5162370204925537,
+        5.918435096740723
+      ],
+      "txd": "h4_prop_tree_palm_trvlr_03",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_palm_trvlr_03.ydr",
+      "embedded_collision": true,
+      "count": 9,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_umbrella_med_01": {
+      "family": "tree",
+      "bb_min": [
+        -4.81322717666626,
+        -5.597288131713867,
+        -0.29006901383399963
+      ],
+      "bb_max": [
+        3.385019063949585,
+        4.235511779785156,
+        10.192585945129395
+      ],
+      "txd": "h4_prop_tree_umbrella_med_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_umbrella_med_01.ydr",
+      "embedded_collision": true,
+      "count": 450,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "h4_prop_tree_umbrella_sml_01": {
+      "family": "tree",
+      "bb_min": [
+        -1.6356329917907715,
+        -1.5610090494155884,
+        -0.3564069867134094
+      ],
+      "bb_max": [
+        1.8197050094604492,
+        1.5758659839630127,
+        4.291819095611572
+      ],
+      "txd": "h4_prop_tree_umbrella_sml_01",
+      "physics": "prop_h4_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_h4_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\originais\\assets\\h4_prop_tree_umbrella_sml_01.ydr",
+      "embedded_collision": true,
+      "count": 358,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_air_watertank1": {
+      "family": "water_tower",
+      "bb_min": [
+        -1.1810849905014038,
+        -1.4415479898452759,
+        0.041030000895261765
+      ],
+      "bb_max": [
+        1.0583640336990356,
+        1.3343299627304077,
+        6.537877082824707
+      ],
+      "txd": "prop_oldairfield",
+      "physics": "v_airport_salton",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_airport.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_air_watertank1.ydr",
+      "embedded_collision": true,
+      "count": 2,
+      "wind_shaders": []
+    },
+    "prop_bush_lrg_01b": {
+      "family": "bush",
+      "bb_min": [
+        -2.886725902557373,
+        -2.6887900829315186,
+        -0.8305659890174866
+      ],
+      "bb_max": [
+        2.8148040771484375,
+        2.020328998565674,
+        2.398792028427124
+      ],
+      "txd": "plant_group_4",
+      "physics": "prop_bush_lrg_01b",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_lrg_01b.ydr",
+      "embedded_collision": true,
+      "count": 72,
+      "wind_shaders": [
+        "trees.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_bush_lrg_01d": {
+      "family": "bush",
+      "bb_min": [
+        -2.896519899368286,
+        -2.9349141120910645,
+        -1.2716150283813477
+      ],
+      "bb_max": [
+        2.786500930786133,
+        2.497576951980591,
+        1.6573480367660522
+      ],
+      "txd": "plant_group_4",
+      "physics": "prop_bush_lrg_01d",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_lrg_01d.ydr",
+      "embedded_collision": true,
+      "count": 51,
+      "wind_shaders": [
+        "trees_normal_spec_tnt.sps",
+        "trees_normal_spec_tnt.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_bush_lrg_03": {
+      "family": "bush",
+      "bb_min": [
+        -3.1079599857330322,
+        -2.5023579597473145,
+        -1.1401809453964233
+      ],
+      "bb_max": [
+        2.6298980712890625,
+        2.2261741161346436,
+        2.43192195892334
+      ],
+      "txd": "lrg_bush_1",
+      "physics": "prop_bush_lrg_03",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_lrg_03.ydr",
+      "embedded_collision": true,
+      "count": 5,
+      "wind_shaders": [
+        "trees_normal_diffspec_tnt.sps",
+        "trees_normal_diffspec_tnt.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_bush_med_01": {
+      "family": "bush",
+      "bb_min": [
+        -1.0859400033950806,
+        -1.0837379693984985,
+        -0.12862800061702728
+      ],
+      "bb_max": [
+        1.1041799783706665,
+        1.1931090354919434,
+        1.2156009674072266
+      ],
+      "txd": "prop_skunk_bush_01",
+      "physics": "prop_skunk_bush_01",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_med_01.ydr",
+      "embedded_collision": true,
+      "count": 149,
+      "wind_shaders": [
+        "trees_normal_spec_tnt.sps",
+        "trees_lod_tnt.sps"
+      ]
+    },
+    "prop_bush_med_02": {
+      "family": "bush",
+      "bb_min": [
+        -0.8000239729881287,
+        -0.7295359969139099,
+        -0.08127599954605103
+      ],
+      "bb_max": [
+        0.8049899935722351,
+        0.7768589854240417,
+        0.9603670239448547
+      ],
+      "txd": "prop_skunk_bush_01",
+      "physics": "prop_skunk_bush_01",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_med_02.ydr",
+      "embedded_collision": true,
+      "count": 21,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees.sps"
+      ]
+    },
+    "prop_bush_med_03": {
+      "family": "bush",
+      "bb_min": [
+        -1.4104379415512085,
+        -1.3383729457855225,
+        -0.5955470204353333
+      ],
+      "bb_max": [
+        1.6736329793930054,
+        1.311081051826477,
+        1.860605001449585
+      ],
+      "txd": "prop_bush_med_03",
+      "physics": "v_bush",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_med_03.ydr",
+      "embedded_collision": true,
+      "count": 15,
+      "wind_shaders": [
+        "trees_normal_spec_tnt.sps",
+        "trees_lod.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_bush_med_05": {
+      "family": "bush",
+      "bb_min": [
+        -1.3123170137405396,
+        -1.1656490564346313,
+        -0.21771599352359772
+      ],
+      "bb_max": [
+        1.4545899629592896,
+        1.2639919519424438,
+        1.1520849466323853
+      ],
+      "txd": "prop_bush_med_05",
+      "physics": "v_bush",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_med_05.ydr",
+      "embedded_collision": true,
+      "count": 21,
+      "wind_shaders": [
+        "trees_normal_spec_tnt.sps",
+        "trees_tnt.sps"
+      ]
+    },
+    "prop_bush_med_06": {
+      "family": "bush",
+      "bb_min": [
+        -1.4903850555419922,
+        -1.3179199695587158,
+        -0.5214599967002869
+      ],
+      "bb_max": [
+        1.5764060020446777,
+        1.3637219667434692,
+        1.4779969453811646
+      ],
+      "txd": "prop_bush_med_06",
+      "physics": "v_bush",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_med_06.ydr",
+      "embedded_collision": true,
+      "count": 30,
+      "wind_shaders": [
+        "trees_tnt.sps",
+        "trees_tnt.sps"
+      ]
+    },
+    "prop_bush_med_07": {
+      "family": "bush",
+      "bb_min": [
+        -1.4096800088882446,
+        -1.2746909856796265,
+        -0.4026179909706116
+      ],
+      "bb_max": [
+        1.4697250127792358,
+        1.3158609867095947,
+        1.6022130250930786
+      ],
+      "txd": "prop_bush_med_05",
+      "physics": "v_bush",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_bush_med_07.ydr",
+      "embedded_collision": true,
+      "count": 25,
+      "wind_shaders": [
+        "trees_tnt.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_grass_dry_02": {
+      "family": "bush",
+      "bb_min": [
+        -0.6079360246658325,
+        -0.772301971912384,
+        -0.06821300089359283
+      ],
+      "bb_max": [
+        0.736640989780426,
+        0.8775439858436584,
+        1.392825961112976
+      ],
+      "txd": "prop_plant_05",
+      "physics": "v_ext_veg",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_grass_dry_02.ydr",
+      "embedded_collision": true,
+      "count": 262,
+      "wind_shaders": [
+        "trees_normal.sps"
+      ]
+    },
+    "prop_palm_med_01a": {
+      "family": "tree",
+      "bb_min": [
+        -6.826903820037842,
+        -6.388758182525635,
+        -0.012347999960184097
+      ],
+      "bb_max": [
+        6.724388122558594,
+        7.132422924041748,
+        27.704362869262695
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_med_01a",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_med_01a.ydr",
+      "embedded_collision": true,
+      "count": 430,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_palm_med_01b": {
+      "family": "tree",
+      "bb_min": [
+        -5.3079609870910645,
+        -4.970699787139893,
+        0.00636200001463294
+      ],
+      "bb_max": [
+        5.637836933135986,
+        5.493381977081299,
+        28.04584503173828
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_med_01b",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_med_01b.ydr",
+      "embedded_collision": true,
+      "count": 485,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_palm_med_01c": {
+      "family": "tree",
+      "bb_min": [
+        -5.656869888305664,
+        -5.805127143859863,
+        0.04900600016117096
+      ],
+      "bb_max": [
+        5.050405979156494,
+        4.8892130851745605,
+        33.191123962402344
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_med_01c",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_med_01c.ydr",
+      "embedded_collision": true,
+      "count": 30,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_palm_med_01d": {
+      "family": "tree",
+      "bb_min": [
+        -5.209536075592041,
+        -4.309968948364258,
+        -0.012347999960184097
+      ],
+      "bb_max": [
+        4.8594970703125,
+        5.315942764282227,
+        38.92220687866211
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_med_01d",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_med_01d.ydr",
+      "embedded_collision": true,
+      "count": 2,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_palm_sm_01a": {
+      "family": "tree",
+      "bb_min": [
+        -2.7458460330963135,
+        -3.2076969146728516,
+        0.0038530000019818544
+      ],
+      "bb_max": [
+        3.468435049057007,
+        2.9528961181640625,
+        7.713849067687988
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_sm_01a",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_sm_01a.ydr",
+      "embedded_collision": true,
+      "count": 45,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_palm_sm_01d": {
+      "family": "tree",
+      "bb_min": [
+        -3.076176881790161,
+        -4.1114349365234375,
+        0.0177449993789196
+      ],
+      "bb_max": [
+        4.6378560066223145,
+        3.5932741165161133,
+        13.301992416381836
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_sm_01e",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_sm_01d.ydr",
+      "embedded_collision": true,
+      "count": 620,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_palm_sm_01e": {
+      "family": "tree",
+      "bb_min": [
+        -4.905590057373047,
+        -4.8701348304748535,
+        -0.05551600083708763
+      ],
+      "bb_max": [
+        5.163443088531494,
+        4.7557759284973145,
+        19.523147583007812
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_sm_01e",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_sm_01e.ydr",
+      "embedded_collision": true,
+      "count": 12,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_palm_sm_01f": {
+      "family": "tree",
+      "bb_min": [
+        -4.191412925720215,
+        -5.404522895812988,
+        -0.060384999960660934
+      ],
+      "bb_max": [
+        4.268555164337158,
+        3.8700759410858154,
+        15.86512565612793
+      ],
+      "txd": "prop_veg_palm",
+      "physics": "prop_palm_sm_01f",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_palm.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_palm_sm_01f.ydr",
+      "embedded_collision": true,
+      "count": 112,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_plant_01b": {
+      "family": "bush",
+      "bb_min": [
+        -0.3972479999065399,
+        -0.40610599517822266,
+        -0.05840799957513809
+      ],
+      "bb_max": [
+        0.4757710099220276,
+        0.46698999404907227,
+        0.5988579988479614
+      ],
+      "txd": "prop_plant_07",
+      "physics": "v_ext_veg",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_01b.ydr",
+      "embedded_collision": true,
+      "count": 11,
+      "wind_shaders": [
+        "trees_normal.sps"
+      ]
+    },
+    "prop_plant_cane_02a": {
+      "family": "bush",
+      "bb_min": [
+        -3.365422010421753,
+        -0.9857230186462402,
+        -1.1533139944076538
+      ],
+      "bb_max": [
+        1.687661051750183,
+        2.845005989074707,
+        1.1723029613494873
+      ],
+      "txd": "prop_plant_02",
+      "physics": "v_ext_veg",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_cane_02a.ydr",
+      "embedded_collision": true,
+      "count": 24,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_plant_cane_02b": {
+      "family": "bush",
+      "bb_min": [
+        -1.5541930198669434,
+        -1.9074259996414185,
+        -0.0060189999639987946
+      ],
+      "bb_max": [
+        1.8183870315551758,
+        1.2606780529022217,
+        2.478208065032959
+      ],
+      "txd": "prop_plant_02",
+      "physics": "v_ext_veg",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_cane_02b.ydr",
+      "embedded_collision": true,
+      "count": 926,
+      "wind_shaders": [
+        "trees_normal_spec.sps"
+      ]
+    },
+    "prop_plant_fern_01b": {
+      "family": "bush",
+      "bb_min": [
+        -0.3972479999065399,
+        -0.40610599517822266,
+        -0.05840799957513809
+      ],
+      "bb_max": [
+        0.4757710099220276,
+        0.46698999404907227,
+        0.5988579988479614
+      ],
+      "txd": "prop_plant_07",
+      "physics": "v_ext_veg",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_fern_01b.ydr",
+      "embedded_collision": true,
+      "count": 10,
+      "wind_shaders": [
+        "trees_normal.sps"
+      ]
+    },
+    "prop_plant_fern_02a": {
+      "family": "bush",
+      "bb_min": [
+        -0.703935980796814,
+        -0.7255079746246338,
+        -0.007096999790519476
+      ],
+      "bb_max": [
+        0.786296010017395,
+        0.7691879868507385,
+        1.7253810167312622
+      ],
+      "txd": "prop_plant_01",
+      "physics": "v_ext_veg",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_fern_02a.ydr",
+      "embedded_collision": true,
+      "count": 133,
+      "wind_shaders": [
+        "trees_normal_spec.sps"
+      ]
+    },
+    "prop_plant_fern_02b": {
+      "family": "bush",
+      "bb_min": [
+        -1.5164459943771362,
+        -1.6661429405212402,
+        -0.16603699326515198
+      ],
+      "bb_max": [
+        1.5917799472808838,
+        1.3149880170822144,
+        1.5292179584503174
+      ],
+      "txd": "prop_plant_01",
+      "physics": "v_ext_veg",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_fern_02b.ydr",
+      "embedded_collision": true,
+      "count": 722,
+      "wind_shaders": [
+        "trees_normal_spec.sps"
+      ]
+    },
+    "prop_plant_fern_02c": {
+      "family": "bush",
+      "bb_min": [
+        -2.883539915084839,
+        -2.012265920639038,
+        -0.21146099269390106
+      ],
+      "bb_max": [
+        1.907932996749878,
+        2.81899094581604,
+        0.7443990111351013
+      ],
+      "txd": "prop_plant_01",
+      "physics": "",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_ext_veg.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_fern_02c.ydr",
+      "embedded_collision": false,
+      "count": 858,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps"
+      ]
+    },
+    "prop_plant_group_05": {
+      "family": "bush",
+      "bb_min": [
+        -4.913492202758789,
+        -1.3922990560531616,
+        -1.2590919733047485
+      ],
+      "bb_max": [
+        4.342598915100098,
+        1.6973949670791626,
+        1.434682011604309
+      ],
+      "txd": "plant_group_2",
+      "physics": "prop_plant_group_05c",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_group_05.ydr",
+      "embedded_collision": true,
+      "count": 64,
+      "wind_shaders": [
+        "trees_normal.sps",
+        "trees_normal_spec.sps",
+        "trees_lod.sps",
+        "trees_normal.sps",
+        "trees_normal_spec.sps"
+      ]
+    },
+    "prop_plant_group_05c": {
+      "family": "bush",
+      "bb_min": [
+        -4.185740947723389,
+        -1.9733740091323853,
+        -1.606152057647705
+      ],
+      "bb_max": [
+        4.4588470458984375,
+        2.039813995361328,
+        1.6479419469833374
+      ],
+      "txd": "plant_group_2",
+      "physics": "prop_plant_group_05c",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_group_05c.ydr",
+      "embedded_collision": true,
+      "count": 9,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_lod.sps"
+      ]
+    },
+    "prop_plant_group_05d": {
+      "family": "bush",
+      "bb_min": [
+        -4.127719879150391,
+        -1.1901580095291138,
+        -1.2769900560379028
+      ],
+      "bb_max": [
+        4.420834064483643,
+        1.6649969816207886,
+        1.3217400312423706
+      ],
+      "txd": "plant_group_2",
+      "physics": "prop_plant_group_05c",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_group_05d.ydr",
+      "embedded_collision": true,
+      "count": 6,
+      "wind_shaders": [
+        "trees_normal.sps",
+        "trees_normal_spec.sps",
+        "trees_lod.sps"
+      ]
+    },
+    "prop_plant_group_05e": {
+      "family": "bush",
+      "bb_min": [
+        -4.064968109130859,
+        -2.3272130489349365,
+        -1.7646470069885254
+      ],
+      "bb_max": [
+        4.190659999847412,
+        2.3272109031677246,
+        1.7646470069885254
+      ],
+      "txd": "plant_group_2",
+      "physics": "prop_plant_group_05c",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_group_05e.ydr",
+      "embedded_collision": true,
+      "count": 4,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal.sps",
+        "trees_normal.sps",
+        "trees_lod.sps",
+        "trees_normal_spec.sps"
+      ]
+    },
+    "prop_plant_group_06a": {
+      "family": "bush",
+      "bb_min": [
+        -5.441708087921143,
+        -5.525777816772461,
+        -0.7063429951667786
+      ],
+      "bb_max": [
+        5.295817852020264,
+        5.697630882263184,
+        1.2536360025405884
+      ],
+      "txd": "plant_group_3",
+      "physics": "v_bush",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_group_06a.ydr",
+      "embedded_collision": true,
+      "count": 7,
+      "wind_shaders": [
+        "trees_normal_spec.sps"
+      ]
+    },
+    "prop_plant_group_06b": {
+      "family": "bush",
+      "bb_min": [
+        -6.105292797088623,
+        -6.113119125366211,
+        -0.9753270149230957
+      ],
+      "bb_max": [
+        7.122608184814453,
+        7.647449970245361,
+        1.5164990425109863
+      ],
+      "txd": "plant_group_3",
+      "physics": "v_bush",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_bush.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_plant_group_06b.ydr",
+      "embedded_collision": true,
+      "count": 420,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_lod.sps",
+        "trees_lod.sps"
+      ]
+    },
+    "prop_rock_1_a": {
+      "family": "rock",
+      "bb_min": [
+        -2.120497941970825,
+        -2.0782859325408936,
+        0.0
+      ],
+      "bb_max": [
+        2.120497941970825,
+        2.0782859325408936,
+        3.122368097305298
+      ],
+      "txd": "prop_rock_1",
+      "physics": "prop_rock_1",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_rocks.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_rock_1_a.ydr",
+      "embedded_collision": true,
+      "count": 1,
+      "wind_shaders": []
+    },
+    "prop_rock_1_g": {
+      "family": "rock",
+      "bb_min": [
+        -0.6557000279426575,
+        -0.9232879877090454,
+        -4.999999873689376e-06
+      ],
+      "bb_max": [
+        0.6557009816169739,
+        0.9232890009880066,
+        0.40884101390838623
+      ],
+      "txd": "prop_rock_1",
+      "physics": "prop_rock_1",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_rocks.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_rock_1_g.ydr",
+      "embedded_collision": true,
+      "count": 12,
+      "wind_shaders": []
+    },
+    "prop_rock_1_h": {
+      "family": "rock",
+      "bb_min": [
+        -0.8813620209693909,
+        -0.8247889876365662,
+        -0.0003910000086762011
+      ],
+      "bb_max": [
+        0.8813620209693909,
+        0.8247889876365662,
+        0.6684889793395996
+      ],
+      "txd": "prop_rock_1",
+      "physics": "prop_rock_1",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_rocks.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_rock_1_h.ydr",
+      "embedded_collision": true,
+      "count": 17,
+      "wind_shaders": []
+    },
+    "prop_tree_birch_01": {
+      "family": "tree",
+      "bb_min": [
+        -5.480209827423096,
+        -5.0892767906188965,
+        -0.07312700152397156
+      ],
+      "bb_max": [
+        4.627673149108887,
+        5.183849811553955,
+        15.987119674682617
+      ],
+      "txd": "z_prop_tree_birch_01",
+      "physics": "v_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_tree_birch_01.ydr",
+      "embedded_collision": true,
+      "count": 75,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_normal_spec.sps",
+        "trees_normal_diffspec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    },
+    "prop_tree_cedar_s_04": {
+      "family": "tree",
+      "bb_min": [
+        -2.113929033279419,
+        -2.0332300662994385,
+        -1.1537870168685913
+      ],
+      "bb_max": [
+        1.9444960355758667,
+        2.212538003921509,
+        16.682918548583984
+      ],
+      "txd": "z_prop_tree_cypress1",
+      "physics": "v_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_tree_cedar_s_04.ydr",
+      "embedded_collision": true,
+      "count": 30,
+      "wind_shaders": [
+        "trees_normal_diffspec_tnt.sps"
+      ]
+    },
+    "prop_tree_cedar_s_05": {
+      "family": "tree",
+      "bb_min": [
+        -1.1670429706573486,
+        -1.1172490119934082,
+        -0.6970829963684082
+      ],
+      "bb_max": [
+        1.2820600271224976,
+        1.2180750370025635,
+        10.079324722290039
+      ],
+      "txd": "z_prop_tree_cypress1",
+      "physics": "v_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_tree_cedar_s_05.ydr",
+      "embedded_collision": true,
+      "count": 10,
+      "wind_shaders": [
+        "trees_normal_diffspec_tnt.sps"
+      ]
+    },
+    "prop_tree_eucalip_01": {
+      "family": "tree",
+      "bb_min": [
+        -12.942068099975586,
+        -13.935312271118164,
+        -0.11418399959802628
+      ],
+      "bb_max": [
+        12.950822830200195,
+        14.576461791992188,
+        32.35191345214844
+      ],
+      "txd": "z_eucalip_1",
+      "physics": "v_trees",
+      "type_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\v_trees.ytyp",
+      "drawable_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_natural\\fontes\\prop_tree_eucalip_01.ydr",
+      "embedded_collision": true,
+      "count": 168,
+      "wind_shaders": [
+        "trees_normal_spec.sps",
+        "trees_shadow_proxy.sps"
+      ]
+    }
+  }
+}

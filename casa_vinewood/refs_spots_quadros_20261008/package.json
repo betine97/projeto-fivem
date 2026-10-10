@@ -1,0 +1,190 @@
+{
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "installed_files": [
+    "mansao_spot_embutido.ydr",
+    "mansao_quadros_refs.ytd",
+    "mansao_referencias.ytyp",
+    "mansao_referencias.ymap",
+    "mansao_pisos.ydr",
+    "mansao_teto.ydr",
+    "mansao_spots_led.ydr",
+    "mansao_decoracao.ytyp",
+    "mansao_quadro_ref_2.ydr",
+    "mansao_quadro_ref_3.ydr",
+    "mansao_quadro_ref_4.ydr",
+    "mansao_quadro_ref_5.ydr"
+  ],
+  "spot_lod_triangles": {
+    "HIGH": 2400,
+    "MEDIUM": 1200,
+    "LOW": 600,
+    "VERYLOW": 400
+  },
+  "artworks": [
+    {
+      "print": 2,
+      "name": "Quadro geometrico escritorio",
+      "model": "mansao_quadro_ref_2",
+      "position": [
+        -4.65,
+        2.461,
+        0.95
+      ],
+      "heading": 3.141592653589793,
+      "width_m": 0.9864262036306235,
+      "height_m": 1.506,
+      "canvas_width_m": 0.9304262036306234,
+      "canvas_height_m": 1.45,
+      "depth_m": 0.045,
+      "reference_crop": [
+        136,
+        94,
+        949,
+        1361
+      ],
+      "source_canvas_size": [
+        813,
+        1267
+      ],
+      "frame": "bronze",
+      "native_bounds": {
+        "lo": [
+          -0.49321308732032776,
+          -0.04600000008940697,
+          -0.753000020980835
+        ],
+        "hi": [
+          0.49321308732032776,
+          0.0,
+          0.753000020980835
+        ]
+      }
+    },
+    {
+      "print": 3,
+      "name": "Quadro composicao sala jogos",
+      "model": "mansao_quadro_ref_3",
+      "position": [
+        5.82,
+        5.6,
+        0.95
+      ],
+      "heading": 1.5707963267948966,
+      "width_m": 1.0393187006145743,
+      "height_m": 1.336,
+      "canvas_width_m": 0.9833187006145743,
+      "canvas_height_m": 1.28,
+      "depth_m": 0.045,
+      "reference_crop": [
+        191,
+        56,
+        1066,
+        1195
+      ],
+      "source_canvas_size": [
+        875,
+        1139
+      ],
+      "frame": "bronze",
+      "native_bounds": {
+        "lo": [
+          -0.5196593403816223,
+          -0.04600000008940697,
+          -0.6679999828338623
+        ],
+        "hi": [
+          0.5196593403816223,
+          0.0,
+          0.6679999828338623
+        ]
+      }
+    },
+    {
+      "print": 4,
+      "name": "Quadro abstrato hall esquerdo",
+      "model": "mansao_quadro_ref_4",
+      "position": [
+        9.4,
+        2.239,
+        0.95
+      ],
+      "heading": 0,
+      "width_m": 1.0497650844730493,
+      "height_m": 1.4060000000000001,
+      "canvas_width_m": 0.9937650844730492,
+      "canvas_height_m": 1.35,
+      "depth_m": 0.045,
+      "reference_crop": [
+        85,
+        102,
+        1000,
+        1345
+      ],
+      "source_canvas_size": [
+        915,
+        1243
+      ],
+      "frame": "black",
+      "native_bounds": {
+        "lo": [
+          -0.5248825550079346,
+          -0.04500000178813934,
+          -0.703000009059906
+        ],
+        "hi": [
+          0.5248825550079346,
+          0.0,
+          0.703000009059906
+        ]
+      }
+    },
+    {
+      "print": 5,
+      "name": "Quadro abstrato hall direito",
+      "model": "mansao_quadro_ref_5",
+      "position": [
+        10.6,
+        2.239,
+        0.95
+      ],
+      "heading": 0,
+      "width_m": 1.0080935960591133,
+      "height_m": 1.4060000000000001,
+      "canvas_width_m": 0.9520935960591134,
+      "canvas_height_m": 1.35,
+      "depth_m": 0.045,
+      "reference_crop": [
+        114,
+        122,
+        973,
+        1340
+      ],
+      "source_canvas_size": [
+        859,
+        1218
+      ],
+      "frame": "black",
+      "native_bounds": {
+        "lo": [
+          -0.5040467977523804,
+          -0.04500000178813934,
+          -0.703000009059906
+        ],
+        "hi": [
+          0.5040467977523804,
+          0.0,
+          0.703000009059906
+        ]
+      }
+    }
+  ],
+  "spot_entities": 88,
+  "preserve_lighting_controller": true,
+  "preserve_architecture_physics": true,
+  "new_collision_triangles": 48,
+  "in_game_verified": false
+}

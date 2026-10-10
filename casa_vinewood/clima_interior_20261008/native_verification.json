@@ -1,0 +1,35 @@
+{
+  "mlo_root": "mansao_teto",
+  "rooms": 2,
+  "exit_portals": 40,
+  "structural_collision_triangles": 14928,
+  "collider_positions_materials_preserved": true,
+  "graphical": {
+    "mansao_paredes": {
+      "vertices_uv_normals_and_indices_identical": true,
+      "triangles_all_lods": 13316,
+      "textures_identical": true,
+      "collision_triangles": 13316
+    },
+    "mansao_pisos": {
+      "vertices_uv_normals_and_indices_identical": true,
+      "triangles_all_lods": 7824,
+      "textures_identical": true,
+      "collision_triangles": 312
+    },
+    "mansao_escada": {
+      "vertices_uv_normals_and_indices_identical": true,
+      "triangles_all_lods": 1416,
+      "textures_identical": true,
+      "collision_triangles": 1224
+    },
+    "mansao_teto": {
+      "vertices_uv_normals_and_indices_identical": true,
+      "triangles_all_lods": 9572,
+      "textures_identical": true,
+      "collision_triangles": 76
+    }
+  },
+  "native_roundtrip": true,
+  "in_game_verified": false
+}

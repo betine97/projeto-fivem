@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "original dark document reproduced",
+    "document no longer forces a dark canvas",
+    "ADM opens normally",
+    "ADM controls retain dark appearance",
+    "no page errors"
+  ],
+  "in_game_verified": false
+}

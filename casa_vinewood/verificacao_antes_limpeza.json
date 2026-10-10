@@ -1,0 +1,469 @@
+{
+  "serialized_files_checked": true,
+  "collision_primitive_types_checked": [
+    "TRIANGLE",
+    "BOX",
+    "SPHERE",
+    "CAPSULE",
+    "CYLINDER"
+  ],
+  "nearby_entity_collisions_checked": [
+    "prop_skunk_bush_01",
+    "prop_bush_med_03",
+    "prop_bush_med_03",
+    "prop_bush_med_02",
+    "prop_skunk_bush_01",
+    "prop_bush_med_02",
+    "prop_plant_cane_02a",
+    "prop_pot_plant_02d",
+    "prop_alarm_02",
+    "prop_patio_lounger1",
+    "prop_patio_lounger1",
+    "prop_table_07",
+    "prop_ftowel_01",
+    "prop_ftowel_01",
+    "prop_table_06",
+    "prop_table_06_chr",
+    "prop_table_06_chr",
+    "prop_table_06_chr",
+    "prop_plant_int_02a",
+    "prop_bush_lrg_01",
+    "prop_telegwall_03a"
+  ],
+  "in_game_test": false,
+  "routes": {
+    "entrada_original": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_esquerda": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_direita": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_deck": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "porta_fundos": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_perto_vidro": {
+      "samples": 127,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "ch2_09b_3.ybn:3076": {
+      "samples": 17,
+      "blocked": [
+        {
+          "point": [
+            -6.594,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3076"
+        },
+        {
+          "point": [
+            -6.512,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3076"
+        },
+        {
+          "point": [
+            -6.431,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3076"
+        },
+        {
+          "point": [
+            -6.35,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3076"
+        },
+        {
+          "point": [
+            -6.269,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3076"
+        },
+        {
+          "point": [
+            -6.188,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3076"
+        }
+      ],
+      "missing_floor": [],
+      "passed": false
+    },
+    "ch2_09b_3.ybn:3773": {
+      "samples": 17,
+      "blocked": [
+        {
+          "point": [
+            11.106,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3773"
+        },
+        {
+          "point": [
+            11.188,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3773"
+        },
+        {
+          "point": [
+            11.269,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3773"
+        },
+        {
+          "point": [
+            11.35,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3773"
+        },
+        {
+          "point": [
+            11.431,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3773"
+        },
+        {
+          "point": [
+            11.512,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3773"
+        },
+        {
+          "point": [
+            11.594,
+            -6.45,
+            -0.8
+          ],
+          "object": "ch2_09b_3.ybn:3773"
+        }
+      ],
+      "missing_floor": [],
+      "passed": false
+    },
+    "mansao_paredes:1497": {
+      "samples": 13,
+      "blocked": [
+        {
+          "point": [
+            -5.7,
+            -0.65,
+            -0.8
+          ],
+          "object": "mansao_paredes:1494"
+        },
+        {
+          "point": [
+            -5.7,
+            -0.65,
+            -0.8
+          ],
+          "object": "mansao_paredes:1497"
+        },
+        {
+          "point": [
+            -5.7,
+            -0.567,
+            -0.8
+          ],
+          "object": "mansao_paredes:1497"
+        },
+        {
+          "point": [
+            -5.7,
+            -0.483,
+            -0.8
+          ],
+          "object": "mansao_paredes:1497"
+        }
+      ],
+      "missing_floor": [],
+      "passed": false
+    },
+    "escada_completa": {
+      "samples": 124,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "mansao_escada:473": {
+      "samples": 12,
+      "blocked": [
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:442"
+        },
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:443"
+        },
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:444"
+        },
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:445"
+        },
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:446"
+        },
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:447"
+        },
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:448"
+        },
+        {
+          "point": [
+            -0.514,
+            2.05,
+            2.808
+          ],
+          "object": "mansao_escada:449"
+        }
+      ],
+      "missing_floor": [],
+      "passed": false
+    },
+    "Suite closet banheiro": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "full_floor_scan": {
+    "spacing_m": 0.25,
+    "scanned": 15109,
+    "free_custom_geometry_samples": 11229,
+    "unexplained_native_obstacles": [
+      {
+        "point": [
+          -6.411,
+          -6.596,
+          -0.8
+        ],
+        "objects": [
+          "ch2_09b_3.ybn:3076"
+        ]
+      },
+      {
+        "point": [
+          -6.411,
+          -6.346,
+          -0.8
+        ],
+        "objects": [
+          "ch2_09b_3.ybn:3076"
+        ]
+      },
+      {
+        "point": [
+          -5.161,
+          9.404,
+          -0.8
+        ],
+        "objects": [
+          "prop_bush_med_03"
+        ]
+      },
+      {
+        "point": [
+          11.339,
+          -6.596,
+          -0.8
+        ],
+        "objects": [
+          "ch2_09b_3.ybn:3773"
+        ]
+      },
+      {
+        "point": [
+          11.339,
+          -6.346,
+          -0.8
+        ],
+        "objects": [
+          "ch2_09b_3.ybn:3773"
+        ]
+      }
+    ],
+    "passed": false
+  },
+  "floor_coverage": [
+    {
+      "floor_z": -0.8,
+      "expected_m2": 499.48807999999997,
+      "missing_m2": 0.0037019001204372645,
+      "passed": false
+    },
+    {
+      "floor_z": 2.808,
+      "expected_m2": 362.8160049999999,
+      "missing_m2": 0.6727172910222969,
+      "passed": false
+    }
+  ],
+  "passed": false
+}

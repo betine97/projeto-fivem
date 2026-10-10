@@ -1,0 +1,22 @@
+{
+  "installed": true,
+  "changed": {
+    "iluminacao_ambiente.json": "8704018a1df43c671d51c492cee2309646a857d3d3a563b3a38ccb9544ce8874",
+    "iluminacao_decorativa.lua": "a922c553e551e7de710133c4f68b3db895b400284257646d1b97eceb9a2ecb01",
+    "luzes_pendentes.json": "88b14cb48b874c64d6e77cdcde1e39c35aa714b4d910bc510dba2c70aa03b139",
+    "luzes_pendentes.lua": "e9b6b10031b53f8697c794cc097f75016370ffd68abca2683e7662c103915fb1",
+    "README.md": "02275f4030816576fd3458a029271d58064303e268dd839afa7a9bf5ef968ed2",
+    "stream/mansao_pendentes.ydr": "3d8ebe710529522fe44842f21838b2d98ef53c22a34d20dec3231fceab10ebfa",
+    "stream/mansao_spot_embutido.ydr": "a88dc65872a7f0ef5f323c90f503c45358db22ee5dd4026bc891caf25a64379c",
+    "stream/mansao_teto.ydr": "042349779e52de5eac7809165138727c657ffad98fb1356355719db1d5b0cfdb"
+  },
+  "unchanged_files": 90,
+  "maps_archetypes_manifest_unchanged": true,
+  "saved_object_transforms_unchanged": true,
+  "native_lights": 116,
+  "script_light_draws_at_default": 0,
+  "codewalker_verified": true,
+  "tests": 3098,
+  "server_restarted": false,
+  "in_game_visual_verified": false
+}

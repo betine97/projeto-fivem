@@ -1,0 +1,19 @@
+{
+  "id": "fita_do_bolso",
+  "kind": "secondary_prop",
+  "image": "fivela_fita_recortada.png",
+  "motion": {
+    "mode": "damped_visual_spring",
+    "bone_tag": 58271,
+    "anchor_space": "bone_local",
+    "offset_m": null,
+    "length_m": 0.135,
+    "stiffness": 45,
+    "damping": 10,
+    "angle_limit_radians": [0.28, 0.20],
+    "distance_limit_m": 35,
+    "cloth_collisions": false
+  },
+  "requires": ["own_YDR_name", "own_YTYP", "runtime_outfit_rule", "preview_ped_hook", "multiplayer_cleanup_test"],
+  "note": "Especificação de autoria, não exportação automática. O build bloqueia enquanto o adaptador móvel não estiver concluído."
+}

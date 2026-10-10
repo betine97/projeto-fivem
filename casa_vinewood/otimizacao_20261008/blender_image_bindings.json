@@ -1,0 +1,2272 @@
+[
+  {
+    "material": "Acabamento brick",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "parede_tijolo_tv.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\parede_tijolo_tv.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "parede_tijolo_tv_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\parede_tijolo_tv_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "Acabamento marble",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "piso_marmore.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\piso_marmore.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "piso_marmore_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\piso_marmore_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "Acabamento metal",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "corrimao_preto.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\corrimao_preto.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "corrimao_preto_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\corrimao_preto_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "Acabamento wall",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "parede_reboco.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\parede_reboco.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "parede_reboco_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\parede_reboco_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "Anotacoes",
+    "nodes": []
+  },
+  {
+    "material": "Aro spot branco fosco",
+    "nodes": []
+  },
+  {
+    "material": "Caixilho solido das janelas",
+    "nodes": []
+  },
+  {
+    "material": "CONCRETE",
+    "nodes": []
+  },
+  {
+    "material": "CONCRETE.001",
+    "nodes": []
+  },
+  {
+    "material": "CONCRETE.002",
+    "nodes": []
+  },
+  {
+    "material": "CONCRETE.003",
+    "nodes": []
+  },
+  {
+    "material": "CONCRETE.004",
+    "nodes": []
+  },
+  {
+    "material": "CONCRETE.005",
+    "nodes": []
+  },
+  {
+    "material": "DIRT_TRACK",
+    "nodes": []
+  },
+  {
+    "material": "DIRT_TRACK.001",
+    "nodes": []
+  },
+  {
+    "material": "Escada | madeira",
+    "nodes": []
+  },
+  {
+    "material": "Fundo dos frisos madeira",
+    "nodes": []
+  },
+  {
+    "material": "im_floortiles03",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_floortiles03.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_floortiles03.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_floortiles03_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_floortiles03_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "im_ground_stones02",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_ground_stones02.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_ground_stones02.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_ground_stones02_n",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\im_ground_stones02_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "im_roof04",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_roof04.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_roof04.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_roof4_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_roof4_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "im_roof04_s3.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_roof04_s3.dds"
+      }
+    ]
+  },
+  {
+    "material": "im_wall23",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_wall23.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_wall23.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_wall23_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_wall23_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "im_wall32",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_wall32.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_wall32.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_wall16_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_wall16_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "im_wall_brick_32",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_wall_brick_32.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_wall_brick_32.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_wall_brick_32_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_wall_brick_32_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "im_wall_brick_32_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_wall_brick_32_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "im_walloverlay01",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_walloverlay01.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_walloverlay01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_walloverlay01_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\im_walloverlay01_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "im_wood_panels_05",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "im_wood_panels_05.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\im_wood_panels_05.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "im_wood_panels_05_n.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\im_wood_panels_05_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "LED quente 3000 K",
+    "nodes": []
+  },
+  {
+    "material": "Luz LED quente pendentes",
+    "nodes": []
+  },
+  {
+    "material": "Madeira mel portas referencia",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "porta_madeira_mel.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\porta_madeira_mel.dds"
+      }
+    ]
+  },
+  {
+    "material": "mansao_tapete_tecido",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "rug_albedo.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\rug_albedo.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "rug_normal.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\rug_normal.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "rug_spec.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\rug_spec.dds"
+      }
+    ]
+  },
+  {
+    "material": "Material_0",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "dining_albedo.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\dining_albedo.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "Image_1",
+        "file": ""
+      },
+      {
+        "name": "Image Texture.002",
+        "image": "dining_normal.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\dining_normal.dds"
+      }
+    ]
+  },
+  {
+    "material": "Material_0.001",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "sofa_albedo.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\sofa_albedo.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "Image_1.001",
+        "file": ""
+      },
+      {
+        "name": "Image Texture.002",
+        "image": "sofa_normal.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\sofa_normal.dds"
+      }
+    ]
+  },
+  {
+    "material": "Material_0.002",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "tv_albedo.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\tv_albedo.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "Image_1.002",
+        "file": ""
+      },
+      {
+        "name": "Image Texture.002",
+        "image": "tv_normal.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\tv_normal.dds"
+      }
+    ]
+  },
+  {
+    "material": "Material_0.003",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "cylinder_albedo.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\cylinder_albedo.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "Image_1.003",
+        "file": ""
+      },
+      {
+        "name": "Image Texture.002",
+        "image": "cylinder_normal.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\cylinder_normal.dds"
+      }
+    ]
+  },
+  {
+    "material": "Material_0.004",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "island_albedo.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\island_albedo.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "Image_1.004",
+        "file": ""
+      },
+      {
+        "name": "Image Texture.002",
+        "image": "island_normal.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\island_normal.dds"
+      }
+    ]
+  },
+  {
+    "material": "Material_0.005",
+    "nodes": [
+      {
+        "name": "Image Texture",
+        "image": "linear_albedo.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\linear_albedo.dds"
+      },
+      {
+        "name": "Image Texture.001",
+        "image": "Image_1.005",
+        "file": ""
+      },
+      {
+        "name": "Image Texture.002",
+        "image": "linear_normal.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\textures\\linear_normal.dds"
+      }
+    ]
+  },
+  {
+    "material": "METAL_SOLID_SMALL",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.001",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.002",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.003",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.004",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.005",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.006",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.007",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.008",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.009",
+    "nodes": []
+  },
+  {
+    "material": "METAL_SOLID_SMALL.010",
+    "nodes": []
+  },
+  {
+    "material": "mw_leaking_conct_01mw_leaking_conct_01_a",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "mw_leaking_conct_01mw_leaking_conct_01_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\mw_leaking_conct_01mw_leaking_conct_01_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.006",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.007",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.008",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.009",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.010",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.011",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.011",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.012",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.012",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.013",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.013",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.014",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.014",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.015",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.015",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.016",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.016",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.017",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.017",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.018",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.018",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.019",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.019",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.020",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.020",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      }
+    ]
+  },
+  {
+    "material": "nxg_im_branches_40.021",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "nxg_im_branches_40.dds.021",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "nxg_im_branches_40_s.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_s.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "nxg_im_branches_40_n.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\nxg_im_branches_40_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "os_ml_idwall_0005_c",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "os_ml_idwall_0005_c.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\os_ml_idwall_0005_c.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "os_ml_idwall_0005_n.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\os_ml_idwall_0005_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "os_rnbj_bvwalloverlay_0002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "os_rnbj_bvwalloverlay_0002",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\os_rnbj_bvwalloverlay_0002.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwallframe01_d",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwallframe01_d.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwallframe01_d.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwallframe01_d.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwallframe01_d.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwallframe01_d.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwallframe01_d.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwallframe01_d.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwallframe01_d.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwallframe01_d.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwallframe01_d.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwallframe01_d.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwalll01_a_d",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwalll01_a_d.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwalll01_a_d.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "p_h_acc_artwalll01_a_n.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwalll01_a_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwllm02_d",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwllm02_d.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwllm02_d.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "p_h_acc_artwalll01_a_n.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwalll01_a_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwllm03_d",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwllm03_d.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwllm03_d.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "p_h_acc_artwalll01_a_n.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwalll01_a_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "p_h_acc_artwllm04_d",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "p_h_acc_artwllm04_d.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwllm04_d.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "p_h_acc_artwalll01_a_n.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_art\\p_h_acc_artwalll01_a_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.006",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.007",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.008",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.009",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_chrome_dirty_02_dm.010",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_chrome_dirty_02_dm.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_dm.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "prop_chrome_dirty_02_sm.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_chrome_dirty_02_sm.dds"
+      },
+      {
+        "name": "EnvironmentSampler",
+        "image": "prop_environment_01.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_environment_01.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.006",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.007",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.008",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.009",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_dirt_01.010",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_dirt_01.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_dirt_01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_desert_iron_bark_n.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_desert_iron_bark_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.006",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.007",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.008",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.009",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_joshua_bark_02.010",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_joshua_bark_02.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_joshua_bark_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      },
+      {
+        "name": "DetailSampler",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_pot_plant_02_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02_n.dds"
+      },
+      {
+        "name": "Extra",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      },
+      {
+        "name": "DetailSampler",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_pot_plant_02_n.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02_n.dds"
+      },
+      {
+        "name": "Extra",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      },
+      {
+        "name": "DetailSampler",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_pot_plant_02_n.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02_n.dds"
+      },
+      {
+        "name": "Extra",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.006",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.006",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      },
+      {
+        "name": "DetailSampler",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_pot_plant_02_n.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02_n.dds"
+      },
+      {
+        "name": "Extra",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.007",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.007",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.008",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.008",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      },
+      {
+        "name": "DetailSampler",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_pot_plant_02_n.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02_n.dds"
+      },
+      {
+        "name": "Extra",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.009",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.009",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.010",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.010",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      },
+      {
+        "name": "DetailSampler",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "prop_pot_plant_02_n.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02_n.dds"
+      },
+      {
+        "name": "Extra",
+        "image": "env_noise_concrete",
+        "file": "//env_noise_concrete.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02.011",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02.dds.011",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02aprop_pot_plant_02a_a",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02aprop_pot_plant_02a_a.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02aprop_pot_plant_02a_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02aprop_pot_plant_02a_a.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02aprop_pot_plant_02a_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02aprop_pot_plant_02a_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02aprop_pot_plant_02a_a.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02aprop_pot_plant_02a_a.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02aprop_pot_plant_02a_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02aprop_pot_plant_02a_a.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02aprop_pot_plant_02a_a.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02aprop_pot_plant_02a_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02aprop_pot_plant_02a_a.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02aprop_pot_plant_02a_a.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02aprop_pot_plant_02a_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_pot_plant_02aprop_pot_plant_02a_a.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_pot_plant_02aprop_pot_plant_02a_a.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_pot_plant_02aprop_pot_plant_02a_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_rubble",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_rubble.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_rubble.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_rubble.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_rubble.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_rubble.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_rubble.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_rubble.dds.002",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_rubble.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_rubble.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_rubble.dds.003",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_rubble.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_rubble.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_rubble.dds.004",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_rubble.dds"
+      }
+    ]
+  },
+  {
+    "material": "prop_rubble.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "prop_rubble.dds.005",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\decor_native\\prop_rubble.dds"
+      }
+    ]
+  },
+  {
+    "material": "railing_whiterail_basic_a",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "railing_whiterail_basic_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\railing_whiterail_basic_a.dds"
+      },
+      {
+        "name": "TintPaletteSampler",
+        "image": "ch2_09b_hs05_balcony_01_lod_pal.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\ch2_09b_hs05_balcony_01_lod_pal.dds"
+      }
+    ]
+  },
+  {
+    "material": "railing_whiterail_basic_a.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "railing_whiterail_basic_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\railing_whiterail_basic_a.dds"
+      },
+      {
+        "name": "TintPaletteSampler",
+        "image": "ch2_09b_hs05_balcony_02_lod_pal.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\ch2_09b_hs05_balcony_02_lod_pal.dds"
+      }
+    ]
+  },
+  {
+    "material": "railing_whiterail_basic_a.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "railing_whiterail_basic_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\railing_whiterail_basic_a.dds"
+      },
+      {
+        "name": "TintPaletteSampler",
+        "image": "ch2_09b_hs05_balcony_05_lod_pal.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\ch2_09b_hs05_balcony_05_lod_pal.dds"
+      }
+    ]
+  },
+  {
+    "material": "railing_whiterail_basic_a.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "railing_whiterail_basic_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\railing_whiterail_basic_a.dds"
+      },
+      {
+        "name": "TintPaletteSampler",
+        "image": "ch2_09b_hs05_balcony_03_lod_pal.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\ch2_09b_hs05_balcony_03_lod_pal.dds"
+      }
+    ]
+  },
+  {
+    "material": "railing_whiterail_basic_a.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "railing_whiterail_basic_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\railing_whiterail_basic_a.dds"
+      },
+      {
+        "name": "TintPaletteSampler",
+        "image": "ch2_09b_hs05_balcony_04_lod_pal.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\ch2_09b_hs05_balcony_04_lod_pal.dds"
+      }
+    ]
+  },
+  {
+    "material": "ROCK",
+    "nodes": []
+  },
+  {
+    "material": "ROCK.001",
+    "nodes": []
+  },
+  {
+    "material": "ROCK_MOSSY",
+    "nodes": []
+  },
+  {
+    "material": "ROCK_MOSSY.001",
+    "nodes": []
+  },
+  {
+    "material": "ROCK_MOSSY.002",
+    "nodes": []
+  },
+  {
+    "material": "ROCK_MOSSY.003",
+    "nodes": []
+  },
+  {
+    "material": "scrn_ch2-09bdoors01",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdoors01.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdoors01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdoors01_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdoors01_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdoors01.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdoors01.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdoors01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdoors01_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdoors01_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "scrn_ch2-09bdoors01_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdoors01_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsdirtscrn_ch2-09bdtlsdirt_a",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsdirtscrn_ch2-09bdtlsdirt_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsdirtscrn_ch2-09bdtlsdirt_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsdirtscrn_ch2-09bdtlsdirt_a.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsdirtscrn_ch2-09bdtlsdirt_a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsdirtscrn_ch2-09bdtlsdirt_a.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsextras.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdtlsextras_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "scrn_ch2-09bdtlsextras_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsextras.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdtlsextras_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "scrn_ch2-09bdtlsextras_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.002",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsextras.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdtlsextras_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "scrn_ch2-09bdtlsextras_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.003",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsextras.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdtlsextras_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "scrn_ch2-09bdtlsextras_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.004",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsextras.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdtlsextras_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "scrn_ch2-09bdtlsextras_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bdtlsextras.005",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bdtlsextras.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_ch2-09bdtlsextras_n.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_n.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "scrn_ch2-09bdtlsextras_s.dds",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\scrn_ch2-09bdtlsextras_s.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bwins01",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bwins01",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bwins01.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_ch2-09bwins01.001",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_ch2-09bwins01",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_ch2-09bwins01.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_hs05unqs01",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_hs05unqs01.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_hs05unqs01.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_hs05unqs01_n.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_hs05unqs01_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "scrn_hs05unqs01_nxg",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "scrn_hs05unqs01_nxg.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_hs05unqs01_nxg.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "scrn_hs05unqs01_nxg_n.dds",
+        "file": "//backup_antes_piso_tv_portas\\backup_antes_materiais_sofa\\backup_antes_espessuras\\backup_antes_acabamentos_camera\\backup_antes_frestas_render\\backup_antes_encaixe\\work\\scrn_hs05unqs01_nxg_n.dds"
+      }
+    ]
+  },
+  {
+    "material": "Teto claro",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.001",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.002",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.003",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.004",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.005",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.006",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.007",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.008",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.009",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.010",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.011",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.012",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.013",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.014",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.015",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.016",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.017",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.018",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.019",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.020",
+    "nodes": []
+  },
+  {
+    "material": "TREE_BARK.021",
+    "nodes": []
+  },
+  {
+    "material": "vaso_autoral_bark",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "bark_diffuse.dds",
+        "file": "//source_assets\\vaso_planta\\bark_diffuse.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "bark_normal.dds",
+        "file": "//source_assets\\vaso_planta\\bark_normal.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "bark_spec.dds",
+        "file": "//source_assets\\vaso_planta\\bark_spec.dds"
+      }
+    ]
+  },
+  {
+    "material": "vaso_autoral_leaves",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "leaves_diffuse.dds",
+        "file": "//source_assets\\vaso_planta\\leaves_diffuse.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "leaves_normal.dds",
+        "file": "//source_assets\\vaso_planta\\leaves_normal.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "leaves_spec.dds",
+        "file": "//source_assets\\vaso_planta\\leaves_spec.dds"
+      }
+    ]
+  },
+  {
+    "material": "vaso_autoral_pot",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "pot_diffuse.dds",
+        "file": "//source_assets\\vaso_planta\\pot_diffuse.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "pot_normal.dds",
+        "file": "//source_assets\\vaso_planta\\pot_normal.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "pot_spec.dds",
+        "file": "//source_assets\\vaso_planta\\pot_spec.dds"
+      }
+    ]
+  },
+  {
+    "material": "vaso_autoral_soil",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "soil_diffuse.dds",
+        "file": "//source_assets\\vaso_planta\\soil_diffuse.dds"
+      },
+      {
+        "name": "BumpSampler",
+        "image": "soil_normal.dds",
+        "file": "//source_assets\\vaso_planta\\soil_normal.dds"
+      },
+      {
+        "name": "SpecSampler",
+        "image": "soil_spec.dds",
+        "file": "//source_assets\\vaso_planta\\soil_spec.dds"
+      }
+    ]
+  },
+  {
+    "material": "Vidro fachada original",
+    "nodes": []
+  },
+  {
+    "material": "weedleavesa_1weedleavesa_1a",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "weedleavesa_1weedleavesa_1a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\weedleavesa_1weedleavesa_1a.dds"
+      }
+    ]
+  },
+  {
+    "material": "weedleavesa_1weedleavesa_2a",
+    "nodes": [
+      {
+        "name": "DiffuseSampler",
+        "image": "weedleavesa_1weedleavesa_2a.dds.001",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\textures\\weedleavesa_1weedleavesa_2a.dds"
+      }
+    ]
+  },
+  {
+    "material": "WOOD_CHIPBOARD",
+    "nodes": []
+  },
+  {
+    "material": "WOOD_CHIPBOARD.001",
+    "nodes": []
+  },
+  {
+    "material": "WOOD_HOLLOW_MEDIUM",
+    "nodes": []
+  },
+  {
+    "material": "WOOD_HOLLOW_MEDIUM.001",
+    "nodes": []
+  }
+]

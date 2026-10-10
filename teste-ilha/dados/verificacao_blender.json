@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "checks": {
+    "metric_units": {
+      "passed": true,
+      "details": null
+    },
+    "terrain_sector_count": {
+      "passed": true,
+      "details": null
+    },
+    "all_sectors_and_lods_match_continuous_grid": {
+      "passed": true,
+      "details": {
+        "max_error_m": 0,
+        "mismatches": []
+      }
+    },
+    "high_triangle_count": {
+      "passed": true,
+      "details": 774144
+    },
+    "collision_reference_meshes": {
+      "passed": true,
+      "details": {
+        "sectors": 42,
+        "native_YBN_exported": false
+      }
+    },
+    "hidden_lods_and_collision": {
+      "passed": true,
+      "details": null
+    },
+    "texture_packed": {
+      "passed": true,
+      "details": null
+    },
+    "no_original_city_geometry": {
+      "passed": true,
+      "details": null
+    }
+  }
+}

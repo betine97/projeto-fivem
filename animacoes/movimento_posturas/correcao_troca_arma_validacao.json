@@ -1,0 +1,26 @@
+{
+  "revision": "v10-posturas-troca-rastejar",
+  "game_tested": false,
+  "strict_native_mocks": true,
+  "live_v9_log_reviewed": true,
+  "checks": [
+    "C works unarmed/armed without raw-key hold; release preserves posture; Shift accelerates; actual draw/holster commands preserve crouch",
+    "pending C cancellation and ten exit conditions restore native movement/weapon gait",
+    "24 interrupted fire/reload cycles; both rifles and three poses; pitch bounds; rest clip and stale evaluation regression",
+    "discrete WASD fallback; continuous forward/back mover task across pending probes; turn, shoot, reload, stop and staged exit",
+    "six blocked-route conditions and three obstacles arising during movement reject further native steps",
+    "real draw/holster/rifle switch while prone, moving or still and airborne flag set; C moves prone to crouch without weapon dependency",
+    "cover scans/tasks/key mapping removed; old cover commands are inert; native cover control disabled on foot",
+    "asset timeout cancels entry and restores unlocked state"
+  ],
+  "source_sha256": {
+    "prone.lua": "f9c6b5c027edcd20c13cc4f764a34a6c4153c77c8568c8e7ddabd78c46ed455d",
+    "posture_movement.lua": "95a44512eadec8985a048e1595184b8c3f20edbeb53dfb806e01a9d8f5a61666",
+    "cover.lua": "f88d1ea8b5952336255219bc66a4fd9ba0dfc2ec33ffb32d38965b77883ac691",
+    "sandbox.lua": "e493e2df83a6ae1d2d7dc1ac0fbd1b43b2ab6083ff22e43819be53fd83607d65"
+  },
+  "same_selected_weapon_regression_fixed": true,
+  "coverage_removed": true,
+  "last_observed_game_revision": "v9-movimento-mira-vertical",
+  "activation_requires_resource_reload": true
+}

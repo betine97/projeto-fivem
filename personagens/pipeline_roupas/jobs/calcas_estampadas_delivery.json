@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "title": "Calça camuflada",
+      "resource": "cidade_calca_camuflada",
+      "collection": "cidade_calca_camuflada_r001",
+      "source_base": "8552b45e2ad8"
+    },
+    {
+      "title": "Calça listrada azul e branca",
+      "resource": "cidade_calca_listrada_azul",
+      "collection": "cidade_calca_listrada_azul_r001",
+      "source_base": "8552b45e2ad8"
+    }
+  ],
+  "exclusive_count": 8,
+  "checks_passed": [
+    "native_round_trip",
+    "installed_hashes",
+    "tablet_combination_restore",
+    "server_manifest",
+    "http_bridge",
+    "ui"
+  ],
+  "native_base_preserved": true,
+  "tags_and_favorites_preserved": true,
+  "visual_game_test": "pending",
+  "server_reload_and_reconnect_required": true
+}

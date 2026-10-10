@@ -1,0 +1,7 @@
+{
+  "samples": 2000,
+  "max_position_error_metres": 1.2578027508425293e-07,
+  "max_uv_error_after_native_v_flip": 0.0,
+  "mean_uv_error_after_native_v_flip": 0.0,
+  "color_attribute_names_original": []
+}

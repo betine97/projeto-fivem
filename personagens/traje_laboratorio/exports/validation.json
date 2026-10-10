@@ -1,0 +1,101 @@
+[
+  {
+    "component": "jbib_008_u",
+    "vertices": 2786,
+    "lod_faces": {
+      "LODLevel.HIGH": 4700,
+      "LODLevel.MEDIUM": 2725,
+      "LODLevel.LOW": 1409,
+      "LODLevel.VERYLOW": 704
+    },
+    "embedded_textures": [
+      "jbib_spec_008",
+      "jbib_normal_008"
+    ],
+    "diffuse": "jbib_diff_008_a_uni",
+    "shaders": [
+      "ped_default.sps",
+      "ped.sps"
+    ]
+  },
+  {
+    "component": "lowr_007_u",
+    "vertices": 9829,
+    "lod_faces": {
+      "LODLevel.HIGH": 19417,
+      "LODLevel.MEDIUM": 11261,
+      "LODLevel.LOW": 5824,
+      "LODLevel.VERYLOW": 2911
+    },
+    "embedded_textures": [
+      "lowr_normal_007",
+      "lowr_spec_007"
+    ],
+    "diffuse": "lowr_diff_007_a_uni",
+    "shaders": [
+      "ped_default.sps",
+      "ped.sps"
+    ]
+  },
+  {
+    "component": "uppr_000_r",
+    "vertices": 2404,
+    "lod_faces": {
+      "LODLevel.HIGH": 4770,
+      "LODLevel.MEDIUM": 2766,
+      "LODLevel.LOW": 1430,
+      "LODLevel.VERYLOW": 715
+    },
+    "embedded_textures": [
+      "uppr_spec_000",
+      "uppr_normal_000"
+    ],
+    "diffuse": "uppr_diff_000_a_whi",
+    "shaders": [
+      "ped_default.sps",
+      "ped.sps"
+    ]
+  },
+  {
+    "component": "feet_000_u",
+    "vertices": 896,
+    "lod_faces": {
+      "LODLevel.HIGH": 768,
+      "LODLevel.MEDIUM": 890,
+      "LODLevel.LOW": 460,
+      "LODLevel.VERYLOW": 230
+    },
+    "embedded_textures": [
+      "feet_normal_000",
+      "feet_spec_000"
+    ],
+    "diffuse": "feet_diff_000_a_uni",
+    "shaders": [
+      "ped_default.sps",
+      "ped.sps"
+    ]
+  },
+  {
+    "component": "berd_020_u",
+    "vertices": 6258,
+    "lod_faces": {
+      "LODLevel.HIGH": 6240,
+      "LODLevel.MEDIUM": 7126,
+      "LODLevel.LOW": 3686,
+      "LODLevel.VERYLOW": 1843
+    },
+    "embedded_textures": [
+      "berd_visor_normal",
+      "berd_spec_020",
+      "berd_visor_diff",
+      "berd_normal_020",
+      "berd_visor_spec"
+    ],
+    "diffuse": "berd_diff_020_a_uni",
+    "shaders": [
+      "ped_default.sps",
+      "ped.sps",
+      "ped_alpha.sps"
+    ]
+  }
+]

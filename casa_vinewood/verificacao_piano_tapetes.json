@@ -1,0 +1,281 @@
+{
+  "passed": true,
+  "models": {
+    "piano": {
+      "triangles": 41193,
+      "parts": 521,
+      "embedded_textures": 18,
+      "dimensions": [
+        1.5783371925354004,
+        2.9925780296325684,
+        2.088712692260742
+      ],
+      "native_roundtrip": true
+    },
+    "bear": {
+      "triangles": 75024,
+      "parts": 4,
+      "embedded_textures": 12,
+      "dimensions": [
+        2.499995470046997,
+        1.8475931882858276,
+        0.16060537099838257
+      ],
+      "native_roundtrip": true
+    },
+    "carpet": {
+      "triangles": 20016,
+      "parts": 1,
+      "embedded_textures": 3,
+      "dimensions": [
+        1.850000023841858,
+        2.212745189666748,
+        0.008688653819262981
+      ],
+      "native_roundtrip": true
+    }
+  },
+  "walking_routes": {
+    "entrada_original": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_esquerda": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_direita": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_deck": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "porta_fundos": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_perto_vidro": {
+      "samples": 127,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "cozinha_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "portao_entrada_rua": {
+      "samples": 78,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "escada_completa": {
+      "samples": 124,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite closet banheiro": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem entre sofa e jantar": {
+      "samples": 64,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem cozinha": {
+      "samples": 84,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Volta completa da mesa": {
+      "samples": 222,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Entre jantar e cozinha": {
+      "samples": 55,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Circulacao sala ao lado do vaso": {
+      "samples": 63,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Circulacao hall escada ao lado do vaso": {
+      "samples": 33,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Corredor entre ilha e bancada": {
+      "samples": 73,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Acesso frente do forno": {
+      "samples": 8,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Acesso banco piano": {
+      "samples": 5,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem ao sul do piano": {
+      "samples": 48,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem ao norte do piano": {
+      "samples": 44,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem lateral tapete urso": {
+      "samples": 29,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Tapete classico hall": {
+      "samples": 34,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "keys": 88,
+  "reference_proportions_preserved": true,
+  "piano_and_bench_collision": true,
+  "bear_collision_only_raised_head": true,
+  "woven_rug_no_rigid_collision": true,
+  "files": {
+    "mansao_piano_cauda.ydr": "5af9e5948c71bed4fcbe11ff38a195cace117f84f702c544e22a26c9336e5ddb",
+    "mansao_piano_tapetes.ymap": "9b61479bfbd37d6287cb7b8b2b77a8b7e25d4969e0ed0dfa9c07192ebbb3953e",
+    "mansao_piano_tapetes.ytyp": "0ffac4233f333821eb0de21ee5f359b9571c5f7d287a384266ddea94c46702b8",
+    "mansao_tapete_classico.ydr": "c99db215fdb2c656392092ff3cabb58d333d40722d7f37e177580320311ed9e5",
+    "mansao_tapete_urso.ydr": "6d94b1eebb7840c27ff075dba398f9b32a30f0bbaa9c9b80c49cd09f78782c49"
+  },
+  "in_game_verified": false
+}

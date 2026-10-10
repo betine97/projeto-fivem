@@ -1,0 +1,182 @@
+{
+  "files": {
+    "apa_ch2_09b_1.ybn": {
+      "bytes": 181600,
+      "sha256": "e5d2d42e34b1242d710355308255a785a7592ec423eeb01008b299e109743cd8"
+    },
+    "apa_ch2_09b_3.ybn": {
+      "bytes": 184074,
+      "sha256": "466fc5e02351a3b9f256ef121be815ae4018d86fe0f7647487887a8091008ff9"
+    },
+    "apa_ch2_09b_long_0.ymap": {
+      "bytes": 6230,
+      "sha256": "1bcbeb6b75a369df7de741343d42e11c8b9e78f49357b1088c95d502cd86d5c7"
+    },
+    "apa_ch2_09b_strm_0.ymap": {
+      "bytes": 19804,
+      "sha256": "82c765233c357a1a50ce5638a3ece9c2d3f4c71085c3bb7eb6bf661bfd31deeb"
+    },
+    "apa_ch2_09b_strm_1.ymap": {
+      "bytes": 18395,
+      "sha256": "77cd578dc478ff89be0e9e937beb8e47c8ccb5fb61fe9a03cc3db7920463d9ee"
+    },
+    "apa_ch2_occl_02.ymap": {
+      "bytes": 18296,
+      "sha256": "c48d9f0f2198e4cc7bf97d6bad97f877be6aecb687dba59beb1a280976897ef4"
+    },
+    "ch2_09b_1.ybn": {
+      "bytes": 181251,
+      "sha256": "56b0ba3703c5f0702d366175119fc835071596012f5a771e181bd9381589eda1"
+    },
+    "ch2_09b_3.ybn": {
+      "bytes": 184069,
+      "sha256": "a6faa86c34592bbd742f26109df235f1ddb31d8503cdf0d8797e0aff8a224a3e"
+    },
+    "ch2_09b_emissive_05.ydr": {
+      "bytes": 406,
+      "sha256": "1263cd9e5489861345400a2c4b2064f72db15e3f8a0e1aa17531a5885b14cd28"
+    },
+    "ch2_09b_hs05.ydr": {
+      "bytes": 1059014,
+      "sha256": "f1b335c6ff524b70e7e8bdd04ec12a223b565db185b317705f2c4b0026936909"
+    },
+    "ch2_09b_hs05_balc_01.ydr": {
+      "bytes": 3651,
+      "sha256": "5c23ece7d8f2958c76c005672909099dadf34e4edc67804daace686fdb423da1"
+    },
+    "ch2_09b_hs05_balc_05.ydr": {
+      "bytes": 4527,
+      "sha256": "9d58fe39b8aefa18c87fd7239e2eb532830b0db5f6fbc2766350d47f316d4c1e"
+    },
+    "ch2_09b_hs05_details.ydr": {
+      "bytes": 90455,
+      "sha256": "ae149aa1c3a68c6a3045af5c90fa89e8a15bd0af74f43e9e3850284cda932d83"
+    },
+    "ch2_09b_l2.ydr": {
+      "bytes": 300853,
+      "sha256": "dd0dc1d5586e510d4e94d7ab9f77f93ac6733ca9addff506bc730699f3f9a21f"
+    },
+    "ch2_09b_long_0.ymap": {
+      "bytes": 6233,
+      "sha256": "6a9d47af604cbbec12f2ba4148f83cbefa4a6a579eb48b3d67f3fb545f6ae711"
+    },
+    "ch2_09b_strm_0.ymap": {
+      "bytes": 19746,
+      "sha256": "4970c934628cba72e95cfb7b6429cfc4b039f3fe7017ec118157b7b7cdf250d6"
+    },
+    "ch2_09b_strm_1.ymap": {
+      "bytes": 17747,
+      "sha256": "ae83a101cf5337a1ff5d79a880fc356a636dc9e60f724acf9489a387eed46384"
+    },
+    "ch2_occl_02.ymap": {
+      "bytes": 18360,
+      "sha256": "69b2c8c570a24953f9d12437b0a540f845558f54d41773239503fa44883efa88"
+    },
+    "cidade_mansao.ybn": {
+      "bytes": 249579,
+      "sha256": "0985499fa1a6b6e81268ce9e15744d65b8690b7e287e18d8fd31f1bf095e12f3"
+    },
+    "cidade_mansao.ymap": {
+      "bytes": 1295,
+      "sha256": "6af3925abc6204881f8a0eb06c69d95078a180a65e641d9433231469cb3d6124"
+    },
+    "cidade_mansao.ytyp": {
+      "bytes": 1277,
+      "sha256": "c207886d0eb6fd26c0fb2a1ae2d63837ba4a46d8c048a3128990bf9ebd1a4eb6"
+    },
+    "hei_ch2_09b_1.ybn": {
+      "bytes": 181252,
+      "sha256": "e819d64a81d68d23a29bbeed6a7e3d58482f55c12ee71cead4decc3befa37c48"
+    },
+    "hei_ch2_09b_3.ybn": {
+      "bytes": 184069,
+      "sha256": "4777c0b2812ae3ed63eca0ea563700bcde35df3de2e5cfffad77995992dd85f7"
+    },
+    "hei_ch2_09b_long_0.ymap": {
+      "bytes": 6232,
+      "sha256": "8c0ae82a70ae25a966b7d112407582e230d64d9955f93ed2ed9c246bfdcd05d5"
+    },
+    "hei_ch2_09b_strm_0.ymap": {
+      "bytes": 19810,
+      "sha256": "2bbff3331c11df11038def2ec386099b3db0290467947e0859a7853eb9441753"
+    },
+    "hei_ch2_09b_strm_1.ymap": {
+      "bytes": 17751,
+      "sha256": "e4bd6a74a02b516b1302c41855886114666d1d8cfe5cb6e4facfca6c6961bf52"
+    },
+    "hi@apa_ch2_09b_1.ybn": {
+      "bytes": 203569,
+      "sha256": "0652262f64d56b9cb75e5903fbbd59cf50b5c519cfd13b41d9605c7285a23194"
+    },
+    "hi@apa_ch2_09b_3.ybn": {
+      "bytes": 130020,
+      "sha256": "52558bd8b58664165a2d120fca12596e09c9cad8b8f76b556fca36eeb8bd145d"
+    },
+    "hi@ch2_09b_1.ybn": {
+      "bytes": 204370,
+      "sha256": "27afecb94653886a86d4a4fc9c11307e0252b4bf69425cd88844dd1805f04d39"
+    },
+    "hi@ch2_09b_3.ybn": {
+      "bytes": 130020,
+      "sha256": "ebda38be49f43e0437dc80007abbff07043c79500d6efc3a2bc067fe16fc3520"
+    },
+    "hi@hei_ch2_09b_1.ybn": {
+      "bytes": 204369,
+      "sha256": "26df5ca5a29a477086713b2ba5b07bf6eef0684b1ca9942af188af5685318e3d"
+    },
+    "hi@hei_ch2_09b_3.ybn": {
+      "bytes": 130020,
+      "sha256": "492f26a3f901fa318d80f35bbc0a66ff581ff872a24fcb460fac41a683f46aab"
+    },
+    "mansao_escada.ydr": {
+      "bytes": 3505871,
+      "sha256": "5bdaebea354ffc4b677dcc1602f902bd4781e1be92b46e817bb1b51ae043094b"
+    },
+    "mansao_ilha.ydr": {
+      "bytes": 16492616,
+      "sha256": "f47d0ef3944e22fd18e43224ea44b52e22a6a36e8c1f71f1f804aefab87989e6"
+    },
+    "mansao_jantar.ydr": {
+      "bytes": 19702950,
+      "sha256": "ffd38a5ba3eff1edb4e45b875e2c6b32c7ba8d59cba2ceaf37d8e47be4154122"
+    },
+    "mansao_mobiliario.ydr": {
+      "bytes": 38591139,
+      "sha256": "8985b15dfa99889187b27e7e6de1cb4bf5d622f18f2b00b0718f41a0f0254388"
+    },
+    "mansao_paredes.ydr": {
+      "bytes": 9823588,
+      "sha256": "7854cb5508e8da64e4306885bb5f5a1b9b85da987b9ec6849752050f8a57cac6"
+    },
+    "mansao_pendentes.ydr": {
+      "bytes": 21629967,
+      "sha256": "6ca06bb9f1de26ebc30eb204598e70d23af347e0a1fe2b05722e9e3dfae2840c"
+    },
+    "mansao_pisos.ydr": {
+      "bytes": 3415236,
+      "sha256": "e66df7c10cd06c6e38969aafecc583e9c98cb8c02a86cdf856f426ab75268ee7"
+    },
+    "mansao_porta_madeira_095.ydr": {
+      "bytes": 4601436,
+      "sha256": "1455d37b83ec2d8f1ceed80a70f42b65afe34499acf6a01446d55d984d259adf"
+    },
+    "mansao_teto.ydr": {
+      "bytes": 3387,
+      "sha256": "e641019ff82a391b7776b4b260714fe6eb1f33972aa80b4e9f7a48f2454a0be8"
+    },
+    "mansao_vidros.ydr": {
+      "bytes": 6566,
+      "sha256": "0ad5029200bddd58bef5fd1b8bd25c83f767a18abc877a29dcb72d621d6b5a44"
+    }
+  },
+  "collision_triangles": 15458,
+  "camera_only_world_triangles": 15458,
+  "camera_include_flags": 4194304,
+  "static_map_type_flags": 62,
+  "wood_collision_material": 72,
+  "native_roundtrip": true,
+  "in_game_test": false,
+  "installed_files_match": true,
+  "installation_directory": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_mansao\\stream",
+  "activation_requires_resource_reload": true
+}

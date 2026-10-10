@@ -1,0 +1,64 @@
+{
+  "id": 8,
+  "nome": "Mercearia_sobrado",
+  "arquivo": "08_Mercearia_sobrado.blend",
+  "dimensoes": [
+    10,
+    8,
+    6.4
+  ],
+  "interiores": [
+    {
+      "pavimento": 1,
+      "uso": "mercearia",
+      "itens": [
+        "balcao",
+        "caixa",
+        "estantes",
+        "produtos",
+        "estoque"
+      ]
+    },
+    {
+      "pavimento": 2,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "mesa",
+        "banheiro",
+        "armario"
+      ]
+    }
+  ],
+  "aberturas": [
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 5.0,
+      "largura": 2.25,
+      "z": 0,
+      "altura": 2.4
+    },
+    {
+      "tipo": "vao_escada",
+      "z": 3.2,
+      "limites": [
+        3.2,
+        4.76,
+        -2.6,
+        2.65
+      ]
+    }
+  ],
+  "objetos": 1484,
+  "vertices": 42062,
+  "texturas_empacotadas": [
+    "Referencia_original_08"
+  ],
+  "texturas_fornecidas": {
+    "parede": 5,
+    "madeira": 4
+  },
+  "refinamento_aplicado": true,
+  "passagens_conferidas": true
+}

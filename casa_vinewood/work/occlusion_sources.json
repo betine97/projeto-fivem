@@ -1,0 +1,522 @@
+[
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_00.ymap",
+    "file": "apa_ch2_occl_00.ymap",
+    "bytes": 15241
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_01.ymap",
+    "file": "apa_ch2_occl_01.ymap",
+    "bytes": 17896
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_02.ymap",
+    "file": "apa_ch2_occl_02.ymap",
+    "bytes": 18500
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_03.ymap",
+    "file": "apa_ch2_occl_03.ymap",
+    "bytes": 19003
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_04.ymap",
+    "file": "apa_ch2_occl_04.ymap",
+    "bytes": 15977
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_05.ymap",
+    "file": "apa_ch2_occl_05.ymap",
+    "bytes": 19357
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_06.ymap",
+    "file": "apa_ch2_occl_06.ymap",
+    "bytes": 18716
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpapartment/x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_07.ymap",
+    "file": "apa_ch2_occl_07.ymap",
+    "bytes": 20797
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_00.ymap",
+    "file": "hei_dt1_occl_00.ymap",
+    "bytes": 16644
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_01.ymap",
+    "file": "hei_dt1_occl_01.ymap",
+    "bytes": 14798
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_02.ymap",
+    "file": "hei_dt1_occl_02.ymap",
+    "bytes": 15152
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_03.ymap",
+    "file": "hei_dt1_occl_03.ymap",
+    "bytes": 13601
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_04.ymap",
+    "file": "hei_dt1_occl_04.ymap",
+    "bytes": 13252
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_05.ymap",
+    "file": "hei_dt1_occl_05.ymap",
+    "bytes": 19508
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_06.ymap",
+    "file": "hei_dt1_occl_06.ymap",
+    "bytes": 14961
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_07.ymap",
+    "file": "hei_dt1_occl_07.ymap",
+    "bytes": 19641
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/hollywood_01/hw1_occl.rpf|hei_hw1_occl_00.ymap",
+    "file": "hei_hw1_occl_00.ymap",
+    "bytes": 19570
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_citye/hollywood_01/hw1_occl.rpf|hei_hw1_occl_01.ymap",
+    "file": "hei_hw1_occl_01.ymap",
+    "bytes": 22863
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_00.ymap",
+    "file": "hei_bh1_occl_00.ymap",
+    "bytes": 18040
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_01.ymap",
+    "file": "hei_bh1_occl_01.ymap",
+    "bytes": 19227
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_02.ymap",
+    "file": "hei_bh1_occl_02.ymap",
+    "bytes": 19008
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_03.ymap",
+    "file": "hei_bh1_occl_03.ymap",
+    "bytes": 21490
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_04.ymap",
+    "file": "hei_bh1_occl_04.ymap",
+    "bytes": 19005
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_05.ymap",
+    "file": "hei_bh1_occl_05.ymap",
+    "bytes": 18865
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_06.ymap",
+    "file": "hei_bh1_occl_06.ymap",
+    "bytes": 19559
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/beverly_01/bh1_occl.rpf|hei_bh1_occl_07.ymap",
+    "file": "hei_bh1_occl_07.ymap",
+    "bytes": 21037
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/koreatown_01/kt1_occl.rpf|hei_kt1_occl_00.ymap",
+    "file": "hei_kt1_occl_00.ymap",
+    "bytes": 16427
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/koreatown_01/kt1_occl.rpf|hei_kt1_occl_01.ymap",
+    "file": "hei_kt1_occl_01.ymap",
+    "bytes": 15474
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/koreatown_01/kt1_occl.rpf|hei_kt1_occl_02.ymap",
+    "file": "hei_kt1_occl_02.ymap",
+    "bytes": 14387
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/koreatown_01/kt1_occl.rpf|hei_kt1_occl_03.ymap",
+    "file": "hei_kt1_occl_03.ymap",
+    "bytes": 16972
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_00.ymap",
+    "file": "hei_sm_occl_00.ymap",
+    "bytes": 18013
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_01.ymap",
+    "file": "hei_sm_occl_01.ymap",
+    "bytes": 18192
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_02.ymap",
+    "file": "hei_sm_occl_02.ymap",
+    "bytes": 16970
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_03.ymap",
+    "file": "hei_sm_occl_03.ymap",
+    "bytes": 19756
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_01/ch1_occl.rpf|hei_ch1_occl_00.ymap",
+    "file": "hei_ch1_occl_00.ymap",
+    "bytes": 14666
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_01/ch1_occl.rpf|hei_ch1_occl_01.ymap",
+    "file": "hei_ch1_occl_01.ymap",
+    "bytes": 18250
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_01/ch1_occl.rpf|hei_ch1_occl_02.ymap",
+    "file": "hei_ch1_occl_02.ymap",
+    "bytes": 16635
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_01/ch1_occl.rpf|hei_ch1_occl_03.ymap",
+    "file": "hei_ch1_occl_03.ymap",
+    "bytes": 18134
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_03/ch3_occl.rpf|hei_ch3_occl_00.ymap",
+    "file": "hei_ch3_occl_00.ymap",
+    "bytes": 23480
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_03/ch3_occl.rpf|hei_ch3_occl_01.ymap",
+    "file": "hei_ch3_occl_01.ymap",
+    "bytes": 23669
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_03/ch3_occl.rpf|hei_ch3_occl_02.ymap",
+    "file": "hei_ch3_occl_02.ymap",
+    "bytes": 20744
+  },
+  {
+    "path": "update\\update.rpf|dlc_patch/mpheist/x64/levels/gta5/_hills/cityhills_03/ch3_occl.rpf|hei_ch3_occl_03.ymap",
+    "file": "hei_ch3_occl_03.ymap",
+    "bytes": 25502
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_00.ymap",
+    "file": "ch2_occl_00.ymap",
+    "bytes": 15339
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_01.ymap",
+    "file": "ch2_occl_01.ymap",
+    "bytes": 18262
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_02.ymap",
+    "file": "ch2_occl_02.ymap",
+    "bytes": 18593
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_03.ymap",
+    "file": "ch2_occl_03.ymap",
+    "bytes": 19100
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_04.ymap",
+    "file": "ch2_occl_04.ymap",
+    "bytes": 15969
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_05.ymap",
+    "file": "ch2_occl_05.ymap",
+    "bytes": 19355
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_06.ymap",
+    "file": "ch2_occl_06.ymap",
+    "bytes": 18706
+  },
+  {
+    "path": "x64o.rpf|levels/gta5/_hills/cityhills_02/ch2_occl.rpf|ch2_occl_07.ymap",
+    "file": "ch2_occl_07.ymap",
+    "bytes": 20528
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|apa_ss1_occl_00.ymap",
+    "file": "apa_ss1_occl_00.ymap",
+    "bytes": 19475
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|apa_ss1_occl_01.ymap",
+    "file": "apa_ss1_occl_01.ymap",
+    "bytes": 22259
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|apa_ss1_occl_02.ymap",
+    "file": "apa_ss1_occl_02.ymap",
+    "bytes": 20759
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|apa_ss1_occl_03.ymap",
+    "file": "apa_ss1_occl_03.ymap",
+    "bytes": 20731
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_00.ymap",
+    "file": "apa_ch2_occl_00.ymap",
+    "bytes": 15241
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_01.ymap",
+    "file": "apa_ch2_occl_01.ymap",
+    "bytes": 17896
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_02.ymap",
+    "file": "apa_ch2_occl_02.ymap",
+    "bytes": 18502
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_03.ymap",
+    "file": "apa_ch2_occl_03.ymap",
+    "bytes": 19003
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_04.ymap",
+    "file": "apa_ch2_occl_04.ymap",
+    "bytes": 15977
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_05.ymap",
+    "file": "apa_ch2_occl_05.ymap",
+    "bytes": 19357
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_06.ymap",
+    "file": "apa_ch2_occl_06.ymap",
+    "bytes": 18653
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf|x64/levels/gta5/_hills/cityhills_02/ch2_occl.rpf|apa_ch2_occl_07.ymap",
+    "file": "apa_ch2_occl_07.ymap",
+    "bytes": 20527
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_00.ymap",
+    "file": "hei_dt1_occl_00.ymap",
+    "bytes": 16654
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_01.ymap",
+    "file": "hei_dt1_occl_01.ymap",
+    "bytes": 14849
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_02.ymap",
+    "file": "hei_dt1_occl_02.ymap",
+    "bytes": 14651
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_03.ymap",
+    "file": "hei_dt1_occl_03.ymap",
+    "bytes": 13512
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_04.ymap",
+    "file": "hei_dt1_occl_04.ymap",
+    "bytes": 13218
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_05.ymap",
+    "file": "hei_dt1_occl_05.ymap",
+    "bytes": 19509
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_06.ymap",
+    "file": "hei_dt1_occl_06.ymap",
+    "bytes": 15011
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/downtown_01/dt1_occl.rpf|hei_dt1_occl_07.ymap",
+    "file": "hei_dt1_occl_07.ymap",
+    "bytes": 19641
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_01/id1_occl.rpf|hei_id1_occl_00.ymap",
+    "file": "hei_id1_occl_00.ymap",
+    "bytes": 12007
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_01/id1_occl.rpf|hei_id1_occl_01.ymap",
+    "file": "hei_id1_occl_01.ymap",
+    "bytes": 15315
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_01/id1_occl.rpf|hei_id1_occl_02.ymap",
+    "file": "hei_id1_occl_02.ymap",
+    "bytes": 14467
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_01/id1_occl.rpf|hei_id1_occl_03.ymap",
+    "file": "hei_id1_occl_03.ymap",
+    "bytes": 15667
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_02/id2_occl.rpf|hei_id2_occl_00.ymap",
+    "file": "hei_id2_occl_00.ymap",
+    "bytes": 16436
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_02/id2_occl.rpf|hei_id2_occl_01.ymap",
+    "file": "hei_id2_occl_01.ymap",
+    "bytes": 21143
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_02/id2_occl.rpf|hei_id2_occl_02.ymap",
+    "file": "hei_id2_occl_02.ymap",
+    "bytes": 19091
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/indust_02/id2_occl.rpf|hei_id2_occl_03.ymap",
+    "file": "hei_id2_occl_03.ymap",
+    "bytes": 21673
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/port_01/po1_occl.rpf|hei_po1_occl_00.ymap",
+    "file": "hei_po1_occl_00.ymap",
+    "bytes": 11969
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/port_01/po1_occl.rpf|hei_po1_occl_01.ymap",
+    "file": "hei_po1_occl_01.ymap",
+    "bytes": 17138
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/port_01/po1_occl.rpf|hei_po1_occl_02.ymap",
+    "file": "hei_po1_occl_02.ymap",
+    "bytes": 14135
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/port_01/po1_occl.rpf|hei_po1_occl_03.ymap",
+    "file": "hei_po1_occl_03.ymap",
+    "bytes": 17315
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/scentral_01/sc1_occl.rpf|hei_sc1_occl_00.ymap",
+    "file": "hei_sc1_occl_00.ymap",
+    "bytes": 19234
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/scentral_01/sc1_occl.rpf|hei_sc1_occl_01.ymap",
+    "file": "hei_sc1_occl_01.ymap",
+    "bytes": 19236
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/scentral_01/sc1_occl.rpf|hei_sc1_occl_02.ymap",
+    "file": "hei_sc1_occl_02.ymap",
+    "bytes": 19533
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/scentral_01/sc1_occl.rpf|hei_sc1_occl_03.ymap",
+    "file": "hei_sc1_occl_03.ymap",
+    "bytes": 21327
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|hei_ss1_occl_00.ymap",
+    "file": "hei_ss1_occl_00.ymap",
+    "bytes": 19476
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|hei_ss1_occl_01.ymap",
+    "file": "hei_ss1_occl_01.ymap",
+    "bytes": 22261
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|hei_ss1_occl_02.ymap",
+    "file": "hei_ss1_occl_02.ymap",
+    "bytes": 20759
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_citye/sunset/ss1_occl.rpf|hei_ss1_occl_03.ymap",
+    "file": "hei_ss1_occl_03.ymap",
+    "bytes": 20727
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_00.ymap",
+    "file": "hei_sm_occl_00.ymap",
+    "bytes": 17468
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_01.ymap",
+    "file": "hei_sm_occl_01.ymap",
+    "bytes": 18113
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_02.ymap",
+    "file": "hei_sm_occl_02.ymap",
+    "bytes": 17027
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_cityw/santamon_01/sm_occl.rpf|hei_sm_occl_03.ymap",
+    "file": "hei_sm_occl_03.ymap",
+    "bytes": 18811
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_cs3_occl_00.ymap",
+    "file": "hei_cs3_occl_00.ymap",
+    "bytes": 17520
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_cs3_occl_01.ymap",
+    "file": "hei_cs3_occl_01.ymap",
+    "bytes": 19564
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_cs3_occl_02.ymap",
+    "file": "hei_cs3_occl_02.ymap",
+    "bytes": 17664
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_cs3_occl_03.ymap",
+    "file": "hei_cs3_occl_03.ymap",
+    "bytes": 20994
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_occl_meth_grp1.ymap",
+    "file": "hei_occl_meth_grp1.ymap",
+    "bytes": 871
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_occl_trailera_grp1.ymap",
+    "file": "hei_occl_trailera_grp1.ymap",
+    "bytes": 886
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_occl_trailerb_grp1.ymap",
+    "file": "hei_occl_trailerb_grp1.ymap",
+    "bytes": 888
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_occl_trailerc_grp1.ymap",
+    "file": "hei_occl_trailerc_grp1.ymap",
+    "bytes": 887
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_occl_trailerd_grp1.ymap",
+    "file": "hei_occl_trailerd_grp1.ymap",
+    "bytes": 885
+  },
+  {
+    "path": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf|x64/levels/gta5/_hills/country_03/cs3_occl.rpf|hei_occl_trailere_grp1.ymap",
+    "file": "hei_occl_trailere_grp1.ymap",
+    "bytes": 1314
+  }
+]

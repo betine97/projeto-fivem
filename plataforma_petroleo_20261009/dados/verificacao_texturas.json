@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "texture": "texturas/01_chapa_branca.png",
+      "passed": true,
+      "used_polygons": 648
+    },
+    {
+      "texture": "texturas/02_pintura_amarela.png",
+      "passed": true,
+      "used_polygons": 11648
+    },
+    {
+      "texture": "texturas/03_aco_enferrujado.png",
+      "passed": true,
+      "used_polygons": 4506
+    },
+    {
+      "texture": "texturas/04_metal_cinza.png",
+      "passed": true,
+      "used_polygons": 21946
+    },
+    {
+      "texture": "texturas/05_piso_antiderrapante.png",
+      "passed": true,
+      "used_polygons": 153
+    },
+    {
+      "name": "Pisadas texturizadas",
+      "passed": true,
+      "faces": 153
+    },
+    {
+      "name": "Geometria, parentes, colisao e controles preservados",
+      "passed": true
+    },
+    {
+      "texture": "texturas/01_chapa_branca.png",
+      "passed": true,
+      "used_polygons": 648
+    },
+    {
+      "texture": "texturas/02_pintura_amarela.png",
+      "passed": true,
+      "used_polygons": 11648
+    },
+    {
+      "texture": "texturas/03_aco_enferrujado.png",
+      "passed": true,
+      "used_polygons": 4506
+    },
+    {
+      "texture": "texturas/04_metal_cinza.png",
+      "passed": true,
+      "used_polygons": 21946
+    },
+    {
+      "texture": "texturas/05_piso_antiderrapante.png",
+      "passed": true,
+      "used_polygons": 153
+    },
+    {
+      "name": "Pisadas texturizadas",
+      "passed": true,
+      "faces": 153
+    }
+  ],
+  "in_game_verified": false
+}

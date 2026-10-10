@@ -1,0 +1,14 @@
+{
+  "resource": "cidade_jeans_chamas",
+  "installed": true,
+  "files_verified": {
+    "client.lua": "952c8f29ec7f1fcd23dbd98fbcbfe5d7e058315d602dbc4e5d519ea459146ade",
+    "data\\shop.meta": "3824cb9997d002f4ae832bacab8d65d06c5ecf65a005b1d32719d6111fe16202",
+    "fxmanifest.lua": "5da0bdd1bb9394833ea05458edcdaa49f25621361c5d728e6f18bc9b998fed77",
+    "stream\\mp_m_freemode_01_cidade_jeans_chamas_r001.ymt": "7ac6317a2877910acbe4d061152b654016941053387f902687c6281f038d3723",
+    "stream\\mp_m_freemode_01_cidade_jeans_chamas_r001^lowr_000_r.ydd": "1501c4fc3e30d7bb825a807f6b9ad30d06e62f9f687e5bf9aedebdf0e5a1fdaa",
+    "stream\\mp_m_freemode_01_cidade_jeans_chamas_r001^lowr_diff_000_a_whi.ytd": "e1ed63a4310cbc9b70724ada1f9dd1db03f1c123409c3e45002309025565086c"
+  },
+  "server_reload_required": true,
+  "in_game_verified": false
+}

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "revision": "otimizacao-luz-ampla-2026-10-08",
+  "files": {
+    "stream/cidade_mansao.ymap": "56467b7719142ea519edbaf16773736b7f99c51d3ca37d0fca6e35d01bf2a798",
+    "stream/cidade_mansao.ytyp": "61cea2b15ec9a08ca03ddea344da52256d04214e6489e9ab0c67e3d9d66d2d47",
+    "stream/mansao_decoracao.ymap": "d7c265b99b5470c33d39780fd390b58ef9f4022a5bc291956a3ca35c4c81b796",
+    "stream/mansao_decoracao.ytyp": "a2fcf0673e684d186ee0255c1fe8cabea65f3fe82ddcfeaccc64c17b94de0be0",
+    "stream/mansao_escada.ydr": "bd6fd69edb2e2abd7e565ae3d593f5e854007167e5ba85d3a7918f4fa537e512",
+    "stream/mansao_ilha.ydr": "8c380ffae878ad28a3c08bac20f9a2738575ba8bbae95eec09a399e9a0b1250a",
+    "stream/mansao_jantar.ydr": "20075ab743027f3c38bebdf7494d53a44f0986998dc6ede9d7652fec81b41c76",
+    "stream/mansao_mobiliario.ydr": "c721c50ec79ddf45ab4477497187db7a92a33e73a8cce8ca46b314c2af7fa441",
+    "stream/mansao_paredes.ydr": "ca151788b8aeda1b78abc2962a537989c1f63ca03e93587d2f22e69cca65bbef",
+    "stream/mansao_pendentes.ydr": "644c8341579e25b36b81f510dbeefce725561a8f9cb570f20591f5b94e283859",
+    "stream/mansao_pisos.ydr": "22d841bcc98d33ccd09ce06e0018eb4640d6ba5f59b7958bca9b113987b1c2ba",
+    "stream/mansao_porta_madeira_095.ydr": "0c83c9c3f02c8974a939184725a78fe49b0b05977d8ce71353f450516d5ae46e",
+    "stream/mansao_tapete_sala.ydr": "9d566f018fb658c3d6cec947ac9a2463197545fa6d8b8d9f92c1abac3018ce42",
+    "stream/mansao_tv.ydr": "daa895c9b29e709a7a68c45bec24c81e2dd0df56bcd925367038d27001f8298a",
+    "iluminacao_decorativa.lua": "05db8923e78c607de5cf4f27842e0594d048e920ff108f74387e8b927cee0003",
+    "luzes_pendentes.lua": "6c9334359028bc17d618c5eec39dc9afe816126b4981a37a3e56c25f3663ba58",
+    "iluminacao_ambiente.json": "268b4d819f31fca738d36fb69d776957b8fd8ccf467a70f3ec309c9cb4cebb9d",
+    "fxmanifest.lua": "35f8c2be226baba1e3377620efaeecdb0e9f88aed38d23207be710de3762eae2"
+  },
+  "unrelated_files_preserved": 48,
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_otimizacao_20261008_094951",
+  "immediate_backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\otimizacao_20261008\\backup_imediato_instalacao",
+  "resource_reload_required": true,
+  "game_verified": false
+}

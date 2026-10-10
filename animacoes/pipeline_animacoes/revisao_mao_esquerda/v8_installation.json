@@ -1,0 +1,76 @@
+{
+  "revision": "v8-saida-restaurada",
+  "installed_on_disk": true,
+  "server_restarted": false,
+  "game_tested": false,
+  "root_cause_confirmed_in_live_log": true,
+  "source_log": "CitizenFX_log_2026-10-07T194654.log",
+  "scripts": [
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\prone.lua",
+      "sha256": "2d5cd9670311c4e4d1da33569c8a3cc0dfaa189564616427581c62e3c3242fa6"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\cover.lua",
+      "sha256": "54a087bc9f700e3c96d1995e9b51923018c6a26d65b2414c56cf706dd9b0243f"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\combat_weapon.lua",
+      "sha256": "b84fc93a0367170286d8b2ae7dc2e9f3be874fda8f23860134bd5ad5e03bbb75"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\combat_mounts.lua",
+      "sha256": "52f1b23f1d0f6989ac73649825727fb058e2438ca6c89ede634574cafb1f5b8a"
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\fxmanifest.lua",
+      "sha256": "8da5dc715abc7dcf5668e417022748d0d5ee02a8888f5f589d28c5c2169a9827"
+    }
+  ],
+  "preserved_ycd": [
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\stream\\cidade_ajoelhado_v6_ak.ycd",
+      "sha256": "cf5f1e457c3d41fa3a26abe2be39f170ac6ddc20ee6d27c405386ed3684bd798",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\stream\\cidade_deitado_v6_ak.ycd",
+      "sha256": "a52ada8f5e2d5acbaa79ea68f1726b9c74573b995f6ced2154a63a9b6f0519a2",
+      "unchanged": true
+    },
+    {
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_core\\stream\\cidade_sentado_v6_ak.ycd",
+      "sha256": "fbf1c52add396cd475daf8a0cd0bc75d0ee34bdffde3d5594cc7008e72e390f2",
+      "unchanged": true
+    }
+  ],
+  "runtime_checks": {
+    "revision": "v8-saida-restaurada",
+    "game_tested": false,
+    "mock_only": true,
+    "repeated_reload_cycles": 72,
+    "physical_c_z_cycles": 80,
+    "rifles": 2,
+    "postures": 3,
+    "async_tasks": true,
+    "native_reload_recovery": true,
+    "playing_task_bad_bone_recovery": true,
+    "reload_timer_preserved_during_repair": true,
+    "recovery_rate_limited": true,
+    "transient_angles_ignored": true,
+    "no_per_bullet_force_update": true,
+    "all_ik_restored": true,
+    "dictionary_retained_until_shutdown": true,
+    "history_limit": 200,
+    "source_sha256": "2d5cd9670311c4e4d1da33569c8a3cc0dfaa189564616427581c62e3c3242fa6"
+  },
+  "exit_checks": {
+    "mock_only": true,
+    "game_tested": false,
+    "old_v7_coroutine_crash_reproduced": true,
+    "shoot_kneel_stand_reenter_prone_cycles": 60,
+    "cleanup_exceptions_survived": 30,
+    "native_ik_restored": true,
+    "unknown_native_stubs_forbidden": true
+  }
+}

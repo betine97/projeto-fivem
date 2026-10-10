@@ -1,0 +1,24 @@
+{
+  "revision": "v5-contatos-recarga",
+  "installed_on_disk": true,
+  "game_tested": false,
+  "reload_regressions": 48,
+  "rifles": [
+    "carbinerifle",
+    "assaultrifle"
+  ],
+  "postures": [
+    "ajoelhado",
+    "deitado",
+    "sentado_no_chao"
+  ],
+  "native_bones": 98,
+  "dictionaries": 6,
+  "xml_and_binary_roundtrip": true,
+  "ik_test_passed": true,
+  "max_ik_error_m": 1.4843438828063768e-05,
+  "fk_and_ik_visual_bake_export": true,
+  "reload_lower_body_drift_m": 0,
+  "original_blends_modified": false,
+  "server_restarted": false
+}

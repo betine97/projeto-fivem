@@ -1,0 +1,74 @@
+{
+  "spawn": {
+    "x": -441.5994254069648,
+    "y": -87.76468270902444,
+    "z": 19.15,
+    "heading": 90.0,
+    "model": "a_m_y_business_01"
+  },
+  "sea_level": 0,
+  "limits": {
+    "minX": -1450,
+    "maxX": 1450,
+    "minY": -1700,
+    "maxY": 1700
+  },
+  "water_quads": 287,
+  "revision": "ilha-20261009-porto-entrada-2",
+  "natural_sample": {
+    "spawn": {
+      "x": -717.5777997784631,
+      "y": -170,
+      "z": 17.940252685546874,
+      "heading": 180,
+      "model": "a_m_y_business_01"
+    },
+    "bounds": [
+      -819,
+      -408,
+      -651,
+      -132
+    ],
+    "counts": {
+      "palm": 55,
+      "tree": 12,
+      "rock": 65,
+      "bush": 95,
+      "grass": 460
+    },
+    "models": [
+      "ti_n_palm_med_01a",
+      "ti_n_palm_sm_01a",
+      "ti_n_palm_sm_01d",
+      "ti_n_tree_eucalip_01",
+      "ti_n_rock_1_a",
+      "ti_n_rock_2_a",
+      "ti_n_rock_4_c",
+      "ti_n_bush_med_01",
+      "ti_n_bush_med_03",
+      "ti_n_veg_grass_01_a",
+      "ti_n_veg_grass_01_b",
+      "ti_n_veg_grass_01_c"
+    ],
+    "source_models": {
+      "prop_palm_med_01a": "ti_n_palm_med_01a",
+      "prop_palm_sm_01a": "ti_n_palm_sm_01a",
+      "prop_palm_sm_01d": "ti_n_palm_sm_01d",
+      "prop_tree_eucalip_01": "ti_n_tree_eucalip_01",
+      "prop_rock_1_a": "ti_n_rock_1_a",
+      "prop_rock_2_a": "ti_n_rock_2_a",
+      "prop_rock_4_c": "ti_n_rock_4_c",
+      "prop_bush_med_01": "ti_n_bush_med_01",
+      "prop_bush_med_03": "ti_n_bush_med_03",
+      "prop_veg_grass_01_a": "ti_n_veg_grass_01_a",
+      "prop_veg_grass_01_b": "ti_n_veg_grass_01_b",
+      "prop_veg_grass_01_c": "ti_n_veg_grass_01_c"
+    }
+  },
+  "porto": {
+    "x": 242,
+    "y": -738,
+    "z": 5.98,
+    "heading": 180
+  }
+}

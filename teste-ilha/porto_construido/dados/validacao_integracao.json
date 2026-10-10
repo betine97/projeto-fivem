@@ -1,0 +1,643 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "piso_praca",
+      "passed": true,
+      "height": 4.829999923706055,
+      "expected": 4.83
+    },
+    {
+      "name": "piso_cais_pescadores",
+      "passed": true,
+      "height": 4.400000095367432,
+      "expected": 4.4
+    },
+    {
+      "name": "piso_pier",
+      "passed": true,
+      "height": 4.400000095367432,
+      "expected": 4.4
+    },
+    {
+      "name": "piso_cobertura_terminal",
+      "passed": true,
+      "height": 11.040109150456546,
+      "expected": null
+    },
+    {
+      "name": "piso_patio_cargas",
+      "passed": true,
+      "height": 4.590000152587891,
+      "expected": 4.59
+    },
+    {
+      "name": "piso_ponte",
+      "passed": true,
+      "height": 6.159999847412109,
+      "expected": null
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_01_02",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_01_03",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_01_04",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_01_05",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_02_02",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_02_03",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_02_04",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_02_05",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_02_06",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_03_02",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_03_03",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_03_04",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_03_05",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_03_06",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_04_02",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_04_03",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_04_04",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_04_05",
+      "passed": true
+    },
+    {
+      "name": "colisao_terreno_ti_terreno_04_06",
+      "passed": true
+    },
+    {
+      "name": "pista_preservada",
+      "passed": true
+    },
+    {
+      "name": "dez_modelos_corretos_91_instancias",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_01",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.12,
+        5.458
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_01",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_01",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_01_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_01_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_01_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_01_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_01_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_01_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_02",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.12,
+        5.458
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_02",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_02",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_02_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_02_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_02_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_02_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_02_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_02_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_03",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.0,
+        3.2,
+        6.32,
+        8.658
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_03",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_03",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_03_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_03_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_03_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_03_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_03_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_03_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_04",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.0,
+        3.2,
+        6.2,
+        6.4,
+        9.52,
+        11.968
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_04",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_04",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_04_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_04_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_04_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_04_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_04_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_04_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_05",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.0,
+        3.2,
+        6.2,
+        6.4,
+        9.52,
+        11.968
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_05",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_05",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_05_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_05_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_05_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_05_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_05_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_05_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_06",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.12,
+        5.458
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_06",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_06",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_06_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_06_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_06_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_06_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_06_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_06_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_07",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.0,
+        3.2,
+        6.32,
+        8.658
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_07",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_07",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_07_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_07_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_07_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_07_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_07_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_07_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_08",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.0,
+        3.2,
+        6.32,
+        8.658
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_08",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_08",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_08_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_08_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_08_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_08_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_08_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_08_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_09",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        3.12,
+        5.238
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_09",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_09",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_09_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_09_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_09_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_09_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_09_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_09_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "piso_interior_pe_estrutura_10",
+      "passed": true,
+      "heights": [
+        -0.2,
+        0.0,
+        5.135,
+        7.495
+      ]
+    },
+    {
+      "name": "texturas_usuario_pe_estrutura_10",
+      "passed": true
+    },
+    {
+      "name": "cobertura_solida_pe_estrutura_10",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_10_-0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_10_-0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_10_0_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_10_0_1.8",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_10_0.25_1",
+      "passed": true
+    },
+    {
+      "name": "passagem_pe_estrutura_10_0.25_1.8",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_01_coqueiro",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_02_imperial",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_03_caneleira",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_04_amendoeira",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_05_flamboyant",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_06_arvore_rua",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_07_reseda",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_08_ipe_amarelo",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_09_oliveira",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_10_castanhola",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_11_mangueira",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_12_bananeira",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_13_mangue",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_14_arbusto_costeiro",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_15_palmeira_ana",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_16_palma_azul",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_17_yucca",
+      "passed": true
+    },
+    {
+      "name": "vento_colisao_pe_veg_18_cerca_viva",
+      "passed": true
+    },
+    {
+      "name": "agua_limites_int16",
+      "passed": true
+    }
+  ],
+  "water": {
+    "removed": 477,
+    "added": 74,
+    "quads": 287,
+    "in_game_verified": false
+  },
+  "collision_source_checked": true,
+  "in_game_verified": false
+}

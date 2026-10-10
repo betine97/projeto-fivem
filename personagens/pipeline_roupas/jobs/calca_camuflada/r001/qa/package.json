@@ -1,0 +1,25 @@
+{
+  "status": "addon_packaged",
+  "in_game_verified": false,
+  "metadata": {
+    "collection": "cidade_calca_camuflada_r001",
+    "component": 4,
+    "drawables": 1,
+    "textures": 1,
+    "cross_component_rules": false,
+    "round_trip_verified": true
+  },
+  "test_commands": {
+    "apply": "provar_calca_camuflada",
+    "restore": "restaurar_calca_camuflada"
+  },
+  "base_manifest_sha256": "af7b451506806369279c5315d5eeedb063cd454138b94ac6061b3266be4d22b7",
+  "files": {
+    "client.lua": "b43de8b1db5382b3a70ceff859717546e630786fd8d293113f473424289d9d7a",
+    "data\\shop.meta": "3a880782a248a758a7bcbefa3f22d3f834b16779941fcbf9857cf2b65bb17fde",
+    "fxmanifest.lua": "5d7f58394c7829e6082234a256da0bbd40f40dd73863e96ff21ccd3d7cc1573f",
+    "stream\\mp_m_freemode_01_cidade_calca_camuflada_r001.ymt": "1dc7daa9c2d2d169a432a80f784e2e42449ae2bcc04c9bd54799bb21e9027ca4",
+    "stream\\mp_m_freemode_01_cidade_calca_camuflada_r001^lowr_000_r.ydd": "746ecf08c483ee23fff76dc2669ee07301694406319f46692a3ecd866fb1686f",
+    "stream\\mp_m_freemode_01_cidade_calca_camuflada_r001^lowr_diff_000_a_whi.ytd": "596073702aef8c2e050dfe0f40acc63a840f3d36d80c27ed2f83876f4171cb8e"
+  }
+}

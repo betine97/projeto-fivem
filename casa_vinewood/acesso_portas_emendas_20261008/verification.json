@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "door_runtime_cases": 108,
+  "geometry_cases": 372,
+  "doors": 8,
+  "in_game_verified": false
+}

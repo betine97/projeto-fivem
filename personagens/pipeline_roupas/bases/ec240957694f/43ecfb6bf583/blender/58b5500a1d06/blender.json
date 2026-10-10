@@ -1,0 +1,53 @@
+{
+  "ok": true,
+  "original_meshes_unchanged": true,
+  "original_mesh_count": 3,
+  "working_objects": 3,
+  "working_mesh_count": 3,
+  "all_lod_meshes_independent": true,
+  "poses": [
+    {
+      "rig": "VAR_lowr_001_r",
+      "bones": 128,
+      "test_action": "QA_FLEXAO_VAR_lowr_001_r",
+      "max_displacement_m": 0.6015139662679367
+    }
+  ],
+  "unresolved_external_textures": [
+    {
+      "material": "lowr_diff_001_a_whi",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker",
+      "connected_in_preview": false
+    },
+    {
+      "material": "lowr_diff_001_a_whi.001",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker",
+      "connected_in_preview": false
+    },
+    {
+      "material": "lowr_diff_001_a_whi.002",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker",
+      "connected_in_preview": false
+    },
+    {
+      "material": "lowr_diff_001_a_whi.003",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker",
+      "connected_in_preview": false
+    },
+    {
+      "material": "lowr_diff_001_a_whi.004",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker",
+      "connected_in_preview": false
+    }
+  ],
+  "in_game_validation": "pending",
+  "source_manifest_sha256": "cc87cf79ce495d982a557982ac4cae0330e21a31eb3381c40b55e4e3f4f52736",
+  "builder_sha256": "58b5500a1d06ba488e34588c5c2e0467213b5b84999844dd601341aaddf90699",
+  "blend_sha256": "365dbdf5110dbc36be46b5485c339c590abc5b9d469d73eca7a220e50d064caa",
+  "project": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\ec240957694f\\43ecfb6bf583\\blender\\58b5500a1d06\\base.blend"
+}

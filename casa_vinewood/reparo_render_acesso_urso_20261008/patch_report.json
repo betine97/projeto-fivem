@@ -1,0 +1,215 @@
+{
+  "native_render": [
+    {
+      "file": "ch2_09b_hs05.ydr",
+      "triangles_cut": 333,
+      "offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "original_shader_keys_preserved": true
+    },
+    {
+      "file": "ch2_09b_hs05_details.ydr",
+      "triangles_cut": 224,
+      "offset": [
+        1.64703369140625,
+        0.270751953125,
+        -0.0522613525390625
+      ],
+      "original_shader_keys_preserved": true
+    },
+    {
+      "file": "ch2_09b_l2.ydr",
+      "triangles_cut": 45,
+      "offset": [
+        6.81524658203125,
+        -6.431640625,
+        -10.677001953125
+      ],
+      "original_shader_keys_preserved": true
+    }
+  ],
+  "native_collision": [
+    {
+      "file": "apa_ch2_09b_0.ybn",
+      "primitives_cut": 133
+    },
+    {
+      "file": "apa_ch2_09b_1.ybn",
+      "primitives_cut": 15
+    },
+    {
+      "file": "apa_ch2_09b_2.ybn",
+      "primitives_cut": 3
+    },
+    {
+      "file": "apa_ch2_09b_3.ybn",
+      "primitives_cut": 66
+    },
+    {
+      "file": "ch2_09b_0.ybn",
+      "primitives_cut": 133
+    },
+    {
+      "file": "ch2_09b_1.ybn",
+      "primitives_cut": 15
+    },
+    {
+      "file": "ch2_09b_2.ybn",
+      "primitives_cut": 3
+    },
+    {
+      "file": "ch2_09b_3.ybn",
+      "primitives_cut": 66
+    },
+    {
+      "file": "hei_ch2_09b_0.ybn",
+      "primitives_cut": 133
+    },
+    {
+      "file": "hei_ch2_09b_1.ybn",
+      "primitives_cut": 15
+    },
+    {
+      "file": "hei_ch2_09b_2.ybn",
+      "primitives_cut": 3
+    },
+    {
+      "file": "hei_ch2_09b_3.ybn",
+      "primitives_cut": 66
+    },
+    {
+      "file": "hi@apa_ch2_09b_0.ybn",
+      "primitives_cut": 136
+    },
+    {
+      "file": "hi@apa_ch2_09b_1.ybn",
+      "primitives_cut": 22
+    },
+    {
+      "file": "hi@apa_ch2_09b_2.ybn",
+      "primitives_cut": 24
+    },
+    {
+      "file": "hi@apa_ch2_09b_3.ybn",
+      "primitives_cut": 19
+    },
+    {
+      "file": "hi@ch2_09b_0.ybn",
+      "primitives_cut": 136
+    },
+    {
+      "file": "hi@ch2_09b_1.ybn",
+      "primitives_cut": 22
+    },
+    {
+      "file": "hi@ch2_09b_2.ybn",
+      "primitives_cut": 24
+    },
+    {
+      "file": "hi@ch2_09b_3.ybn",
+      "primitives_cut": 19
+    },
+    {
+      "file": "hi@hei_ch2_09b_0.ybn",
+      "primitives_cut": 136
+    },
+    {
+      "file": "hi@hei_ch2_09b_1.ybn",
+      "primitives_cut": 22
+    },
+    {
+      "file": "hi@hei_ch2_09b_2.ybn",
+      "primitives_cut": 24
+    },
+    {
+      "file": "hi@hei_ch2_09b_3.ybn",
+      "primitives_cut": 19
+    }
+  ],
+  "occlusion": [
+    {
+      "file": "ch2_occl_02.ymap",
+      "opened": 1
+    },
+    {
+      "file": "apa_ch2_occl_02.ymap",
+      "opened": 1
+    }
+  ],
+  "palm": [
+    {
+      "file": "ch2_roads_critical_0.ymap",
+      "removed": [],
+      "parent_links_reindexed": 443
+    },
+    {
+      "file": "ch2_roads_critical_1.ymap",
+      "removed": [],
+      "parent_links_reindexed": 262
+    },
+    {
+      "file": "ch2_roads_long_0.ymap",
+      "removed": [
+        {
+          "index": 205,
+          "model": "prop_palm_sm_01d",
+          "position": [
+            -962.0709838867188,
+            692.6309204101562,
+            155.9825439453125
+          ]
+        }
+      ],
+      "parent_links_reindexed": 269
+    },
+    {
+      "file": "ch2_roads_long_1.ymap",
+      "removed": [],
+      "parent_links_reindexed": 77
+    },
+    {
+      "file": "ch2_roads_strm_0.ymap",
+      "removed": [],
+      "parent_links_reindexed": 83
+    },
+    {
+      "file": "ch2_roads.ymap",
+      "removed_lod_index": 40
+    }
+  ],
+  "rug": {
+    "visual_bounds": [
+      [
+        -1.8749966621398926,
+        -1.3856966495513916,
+        0.003000000026077032
+      ],
+      [
+        1.8749966621398926,
+        1.3856931924819946,
+        0.24390806257724762
+      ]
+    ],
+    "physical_bounds_before": [
+      [
+        -0.35999998450279236,
+        -1.1896331310272217,
+        0.003000000026077032
+      ],
+      [
+        0.35999998450279236,
+        -0.33463314175605774,
+        0.24090805649757385
+      ]
+    ],
+    "silhouette_area": 5.693677801094293,
+    "flat_collider_triangles": 2060,
+    "flat_collider_height": 0.012,
+    "targeted_prerender": true,
+    "distance": 220,
+    "visual_mesh_and_materials_unchanged": true
+  }
+}

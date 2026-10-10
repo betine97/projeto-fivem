@@ -1,0 +1,13 @@
+{
+  "revision": 3,
+  "native_foot_complete": true,
+  "native_foot_vertices": 660,
+  "native_foot_uv_sha256": "af6d41ceb5c14e6d9c63e944b5b9988f05bd278bdf675011d65093b5ab35c22f",
+  "ankle_upper_cut_z": -0.77,
+  "sleeve_weights": "barycentric native upper body surface weights, max 4 influences",
+  "clothing_uv_unchanged": {
+    "CAMISA_ESTAMPADA": "03c051f830d594f40884458b2851608dbf84f29713000bfc6e928cf26cf09f88",
+    "CALCA_BEGE": "20d0ff8c06bd651368424b9e190853d7463d0868baa840435b89ac77469619d5",
+    "MOCASSINS_MARRONS": "e3e0bb3a9c1a1b335a2877a2750f954f5ed8c0478af28c3323930643b59e663b"
+  }
+}

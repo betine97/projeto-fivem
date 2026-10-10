@@ -1,0 +1,106 @@
+{
+  "revision": "vaso-autoral-2026-10-08",
+  "references": {
+    "reference": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-29f03579-fb64-42f9-9ec8-161c133f2ba1.png",
+      "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\vaso_planta\\reference.png",
+      "sha256": "b9cbb16d0c4e0411a75e2d4886303b3ea6bc1281c65fad7e92fd4c2eb400dfde"
+    },
+    "leaves": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-c81e305f-676a-4e71-9c1f-0b19e6e1946a.png",
+      "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\vaso_planta\\leaves.png",
+      "sha256": "b2ccb58d7bf082aa924cc22b05be6b2e711307f5e594d76e9ebde736c5d2d9e9"
+    },
+    "bark": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-298df031-7420-488a-bc7e-660b2213b2e5.png",
+      "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\vaso_planta\\bark.png",
+      "sha256": "3684de27e22b39b63ddb0f9c6dd9195a7fc7e671cebf4d8e869f1e99372c73aa"
+    },
+    "pot": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-cdf224ed-775e-4d79-aac6-a2bce68d2ea3.png",
+      "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\vaso_planta\\pot.png",
+      "sha256": "b2a52f9e452caad4c74762b573636c532362995ebdd53ee82f58ef47bc9105a0"
+    }
+  },
+  "model": "mansao_vaso_folhagem",
+  "in_game_verified": false,
+  "lo": [
+    -0.6189349293708801,
+    -0.6932548880577087,
+    0.0
+  ],
+  "hi": [
+    0.6373454928398132,
+    0.6641393303871155,
+    2.252333164215088
+  ],
+  "dimensions": [
+    1.2562804222106934,
+    1.3573942184448242,
+    2.252333164215088
+  ],
+  "pot_height_m": 0.632,
+  "pot_diameter_m": 0.662,
+  "pot_wall_thickness_m": 0.028,
+  "leaves": 306,
+  "main_trunks": 6,
+  "triangles": 85400,
+  "leaf_geometry_closed": true,
+  "reference_uv_mapping": true,
+  "texture_resolution": 2048,
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "instances": [
+    {
+      "name": "Vaso autoral sala",
+      "position": [
+        -7.65,
+        -2.45,
+        -0.8
+      ],
+      "heading": 0,
+      "quaternion": [
+        1.0,
+        0,
+        0,
+        -0.0
+      ],
+      "door_swing_clear": true,
+      "wall_clearance_m": 0.7720645523071283,
+      "crown_footprint": [
+        -8.268935203552246,
+        -3.1432549953460693,
+        -7.012654781341553,
+        -1.7858607769012451
+      ]
+    },
+    {
+      "name": "Vaso autoral hall escada",
+      "position": [
+        4.9,
+        0.4,
+        -0.8
+      ],
+      "heading": 0.4537856055185257,
+      "quaternion": [
+        0.9743700647852352,
+        0,
+        0,
+        -0.224951054343865
+      ],
+      "door_swing_clear": true,
+      "wall_clearance_m": 0.4906718736886978,
+      "crown_footprint": [
+        4.2841057777404785,
+        -0.24432848393917084,
+        5.573129177093506,
+        1.0118495225906372
+      ]
+    }
+  ],
+  "collision_triangles": 200,
+  "collision_only_pot": true
+}

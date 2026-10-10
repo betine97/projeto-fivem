@@ -1,0 +1,90 @@
+{
+  "game_tested": false,
+  "skeleton_unchanged": true,
+  "assets": {
+    "cidade_deitado_move_v11": [
+      "cidade_deitado_move_v11_parado",
+      "cidade_deitado_move_v11_rastejar_bwd",
+      "cidade_deitado_move_v11_rastejar_fwd",
+      "cidade_deitado_move_v11_rastejar_left",
+      "cidade_deitado_move_v11_rastejar_right"
+    ],
+    "cidade_agachado_move_v11": [
+      "cidade_agachado_move_v11_rapido_armado_bwd",
+      "cidade_agachado_move_v11_rapido_armado_fwd",
+      "cidade_agachado_move_v11_rapido_armado_left",
+      "cidade_agachado_move_v11_rapido_armado_right",
+      "cidade_agachado_move_v11_rapido_livre_bwd",
+      "cidade_agachado_move_v11_rapido_livre_fwd",
+      "cidade_agachado_move_v11_rapido_livre_left",
+      "cidade_agachado_move_v11_rapido_livre_right"
+    ]
+  },
+  "clips": {
+    "parado": {
+      "frames": 31,
+      "duration": 1.0,
+      "mover": false
+    },
+    "rastejar_fwd": {
+      "frames": 28,
+      "duration": 0.9,
+      "mover": true
+    },
+    "rastejar_bwd": {
+      "frames": 32,
+      "duration": 1.0333333333333334,
+      "mover": true
+    },
+    "rastejar_left": {
+      "frames": 28,
+      "duration": 0.9,
+      "mover": true
+    },
+    "rastejar_right": {
+      "frames": 28,
+      "duration": 0.9,
+      "mover": true
+    },
+    "rapido_livre_fwd": {
+      "frames": 62,
+      "duration": 2.033333333333333,
+      "mover": true
+    },
+    "rapido_livre_bwd": {
+      "frames": 83,
+      "duration": 2.7333333333333334,
+      "mover": true
+    },
+    "rapido_livre_left": {
+      "frames": 85,
+      "duration": 2.8,
+      "mover": true
+    },
+    "rapido_livre_right": {
+      "frames": 21,
+      "duration": 0.6666666666666666,
+      "mover": true
+    },
+    "rapido_armado_fwd": {
+      "frames": 62,
+      "duration": 2.033333333333333,
+      "mover": true
+    },
+    "rapido_armado_bwd": {
+      "frames": 83,
+      "duration": 2.7333333333333334,
+      "mover": true
+    },
+    "rapido_armado_left": {
+      "frames": 85,
+      "duration": 2.8,
+      "mover": true
+    },
+    "rapido_armado_right": {
+      "frames": 21,
+      "duration": 0.6666666666666666,
+      "mover": true
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "blend_reopened": true,
+  "textures_packed": true,
+  "metric_scale": true,
+  "evaluated_triangles_with_bevels": 66247,
+  "passage_checks": [
+    {
+      "route": "entrada principal",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "foyer para festas",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "foyer para cozinha",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "foyer para apoio",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "quarto funcionarios",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "suite frontal esquerda",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "suite frontal direita",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "suite fundos esquerda",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "suite fundos direita",
+      "clear": true,
+      "blocking_object": null
+    },
+    {
+      "route": "acesso sala reuniao",
+      "clear": true,
+      "blocking_object": null
+    }
+  ],
+  "floor_checks": [
+    {
+      "floor": "terreo",
+      "height_m": 0.7000000476837158,
+      "normal_up": true
+    },
+    {
+      "floor": "primeiro",
+      "height_m": 4.900000095367432,
+      "normal_up": true
+    },
+    {
+      "floor": "ultimo",
+      "height_m": 9.100000381469727,
+      "normal_up": true
+    }
+  ],
+  "actual_stair_risers_verified": 48,
+  "in_game_verified": false
+}

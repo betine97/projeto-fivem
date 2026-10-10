@@ -1,0 +1,20 @@
+{
+  "revision": "v8-saida-restaurada",
+  "game_tested": false,
+  "mock_only": true,
+  "repeated_reload_cycles": 72,
+  "physical_c_z_cycles": 80,
+  "rifles": 2,
+  "postures": 3,
+  "async_tasks": true,
+  "native_reload_recovery": true,
+  "playing_task_bad_bone_recovery": true,
+  "reload_timer_preserved_during_repair": true,
+  "recovery_rate_limited": true,
+  "transient_angles_ignored": true,
+  "no_per_bullet_force_update": true,
+  "all_ik_restored": true,
+  "dictionary_retained_until_shutdown": true,
+  "history_limit": 200,
+  "source_sha256": "2d5cd9670311c4e4d1da33569c8a3cc0dfaa189564616427581c62e3c3242fa6"
+}

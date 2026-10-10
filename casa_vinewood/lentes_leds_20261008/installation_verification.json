@@ -1,0 +1,22 @@
+{
+  "installed": true,
+  "changed": {
+    "iluminacao_ambiente.json": "683553bd7f183c2b6171bc5ae1c543b4979d13b1de4c5e0c0e6ebec430e81bbd",
+    "iluminacao_decorativa.lua": "143e04cce6bdf99f24e74a9b0c580408b2f3a9c41adec7f9f5e239ea4834629a",
+    "luzes_pendentes.json": "a36af83cfa7d3f91d16019108f29a42c65c894c64230d41074dec7f0064a1db9",
+    "README.md": "72e4e35f2088e33addcc31f1c7d33e6b36c5dd211d50588048f916123aa0e568",
+    "stream/mansao_pendentes.ydr": "1b2aa220005f3512c58178ffe60e7a1d6667d8a11f0e1fb56281293087f81037",
+    "stream/mansao_spots_led.ydr": "6649b395b0da29ed048ece1160c4bae7e44ceefdf60e499a8e59539fbbaf8783",
+    "stream/mansao_spot_embutido.ydr": "54ff01cf20ac189a5d514bc5f6ff980fbecec9926beb9940daaa64797d914f82",
+    "stream/mansao_tv.ydr": "0af0222738c6bb2ea763e533c1f14908b522b1ff4019d13d4332704da06484ad"
+  },
+  "unrelated_live_files_preserved": 95,
+  "native_sources": 120,
+  "white_ceiling_lens_lods": 4,
+  "yellow_filled_cylinder_faces": 6,
+  "yellow_stair_led_sources": 20,
+  "yellow_tv_led_sources": 3,
+  "maps_manifest_prop_positions_and_other_resources_unmodified": true,
+  "server_restarted": false,
+  "in_game_visual_verified": false
+}

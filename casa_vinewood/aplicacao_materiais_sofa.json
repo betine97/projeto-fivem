@@ -1,0 +1,138 @@
+{
+  "revision": "jantar-cozinha-2026-10-07",
+  "finish_objects": {
+    "marble": 7,
+    "wall": 98,
+    "brick": 2,
+    "metal": 42
+  },
+  "tv_wall_objects": [
+    "Revestimento continuo terreo 00 0",
+    "Revestimento continuo superior 00 0"
+  ],
+  "tv_wall_axis": "X",
+  "tv_wall_plane": -9.056,
+  "tv_wall_y_range": [
+    -11.6,
+    -6.1
+  ],
+  "sofa_original_triangles": 1044086,
+  "sofa_game_triangles": 120000,
+  "sofa_uniform_scale": 2.7330515384674072,
+  "sofa_rotation_z_degrees": -90,
+  "sofa_bounds": {
+    "lo": [
+      -5.745047569274902,
+      -11.399999618530273,
+      -0.7950000166893005
+    ],
+    "hi": [
+      -2.2549519538879395,
+      -6.200000286102295,
+      0.16510683298110962
+    ],
+    "dimensions": [
+      3.490095615386963,
+      5.1999993324279785,
+      0.9601068496704102
+    ]
+  },
+  "sofa_includes_coffee_table": true,
+  "source_uv_preserved": true,
+  "physics_components": 5,
+  "structural_dimensions_preserved": true,
+  "in_game_verified": false,
+  "sofa_quality": {
+    "original_triangles": 1044086,
+    "game_triangles": 120000,
+    "boundary_edges_before_welding": 115116,
+    "boundary_edges_after_optimization": 0,
+    "bounds": {
+      "lo": [
+        -5.745047569274902,
+        -11.399999618530273,
+        -0.7950000166893005
+      ],
+      "hi": [
+        -2.2549519538879395,
+        -6.200000286102295,
+        0.16510683298110962
+      ],
+      "dimensions": [
+        3.490095615386963,
+        5.1999993324279785,
+        0.9601068496704102
+      ]
+    },
+    "uniform_scale": 2.7330515384674072
+  },
+  "tv": {
+    "original_triangles": 1405278,
+    "game_triangles": 99998,
+    "boundary_edges_before_welding": 171950,
+    "boundary_edges_after_optimization": 0,
+    "bounds": {
+      "lo": [
+        -9.026000022888184,
+        -11.100000381469727,
+        -0.7950000166893005
+      ],
+      "hi": [
+        -8.07475757598877,
+        -6.5,
+        2.537886619567871
+      ],
+      "dimensions": [
+        0.9512424468994141,
+        4.600000381469727,
+        3.3328866958618164
+      ]
+    },
+    "uniform_scale": 2.4173786640167236,
+    "facing_positive_x": true,
+    "screen_uv_repair": {
+      "source_face": 51911,
+      "old_uv": [
+        [
+          0.8068150281906128,
+          0.2292180061340332
+        ],
+        [
+          0.8017107248306274,
+          0.2724687457084656
+        ],
+        [
+          0.7823317050933838,
+          0.24156096577644348
+        ]
+      ],
+      "new_uv": [
+        [
+          0.796702486038208,
+          0.2474992392063141
+        ],
+        [
+          0.797202486038208,
+          0.2474992392063141
+        ],
+        [
+          0.796952486038208,
+          0.2479992392063141
+        ]
+      ],
+      "reason": "Collapsed screen triangle sampled the neighboring wooden atlas island.",
+      "geometry_unchanged": true
+    }
+  },
+  "upper_wood_hall_bounds": [
+    -0.8,
+    6.4,
+    -3.85,
+    1.65
+  ],
+  "upper_floor_surface_m2": {
+    "wood": 39.60000228881836,
+    "marble": 323.2160140275955
+  },
+  "upper_wall_objects": 25
+}

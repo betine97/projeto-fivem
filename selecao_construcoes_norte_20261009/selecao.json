@@ -1,0 +1,340 @@
+{
+  "selected": [
+    {
+      "model": "cs1_05_house_03",
+      "source": "x64q.rpf|levels/gta5/_hills/country_01/cs1_05.rpf|cs1_05_house_03.ydr",
+      "diffuse_textures": [
+        "OS_ML_CRCanopy_0003",
+        "OS_ML_CRConcrete_0002",
+        "OS_ML_CRGuttering_0001",
+        "OS_ML_CRMetal_0004OS_ML_CRMetal_0004_A",
+        "OS_ML_CRRoofedges_0001",
+        "OS_ML_CRWallextras_0001",
+        "OS_ML_CRWalloverlay_0001",
+        "OS_ML_KTRoof_0002",
+        "im_steps_01",
+        "os_ml_crdoor_0002",
+        "os_ml_crwindow_0002",
+        "vc_roof01",
+        "vc_wall_plaster02",
+        "vc_wall_small_01"
+      ],
+      "placements": [
+        {
+          "map": "cs1_05_strm_1.ymap",
+          "position": [
+            -224.65728759765625,
+            6373.05078125,
+            32.74510955810547
+          ],
+          "rotation": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "native_parts": 1,
+      "collision_verified": false,
+      "in_game_verified": false,
+      "missing_diffuse": [],
+      "dimensions_m": [
+        16.27,
+        17.69,
+        4.88
+      ],
+      "triangles": 5252,
+      "image_frente": "previews/cs1_05_house_03_frente.png",
+      "image_verso": "previews/cs1_05_house_03_verso.png",
+      "title": "Casa com arcos e telhas",
+      "region": "Paleto Bay",
+      "description": "Alvenaria rebocada, grades, entrada em arco e telhas cerâmicas. É a opção que mais aproxima o conjunto do estilo pedido.",
+      "first_view": "verso",
+      "recommended": true,
+      "visually_reviewed": true,
+      "classification": "exterior em um drawable; nenhuma montagem de várias peças visuais",
+      "readiness": "seleção visual; colocação, colisão e funcionamento no FiveM pendentes"
+    },
+    {
+      "model": "cs1_05_house_01",
+      "source": "x64q.rpf|levels/gta5/_hills/country_01/cs1_05.rpf|cs1_05_house_01.ydr",
+      "diffuse_textures": [
+        "IM_Canopy05",
+        "IM_Doors01",
+        "MW_WhiteGrm_01",
+        "OS_ML_CRGuttering_0001",
+        "OS_ML_CRWallextras_0001",
+        "im_metal04os_ml_crmetal_0002_a",
+        "im_sidewalk003",
+        "im_steps_01",
+        "im_wall07",
+        "im_windows01",
+        "os_ml_crroofedges_0001",
+        "os_ml_crwall_0001",
+        "os_ml_crwall_0002",
+        "os_ml_crwall_0006",
+        "os_ml_crwalloverlay_0001",
+        "rsl_dr_mixbrick_0001",
+        "vc_roof01"
+      ],
+      "placements": [
+        {
+          "map": "cs1_05_strm_0.ymap",
+          "position": [
+            -301.50750732421875,
+            6322.521484375,
+            34.927223205566406
+          ],
+          "rotation": [
+            0.999848484992981,
+            0.0,
+            0.0,
+            0.01740601286292076
+          ]
+        }
+      ],
+      "native_parts": 1,
+      "collision_verified": false,
+      "in_game_verified": false,
+      "missing_diffuse": [],
+      "dimensions_m": [
+        21.25,
+        19.87,
+        6.97
+      ],
+      "triangles": 4960,
+      "image_frente": "previews/cs1_05_house_01_frente.png",
+      "image_verso": "previews/cs1_05_house_01_verso.png",
+      "title": "Casa com varanda e telhas",
+      "region": "Paleto Bay",
+      "description": "Paredes rebocadas, telhado cerâmico, varanda e trecho de muro incluído no modelo.",
+      "first_view": "verso",
+      "recommended": true,
+      "visually_reviewed": true,
+      "classification": "exterior em um drawable; nenhuma montagem de várias peças visuais",
+      "readiness": "seleção visual; colocação, colisão e funcionamento no FiveM pendentes"
+    },
+    {
+      "model": "cs1_05_house_02",
+      "source": "x64q.rpf|levels/gta5/_hills/country_01/cs1_05.rpf|cs1_05_house_02.ydr",
+      "diffuse_textures": [
+        "IM_Doors01",
+        "OS_ML_CRCanopy_0003",
+        "OS_ML_CRConcrete_0002",
+        "OS_ML_CRGuttering_0001",
+        "OS_ML_CRMetal_0004OS_ML_CRMetal_0004_A",
+        "OS_ML_CRRoofedges_0001",
+        "OS_ML_CRWallextras_0001",
+        "OS_ML_CRWalloverlay_0001",
+        "OS_ML_KTRoof_0002",
+        "dh_ch02_brickwall_06_painted",
+        "im_steps_01",
+        "im_windows01",
+        "os_ml_crroofs_0002",
+        "os_ml_crwall_0003",
+        "vc_wall_plaster01"
+      ],
+      "placements": [
+        {
+          "map": "cs1_05_strm_0.ymap",
+          "position": [
+            -241.63287353515625,
+            6365.7685546875,
+            32.73603057861328
+          ],
+          "rotation": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "native_parts": 1,
+      "collision_verified": false,
+      "in_game_verified": false,
+      "missing_diffuse": [],
+      "dimensions_m": [
+        19.66,
+        18.28,
+        4.57
+      ],
+      "triangles": 4124,
+      "image_frente": "previews/cs1_05_house_02_frente.png",
+      "image_verso": "previews/cs1_05_house_02_verso.png",
+      "title": "Casa térrea de alvenaria",
+      "region": "Paleto Bay",
+      "description": "Casa baixa, entrada com degraus e telhado de várias águas. Fachada simples e compacta.",
+      "first_view": "verso",
+      "recommended": false,
+      "visually_reviewed": true,
+      "classification": "exterior em um drawable; nenhuma montagem de várias peças visuais",
+      "readiness": "seleção visual; colocação, colisão e funcionamento no FiveM pendentes"
+    },
+    {
+      "model": "cs2_01_deshous_2",
+      "source": "x64r.rpf|levels/gta5/_hills/country_02/cs2_01.rpf|cs2_01_deshous_2.ydr",
+      "diffuse_textures": [
+        "CS2_01_RSL_mr_alphatpage",
+        "CS2_01_RSL_mr_alphatpageCS2_01_RSL_mr_alphatpage_a",
+        "CS2_01_RSL_mr_doorTpage3",
+        "CS2_01_RSL_mr_stoneTpage10",
+        "CS2_01_RSL_mr_stoneTpage9",
+        "CS2_01_RSL_mr_windowTpage9",
+        "CS2_01_RSL_mr_woodTpage6",
+        "CS2_01_RSL_mr_woodTpage7",
+        "OS_ML_SSRoof_0001"
+      ],
+      "placements": [
+        {
+          "map": "cs2_01_strm_0.ymap",
+          "position": [
+            1673.9180908203125,
+            4687.81884765625,
+            44.50281524658203
+          ],
+          "rotation": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "native_parts": 1,
+      "collision_verified": false,
+      "in_game_verified": false,
+      "missing_diffuse": [],
+      "dimensions_m": [
+        19.43,
+        18.07,
+        5.24
+      ],
+      "triangles": 3836,
+      "image_frente": "previews/cs2_01_deshous_2_frente.png",
+      "image_verso": "previews/cs2_01_deshous_2_verso.png",
+      "title": "Casa térrea com varanda",
+      "region": "Grapeseed",
+      "description": "Paredes em tom claro, janelas com grades e cobertura baixa. Corpo compacto, sem um lote grande anexado.",
+      "first_view": "frente",
+      "recommended": false,
+      "visually_reviewed": true,
+      "classification": "exterior em um drawable; nenhuma montagem de várias peças visuais",
+      "readiness": "seleção visual; colocação, colisão e funcionamento no FiveM pendentes"
+    },
+    {
+      "model": "cs2_01_deshous1",
+      "source": "x64r.rpf|levels/gta5/_hills/country_02/cs2_01.rpf|cs2_01_deshous1.ydr",
+      "diffuse_textures": [
+        "CS2_01_RSL_mr_doorTpage3",
+        "CS2_01_RSL_mr_stoneTpage9",
+        "CS2_01_RSL_mr_windowTpage9",
+        "CS2_01_RSL_mr_woodTpage6",
+        "CS2_01_RSL_mr_woodTpage7",
+        "DH_CH02_Wood08",
+        "IM_Roof06",
+        "IM_Wall_plaster38",
+        "im_wall_plaster39",
+        "im_woodwall_07",
+        "os_ml_bhcon_0001",
+        "os_ml_bhcon_0001_ql"
+      ],
+      "placements": [
+        {
+          "map": "cs2_01_strm_0.ymap",
+          "position": [
+            1659.640869140625,
+            4742.7666015625,
+            42.726871490478516
+          ],
+          "rotation": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "native_parts": 1,
+      "collision_verified": false,
+      "in_game_verified": false,
+      "missing_diffuse": [],
+      "dimensions_m": [
+        35.27,
+        30.48,
+        3.96
+      ],
+      "triangles": 4118,
+      "image_frente": "previews/cs2_01_deshous1_frente.png",
+      "image_verso": "previews/cs2_01_deshous1_verso.png",
+      "title": "Casa rural com lote",
+      "region": "Grapeseed",
+      "description": "Alvenaria clara, varanda coberta e trecho de muro. O modelo inclui parte do lote, exigindo mais espaço.",
+      "first_view": "frente",
+      "recommended": false,
+      "visually_reviewed": true,
+      "classification": "exterior em um drawable; nenhuma montagem de várias peças visuais",
+      "readiness": "seleção visual; colocação, colisão e funcionamento no FiveM pendentes"
+    },
+    {
+      "model": "cs2_01_house5",
+      "source": "x64r.rpf|levels/gta5/_hills/country_02/cs2_01.rpf|cs2_01_house5.ydr",
+      "diffuse_textures": [
+        "CS2_01_RSL_mr_doorTpage3",
+        "CS2_01_RSL_mr_windowTpage9",
+        "CS2_01_RSL_mr_woodTpage6",
+        "CS2_01_RSL_mr_woodTpage7",
+        "HW_RB_wood_planks_01",
+        "OS_ML_SSRoof_0001",
+        "SC01_RNAD_WoodBeam_0001",
+        "og_wood_panels"
+      ],
+      "placements": [
+        {
+          "map": "cs2_01_strm_0.ymap",
+          "position": [
+            1724.7869873046875,
+            4675.50439453125,
+            44.05448913574219
+          ],
+          "rotation": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "native_parts": 1,
+      "collision_verified": false,
+      "in_game_verified": false,
+      "missing_diffuse": [],
+      "dimensions_m": [
+        16.88,
+        16.4,
+        4.64
+      ],
+      "triangles": 4441,
+      "image_frente": "previews/cs2_01_house5_frente.png",
+      "image_verso": "previews/cs2_01_house5_verso.png",
+      "title": "Casa rural com duas varandas",
+      "region": "Grapeseed",
+      "description": "Casa simples do interior, com partes rebocadas e de madeira. Alternativa para áreas rurais da ilha.",
+      "first_view": "verso",
+      "recommended": false,
+      "visually_reviewed": true,
+      "classification": "exterior em um drawable; nenhuma montagem de várias peças visuais",
+      "readiness": "seleção visual; colocação, colisão e funcionamento no FiveM pendentes"
+    }
+  ],
+  "excluded": {
+    "cs1_05_house_04": "Aparência predominantemente de madeira; menos próxima da seleção de alvenaria.",
+    "cs2_01_deshous4": "Lote extenso e muro grande; menos prático para iniciar.",
+    "cs4_04_desert_house": "Peças soltas visíveis no mesmo drawable; exige limpeza antes de usar.",
+    "cs4_06_smallhouse": "Trailer; estilo fora do pedido e duas texturas ausentes na prévia.",
+    "cs3_04_house01": "Modelo incompleto: painéis e muros sem o corpo completo da casa.",
+    "cs3_04_house02": "Modelo incompleto: painéis e cercas sem o corpo completo da casa."
+  },
+  "game_installed": false
+}

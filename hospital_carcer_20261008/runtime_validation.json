@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "checks": [
+    "Malformed door ID rejected -1",
+    "Malformed door ID rejected 0",
+    "Malformed door ID rejected 37",
+    "Malformed door ID rejected 1.5",
+    "Malformed door ID rejected 1",
+    "Malformed door ID rejected None",
+    "Unauthorized door request rejected",
+    "Distant door request rejected",
+    "Opening broadcasts shared state",
+    "Transition cooldown prevents jitter",
+    "Closing on player rejected",
+    "Clear doorway closes",
+    "Joining client receives shared snapshot"
+  ],
+  "in_game_verified": false
+}

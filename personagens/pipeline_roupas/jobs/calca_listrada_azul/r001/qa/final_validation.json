@@ -1,0 +1,11 @@
+{
+  "status": "installed_and_registered",
+  "metadata_round_trip_verified": true,
+  "six_views_reviewed": true,
+  "installed_hashes_verified": true,
+  "source_preserved": true,
+  "in_game_verified": false,
+  "reload_required": true,
+  "native_export_test_passed": true,
+  "tablet_client_server_ui_http_tests_passed": true
+}

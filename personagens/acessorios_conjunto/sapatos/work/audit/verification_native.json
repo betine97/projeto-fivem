@@ -1,0 +1,445 @@
+{
+  "textures": {
+    "feet_diff_001_a_whi": {
+      "width": 256,
+      "height": 256,
+      "compressed": true,
+      "fourcc": "DXT1",
+      "mip_count": 7,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "feet_spec_001": {
+      "width": 256,
+      "height": 256,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 7,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "mocassins_marrons_normal": {
+      "width": 4096,
+      "height": 4096,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 1,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "lowr_diff_014_a_whi": {
+      "width": 512,
+      "height": 512,
+      "compressed": true,
+      "fourcc": "DXT1",
+      "mip_count": 8,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "feet_normal_001": {
+      "width": 256,
+      "height": 256,
+      "compressed": true,
+      "fourcc": "DXT1",
+      "mip_count": 7,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "mocassins_marrons_spec": {
+      "width": 2048,
+      "height": 2048,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 1,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "lowr_normal_014": {
+      "width": 512,
+      "height": 512,
+      "compressed": true,
+      "fourcc": "DXT1",
+      "mip_count": 8,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "lowr_spec_014": {
+      "width": 256,
+      "height": 256,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 7,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "feet_diff_001_a_uni": {
+      "width": 4096,
+      "height": 4096,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 1,
+      "embedded_in_ydd": false,
+      "in_ytd": true
+    }
+  },
+  "shaders": [
+    {
+      "preset": "ped_default.sps",
+      "texture_refs": {},
+      "missing": []
+    },
+    {
+      "preset": "ped.sps",
+      "texture_refs": {
+        "diffusesampler": "feet_diff_001_a_uni",
+        "bumpsampler": "mocassins_marrons_normal",
+        "specsampler": "mocassins_marrons_spec"
+      },
+      "missing": []
+    },
+    {
+      "preset": "ped.sps",
+      "texture_refs": {
+        "diffusesampler": "feet_diff_001_a_whi",
+        "bumpsampler": "feet_normal_001",
+        "specsampler": "feet_spec_001"
+      },
+      "missing": []
+    },
+    {
+      "preset": "ped.sps",
+      "texture_refs": {
+        "diffusesampler": "lowr_diff_014_a_whi",
+        "bumpsampler": "lowr_normal_014",
+        "specsampler": "lowr_spec_014"
+      },
+      "missing": []
+    },
+    {
+      "preset": "ped.sps",
+      "texture_refs": {
+        "diffusesampler": "feet_diff_001_a_uni",
+        "bumpsampler": "mocassins_marrons_normal",
+        "specsampler": "mocassins_marrons_spec"
+      },
+      "missing": []
+    }
+  ],
+  "lods": {
+    "HIGH": {
+      "vertices": 126090,
+      "triangles": 183168,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 15153,
+          "max_vertex_index": 15152,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 15151,
+          "max_vertex_index": 15150,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 15218,
+          "max_vertex_index": 15217,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 14509,
+          "max_vertex_index": 14508,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 14903,
+          "max_vertex_index": 14902,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 14919,
+          "max_vertex_index": 14918,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 15063,
+          "max_vertex_index": 15062,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 14858,
+          "max_vertex_index": 14857,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 4949,
+          "max_vertex_index": 4948,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 661,
+          "max_vertex_index": 660,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 204,
+          "max_vertex_index": 203,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 502,
+          "max_vertex_index": 501,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        }
+      ]
+    },
+    "MEDIUM": {
+      "vertices": 38094,
+      "triangles": 38112,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 22231,
+          "max_vertex_index": 22230,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 14496,
+          "max_vertex_index": 14495,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 661,
+          "max_vertex_index": 660,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 204,
+          "max_vertex_index": 203,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 502,
+          "max_vertex_index": 501,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        }
+      ]
+    },
+    "LOW": {
+      "vertices": 14216,
+      "triangles": 12728,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 12849,
+          "max_vertex_index": 12848,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 661,
+          "max_vertex_index": 660,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 204,
+          "max_vertex_index": 203,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 502,
+          "max_vertex_index": 501,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        }
+      ]
+    },
+    "VERYLOW": {
+      "vertices": 5395,
+      "triangles": 4569,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 4028,
+          "max_vertex_index": 4027,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 661,
+          "max_vertex_index": 660,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 204,
+          "max_vertex_index": 203,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        },
+        {
+          "vertices": 502,
+          "max_vertex_index": 501,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 2
+        }
+      ]
+    }
+  },
+  "diffuse": {
+    "source_rgb_mean": [
+      113.45883685350418,
+      70.0871307849884,
+      48.901862382888794
+    ],
+    "native_rgb_mean": [
+      113.78361302614212,
+      69.9132125377655,
+      47.252829909324646
+    ],
+    "direct_mae_255": 2.0675359964370728,
+    "flipped_mae_255": 53.67204280694326,
+    "max_error_255": 76
+  },
+  "normal": {
+    "mae_against_source_green_inverted": 1.572605808575948,
+    "mae_against_source_without_green_inverted": 2.3730386892954507
+  }
+}

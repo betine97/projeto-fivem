@@ -1,0 +1,532 @@
+[
+  {
+    "name": "ppe_estrutura",
+    "materials": [
+      {
+        "name": "Aco galvanizado | desgaste procedural",
+        "color": [
+          0.3199999928474426,
+          0.3700000047683716,
+          0.3700000047683716
+        ],
+        "texture": "ppe_tx_632d1ceb9a095e",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_632d1ceb9a095e.png",
+        "sha256": "632d1ceb9a095edf319a4e7335418025dc380061d2afcca5614eb26b328f17be",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Aco estrutural escuro",
+        "color": [
+          0.09000000357627869,
+          0.11999999731779099,
+          0.125
+        ],
+        "texture": "ppe_tx_16c550cd5c2f65",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_16c550cd5c2f65.png",
+        "sha256": "16c550cd5c2f656502009e97b9e422f4c02ba977023b96aa10ad1ce3af5737e8",
+        "uv_scale": [
+          2.0,
+          2.0
+        ]
+      },
+      {
+        "name": "Pintura amarela industrial",
+        "color": [
+          0.8700000047683716,
+          0.550000011920929,
+          0.03500000014901161
+        ],
+        "texture": "ppe_tx_9e0fcc2ef3952f",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_9e0fcc2ef3952f.png",
+        "sha256": "9e0fcc2ef3952f2760dd38f1c9e77a99f8e23c246a2fd0fe57604ade41743f7d",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Chapas antiderrapantes",
+        "color": [
+          0.1899999976158142,
+          0.23000000417232513,
+          0.22499999403953552
+        ],
+        "texture": "ppe_tx_f78b41afc9f6da",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_f78b41afc9f6da.png",
+        "sha256": "f78b41afc9f6daadeabebec2d62de7f10ccf215710a8a41b645cdef1a043ec65",
+        "uv_scale": [
+          6.94444465637207,
+          6.94444465637207
+        ]
+      }
+    ],
+    "triangles": 28560,
+    "collision_triangles": 30572,
+    "bb_min": [
+      -35.05500030517578,
+      -41.55500030517578,
+      -32.0
+    ],
+    "bb_max": [
+      35.05500030517578,
+      24.375,
+      27.32482147216797
+    ]
+  },
+  {
+    "name": "ppe_processo",
+    "materials": [
+      {
+        "name": "Aco galvanizado | desgaste procedural",
+        "color": [
+          0.3199999928474426,
+          0.3700000047683716,
+          0.3700000047683716
+        ],
+        "texture": "ppe_tx_632d1ceb9a095e",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_632d1ceb9a095e.png",
+        "sha256": "632d1ceb9a095edf319a4e7335418025dc380061d2afcca5614eb26b328f17be",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Aco estrutural escuro",
+        "color": [
+          0.09000000357627869,
+          0.11999999731779099,
+          0.125
+        ],
+        "texture": "ppe_tx_16c550cd5c2f65",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_16c550cd5c2f65.png",
+        "sha256": "16c550cd5c2f656502009e97b9e422f4c02ba977023b96aa10ad1ce3af5737e8",
+        "uv_scale": [
+          2.0,
+          2.0
+        ]
+      },
+      {
+        "name": "Pintura amarela industrial",
+        "color": [
+          0.8700000047683716,
+          0.550000011920929,
+          0.03500000014901161
+        ],
+        "texture": "ppe_tx_9e0fcc2ef3952f",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_9e0fcc2ef3952f.png",
+        "sha256": "9e0fcc2ef3952f2760dd38f1c9e77a99f8e23c246a2fd0fe57604ade41743f7d",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Guindastes laranja desgastado",
+        "color": [
+          0.7400000095367432,
+          0.1899999976158142,
+          0.04500000178813934
+        ]
+      },
+      {
+        "name": "Paineis claros e intemperie",
+        "color": [
+          0.6299999952316284,
+          0.6800000071525574,
+          0.6499999761581421
+        ],
+        "texture": "ppe_tx_1bc85df6758482",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_1bc85df6758482.png",
+        "sha256": "1bc85df675848200e4e6d801c2f0feb6bbc6ac8c7d334b933d8211e142129f87",
+        "uv_scale": [
+          0.8333333134651184,
+          0.8333333134651184
+        ]
+      },
+      {
+        "name": "Chapas antiderrapantes",
+        "color": [
+          0.1899999976158142,
+          0.23000000417232513,
+          0.22499999403953552
+        ],
+        "texture": "ppe_tx_f78b41afc9f6da",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_f78b41afc9f6da.png",
+        "sha256": "f78b41afc9f6daadeabebec2d62de7f10ccf215710a8a41b645cdef1a043ec65",
+        "uv_scale": [
+          6.94444465637207,
+          6.94444465637207
+        ]
+      },
+      {
+        "name": "Produto refinado | verde",
+        "color": [
+          0.07999999821186066,
+          0.27000001072883606,
+          0.1599999964237213
+        ]
+      },
+      {
+        "name": "Borracha e cabos",
+        "color": [
+          0.012000000104308128,
+          0.017999999225139618,
+          0.020999999716877937
+        ]
+      },
+      {
+        "name": "Vidros azul escuro",
+        "color": [
+          0.03500000014901161,
+          0.12999999523162842,
+          0.17000000178813934
+        ]
+      },
+      {
+        "name": "Agua de processo | azul",
+        "color": [
+          0.03500000014901161,
+          0.20000000298023224,
+          0.3100000023841858
+        ]
+      },
+      {
+        "name": "Emergencia e linha de gas",
+        "color": [
+          0.5799999833106995,
+          0.04500000178813934,
+          0.019999999552965164
+        ]
+      }
+    ],
+    "triangles": 37476,
+    "collision_triangles": 0,
+    "bb_min": [
+      -30.0,
+      -19.274999618530273,
+      14.0
+    ],
+    "bb_max": [
+      30.139999389648438,
+      18.770000457763672,
+      71.63886260986328
+    ]
+  },
+  {
+    "name": "ppe_modulos",
+    "materials": [
+      {
+        "name": "Aco galvanizado | desgaste procedural",
+        "color": [
+          0.3199999928474426,
+          0.3700000047683716,
+          0.3700000047683716
+        ],
+        "texture": "ppe_tx_632d1ceb9a095e",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_632d1ceb9a095e.png",
+        "sha256": "632d1ceb9a095edf319a4e7335418025dc380061d2afcca5614eb26b328f17be",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Aco estrutural escuro",
+        "color": [
+          0.09000000357627869,
+          0.11999999731779099,
+          0.125
+        ],
+        "texture": "ppe_tx_16c550cd5c2f65",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_16c550cd5c2f65.png",
+        "sha256": "16c550cd5c2f656502009e97b9e422f4c02ba977023b96aa10ad1ce3af5737e8",
+        "uv_scale": [
+          2.0,
+          2.0
+        ]
+      },
+      {
+        "name": "Paineis claros e intemperie",
+        "color": [
+          0.6299999952316284,
+          0.6800000071525574,
+          0.6499999761581421
+        ],
+        "texture": "ppe_tx_1bc85df6758482",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_1bc85df6758482.png",
+        "sha256": "1bc85df675848200e4e6d801c2f0feb6bbc6ac8c7d334b933d8211e142129f87",
+        "uv_scale": [
+          0.8333333134651184,
+          0.8333333134651184
+        ]
+      },
+      {
+        "name": "Borracha e cabos",
+        "color": [
+          0.012000000104308128,
+          0.017999999225139618,
+          0.020999999716877937
+        ]
+      },
+      {
+        "name": "Vidros azul escuro",
+        "color": [
+          0.03500000014901161,
+          0.12999999523162842,
+          0.17000000178813934
+        ]
+      },
+      {
+        "name": "greenlight",
+        "color": [
+          0.05000000074505806,
+          0.8500000238418579,
+          0.12999999523162842
+        ]
+      },
+      {
+        "name": "amberlight",
+        "color": [
+          1.0,
+          0.4300000071525574,
+          0.014999999664723873
+        ]
+      },
+      {
+        "name": "screen",
+        "color": [
+          0.04500000178813934,
+          0.3499999940395355,
+          0.5099999904632568
+        ]
+      },
+      {
+        "name": "Chapas antiderrapantes",
+        "color": [
+          0.1899999976158142,
+          0.23000000417232513,
+          0.22499999403953552
+        ],
+        "texture": "ppe_tx_f78b41afc9f6da",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_f78b41afc9f6da.png",
+        "sha256": "f78b41afc9f6daadeabebec2d62de7f10ccf215710a8a41b645cdef1a043ec65",
+        "uv_scale": [
+          6.94444465637207,
+          6.94444465637207
+        ]
+      },
+      {
+        "name": "Pintura amarela industrial",
+        "color": [
+          0.8700000047683716,
+          0.550000011920929,
+          0.03500000014901161
+        ],
+        "texture": "ppe_tx_9e0fcc2ef3952f",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_9e0fcc2ef3952f.png",
+        "sha256": "9e0fcc2ef3952f2760dd38f1c9e77a99f8e23c246a2fd0fe57604ade41743f7d",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Letras claras",
+        "color": [
+          0.9200000166893005,
+          0.9300000071525574,
+          0.8399999737739563
+        ]
+      }
+    ],
+    "triangles": 6590,
+    "collision_triangles": 0,
+    "bb_min": [
+      -66.0,
+      -11.0,
+      14.0
+    ],
+    "bb_max": [
+      -4.909999847412109,
+      21.0,
+      35.0
+    ]
+  },
+  {
+    "name": "ppe_equipamentos",
+    "materials": [
+      {
+        "name": "Aco galvanizado | desgaste procedural",
+        "color": [
+          0.3199999928474426,
+          0.3700000047683716,
+          0.3700000047683716
+        ],
+        "texture": "ppe_tx_632d1ceb9a095e",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_632d1ceb9a095e.png",
+        "sha256": "632d1ceb9a095edf319a4e7335418025dc380061d2afcca5614eb26b328f17be",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Pintura amarela industrial",
+        "color": [
+          0.8700000047683716,
+          0.550000011920929,
+          0.03500000014901161
+        ],
+        "texture": "ppe_tx_9e0fcc2ef3952f",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_9e0fcc2ef3952f.png",
+        "sha256": "9e0fcc2ef3952f2760dd38f1c9e77a99f8e23c246a2fd0fe57604ade41743f7d",
+        "uv_scale": [
+          2.5,
+          2.5
+        ]
+      },
+      {
+        "name": "Aco estrutural escuro",
+        "color": [
+          0.09000000357627869,
+          0.11999999731779099,
+          0.125
+        ],
+        "texture": "ppe_tx_16c550cd5c2f65",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_16c550cd5c2f65.png",
+        "sha256": "16c550cd5c2f656502009e97b9e422f4c02ba977023b96aa10ad1ce3af5737e8",
+        "uv_scale": [
+          2.0,
+          2.0
+        ]
+      },
+      {
+        "name": "Guindastes laranja desgastado",
+        "color": [
+          0.7400000095367432,
+          0.1899999976158142,
+          0.04500000178813934
+        ]
+      },
+      {
+        "name": "Vidros azul escuro",
+        "color": [
+          0.03500000014901161,
+          0.12999999523162842,
+          0.17000000178813934
+        ]
+      },
+      {
+        "name": "Borracha e cabos",
+        "color": [
+          0.012000000104308128,
+          0.017999999225139618,
+          0.020999999716877937
+        ]
+      },
+      {
+        "name": "Madeira de pallets",
+        "color": [
+          0.2800000011920929,
+          0.1599999964237213,
+          0.07000000029802322
+        ]
+      },
+      {
+        "name": "Barril azul | petroleo bruto",
+        "color": [
+          0.02500000037252903,
+          0.12999999523162842,
+          0.23999999463558197
+        ]
+      },
+      {
+        "name": "Letras claras",
+        "color": [
+          0.9200000166893005,
+          0.9300000071525574,
+          0.8399999737739563
+        ]
+      },
+      {
+        "name": "Produto refinado | verde",
+        "color": [
+          0.07999999821186066,
+          0.27000001072883606,
+          0.1599999964237213
+        ]
+      },
+      {
+        "name": "Chapas antiderrapantes",
+        "color": [
+          0.1899999976158142,
+          0.23000000417232513,
+          0.22499999403953552
+        ],
+        "texture": "ppe_tx_f78b41afc9f6da",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\plataforma_petroleo_20261009\\nativo\\fontes\\ppe_tx_f78b41afc9f6da.png",
+        "sha256": "f78b41afc9f6daadeabebec2d62de7f10ccf215710a8a41b645cdef1a043ec65",
+        "uv_scale": [
+          6.94444465637207,
+          6.94444465637207
+        ]
+      },
+      {
+        "name": "Chama decorativa",
+        "color": [
+          1.0,
+          0.2800000011920929,
+          0.014999999664723873
+        ]
+      },
+      {
+        "name": "Emergencia e linha de gas",
+        "color": [
+          0.5799999833106995,
+          0.04500000178813934,
+          0.019999999552965164
+        ]
+      },
+      {
+        "name": "greenlight",
+        "color": [
+          0.05000000074505806,
+          0.8500000238418579,
+          0.12999999523162842
+        ]
+      },
+      {
+        "name": "amberlight",
+        "color": [
+          1.0,
+          0.4300000071525574,
+          0.014999999664723873
+        ]
+      },
+      {
+        "name": "screen",
+        "color": [
+          0.04500000178813934,
+          0.3499999940395355,
+          0.5099999904632568
+        ]
+      }
+    ],
+    "triangles": 47496,
+    "collision_triangles": 0,
+    "bb_min": [
+      -65.68000030517578,
+      -41.5,
+      3.2750000953674316
+    ],
+    "bb_max": [
+      62.616310119628906,
+      23.049999237060547,
+      54.79620361328125
+    ]
+  }
+]

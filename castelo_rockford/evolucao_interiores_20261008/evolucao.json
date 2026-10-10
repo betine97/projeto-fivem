@@ -1,0 +1,19 @@
+{
+  "source_unchanged": true,
+  "source_sha256": "db3d3d4fc5136baed9e88ec06dd5bac0ebef9750f4ddadc350cb9aa6ae9881b3",
+  "objects_before": 3323,
+  "objects_after": 3700,
+  "triangles_before": 51451,
+  "triangles_after": 65495,
+  "installed_fivem": false,
+  "changes": [
+    "Boiserie salao e conselho",
+    "Lustres bronze e difusores modelados",
+    "Molduras de teto",
+    "Veios madeira e trama linho",
+    "Vidro com transmissao corrigida",
+    "Almofadas e macanetas portas existentes",
+    "Arranjos mesas e microfones",
+    "Topiaria detalhada e balizadores"
+  ]
+}

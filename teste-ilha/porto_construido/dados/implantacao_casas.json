@@ -1,0 +1,1003 @@
+[
+  {
+    "name": "pe_estrutura_06",
+    "position": [
+      90.0,
+      -628.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U01 Estrutura 06_Mercado"
+  },
+  {
+    "name": "pe_estrutura_08",
+    "position": [
+      142.0,
+      -628.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U02 Estrutura 08_Mercearia_sobrado"
+  },
+  {
+    "name": "pe_estrutura_07",
+    "position": [
+      250.0,
+      -628.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U03 Estrutura 07_Farmacia"
+  },
+  {
+    "name": "pe_estrutura_04",
+    "position": [
+      302.0,
+      -628.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U04 Estrutura 04_Predio_verde_varandas"
+  },
+  {
+    "name": "pe_estrutura_05",
+    "position": [
+      410.0,
+      -628.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U05 Estrutura 05_Predio_creme_varandas"
+  },
+  {
+    "name": "pe_estrutura_06",
+    "position": [
+      465.0,
+      -628.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U06 Estrutura 06_Mercado"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      90.0,
+      -554.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U07 Estrutura 01_Casa_creme_varanda"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      142.0,
+      -554.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U08 Estrutura 02_Casa_amarela"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      154.0,
+      -538.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U08 casa de quintal"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      250.0,
+      -554.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U09 Estrutura 03_Sobrado_azul"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      302.0,
+      -554.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U10 Estrutura 01_Casa_creme_varanda"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      314.0,
+      -538.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U10 casa de quintal"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      410.0,
+      -554.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U11 Estrutura 02_Casa_amarela"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      465.0,
+      -554.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U12 Estrutura 03_Sobrado_azul"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      477.0,
+      -538.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U12 casa de quintal"
+  },
+  {
+    "name": "pe_estrutura_04",
+    "position": [
+      90.0,
+      -464.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U13 Estrutura 04_Predio_verde_varandas"
+  },
+  {
+    "name": "pe_estrutura_05",
+    "position": [
+      142.0,
+      -464.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U14 Estrutura 05_Predio_creme_varandas"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      250.0,
+      -464.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U15 Estrutura 01_Casa_creme_varanda"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      262.0,
+      -448.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U15 casa de quintal"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      302.0,
+      -464.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U16 Estrutura 02_Casa_amarela"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      314.0,
+      -448.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U16 casa de quintal"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      410.0,
+      -464.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U17 Estrutura 03_Sobrado_azul"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      465.0,
+      -464.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U18 Estrutura 01_Casa_creme_varanda"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      477.0,
+      -448.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U18 casa de quintal"
+  },
+  {
+    "name": "pe_estrutura_09",
+    "position": [
+      630.0,
+      -548.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "Posto da orla"
+  },
+  {
+    "name": "pe_estrutura_10",
+    "position": [
+      632.0,
+      -613.0,
+      8.895000457763672
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "Oficina"
+  },
+  {
+    "name": "pe_estrutura_10",
+    "position": [
+      499.0,
+      -795.0,
+      4.800000190734863
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "Armazem A"
+  },
+  {
+    "name": "pe_estrutura_10",
+    "position": [
+      532.0,
+      -795.0,
+      4.800000190734863
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "Armazem B"
+  },
+  {
+    "name": "pe_estrutura_10",
+    "position": [
+      565.0,
+      -795.0,
+      4.800000190734863
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "Armazem C"
+  },
+  {
+    "name": "pe_estrutura_06",
+    "position": [
+      90.0,
+      -810.0,
+      4.800000190734863
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "Mercado dos pescadores"
+  },
+  {
+    "name": "pe_estrutura_05",
+    "position": [
+      445.0,
+      -726.0,
+      4.940000057220459
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "Administracao portuaria"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      82.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U01 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      98.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U01 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      134.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U02 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      150.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U02 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      242.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U03 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      258.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U03 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      294.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U04 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      310.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U04 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      402.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U05 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      418.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U05 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      457.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U06 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      473.0,
+      -611.0,
+      8.579999923706055
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U06 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      79.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U07 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      101.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U07 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      79.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U07 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      90.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U07 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      101.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U07 moradia 4"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      131.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U08 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      153.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U08 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      131.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U08 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      142.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U08 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      239.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U09 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      261.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U09 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      239.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U09 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      250.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U09 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      261.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U09 moradia 4"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      291.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U10 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      313.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U10 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      291.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U10 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      302.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U10 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      399.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U11 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      421.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U11 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      399.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U11 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      410.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U11 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      421.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U11 moradia 4"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      454.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U12 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      476.0,
+      -556.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U12 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      454.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U12 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      465.0,
+      -539.0,
+      11.170000076293945
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U12 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      82.0,
+      -447.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U13 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      98.0,
+      -447.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U13 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      134.0,
+      -447.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U14 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      150.0,
+      -447.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U14 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      239.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U15 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      261.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U15 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      239.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U15 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      250.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U15 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      291.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U16 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      313.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U16 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      291.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U16 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      302.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U16 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      399.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U17 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      421.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U17 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      399.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U17 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      410.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U17 moradia 3"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      421.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U17 moradia 4"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      454.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U18 moradia 0"
+  },
+  {
+    "name": "pe_estrutura_02",
+    "position": [
+      476.0,
+      -466.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U18 moradia 1"
+  },
+  {
+    "name": "pe_estrutura_03",
+    "position": [
+      454.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U18 moradia 2"
+  },
+  {
+    "name": "pe_estrutura_01",
+    "position": [
+      465.0,
+      -449.0,
+      14.319999694824219
+    ],
+    "heading": 0,
+    "scale": 1,
+    "label": "U18 moradia 3"
+  }
+]

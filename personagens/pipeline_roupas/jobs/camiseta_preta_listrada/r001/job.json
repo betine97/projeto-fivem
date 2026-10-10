@@ -1,0 +1,31 @@
+{
+  "pipeline_version": 1,
+  "name": "camiseta_preta_listrada",
+  "revision": "r001",
+  "base_id": "45d2507a98ce",
+  "base_manifest_sha256": "8b1555ea72cfce7e995ef1a80bf98821aa7a4fecda6431ad5b76548fe987a75b",
+  "reference_image": "codex-clipboard-1ad2fee5-19bf-4ace-ad0a-c27643c7202b.png",
+  "material": {
+    "albedo_atlas": "atlas_tecido.png",
+    "preserve_native_normal_specular": true,
+    "adapter": "palette_to_rgb"
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_camiseta_preta_listrada_r001",
+    "prefix": "mp_m_freemode_01_cidade_camiseta_preta_listrada_r001",
+    "local_index": 0
+  },
+  "review": {
+    "positions": true,
+    "appearance": true,
+    "in_game": false
+  },
+  "notes": [
+    "Supplied textile covers front, back and sleeves. Native geometry, UVs, weights, LODs and normal/specular maps preserved.",
+    "Stripe artwork from supplied image 4 sampled through original native UV at scale 1.3; fine dark textile from supplied image 2 at fiber scale. Original UV islands and mesh remain unchanged."
+  ],
+  "display_title": "Camiseta preta listrada"
+}

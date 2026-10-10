@@ -1,0 +1,418 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "all_687_native_objects",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unique_object_guids",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all_native_alias_archetypes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "objects_on_dry_land_and_path_clear",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "collision_enabled_on_static_objects",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_archive_mounted_v_palm",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_archive_mounted_v_trees",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_archive_mounted_v_ext_veg",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_archive_mounted_v_bush",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_archive_mounted_v_rocks",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_duplicated_native_models_streamed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "12_self_contained_archetypes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "no_global_collision_dictionaries",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_palm_med_01a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_palm_sm_01a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_palm_sm_01d",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_tree_eucalip_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_rock_1_a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_rock_2_a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_rock_4_c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_bush_med_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_bush_med_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_veg_grass_01_a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_veg_grass_01_b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_drawable_bytes_prop_veg_grass_01_c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_palm_med_01a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_palm_sm_01a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_palm_sm_01d",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_tree_eucalip_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_rock_1_a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_rock_2_a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_rock_4_c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_bush_med_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_bush_med_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_veg_grass_01_a",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_veg_grass_01_b",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "texture_dependency_ti_n_veg_grass_01_c",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "archetypes_resolve_in_original_metadata",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_embedded_object_collisions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "collision_geometry_unchanged",
+      "passed": true,
+      "detail": {
+        "max_resave_quantization_m": 0.0
+      }
+    },
+    {
+      "name": "five_physical_ground_surfaces",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "same_terrain_triangles_HIGH",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "grass_and_dirt_masks_HIGH",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "same_terrain_triangles_MEDIUM",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "grass_and_dirt_masks_MEDIUM",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "same_terrain_triangles_LOW",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "grass_and_dirt_masks_LOW",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "same_terrain_triangles_VERYLOW",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "grass_and_dirt_masks_VERYLOW",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_ground_shader_with_normal_maps",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_cs_islx_canyonrockrough_01_nrm",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_hp_islandbank_redmud_02_n",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_ap_rls_sand_scrabl_warm",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_cs_rsn_sl_agrgrass_02_n",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_cs_rsn_sl_agrdirttrack2_n",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_cs_islx_canyonrock_rough_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "preserved_border_albedo",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_ap_rls_sand_scrabl_n",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_cs_rsn_sl_agrgrass_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_cs_rsn_sl_agrdirttrack2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_dds_mips_hp_islandbank_redmud_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "only_one_sector_changed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "never_permanently_frozen_success",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "restored_controls_and_camera_success",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "verified_visit_coordinates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_maps_removed_success",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "never_permanently_frozen_no_collision",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "restored_controls_and_camera_no_collision",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "failed_visit_returns_to_origin_no_collision",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_maps_removed_no_collision",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "never_permanently_frozen_vehicle",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "vehicle_visit_does_not_move_player",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "never_permanently_frozen_stock_ground",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "restored_controls_and_camera_stock_ground",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "incorrect_ground_returns_to_runway",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_maps_removed_stock_ground",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "never_permanently_frozen_native_exception",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "restored_controls_and_camera_native_exception",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "failed_visit_returns_to_origin_native_exception",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_maps_removed_native_exception",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "missing_models_does_not_teleport",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "missing_models_never_reports_sample_ready",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "in_game_verified": false
+}

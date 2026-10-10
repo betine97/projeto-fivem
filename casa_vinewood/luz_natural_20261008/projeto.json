@@ -1,0 +1,2709 @@
+{
+  "targets": [
+    "stream/mansao_teto.ydr",
+    "stream/mansao_pendentes.ydr",
+    "stream/mansao_spots_led.ydr",
+    "stream/mansao_tv.ydr",
+    "iluminacao_ambiente.json",
+    "iluminacao_decorativa.lua",
+    "luzes_pendentes.json",
+    "README.md"
+  ],
+  "direct_profile": [
+    {
+      "id": "spot_1",
+      "before": {
+        "intensity": 15.0,
+        "range": 11.288246154785156,
+        "inner": 5.951635837554932,
+        "outer": 8.716156959533691
+      },
+      "after": {
+        "intensity": 3.5,
+        "range": 10.777247428894043,
+        "inner_angle": 0,
+        "outer_angle": 26.003345489501953,
+        "floor_radius_m": 3.5
+      }
+    },
+    {
+      "id": "spot_2",
+      "before": {
+        "intensity": 15.0,
+        "range": 11.288246154785156,
+        "inner": 5.951635837554932,
+        "outer": 8.716156959533691
+      },
+      "after": {
+        "intensity": 3.5,
+        "range": 10.777247428894043,
+        "inner_angle": 0,
+        "outer_angle": 26.003345489501953,
+        "floor_radius_m": 3.5
+      }
+    },
+    {
+      "id": "spot_3",
+      "before": {
+        "intensity": 15.0,
+        "range": 11.288246154785156,
+        "inner": 5.951635837554932,
+        "outer": 8.716156959533691
+      },
+      "after": {
+        "intensity": 3.5,
+        "range": 10.777247428894043,
+        "inner_angle": 0,
+        "outer_angle": 26.003345489501953,
+        "floor_radius_m": 3.5
+      }
+    },
+    {
+      "id": "spot_4",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_5",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_6",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_7",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_8",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_9",
+      "before": {
+        "intensity": 15.0,
+        "range": 11.288246154785156,
+        "inner": 5.951635837554932,
+        "outer": 8.716156959533691
+      },
+      "after": {
+        "intensity": 3.5,
+        "range": 10.777247428894043,
+        "inner_angle": 0,
+        "outer_angle": 26.003345489501953,
+        "floor_radius_m": 3.5
+      }
+    },
+    {
+      "id": "spot_10",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_11",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_12",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_13",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_14",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_15",
+      "before": {
+        "intensity": 15.0,
+        "range": 11.288246154785156,
+        "inner": 5.951635837554932,
+        "outer": 8.716156959533691
+      },
+      "after": {
+        "intensity": 3.5,
+        "range": 10.777247428894043,
+        "inner_angle": 0,
+        "outer_angle": 26.003345489501953,
+        "floor_radius_m": 3.5
+      }
+    },
+    {
+      "id": "spot_16",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_17",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_18",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_19",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_20",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_21",
+      "before": {
+        "intensity": 15.0,
+        "range": 11.288246154785156,
+        "inner": 5.951635837554932,
+        "outer": 8.716156959533691
+      },
+      "after": {
+        "intensity": 3.5,
+        "range": 10.777247428894043,
+        "inner_angle": 0,
+        "outer_angle": 26.003345489501953,
+        "floor_radius_m": 3.5
+      }
+    },
+    {
+      "id": "spot_22",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_23",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_24",
+      "before": {
+        "intensity": 15.0,
+        "range": 11.288246154785156,
+        "inner": 5.951635837554932,
+        "outer": 8.716156959533691
+      },
+      "after": {
+        "intensity": 3.5,
+        "range": 10.777247428894043,
+        "inner_angle": 0,
+        "outer_angle": 26.003345489501953,
+        "floor_radius_m": 3.5
+      }
+    },
+    {
+      "id": "spot_25",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_26",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_27",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_28",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_29",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_30",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_31",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_32",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_33",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_34",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_35",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_36",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_37",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_38",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_39",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_40",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_41",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_42",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_43",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_44",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_45",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_46",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.3100409507751465,
+        "inner": 13.637632369995117,
+        "outer": 19.63616180419922
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 5.583000183105469,
+        "inner_angle": 0,
+        "outer_angle": 39.038543701171875,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_47",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_48",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_49",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_50",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_51",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_52",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_53",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_54",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_55",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_56",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_57",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_58",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_59",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_60",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_61",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_62",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_63",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_64",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_65",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_66",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_67",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_68",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_69",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_70",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_71",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_72",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_73",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_74",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_75",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_76",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_77",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_78",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_79",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_80",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_81",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_82",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_83",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_84",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_85",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_86",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_87",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "spot_88",
+      "before": {
+        "intensity": 8.5,
+        "range": 5.999138355255127,
+        "inner": 11.843317031860352,
+        "outer": 17.13884162902832
+      },
+      "after": {
+        "intensity": 2.2,
+        "range": 6.066999912261963,
+        "inner_angle": 0,
+        "outer_angle": 35.02542495727539,
+        "floor_radius_m": 2.5
+      }
+    },
+    {
+      "id": "cylinder_1",
+      "before": {
+        "intensity": 8.0,
+        "range": 4.601864337921143,
+        "inner": 16.19048309326172,
+        "outer": 23.121538162231445
+      },
+      "after": {
+        "intensity": 0.85,
+        "range": 5.076230049133301,
+        "inner_angle": 0,
+        "outer_angle": 40.496036529541016,
+        "floor_radius_m": 2.2
+      }
+    },
+    {
+      "id": "cylinder_2",
+      "before": {
+        "intensity": 8.0,
+        "range": 5.219478130340576,
+        "inner": 13.91640853881836,
+        "outer": 20.020767211914062
+      },
+      "after": {
+        "intensity": 0.85,
+        "range": 5.518819808959961,
+        "inner_angle": 0,
+        "outer_angle": 36.083126068115234,
+        "floor_radius_m": 2.2
+      }
+    },
+    {
+      "id": "cylinder_3",
+      "before": {
+        "intensity": 8.0,
+        "range": 4.178225517272949,
+        "inner": 18.2684326171875,
+        "outer": 25.89434242248535
+      },
+      "after": {
+        "intensity": 0.85,
+        "range": 4.76593017578125,
+        "inner_angle": 0,
+        "outer_angle": 44.15420913696289,
+        "floor_radius_m": 2.2
+      }
+    },
+    {
+      "id": "cylinder_4",
+      "before": {
+        "intensity": 8.0,
+        "range": 5.114664554595947,
+        "inner": 14.254257202148438,
+        "outer": 20.485595703125
+      },
+      "after": {
+        "intensity": 0.85,
+        "range": 5.444340229034424,
+        "inner_angle": 0,
+        "outer_angle": 36.76694869995117,
+        "floor_radius_m": 2.2
+      }
+    },
+    {
+      "id": "cylinder_5",
+      "before": {
+        "intensity": 8.0,
+        "range": 4.770769119262695,
+        "inner": 15.494318008422852,
+        "outer": 22.17940330505371
+      },
+      "after": {
+        "intensity": 0.85,
+        "range": 5.198239803314209,
+        "inner_angle": 0,
+        "outer_angle": 39.19195556640625,
+        "floor_radius_m": 2.2
+      }
+    },
+    {
+      "id": "cylinder_6",
+      "before": {
+        "intensity": 8.0,
+        "range": 5.128521919250488,
+        "inner": 14.208611488342285,
+        "outer": 20.422876358032227
+      },
+      "after": {
+        "intensity": 0.85,
+        "range": 5.45419979095459,
+        "inner_angle": 0,
+        "outer_angle": 36.67514419555664,
+        "floor_radius_m": 2.2
+      }
+    },
+    {
+      "id": "linear_1",
+      "before": {
+        "intensity": 7.0,
+        "range": 3.7918663024902344,
+        "inner": 14.424402236938477,
+        "outer": 20.719152450561523
+      },
+      "after": {
+        "intensity": 1.15,
+        "range": 4.614999771118164,
+        "inner_angle": 0,
+        "outer_angle": 38.79171371459961,
+        "floor_radius_m": 1.7
+      }
+    },
+    {
+      "id": "linear_2",
+      "before": {
+        "intensity": 7.0,
+        "range": 3.7918663024902344,
+        "inner": 14.424402236938477,
+        "outer": 20.719152450561523
+      },
+      "after": {
+        "intensity": 1.15,
+        "range": 4.614999771118164,
+        "inner_angle": 0,
+        "outer_angle": 38.79171371459961,
+        "floor_radius_m": 1.7
+      }
+    },
+    {
+      "id": "linear_3",
+      "before": {
+        "intensity": 7.0,
+        "range": 3.7918663024902344,
+        "inner": 14.424402236938477,
+        "outer": 20.719152450561523
+      },
+      "after": {
+        "intensity": 1.15,
+        "range": 4.614999771118164,
+        "inner_angle": 0,
+        "outer_angle": 38.79171371459961,
+        "floor_radius_m": 1.7
+      }
+    }
+  ],
+  "bounce": [
+    {
+      "id": "bounce_0_0",
+      "kind": "bounce",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -4.8,
+        -9.3,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_0_1",
+      "kind": "bounce",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -4.8,
+        -3.6,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_1_0",
+      "kind": "bounce",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        2.8,
+        -9.3,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_1_1",
+      "kind": "bounce",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        2.8,
+        -3.6,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_2_0",
+      "kind": "bounce",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        10.05,
+        -6.85,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_3_0",
+      "kind": "bounce",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        2.45,
+        0.75,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_4_0",
+      "kind": "bounce",
+      "room": "Escritorio",
+      "level": "terreo",
+      "position": [
+        -6.1,
+        6.0,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_5_0",
+      "kind": "bounce",
+      "room": "Lavabo",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        4.196,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_6_0",
+      "kind": "bounce",
+      "room": "Escada",
+      "level": "terreo",
+      "position": [
+        1.0,
+        4.122,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_7_0",
+      "kind": "bounce",
+      "room": "Despensa",
+      "level": "terreo",
+      "position": [
+        4.15,
+        4.122,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_8_0",
+      "kind": "bounce",
+      "room": "Sala TV Jogos",
+      "level": "terreo",
+      "position": [
+        8.1,
+        4.75,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_9_0",
+      "kind": "bounce",
+      "room": "Lavanderia",
+      "level": "terreo",
+      "position": [
+        12.1,
+        4.363,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_10_0",
+      "kind": "bounce",
+      "room": "Suite master",
+      "level": "superior",
+      "position": [
+        -4.8,
+        3.596,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 5.0,
+      "intensity": 0.4,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_11_0",
+      "kind": "bounce",
+      "room": "Closet",
+      "level": "superior",
+      "position": [
+        -6.8,
+        -1.35,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_12_0",
+      "kind": "bounce",
+      "room": "Banheiro da suite",
+      "level": "superior",
+      "position": [
+        -2.8,
+        -1.35,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_13_0",
+      "kind": "bounce",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        10.05,
+        -9.2,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 5.0,
+      "intensity": 0.4,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_14_0",
+      "kind": "bounce",
+      "room": "Quarto 3",
+      "level": "superior",
+      "position": [
+        10.05,
+        4.013,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 5.0,
+      "intensity": 0.4,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_15_0",
+      "kind": "bounce",
+      "room": "Banheiro social",
+      "level": "superior",
+      "position": [
+        11.75,
+        -0.6,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_16_0",
+      "kind": "bounce",
+      "room": "Circulacao quartos",
+      "level": "superior",
+      "position": [
+        8.1,
+        -0.6,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_17_0",
+      "kind": "bounce",
+      "room": "Mezanino",
+      "level": "superior",
+      "position": [
+        2.8,
+        -1.1,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_18_0",
+      "kind": "bounce",
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "position": [
+        2.8,
+        3.772,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    }
+  ],
+  "stairs": [
+    {
+      "id": "stair_1",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000000715255737,
+        1.78000004196167,
+        2.7500000953674317
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.0959999561309814,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_2",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        1.7199993619918823,
+        -0.6776000499725342
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_3",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.019999433517456,
+        -0.4971999764442444
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_4",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.319998670578003,
+        -0.3167999923229218
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_5",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.6199998149871826,
+        -0.1364000156521797
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_6",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.9199990520477295,
+        0.0439999982714653
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_7",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.220000196456909,
+        0.22439996004104615
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_8",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.519999433517456,
+        0.40479997396469114
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_9",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.819998670578003,
+        0.5851999282836914
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_10",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        4.120000053405762,
+        0.7655999422073364
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_11",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.480000328063965,
+        1.1263999700546266
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_12",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.179998706817627,
+        1.3068001031875611
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_13",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.879999708175659,
+        1.4871999979019166
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_14",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.5800004711151123,
+        1.6676001310348512
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_15",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.2799993267059326,
+        1.8480000257492066
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_16",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.9800000896453858,
+        2.0284000396728517
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_17",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.679998945236206,
+        2.208799934387207
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_18",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.379999708175659,
+        2.3892000675201417
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_19",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.079999517440796,
+        2.569599962234497
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_20",
+      "kind": "stair_yellow",
+      "position": [
+        1.100000023841858,
+        4.419999767303467,
+        0.9459998965263366
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 2.496000051498413,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "tv_lights": [
+    {
+      "id": "tv_top_linear",
+      "kind": "tv_top_yellow",
+      "position": [
+        -8.8,
+        -8.773499999999999,
+        1.464
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.6,
+      "intensity": 0.6,
+      "falloff_exponent": 6,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "length_m": 2.193
+    }
+  ],
+  "native_sources": 139,
+  "geometry_materials_textures_collision_unchanged": true,
+  "in_game_visual_verified": false
+}

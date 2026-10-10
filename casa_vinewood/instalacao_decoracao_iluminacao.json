@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "revision": "tapete-quadros-noite-2026-10-08",
+  "files": {
+    "mansao_decoracao.ymap": "aa06765da52841ebeae6a36059418addfa911e9774284ddbd2bfe7f89f6bb3d1",
+    "mansao_decoracao.ytyp": "9f9ab31fbcbacb394ec5c1371a17e8513fdda4e732229a8dfe9b4243483cd269",
+    "mansao_spots_led.ydr": "f967aba1ddd3cfec000aea99132b937e596478e956b20251d99aa908ebd4325f",
+    "mansao_tapete_sala.ydr": "1b0398c62b79e566f483f6244dc25c915076c44907fcb7b6894771c65d8f65eb"
+  },
+  "existing_stream_files_preserved": 42,
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_decoracao_20261008_013210",
+  "resource_reload_required": true,
+  "in_game_verified": false
+}

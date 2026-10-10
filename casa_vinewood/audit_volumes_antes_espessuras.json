@@ -1,0 +1,4106 @@
+[
+  {
+    "name": "Revestimento continuo terreo 00 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.295999526977539,
+      -12.024999618530273,
+      -0.8149999976158142
+    ],
+    "hi": [
+      -9.236000061035156,
+      9.842000007629395,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.05999946594238281,
+      21.866999626159668,
+      3.383000075817108
+    ],
+    "faces": 20,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 4.279135607238869,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 01 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.295999526977539,
+      9.781999588012695,
+      -0.8149999976158142
+    ],
+    "hi": [
+      -1.0980000495910645,
+      9.842000007629395,
+      2.568000078201294
+    ],
+    "dimensions": [
+      8.197999477386475,
+      0.06000041961669922,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.6640416087922032,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 02 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -1.1579999923706055,
+      5.9720001220703125,
+      -0.8149999976158142
+    ],
+    "hi": [
+      -1.0980000495910645,
+      9.842000007629395,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      3.869999885559082,
+      3.383000075817108
+    ],
+    "faces": 20,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.5814750333297838,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 03 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -1.1579999923706055,
+      5.9720001220703125,
+      -0.8149999976158142
+    ],
+    "hi": [
+      1.090000033378601,
+      6.0320000648498535,
+      2.568000078201294
+    ],
+    "dimensions": [
+      2.2480000257492065,
+      0.059999942779541016,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.4562986202920963,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 04 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.0299999713897705,
+      5.823999881744385,
+      -0.8149999976158142
+    ],
+    "hi": [
+      1.090000033378601,
+      6.0320000648498535,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.060000061988830566,
+      0.20800018310546875,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.042219921732293886,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 05 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.0299999713897705,
+      5.823999881744385,
+      -0.8149999976158142
+    ],
+    "hi": [
+      3.61899995803833,
+      5.883999824523926,
+      2.568000078201294
+    ],
+    "dimensions": [
+      2.5889999866485596,
+      0.059999942779541016,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.5255147278969816,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 06 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      3.559000015258789,
+      5.823999881744385,
+      -0.8149999976158142
+    ],
+    "hi": [
+      3.61899995803833,
+      7.565000057220459,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      1.7410001754760742,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.35338788652071934,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 07 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      3.559000015258789,
+      7.505000114440918,
+      -0.8149999976158142
+    ],
+    "hi": [
+      13.425000190734863,
+      7.565000057220459,
+      2.568000078201294
+    ],
+    "dimensions": [
+      9.866000175476074,
+      0.059999942779541016,
+      3.383000075817108
+    ],
+    "faces": 89,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.2253781330221614,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 08 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      13.364999771118164,
+      6.306000232696533,
+      -0.8149999976158142
+    ],
+    "hi": [
+      13.425000190734863,
+      7.565000057220459,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.06000041961669922,
+      1.2589998245239258,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.2555535773390745,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 09 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      13.364999771118164,
+      6.306000232696533,
+      -0.8149999976158142
+    ],
+    "hi": [
+      14.425999641418457,
+      6.366000175476074,
+      2.568000078201294
+    ],
+    "dimensions": [
+      1.060999870300293,
+      0.059999942779541016,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.2153615531150864,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 10 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      14.366000175476074,
+      -14.480999946594238,
+      -0.8149999976158142
+    ],
+    "hi": [
+      14.425999641418457,
+      6.366000175476074,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.05999946594238281,
+      20.847000122070312,
+      3.383000075817108
+    ],
+    "faces": 20,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 4.072097946109218,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 11 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      6.229000091552734,
+      -14.480999946594238,
+      -0.8149999976158142
+    ],
+    "hi": [
+      14.425999641418457,
+      -14.420999526977539,
+      2.568000078201294
+    ],
+    "dimensions": [
+      8.196999549865723,
+      0.06000041961669922,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.6638386420800562,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 12 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      6.229000091552734,
+      -14.480999946594238,
+      -0.8149999976158142
+    ],
+    "hi": [
+      6.289000034332275,
+      -11.630999565124512,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      2.8500003814697266,
+      3.383000075817108
+    ],
+    "faces": 20,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.37111773307217416,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 13 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      4.697000026702881,
+      -11.690999984741211,
+      -0.8149999976158142
+    ],
+    "hi": [
+      6.289000034332275,
+      -11.630999565124512,
+      2.568000078201294
+    ],
+    "dimensions": [
+      1.5920000076293945,
+      0.06000041961669922,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.32314642873548155,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 14 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      4.697000026702881,
+      -11.690999984741211,
+      -0.8149999976158142
+    ],
+    "hi": [
+      4.756999969482422,
+      -11.482999801635742,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      0.20800018310546875,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.042219837848931574,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 15 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.5110000371932983,
+      -11.543000221252441,
+      -0.8149999976158142
+    ],
+    "hi": [
+      4.756999969482422,
+      -11.482999801635742,
+      2.568000078201294
+    ],
+    "dimensions": [
+      3.2459999322891235,
+      0.06000041961669922,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.6588776889246368,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 16 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.5110000371932983,
+      -13.223999977111816,
+      -0.8149999976158142
+    ],
+    "hi": [
+      1.5709999799728394,
+      -11.482999801635742,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      1.7410001754760742,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.3533878865207191,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 17 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -4.876929759979248,
+      -13.223999977111816,
+      -0.8149999976158142
+    ],
+    "hi": [
+      1.5709999799728394,
+      -13.163999557495117,
+      2.568000078201294
+    ],
+    "dimensions": [
+      6.447929739952087,
+      0.06000041961669922,
+      3.383000075817108
+    ],
+    "faces": 44,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.0486981151939216,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 17 1",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -8.295000076293945,
+      -13.223999977111816,
+      -0.8149999976158142
+    ],
+    "hi": [
+      -6.184593677520752,
+      -13.163999557495117,
+      2.568000078201294
+    ],
+    "dimensions": [
+      2.1104063987731934,
+      0.06000041961669922,
+      3.383000075817108
+    ],
+    "faces": 41,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.1685789643138312,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 18 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -8.295000076293945,
+      -13.223999977111816,
+      -0.8149999976158142
+    ],
+    "hi": [
+      -8.234999656677246,
+      -11.96500015258789,
+      2.568000078201294
+    ],
+    "dimensions": [
+      0.06000041961669922,
+      1.2589998245239258,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.25555357733907874,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo terreo 19 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.295999526977539,
+      -12.024999618530273,
+      -0.8149999976158142
+    ],
+    "hi": [
+      -8.234999656677246,
+      -11.96500015258789,
+      2.568000078201294
+    ],
+    "dimensions": [
+      1.060999870300293,
+      0.05999946594238281,
+      3.383000075817108
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.21535984157362267,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 00 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.295999526977539,
+      -12.024999618530273,
+      2.558000087738037
+    ],
+    "hi": [
+      -9.236000061035156,
+      9.751999855041504,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.05999946594238281,
+      21.776999473571777,
+      3.952000141143799
+    ],
+    "faces": 488,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 4.640500600720473,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 01 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.295999526977539,
+      9.692000389099121,
+      2.558000087738037
+    ],
+    "hi": [
+      -1.0980000495910645,
+      9.751999855041504,
+      6.510000228881836
+    ],
+    "dimensions": [
+      8.197999477386475,
+      0.05999946594238281,
+      3.952000141143799
+    ],
+    "faces": 128,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.3260093519237437,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 02 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -1.1579999923706055,
+      5.9720001220703125,
+      2.558000087738037
+    ],
+    "hi": [
+      -1.0980000495910645,
+      9.751999855041504,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      3.7799997329711914,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.8963127139023103,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 03 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -1.1579999923706055,
+      5.9720001220703125,
+      2.558000087738037
+    ],
+    "hi": [
+      1.090000033378601,
+      6.0320000648498535,
+      6.510000228881836
+    ],
+    "dimensions": [
+      2.2480000257492065,
+      0.059999942779541016,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.5330452767910494,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 04 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.0299999713897705,
+      5.823999881744385,
+      2.558000087738037
+    ],
+    "hi": [
+      1.090000033378601,
+      6.0320000648498535,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.060000061988830566,
+      0.20800018310546875,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.04932105613530195,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 05 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.0299999713897705,
+      5.823999881744385,
+      2.558000087738037
+    ],
+    "hi": [
+      3.61899995803833,
+      5.883999824523926,
+      6.510000228881836
+    ],
+    "dimensions": [
+      2.5889999866485596,
+      0.059999942779541016,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.6139031132951911,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 06 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      3.559000015258789,
+      5.823999881744385,
+      2.558000087738037
+    ],
+    "hi": [
+      3.61899995803833,
+      7.565000057220459,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      1.7410001754760742,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.4128255826512385,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 07 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      3.559000015258789,
+      7.505000114440918,
+      2.558000087738037
+    ],
+    "hi": [
+      13.425000190734863,
+      7.565000057220459,
+      6.510000228881836
+    ],
+    "dimensions": [
+      9.866000175476074,
+      0.059999942779541016,
+      3.952000141143799
+    ],
+    "faces": 227,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.5508195440082988,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 08 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      13.364999771118164,
+      6.306000232696533,
+      2.558000087738037
+    ],
+    "hi": [
+      13.425000190734863,
+      7.565000057220459,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.06000041961669922,
+      1.2589998245239258,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.29853613688433,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 09 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      13.364999771118164,
+      6.306000232696533,
+      2.558000087738037
+    ],
+    "hi": [
+      14.425999641418457,
+      6.366000175476074,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.060999870300293,
+      0.059999942779541016,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.25158405830132996,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 10 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      14.366000175476074,
+      -16.003000259399414,
+      2.558000087738037
+    ],
+    "hi": [
+      14.425999641418457,
+      6.366000175476074,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.05999946594238281,
+      22.36900043487549,
+      3.952000141143799
+    ],
+    "faces": 488,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 4.780915709216552,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 11 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      6.229000091552734,
+      -16.003000259399414,
+      2.558000087738037
+    ],
+    "hi": [
+      14.425999641418457,
+      -15.942999839782715,
+      6.510000228881836
+    ],
+    "dimensions": [
+      8.196999549865723,
+      0.06000041961669922,
+      3.952000141143799
+    ],
+    "faces": 192,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.9265375135112294,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 12 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      6.229000091552734,
+      -16.003000259399414,
+      2.558000087738037
+    ],
+    "hi": [
+      6.289000034332275,
+      -11.630999565124512,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      4.372000694274902,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.0366878529878154,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 13 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      4.697000026702881,
+      -11.690999984741211,
+      2.558000087738037
+    ],
+    "hi": [
+      6.289000034332275,
+      -11.630999565124512,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.5920000076293945,
+      0.06000041961669922,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.37749769534497923,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 14 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      4.697000026702881,
+      -11.690999984741211,
+      2.558000087738037
+    ],
+    "hi": [
+      4.756999969482422,
+      -11.482999801635742,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      0.20800018310546875,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.04932095814327275,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 15 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.5110000371932983,
+      -11.543000221252441,
+      2.558000087738037
+    ],
+    "hi": [
+      4.756999969482422,
+      -11.482999801635742,
+      6.510000228881836
+    ],
+    "dimensions": [
+      3.2459999322891235,
+      0.06000041961669922,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.7696969143572119,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 16 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      1.5110000371932983,
+      -13.223999977111816,
+      2.558000087738037
+    ],
+    "hi": [
+      1.5709999799728394,
+      -11.482999801635742,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.059999942779541016,
+      1.7410001754760742,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.4128255826512375,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 17 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -8.295000076293945,
+      -13.223999977111816,
+      2.558000087738037
+    ],
+    "hi": [
+      1.5709999799728394,
+      -13.163999557495117,
+      6.510000228881836
+    ],
+    "dimensions": [
+      9.866000056266785,
+      0.06000041961669922,
+      3.952000141143799
+    ],
+    "faces": 245,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.5508321541081356,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 18 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -8.295000076293945,
+      -13.223999977111816,
+      2.558000087738037
+    ],
+    "hi": [
+      -8.234999656677246,
+      -11.96500015258789,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.06000041961669922,
+      1.2589998245239258,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.298536136884315,
+    "modifiers": []
+  },
+  {
+    "name": "Revestimento continuo superior 19 0",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.295999526977539,
+      -12.024999618530273,
+      2.558000087738037
+    ],
+    "hi": [
+      -8.234999656677246,
+      -11.96500015258789,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.060999870300293,
+      0.05999946594238281,
+      3.952000141143799
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.25158205888896273,
+    "modifiers": []
+  },
+  {
+    "name": "Fechamento borda mezanino",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.255000114440918,
+      -3.950000047683716,
+      2.372999906539917
+    ],
+    "hi": [
+      6.489999771118164,
+      -3.75,
+      2.822999954223633
+    ],
+    "dimensions": [
+      15.744999885559082,
+      0.20000004768371582,
+      0.4500000476837158
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.4170504777074129,
+    "modifiers": []
+  },
+  {
+    "name": "Fechamento borda quarto sobre sala",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      6.300000190734863,
+      -13.28499984741211,
+      2.372999906539917
+    ],
+    "hi": [
+      6.5,
+      -3.75,
+      2.822999954223633
+    ],
+    "dimensions": [
+      0.19999980926513672,
+      9.53499984741211,
+      0.4500000476837158
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.8581492588042448,
+    "modifiers": []
+  },
+  {
+    "name": "Vidros nos vaos nativos.001",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -8.94986343383789,
+      -15.82144546508789,
+      -0.7333984375
+    ],
+    "hi": [
+      14.08072280883789,
+      9.62515640258789,
+      6.43359375
+    ],
+    "dimensions": [
+      23.03058624267578,
+      25.44660186767578,
+      7.1669921875
+    ],
+    "faces": 89,
+    "open_edges": 170,
+    "nonmanifold_edges": 171,
+    "signed_volume_m3": -346.7124521140782,
+    "modifiers": []
+  },
+  {
+    "name": "Caixilhos solidos das janelas",
+    "collection": "01_ENVOLTORIA_INTERNA",
+    "lo": [
+      -9.0595703125,
+      -15.88232421875,
+      -0.7998046875
+    ],
+    "hi": [
+      14.1904296875,
+      9.72705078125,
+      6.48799991607666
+    ],
+    "dimensions": [
+      23.25,
+      25.609375,
+      7.28780460357666
+    ],
+    "faces": 682,
+    "open_edges": 748,
+    "nonmanifold_edges": 808,
+    "signed_volume_m3": -48.11052525760342,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Escritorio_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -9.255999565124512,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -6.625,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      2.6309995651245117,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.5343555099788944,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Escritorio_01_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -6.625000476837158,
+      2.2599995136260986,
+      1.6999999284744263
+    ],
+    "hi": [
+      -5.575000286102295,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0500001907348633,
+      0.17999982833862305,
+      0.8750001192092896
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.05512496495245356,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Escritorio_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -5.575000286102295,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -3.4000000953674316,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      2.1750001907348633,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.4417421239935919,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Lavabo_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -3.4000000953674316,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -2.5250000953674316,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.875,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.17771233314871537,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Lavabo_01_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -2.5250000953674316,
+      2.2599995136260986,
+      1.6999999284744263
+    ],
+    "hi": [
+      -1.475000023841858,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0500000715255737,
+      0.17999982833862305,
+      0.8750001192092896
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.05512495869397094,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Lavabo_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -1.4750003814697266,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -0.6000003814697266,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.875,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.17771233314871537,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Escada_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -0.6000002026557922,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -0.2500001788139343,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.3500000238418579,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.07108493810176286,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Escada_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      2.4000000953674316,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      2.5999999046325684,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.19999980926513672,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.040619923124349144,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Despensa_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      2.6000001430511475,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      3.625000238418579,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0250000953674316,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.2081773239147453,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Despensa_01_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      3.624999523162842,
+      2.2599995136260986,
+      1.6999999284744263
+    ],
+    "hi": [
+      4.674999713897705,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0500001907348633,
+      0.17999982833862305,
+      0.8750001192092896
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.05512496495245356,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Despensa_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      4.675000190734863,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      5.699999809265137,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0249996185302734,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.20817722706920883,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Sala TV Jogos_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      5.699999809265137,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      7.574999809265137,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.875,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.38081214246153294,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Sala TV Jogos_01_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      7.5749993324279785,
+      2.2599995136260986,
+      1.6999999284744263
+    ],
+    "hi": [
+      8.624999046325684,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.049999713897705,
+      0.17999982833862305,
+      0.8750001192092896
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.055124939918523186,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Sala TV Jogos_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      8.624999046325684,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      10.499999046325684,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.875,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.38081214246153294,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Lavanderia_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      10.499999046325684,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      11.574999809265137,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0750007629394531,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.21833244996413592,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Lavanderia_01_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      11.574999809265137,
+      2.2599995136260986,
+      1.6999999284744263
+    ],
+    "hi": [
+      12.624999046325684,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0499992370605469,
+      0.17999982833862305,
+      0.8750001192092896
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.055124914884592924,
+    "modifiers": []
+  },
+  {
+    "name": "Hall para Lavanderia_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      12.624999046325684,
+      2.2599995136260986,
+      -0.8100000023841858
+    ],
+    "hi": [
+      14.38599967956543,
+      2.4399993419647217,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.761000633239746,
+      0.17999982833862305,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.3576588928107425,
+    "modifiers": []
+  },
+  {
+    "name": "Divisoria apoio 5.4_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -3.490000009536743,
+      2.3499999046325684,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -3.31000018119812,
+      9.756999969482422,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.17999982833862305,
+      7.4070000648498535,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.5043603007510384,
+    "modifiers": []
+  },
+  {
+    "name": "Divisoria apoio 8.2_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -0.6900004148483276,
+      2.3499999046325684,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -0.5100003480911255,
+      5.947000026702881,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.18000006675720215,
+      3.5970001220703125,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.7305510065399305,
+    "modifiers": []
+  },
+  {
+    "name": "Divisoria apoio 11.4_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      2.5099995136260986,
+      2.3499999046325684,
+      -0.8100000023841858
+    ],
+    "hi": [
+      2.6899993419647217,
+      5.798999786376953,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.17999982833862305,
+      3.4489998817443848,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.700491218302215,
+    "modifiers": []
+  },
+  {
+    "name": "Divisoria apoio 14.5_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      5.609999656677246,
+      2.3499999046325684,
+      -0.8100000023841858
+    ],
+    "hi": [
+      5.789999961853027,
+      7.525000095367432,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      5.175000190734863,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.0510443362439588,
+    "modifiers": []
+  },
+  {
+    "name": "Divisoria apoio 19.3_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      10.409998893737793,
+      2.3499999046325684,
+      -0.8100000023841858
+    ],
+    "hi": [
+      10.589999198913574,
+      7.525000095367432,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      5.175000190734863,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.0510443362439517,
+    "modifiers": []
+  },
+  {
+    "name": "Hall estar_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -9.255999565124512,
+      -0.9400004148483276,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -3.9000003337860107,
+      -0.7600003480911255,
+      2.575000047683716
+    ],
+    "dimensions": [
+      5.355999231338501,
+      0.18000006675720215,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.0878038634119758,
+    "modifiers": []
+  },
+  {
+    "name": "Hall estar_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -1.600000262260437,
+      -0.9400004148483276,
+      -0.8100000023841858
+    ],
+    "hi": [
+      -0.8000003099441528,
+      -0.7600003480911255,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.7999999523162842,
+      0.18000006675720215,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.1624800529781948,
+    "modifiers": []
+  },
+  {
+    "name": "Hall jantar_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      -0.8000001907348633,
+      -0.9400004148483276,
+      -0.8100000023841858
+    ],
+    "hi": [
+      0.19999980926513672,
+      -0.7600003480911255,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0,
+      0.18000006675720215,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.20310007832845156,
+    "modifiers": []
+  },
+  {
+    "name": "Hall jantar_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      4.5,
+      -0.9400004148483276,
+      -0.8100000023841858
+    ],
+    "hi": [
+      6.399999618530273,
+      -0.7600003480911255,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.8999996185302734,
+      0.18000006675720215,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.38589007134752684,
+    "modifiers": []
+  },
+  {
+    "name": "Hall cozinha_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      6.399999618530273,
+      -0.9400004148483276,
+      -0.8100000023841858
+    ],
+    "hi": [
+      7.399999618530273,
+      -0.7600003480911255,
+      2.575000047683716
+    ],
+    "dimensions": [
+      1.0,
+      0.18000006675720215,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.20310007832845134,
+    "modifiers": []
+  },
+  {
+    "name": "Hall cozinha_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      9.399999618530273,
+      -0.9400004148483276,
+      -0.8100000023841858
+    ],
+    "hi": [
+      14.38599967956543,
+      -0.7600003480911255,
+      2.575000047683716
+    ],
+    "dimensions": [
+      4.986000061035156,
+      0.18000006675720215,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.0126570029419044,
+    "modifiers": []
+  },
+  {
+    "name": "Cozinha lateral_00_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      6.309999465942383,
+      -11.899999618530273,
+      -0.8100000023841858
+    ],
+    "hi": [
+      6.489999771118164,
+      -9.850000381469727,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      2.049999237060547,
+      3.3850000500679016
+    ],
+    "faces": 14,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.4150284183751687,
+    "modifiers": []
+  },
+  {
+    "name": "Cozinha lateral_02_0 ajustada 0",
+    "collection": "02_TERREO_PAREDES",
+    "lo": [
+      6.309999465942383,
+      -4.450000762939453,
+      -0.8100000023841858
+    ],
+    "hi": [
+      6.489999771118164,
+      -0.8500006198883057,
+      2.575000047683716
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      3.6000001430511475,
+      3.3850000500679016
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.7311612794924411,
+    "modifiers": []
+  },
+  {
+    "name": "Suite closet banheiro_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -9.255999565124512,
+      1.0599995851516724,
+      2.7980000972747803
+    ],
+    "hi": [
+      -6.40000057220459,
+      1.2399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      2.855998992919922,
+      0.18000006675720215,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.6360883541634301,
+    "modifiers": []
+  },
+  {
+    "name": "Suite closet banheiro_01_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -6.400000095367432,
+      1.0599995851516724,
+      5.307999610900879
+    ],
+    "hi": [
+      -5.349999904632568,
+      1.2399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.0500001907348633,
+      0.18000006675720215,
+      1.202000617980957
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.07572608077338033,
+    "modifiers": []
+  },
+  {
+    "name": "Suite closet banheiro_02_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -5.350000381469727,
+      1.0599995851516724,
+      2.7980000972747803
+    ],
+    "hi": [
+      -3.3000001907348633,
+      1.2399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      2.0500001907348633,
+      0.18000006675720215,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.4565762280000287,
+    "modifiers": []
+  },
+  {
+    "name": "Suite closet banheiro_03_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -3.3000001907348633,
+      1.0599995851516724,
+      5.307999610900879
+    ],
+    "hi": [
+      -2.25,
+      1.2399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.0500001907348633,
+      0.18000006675720215,
+      1.202000617980957
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.07572608077338033,
+    "modifiers": []
+  },
+  {
+    "name": "Suite closet banheiro_04_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -2.25,
+      1.0599995851516724,
+      2.7980000972747803
+    ],
+    "hi": [
+      -0.8000000715255737,
+      1.2399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.4499999284744263,
+      0.18000006675720215,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.32294411529095735,
+    "modifiers": []
+  },
+  {
+    "name": "Closet banheiro divisoria_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -4.890000343322754,
+      -3.8500003814697266,
+      2.7980000972747803
+    ],
+    "hi": [
+      -4.710000038146973,
+      1.1499996185302734,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      5.0,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.1136019275030207,
+    "modifiers": []
+  },
+  {
+    "name": "Banheiro suite acesso hall_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -0.8900002241134644,
+      -3.8500008583068848,
+      2.7980000972747803
+    ],
+    "hi": [
+      -0.7100001573562622,
+      -1.300000786781311,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000006675720215,
+      2.5500000715255737,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.5679362466983928,
+    "modifiers": []
+  },
+  {
+    "name": "Banheiro suite acesso hall_01_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -0.8900002241134644,
+      -1.300000548362732,
+      5.307999610900879
+    ],
+    "hi": [
+      -0.7100001573562622,
+      -0.25000059604644775,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000006675720215,
+      1.0499999523162842,
+      1.202000617980957
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.07572606357861712,
+    "modifiers": []
+  },
+  {
+    "name": "Banheiro suite acesso hall_02_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -0.8900002241134644,
+      -0.2500001788139343,
+      2.7980000972747803
+    ],
+    "hi": [
+      -0.7100001573562622,
+      1.1499998569488525,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000006675720215,
+      1.4000000357627869,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.31180813466136403,
+    "modifiers": []
+  },
+  {
+    "name": "Closet limite vazio_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -9.255999565124512,
+      -3.940000295639038,
+      2.7980000972747803
+    ],
+    "hi": [
+      -4.800000190734863,
+      -3.760000467300415,
+      6.510000228881836
+    ],
+    "dimensions": [
+      4.455999374389648,
+      0.17999982833862305,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.9924392693857733,
+    "modifiers": []
+  },
+  {
+    "name": "Banheiro limite vazio_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -4.800000190734863,
+      -3.940000295639038,
+      2.7980000972747803
+    ],
+    "hi": [
+      -0.8000001907348633,
+      -3.760000467300415,
+      6.510000228881836
+    ],
+    "dimensions": [
+      4.0,
+      0.17999982833862305,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.8908791819762882,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 2 fundos_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      6.400000095367432,
+      -2.940000295639038,
+      2.7980000972747803
+    ],
+    "hi": [
+      7.200000286102295,
+      -2.760000467300415,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.8000001907348633,
+      0.17999982833862305,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.1781758788756873,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 2 fundos_01_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      7.19999885559082,
+      -2.940000295639038,
+      5.307999610900879
+    ],
+    "hi": [
+      8.299999237060547,
+      -2.760000467300415,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.1000003814697266,
+      0.17999982833862305,
+      1.202000617980957
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.07933199264139823,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 2 fundos_02_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      8.299999237060547,
+      -2.940000295639038,
+      2.7980000972747803
+    ],
+    "hi": [
+      14.38599967956543,
+      -2.760000467300415,
+      6.510000228881836
+    ],
+    "dimensions": [
+      6.086000442504883,
+      0.17999982833862305,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.3554727739315169,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 2 lateral vazio_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      6.309999465942383,
+      -15.963000297546387,
+      2.7980000972747803
+    ],
+    "hi": [
+      6.489999771118164,
+      -2.8500003814697266,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      13.11299991607666,
+      3.7120001316070557
+    ],
+    "faces": 14,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -2.8989645701862656,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 3 frente_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      6.400000095367432,
+      1.5599995851516724,
+      2.7980000972747803
+    ],
+    "hi": [
+      7.200000286102295,
+      1.7399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.8000001907348633,
+      0.18000006675720215,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.17817611487835605,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 3 frente_01_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      7.19999885559082,
+      1.5599995851516724,
+      5.307999610900879
+    ],
+    "hi": [
+      8.299999237060547,
+      1.7399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      1.1000003814697266,
+      0.18000006675720215,
+      1.202000617980957
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.07933209772050376,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 3 frente_02_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      8.299999237060547,
+      1.5599995851516724,
+      2.7980000972747803
+    ],
+    "hi": [
+      14.38599967956543,
+      1.7399996519088745,
+      6.510000228881836
+    ],
+    "dimensions": [
+      6.086000442504883,
+      0.18000006675720215,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.3554745693215224,
+    "modifiers": []
+  },
+  {
+    "name": "Quarto 3 lado leitura_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      6.309999465942383,
+      1.6499996185302734,
+      2.7980000972747803
+    ],
+    "hi": [
+      6.489999771118164,
+      7.525000095367432,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      5.875000476837158,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -1.308482371017397,
+    "modifiers": []
+  },
+  {
+    "name": "Banheiro social lado hall_00_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      9.710000038146973,
+      -2.8500003814697266,
+      2.7980000972747803
+    ],
+    "hi": [
+      9.890000343322754,
+      -1.3500003814697266,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      1.5,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.334080578250904,
+    "modifiers": []
+  },
+  {
+    "name": "Banheiro social lado hall_01_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      9.710000038146973,
+      -1.3500007390975952,
+      5.307999610900879
+    ],
+    "hi": [
+      9.890000343322754,
+      -0.30000078678131104,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      1.0499999523162842,
+      1.202000617980957
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.0757261638813588,
+    "modifiers": []
+  },
+  {
+    "name": "Banheiro social lado hall_02_0 ajustada 0",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      9.710000038146973,
+      -0.30000078678131104,
+      2.7980000972747803
+    ],
+    "hi": [
+      9.890000343322754,
+      1.6499992609024048,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.18000030517578125,
+      1.9500000476837158,
+      3.7120001316070557
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -0.43430476234631143,
+    "modifiers": []
+  },
+  {
+    "name": "Suite master lado hall Sul",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -1.6399999856948853,
+      1.149999976158142,
+      2.7980000972747803
+    ],
+    "hi": [
+      -1.4600000381469727,
+      1.5,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.1799999475479126,
+      0.3500000238418579,
+      3.7120001316070557
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.233855956075662,
+    "modifiers": []
+  },
+  {
+    "name": "Suite master lado hall Norte",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -1.6399999856948853,
+      2.5999999046325684,
+      2.7980000972747803
+    ],
+    "hi": [
+      -1.4600000381469727,
+      9.699999809265137,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.1799999475479126,
+      7.099999904632568,
+      3.7120001316070557
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 4.743934722087825,
+    "modifiers": []
+  },
+  {
+    "name": "Suite master lado hall Verga",
+    "collection": "03_SUPERIOR_PAREDES",
+    "lo": [
+      -1.6399999856948853,
+      1.5,
+      5.308000087738037
+    ],
+    "hi": [
+      -1.4600000381469727,
+      2.5999999046325684,
+      6.510000228881836
+    ],
+    "dimensions": [
+      0.1799999475479126,
+      1.0999999046325684,
+      1.2020001411437988
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.23799593796062007,
+    "modifiers": []
+  },
+  {
+    "name": "Piso continuo Entrada",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      5.5,
+      -13.520000457763672,
+      -1.0499999523162842
+    ],
+    "hi": [
+      7.179999828338623,
+      -12.270000457763672,
+      -0.800000011920929
+    ],
+    "dimensions": [
+      1.679999828338623,
+      1.25,
+      0.24999994039535522
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.5249998211860785,
+    "modifiers": []
+  },
+  {
+    "name": "Piso continuo Sacada esquerda",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      -9.84000015258789,
+      -5.71999979019165,
+      -1.0499999523162842
+    ],
+    "hi": [
+      -8.869999885559082,
+      -4.619999885559082,
+      -0.800000011920929
+    ],
+    "dimensions": [
+      0.9700002670288086,
+      1.0999999046325684,
+      0.24999994039535522
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.266749986708146,
+    "modifiers": []
+  },
+  {
+    "name": "Piso continuo Sacada direita",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      13.880000114440918,
+      -5.71999979019165,
+      -1.0499999523162842
+    ],
+    "hi": [
+      15.050000190734863,
+      -4.619999885559082,
+      -0.800000011920929
+    ],
+    "dimensions": [
+      1.1700000762939453,
+      1.0999999046325684,
+      0.24999994039535522
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.3217499163746833,
+    "modifiers": []
+  },
+  {
+    "name": "Piso continuo Sala deck",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      -6.190000057220459,
+      -13.649999618530273,
+      -1.0499999523162842
+    ],
+    "hi": [
+      -4.869999885559082,
+      -12.800000190734863,
+      -0.800000011920929
+    ],
+    "dimensions": [
+      1.320000171661377,
+      0.8499994277954102,
+      0.24999994039535522
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.2804997807741285,
+    "modifiers": []
+  },
+  {
+    "name": "Piso continuo Fundos",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      -2.0999999046325684,
+      6.369999885559082,
+      -1.0499999523162842
+    ],
+    "hi": [
+      -0.3499999940395355,
+      7.650000095367432,
+      -0.800000011920929
+    ],
+    "dimensions": [
+      1.7499999105930328,
+      1.2800002098083496,
+      0.24999994039535522
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.5599999296664999,
+    "modifiers": []
+  },
+  {
+    "name": "Piso terreo contorno nativo",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      -9.246000289916992,
+      -14.430999755859375,
+      -1.0499999523162842
+    ],
+    "hi": [
+      14.37600040435791,
+      9.791999816894531,
+      -0.800000011920929
+    ],
+    "dimensions": [
+      23.622000694274902,
+      24.222999572753906,
+      0.24999994039535522
+    ],
+    "faces": 56,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -41.62399744854553,
+    "modifiers": []
+  },
+  {
+    "name": "Laje superior contorno nativo",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      -9.246000289916992,
+      -15.95300006866455,
+      2.3580000400543213
+    ],
+    "hi": [
+      14.37600040435791,
+      9.70199966430664,
+      2.808000087738037
+    ],
+    "dimensions": [
+      23.622000694274902,
+      25.65499973297119,
+      0.4500000476837158
+    ],
+    "faces": 60,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -54.422407719989074,
+    "modifiers": []
+  },
+  {
+    "name": "Piso continuo Portao da rua",
+    "collection": "04_LAJES_E_PISOS",
+    "lo": [
+      1.100000023841858,
+      7.050000190734863,
+      -1.0499999523162842
+    ],
+    "hi": [
+      3.609999895095825,
+      7.590000152587891,
+      -0.800000011920929
+    ],
+    "dimensions": [
+      2.5099998712539673,
+      0.5399999618530273,
+      0.24999994039535522
+    ],
+    "faces": 8,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.33884987789393595,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 01",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      1.7499994039535522,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      2.049999475479126,
+      -0.6195999979972839
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.30000007152557373,
+      0.18040001392364502
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.06494402307701311,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 02",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      2.049999475479126,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      2.3499996662139893,
+      -0.4391999840736389
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.3000001907348633,
+      0.36080002784729004
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.1298880977668863,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 03",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      2.349998712539673,
+      -0.7999999523162842
+    ],
+    "hi": [
+      0.9999996423721313,
+      2.649998903274536,
+      -0.2587999999523163
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.3000001907348633,
+      0.5411999523639679
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.19483211446379956,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 04",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      2.6499998569488525,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      2.950000047683716,
+      -0.07840001583099365
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.3000001907348633,
+      0.7215999960899353
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.2597761740760859,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 05",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      2.9499990940093994,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      3.2499992847442627,
+      0.10199999809265137
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.3000001907348633,
+      0.9020000100135803
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.3247202229595292,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 06",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      3.250000238418579,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      3.5500004291534424,
+      0.2823999524116516
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.3000001907348633,
+      1.0823999643325806
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.3896642503852858,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 07",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      3.549999475479126,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      3.8499996662139893,
+      0.46279996633529663
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.3000001907348633,
+      1.2627999782562256
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.454608299268729,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 08",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      3.849998712539673,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      4.149998664855957,
+      0.6431999802589417
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.2999999523162842,
+      1.4431999921798706
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.5195519352493259,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 1 degrau 09",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000040531158447,
+      4.150000095367432,
+      -0.800000011920929
+    ],
+    "hi": [
+      0.9999996423721313,
+      4.450000286102295,
+      0.8235999941825867
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.3000001907348633,
+      1.6236000061035156
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.5844963970356153,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 11",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      4.150000095367432,
+      0.9643999338150024
+    ],
+    "hi": [
+      2.4000000953674316,
+      4.450000286102295,
+      1.184399962425232
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.3000001907348633,
+      0.2200000286102295
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07920005593300197,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 12",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      3.849998712539673,
+      1.144800066947937
+    ],
+    "hi": [
+      2.4000000953674316,
+      4.149998664855957,
+      1.3648000955581665
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.2999999523162842,
+      0.2200000286102295
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07919999299049249,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 13",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      3.549999475479126,
+      1.3251999616622925
+    ],
+    "hi": [
+      2.4000000953674316,
+      3.8499996662139893,
+      1.545199990272522
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.3000001907348633,
+      0.2200000286102295
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07920005593300139,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 14",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      3.250000238418579,
+      1.505600094795227
+    ],
+    "hi": [
+      2.4000000953674316,
+      3.5500004291534424,
+      1.7256001234054565
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.3000001907348633,
+      0.2200000286102295
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07920005593300194,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 15",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      2.9499990940093994,
+      1.6859999895095825
+    ],
+    "hi": [
+      2.4000000953674316,
+      3.2499992847442627,
+      1.906000018119812
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.3000001907348633,
+      0.2200000286102295
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0792000559330012,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 16",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      2.6499998569488525,
+      1.866400122642517
+    ],
+    "hi": [
+      2.4000000953674316,
+      2.950000047683716,
+      2.086400032043457
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.3000001907348633,
+      0.21999990940093994
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07920001301763255,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 17",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      2.349998712539673,
+      2.046800136566162
+    ],
+    "hi": [
+      2.4000000953674316,
+      2.649998903274536,
+      2.2667999267578125
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.3000001907348633,
+      0.2199997901916504
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07919997010226326,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 18",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      2.049999475479126,
+      2.2272002696990967
+    ],
+    "hi": [
+      2.4000000953674316,
+      2.3499996662139893,
+      2.447200059890747
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.3000001907348633,
+      0.2199997901916504
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07919997010226354,
+    "modifiers": []
+  },
+  {
+    "name": "Escada lance 2 degrau 19",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000001668930054,
+      1.7499994039535522,
+      2.407600164413452
+    ],
+    "hi": [
+      2.4000000953674316,
+      2.049999475479126,
+      2.6275999546051025
+    ],
+    "dimensions": [
+      1.1999999284744263,
+      0.30000007152557373,
+      0.2199997901916504
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.07919993863104313,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala montante",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.7259998321533203,
+      -3.87600040435791,
+      2.808000087738037
+    ],
+    "hi": [
+      -0.6739997863769531,
+      -3.824000358581543,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032151043245224,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala montante.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      0.4440002739429474,
+      -3.87600040435791,
+      2.808000087738037
+    ],
+    "hi": [
+      0.4960002601146698,
+      -3.824000358581543,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032156036245612,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala montante.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.613999366760254,
+      -3.87600040435791,
+      2.808000087738037
+    ],
+    "hi": [
+      1.665999412536621,
+      -3.824000358581543,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.00210321851371425,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala montante.003",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.783999443054199,
+      -3.87600040435791,
+      2.808000087738037
+    ],
+    "hi": [
+      2.8359994888305664,
+      -3.824000358581543,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103211694935116,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala montante.004",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      3.9539995193481445,
+      -3.87600040435791,
+      2.808000087738037
+    ],
+    "hi": [
+      4.005999565124512,
+      -3.824000358581543,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103211694935071,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala montante.005",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      5.12399959564209,
+      -3.87600040435791,
+      2.808000087738037
+    ],
+    "hi": [
+      5.175999641418457,
+      -3.824000358581543,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103225332491678,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala montante.006",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      6.293999671936035,
+      -3.87600040435791,
+      2.808000087738037
+    ],
+    "hi": [
+      6.345999717712402,
+      -3.824000358581543,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032253324939658,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala travessa",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.6999998092651367,
+      -3.8700006008148193,
+      3.167999744415283
+    ],
+    "hi": [
+      6.319999694824219,
+      -3.830000162124634,
+      3.2080001831054688
+    ],
+    "dimensions": [
+      7.0199995040893555,
+      0.04000043869018555,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.007942226476144076,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala travessa.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.6999998092651367,
+      -3.8700006008148193,
+      3.507999897003174
+    ],
+    "hi": [
+      6.319999694824219,
+      -3.830000162124634,
+      3.5480003356933594
+    ],
+    "dimensions": [
+      7.0199995040893555,
+      0.04000043869018555,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.007942226476139328,
+    "modifiers": []
+  },
+  {
+    "name": "Mezanino sala travessa.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.6999998092651367,
+      -3.8700006008148193,
+      3.888000011444092
+    ],
+    "hi": [
+      6.319999694824219,
+      -3.830000162124634,
+      3.9280004501342773
+    ],
+    "dimensions": [
+      7.0199995040893555,
+      0.04000043869018555,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.007942226476146461,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda montante",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3260001838207245,
+      1.6239993572235107,
+      2.808000087738037
+    ],
+    "hi": [
+      -0.2740001976490021,
+      1.675999402999878,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032224223964044,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda montante.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3260001838207245,
+      2.6364991664886475,
+      2.808000087738037
+    ],
+    "hi": [
+      -0.2740001976490021,
+      2.6884992122650146,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103215603624473,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda montante.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3260001838207245,
+      3.6489999294281006,
+      2.808000087738037
+    ],
+    "hi": [
+      -0.2740001976490021,
+      3.7009999752044678,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103215603624473,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda montante.003",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3260001838207245,
+      4.6614990234375,
+      2.808000087738037
+    ],
+    "hi": [
+      -0.2740001976490021,
+      4.713499069213867,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103229241168257,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda montante.004",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3260001838207245,
+      5.673999786376953,
+      2.808000087738037
+    ],
+    "hi": [
+      -0.2740001976490021,
+      5.72599983215332,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032292411683104,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda travessa",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.32000020146369934,
+      1.6499993801116943,
+      3.167999744415283
+    ],
+    "hi": [
+      -0.2800001800060272,
+      5.699999809265137,
+      3.2080001831054688
+    ],
+    "dimensions": [
+      0.04000002145767212,
+      4.050000429153442,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.004582053131386069,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda travessa.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.32000020146369934,
+      1.6499993801116943,
+      3.507999897003174
+    ],
+    "hi": [
+      -0.2800001800060272,
+      5.699999809265137,
+      3.5480003356933594
+    ],
+    "dimensions": [
+      0.04000002145767212,
+      4.050000429153442,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0045820531313858935,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada esquerda travessa.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.32000020146369934,
+      1.6499993801116943,
+      3.888000011444092
+    ],
+    "hi": [
+      -0.2800001800060272,
+      5.699999809265137,
+      3.9280004501342773
+    ],
+    "dimensions": [
+      0.04000002145767212,
+      4.050000429153442,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.004582053131385551,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada fundo montante",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3260001838207245,
+      5.673999786376953,
+      2.808000087738037
+    ],
+    "hi": [
+      -0.2740001976490021,
+      5.72599983215332,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032292411683104,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada fundo montante.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      0.6073331832885742,
+      5.673999786376953,
+      2.808000087738037
+    ],
+    "hi": [
+      0.6593332290649414,
+      5.72599983215332,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032287418839,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada fundo montante.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.5406665802001953,
+      5.673999786376953,
+      2.808000087738037
+    ],
+    "hi": [
+      1.5926666259765625,
+      5.72599983215332,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032321512740523,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada fundo montante.003",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4739999771118164,
+      5.673999786376953,
+      2.808000087738037
+    ],
+    "hi": [
+      2.5260000228881836,
+      5.72599983215332,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032253324951835,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada fundo travessa",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3000001907348633,
+      5.679999828338623,
+      3.1679999828338623
+    ],
+    "hi": [
+      2.5,
+      5.71999979019165,
+      3.2079999446868896
+    ],
+    "dimensions": [
+      2.8000001907348633,
+      0.039999961853027344,
+      0.039999961853027344
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0031678267082648932,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada fundo travessa.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3000001907348633,
+      5.679999828338623,
+      3.508000135421753
+    ],
+    "hi": [
+      2.5,
+      5.71999979019165,
+      3.5480000972747803
+    ],
+    "dimensions": [
+      2.8000001907348633,
+      0.039999961853027344,
+      0.039999961853027344
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0031678267082625275,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada fundo travessa.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.3000001907348633,
+      5.679999828338623,
+      3.888000249862671
+    ],
+    "hi": [
+      2.5,
+      5.71999979019165,
+      3.9280002117156982
+    ],
+    "dimensions": [
+      2.8000001907348633,
+      0.039999961853027344,
+      0.039999961853027344
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.003167826708267249,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita montante",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4739999771118164,
+      5.673999786376953,
+      2.808000087738037
+    ],
+    "hi": [
+      2.5260000228881836,
+      5.72599983215332,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032253324951835,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita montante.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4739999771118164,
+      4.686500549316406,
+      2.808000087738037
+    ],
+    "hi": [
+      2.5260000228881836,
+      4.738500595092773,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103225332494001,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita montante.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4739999771118164,
+      3.6989991664886475,
+      2.808000087738037
+    ],
+    "hi": [
+      2.5260000228881836,
+      3.7509992122650146,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032116949339075,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita montante.003",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4739999771118164,
+      2.7114999294281006,
+      2.808000087738037
+    ],
+    "hi": [
+      2.5260000228881836,
+      2.7634999752044678,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103211694934496,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita montante.004",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4739999771118164,
+      1.7239997386932373,
+      2.808000087738037
+    ],
+    "hi": [
+      2.5260000228881836,
+      1.7759997844696045,
+      3.9080004692077637
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000003814697266
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002103218513715163,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita travessa",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4800000190734863,
+      1.749999761581421,
+      3.167999744415283
+    ],
+    "hi": [
+      2.5199999809265137,
+      5.699999809265137,
+      3.2080001831054688
+    ],
+    "dimensions": [
+      0.039999961853027344,
+      3.950000047683716,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0044688981415419785,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita travessa.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4800000190734863,
+      1.749999761581421,
+      3.507999897003174
+    ],
+    "hi": [
+      2.5199999809265137,
+      5.699999809265137,
+      3.5480003356933594
+    ],
+    "dimensions": [
+      0.039999961853027344,
+      3.950000047683716,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.004468898141540232,
+    "modifiers": []
+  },
+  {
+    "name": "Vao escada direita travessa.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.4800000190734863,
+      1.749999761581421,
+      3.888000011444092
+    ],
+    "hi": [
+      2.5199999809265137,
+      5.699999809265137,
+      3.9280004501342773
+    ],
+    "dimensions": [
+      0.039999961853027344,
+      3.950000047683716,
+      0.04000043869018555
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.004468898141543727,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar montante",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20600029826164246,
+      5.593999862670898,
+      1.003999948501587
+    ],
+    "hi": [
+      -0.15400031208992004,
+      5.645999908447266,
+      2.1040000915527344
+    ],
+    "dimensions": [
+      0.05199998617172241,
+      0.05200004577636719,
+      1.1000001430511475
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032283591321,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar montante.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      0.6473331451416016,
+      5.593999862670898,
+      1.003999948501587
+    ],
+    "hi": [
+      0.6993331909179688,
+      5.645999908447266,
+      2.1040000915527344
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000001430511475
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032282860217392,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar montante.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.500666618347168,
+      5.593999862670898,
+      1.003999948501587
+    ],
+    "hi": [
+      1.5526666641235352,
+      5.645999908447266,
+      2.1040000915527344
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000001430511475
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032316954110834,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar montante.003",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.3540000915527344,
+      5.593999862670898,
+      1.003999948501587
+    ],
+    "hi": [
+      2.4060001373291016,
+      5.645999908447266,
+      2.1040000915527344
+    ],
+    "dimensions": [
+      0.05200004577636719,
+      0.05200004577636719,
+      1.1000001430511475
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0021032248766327,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar travessa",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.18000030517578125,
+      5.599999904632568,
+      1.3639999628067017
+    ],
+    "hi": [
+      2.380000114440918,
+      5.639999866485596,
+      1.404000163078308
+    ],
+    "dimensions": [
+      2.560000419616699,
+      0.039999961853027344,
+      0.040000200271606445
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0028962971944386353,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar travessa.001",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.18000030517578125,
+      5.599999904632568,
+      1.7039998769760132
+    ],
+    "hi": [
+      2.380000114440918,
+      5.639999866485596,
+      1.7440000772476196
+    ],
+    "dimensions": [
+      2.560000419616699,
+      0.039999961853027344,
+      0.040000200271606445
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.002896297194438576,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar travessa.002",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.18000030517578125,
+      5.599999904632568,
+      2.0840001106262207
+    ],
+    "hi": [
+      2.380000114440918,
+      5.639999866485596,
+      2.124000072479248
+    ],
+    "dimensions": [
+      2.560000419616699,
+      0.039999961853027344,
+      0.039999961853027344
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.0028962989821448176,
+    "modifiers": []
+  },
+  {
+    "name": "Escada corrimao lance1",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.2150004506111145,
+      1.731963038444519,
+      0.30040544271469116
+    ],
+    "hi": [
+      -0.145000159740448,
+      4.46803617477417,
+      1.983994483947754
+    ],
+    "dimensions": [
+      0.0700002908706665,
+      2.736073136329651,
+      1.6835890412330627
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.010916157795145324,
+    "modifiers": []
+  },
+  {
+    "name": "Escada corrimao lance2",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      2.3450000286102295,
+      1.7305554151535034,
+      1.9248980283737183
+    ],
+    "hi": [
+      2.4150002002716064,
+      4.4694437980651855,
+      3.7871017456054688
+    ],
+    "dimensions": [
+      0.07000017166137695,
+      2.738888382911682,
+      1.8622037172317505
+    ],
+    "faces": 10,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.011251047906459387,
+    "modifiers": []
+  },
+  {
+    "name": "Escada patamar intermediario",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      -0.20000000298023224,
+      4.449999809265137,
+      0.653999924659729
+    ],
+    "hi": [
+      2.4000000953674316,
+      5.649999618530273,
+      1.003999948501587
+    ],
+    "dimensions": [
+      2.600000098347664,
+      1.1999998092651367,
+      0.3500000238418579
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 1.0919999421238737,
+    "modifiers": []
+  },
+  {
+    "name": "Escada chegada superior",
+    "collection": "05_ESCADA_E_GUARDA_CORPOS",
+    "lo": [
+      1.2000000476837158,
+      1.4500000476837158,
+      2.3580000400543213
+    ],
+    "hi": [
+      2.4000000953674316,
+      1.75,
+      2.808000087738037
+    ],
+    "dimensions": [
+      1.2000000476837158,
+      0.2999999523162842,
+      0.4500000476837158
+    ],
+    "faces": 6,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": 0.16199999785422997,
+    "modifiers": []
+  },
+  {
+    "name": "Teto contorno nativo",
+    "collection": "06_TETO_SUPERIOR (oculto para inspecao)",
+    "lo": [
+      -9.246000289916992,
+      -15.95300006866455,
+      6.489999771118164
+    ],
+    "hi": [
+      14.37600040435791,
+      9.70199966430664,
+      6.650000095367432
+    ],
+    "dimensions": [
+      23.622000694274902,
+      25.65499973297119,
+      0.16000032424926758
+    ],
+    "faces": 56,
+    "open_edges": 0,
+    "nonmanifold_edges": 0,
+    "signed_volume_m3": -27.25781015422082,
+    "modifiers": []
+  }
+]

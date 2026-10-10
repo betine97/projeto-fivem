@@ -1,0 +1,8 @@
+{
+  "component": "jbib_009_u",
+  "diffuse": "jbib_diff_009_a_uni",
+  "texture_prefix": "camisa_estampada",
+  "blend": "PERSONAGEM_COM_CAMISA.blend",
+  "object": "CAMISA_ESTAMPADA",
+  "source": "C:/Users/erons/Downloads/Meshy_AI_retro_pattern_shirt_3_1005054809_image-to-3d-texture.glb"
+}

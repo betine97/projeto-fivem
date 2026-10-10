@@ -1,0 +1,13 @@
+{
+  "saved_file_verified": true,
+  "boxes": 140,
+  "metric_scale": true,
+  "source_reference_preserved_and_hidden": true,
+  "areas": {
+    "terreo": 450.0,
+    "superior": 321.57,
+    "total": 771.57,
+    "vazio_sala": 136.8,
+    "vazio_escada": 11.34
+  }
+}

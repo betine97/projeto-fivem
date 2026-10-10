@@ -1,0 +1,54 @@
+{
+  "source": "C:\\Users\\erons\\Downloads\\Meshy_AI_textured_woven_rug_3d_1008033831_image-to-3d-texture.glb",
+  "local_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\tapete_meshy.glb",
+  "sha256": "9c8d83d6e2271878be8938747a1d5bf127d5d48a5c1aa61eacc431cec44fa2ec",
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\rug_albedo.dds",
+      "size": [
+        4096,
+        4096
+      ],
+      "mips": 13
+    },
+    "spec": {
+      "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\rug_spec.dds",
+      "size": [
+        1024,
+        1024
+      ],
+      "mips": 11
+    },
+    "normal": {
+      "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\rug_normal.dds",
+      "size": [
+        4096,
+        4096
+      ],
+      "mips": 13
+    }
+  },
+  "in_game_verified": false,
+  "object": "Tapete tecido Meshy sob sofa",
+  "original_triangles": 6057414,
+  "triangles": 45000,
+  "lo": [
+    -8.049971580505371,
+    -11.899999618530273,
+    -0.796999990940094
+  ],
+  "hi": [
+    -2.950028419494629,
+    -5.700000286102295,
+    -0.781000018119812
+  ],
+  "dimensions": [
+    5.099943161010742,
+    6.1999993324279785,
+    0.015999972820281982
+  ],
+  "base_floor_z": -0.8,
+  "uniform_xy_scale": 3.2602787017822266,
+  "uv_preserved": true,
+  "thickness_adjusted_for_game": true
+}

@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "native_files_loaded": 11,
+  "shader_materials_checked": 64,
+  "textures_checked": 48,
+  "models": [
+    {
+      "model": "crf_cobertura_arquitetura",
+      "triangles": 6790,
+      "collision": 1158,
+      "textures_resolved": true
+    },
+    {
+      "model": "crf_conselho_arquitetura",
+      "triangles": 9656,
+      "collision": 9656,
+      "textures_resolved": true
+    },
+    {
+      "model": "crf_conselho_detalhes",
+      "triangles": 18625,
+      "collision": 8076,
+      "textures_resolved": true
+    },
+    {
+      "model": "crf_implantacao_arquitetura",
+      "triangles": 3504,
+      "collision": 1192,
+      "textures_resolved": true
+    },
+    {
+      "model": "crf_suites_arquitetura",
+      "triangles": 13468,
+      "collision": 13468,
+      "textures_resolved": true
+    },
+    {
+      "model": "crf_suites_detalhes",
+      "triangles": 8968,
+      "collision": 3240,
+      "textures_resolved": true
+    },
+    {
+      "model": "crf_terreo_arquitetura",
+      "triangles": 9748,
+      "collision": 9748,
+      "textures_resolved": true
+    },
+    {
+      "model": "crf_terreo_detalhes",
+      "triangles": 21026,
+      "collision": 11016,
+      "textures_resolved": true
+    }
+  ],
+  "passages_body_rays": 60,
+  "passages": [
+    "entrada",
+    "salao",
+    "cozinha",
+    "apoio",
+    "funcionarios",
+    "suite E frente",
+    "suite D frente",
+    "suite E fundos",
+    "suite D fundos",
+    "conselho"
+  ],
+  "floors": [
+    0.7,
+    4.9,
+    9.1
+  ],
+  "stair_treads_verified": 48,
+  "scale_preserved": true,
+  "footprint_outside_cleared_m2": 0.0,
+  "source_unchanged": true,
+  "admin_command_authorization_passed": true,
+  "in_game_verified": false
+}

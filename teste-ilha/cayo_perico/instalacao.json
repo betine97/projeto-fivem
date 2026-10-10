@@ -1,0 +1,27 @@
+{
+  "revision": "cayo-vizinha-20261009-1",
+  "created_at": "20261009_195529",
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\cayo_perico\\backups\\20261009_195529",
+  "records": [
+    {
+      "path": "server-data/server-ilha.cfg",
+      "sha256": "6234ca73dedbebfb4dff75f32e78b0ac6d104f5b043eaae2e4717f96651bc6d1"
+    },
+    {
+      "path": "server-data/resources/teste_ilha/client.lua",
+      "sha256": "b0492f7f02fa41bbdfab7d8b4e35ad27b46bdcb7343279dd8a723cfa720b0550"
+    }
+  ],
+  "resource": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cayo_vizinha",
+  "files": 6105,
+  "server_verified": true,
+  "client_verified": false,
+  "server_check": {
+    "cayo_started": true,
+    "original_island_started": true,
+    "custom_models_started": true,
+    "build": "3258",
+    "resource_count": 23,
+    "checked_at": "2026-10-09T19:58:13.7957458-03:00"
+  }
+}

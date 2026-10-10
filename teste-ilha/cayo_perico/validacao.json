@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "models_textures_unmodified": 3930,
+  "maps": 308,
+  "world_collisions": 1850,
+  "local_collisions_unmodified": 11,
+  "collision_ray_samples": 4,
+  "minimum_terrain_gap_m": 800,
+  "teleport_cases": [
+    "ready",
+    "late_floor",
+    "missing_floor",
+    "wrong_floor",
+    "preparation_error",
+    "in_vehicle"
+  ],
+  "client_visual_verified": false
+}

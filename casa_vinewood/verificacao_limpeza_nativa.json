@@ -1,0 +1,50 @@
+{
+  "native_render_files_reloaded": true,
+  "tolerance_m": 0.001,
+  "checks": [
+    {
+      "file": "ch2_09b_l2.ydr",
+      "intruding_surface_before_m2": 30.75889185540508,
+      "intruding_surface_after_m2": 0,
+      "remaining_intruding_triangles": 0,
+      "passed": true
+    },
+    {
+      "file": "ch2_09b_hs05_balc_01.ydr",
+      "intruding_surface_before_m2": 0.10163505706997814,
+      "intruding_surface_after_m2": 0,
+      "remaining_intruding_triangles": 0,
+      "passed": true
+    },
+    {
+      "file": "ch2_09b_emissive_05.ydr",
+      "intruding_surface_before_m2": 57.36990558052063,
+      "intruding_surface_after_m2": 0,
+      "remaining_intruding_triangles": 0,
+      "passed": true
+    },
+    {
+      "file": "ch2_09b_hs05.ydr",
+      "intruding_surface_before_m2": 154.32124218131165,
+      "intruding_surface_after_m2": 0,
+      "remaining_intruding_triangles": 0,
+      "passed": true
+    },
+    {
+      "file": "ch2_09b_hs05_details.ydr",
+      "intruding_surface_before_m2": 53.7166559896676,
+      "intruding_surface_after_m2": 0,
+      "remaining_intruding_triangles": 0,
+      "passed": true
+    },
+    {
+      "file": "ch2_09b_hs05_balc_05.ydr",
+      "intruding_surface_before_m2": 5.282301867312739,
+      "intruding_surface_after_m2": 0,
+      "remaining_intruding_triangles": 0,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "in_game_test": false
+}

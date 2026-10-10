@@ -1,0 +1,16 @@
+{
+  "jobs": [
+    {
+      "job": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\jobs\\calca_camuflada\\r001",
+      "base": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d",
+      "project": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d\\blender\\58b5500a1d06\\base.blend",
+      "title": "Calça camuflada"
+    },
+    {
+      "job": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\jobs\\calca_listrada_azul\\r001",
+      "base": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d",
+      "project": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\personagens\\pipeline_roupas\\bases\\8552b45e2ad8\\9069fce8a65d\\blender\\58b5500a1d06\\base.blend",
+      "title": "Calça listrada azul e branca"
+    }
+  ]
+}

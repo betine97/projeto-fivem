@@ -1,0 +1,35 @@
+{
+  "method": "Blender emission bake from supplied original image",
+  "front_projection": "silhouette-registered source reference to native mesh cross-sections",
+  "back_and_sides": "supplied leg fabric on continuous leg coordinates, native pocket/seam shading retained",
+  "native_normal_specular": "preserved",
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "visual_review": "reviewed: front/back/sides and flexion renders",
+  "reference_silhouette_rows": [
+    55,
+    1409
+  ],
+  "native_z_bounds": [
+    -0.9861717224121094,
+    0.08410811424255371
+  ],
+  "flame_art": null,
+  "clean_back_crop": [
+    0.72,
+    0.66,
+    0.15,
+    0.15
+  ],
+  "limitations": [
+    "Native silhouette retained; back cloth inferred from supplied fabric; FiveM validation pending."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "rn_tf_canyonscree_001_n": {
+    "dictionary": "globalmountain+hi.ytd",
+    "size": [
+      512,
+      512
+    ]
+  },
+  "cs_rsn_sl_lushgrassrock3": {
+    "dictionary": "parentmountainland+hi.ytd",
+    "size": [
+      512,
+      512
+    ]
+  },
+  "rn_tf_peakscree_01": {
+    "dictionary": "parentmountainland+hi.ytd",
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  "cs_rsn_sl_lushgrassrock1_n": {
+    "dictionary": "parentmountainland+hi.ytd",
+    "size": [
+      512,
+      512
+    ]
+  },
+  "cs_sl_rsn_canyon_rock_01": {
+    "dictionary": "globalcanyonterrain+hi.ytd",
+    "size": [
+      1024,
+      1024
+    ]
+  },
+  "cs_sl_rsn_canyon_rock_01_n": {
+    "dictionary": "globalcanyonterrain+hi.ytd",
+    "size": [
+      1024,
+      1024
+    ]
+  }
+}

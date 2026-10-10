@@ -1,0 +1,23 @@
+{
+  "offset": [
+    250.0,
+    -850.0,
+    0.0
+  ],
+  "setores_alterados": 19,
+  "casas_instancias": 91,
+  "modelos_edificios": 10,
+  "area_terra_km2": 3.3148035911502887,
+  "spawn": {
+    "x": 242,
+    "y": -738,
+    "z": 5.98,
+    "heading": 180
+  },
+  "collision_checked": false,
+  "in_game_verified": false,
+  "arvores_adicionadas_resto_ilha": 5200,
+  "collision_source_checked": true,
+  "native_validated": true,
+  "server_verified": true
+}

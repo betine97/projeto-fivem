@@ -1,0 +1,188 @@
+{
+  "revision": "bar-parede-referencia-20261008",
+  "model": "mansao_bar_referencia",
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "references": {
+    "game": {
+      "path": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-759ecd2b-7d08-4d89-946b-9c5382b8444d.png",
+      "sha256": "f071c2485e274c4f31a32ba8d03aeedf014f9f6b0d96e65709c7a692b7cd4634"
+    },
+    "reference": {
+      "path": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-fcf76649-25af-4d34-a57d-b0340952bf1a.png",
+      "sha256": "988fd8280fc0b92a5dee7004f54775cdda7a294eb97d6b43fb2eaf0908285f48"
+    }
+  },
+  "wall_front_y": -14.241,
+  "model_wall_y": -14.225,
+  "design_start_x": 13.35,
+  "floor_z": -0.8,
+  "cabinet_width_m": 2.52,
+  "cabinet_height_m": 3.12,
+  "cabinet_depth_m": 0.535,
+  "art_canvas_width_m": 1.62,
+  "art_canvas_height_m": 1.95,
+  "in_game_verified": false,
+  "parts": 597,
+  "collision_boxes": [
+    {
+      "name": "Caixa inferior",
+      "lo": [
+        4.38,
+        -0.535,
+        0.105
+      ],
+      "hi": [
+        6.9,
+        -0.008,
+        0.88
+      ]
+    },
+    {
+      "name": "Lateral esquerda continuo",
+      "lo": [
+        4.348,
+        -0.43,
+        0.0
+      ],
+      "hi": [
+        4.38,
+        -0.008,
+        3.12
+      ]
+    },
+    {
+      "name": "Lateral direita continuo",
+      "lo": [
+        6.9,
+        -0.43,
+        0
+      ],
+      "hi": [
+        6.932,
+        -0.008,
+        3.12
+      ]
+    },
+    {
+      "name": "Travessa superior",
+      "lo": [
+        4.38,
+        -0.43,
+        3.07
+      ],
+      "hi": [
+        6.9,
+        -0.008,
+        3.12
+      ]
+    },
+    {
+      "name": "Prateleira espessa 0",
+      "lo": [
+        4.38,
+        -0.435,
+        0.88
+      ],
+      "hi": [
+        6.9,
+        -0.006,
+        0.911
+      ]
+    },
+    {
+      "name": "Prateleira espessa 1",
+      "lo": [
+        4.38,
+        -0.435,
+        1.58
+      ],
+      "hi": [
+        6.9,
+        -0.006,
+        1.611
+      ]
+    },
+    {
+      "name": "Prateleira espessa 2",
+      "lo": [
+        4.38,
+        -0.435,
+        2.22
+      ],
+      "hi": [
+        6.9,
+        -0.006,
+        2.2510000000000003
+      ]
+    }
+  ],
+  "art_source_canvas": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\bar_referencia_20261008\\textures\\arte_canvas.png",
+  "local_lo": [
+    1.7059999704360962,
+    -0.6169999837875366,
+    0.0
+  ],
+  "local_hi": [
+    6.932000160217285,
+    -0.0020000000949949026,
+    3.119999885559082
+  ],
+  "lo": [
+    6.418000221252441,
+    -14.223000526428223,
+    -0.800000011920929
+  ],
+  "hi": [
+    11.644000053405762,
+    -13.608000755310059,
+    2.319999933242798
+  ],
+  "lods": {
+    "HIGH": {
+      "triangles": 29328,
+      "degenerate_removed": 0
+    },
+    "MEDIUM": {
+      "triangles": 14448,
+      "degenerate_removed": 0
+    },
+    "LOW": {
+      "triangles": 5779,
+      "degenerate_removed": 0
+    },
+    "VERYLOW": {
+      "triangles": 2166,
+      "degenerate_removed": 0
+    }
+  },
+  "collision_triangles": 84,
+  "bear_resize": {
+    "factor": 1.5,
+    "old_dimensions": [
+      2.499995470046997,
+      1.8475931882858276,
+      0.16060537099838257
+    ],
+    "new_dimensions": [
+      3.749993324279785,
+      2.771389961242676,
+      0.24090805649757385
+    ],
+    "lo": [
+      -1.8749966621398926,
+      -1.3856966495513916,
+      0.003000000026077032
+    ],
+    "hi": [
+      1.8749966621398926,
+      1.3856931924819946,
+      0.24390806257724762
+    ],
+    "uv_and_textures_preserved": true,
+    "saved_pose_preserved": true
+  }
+}

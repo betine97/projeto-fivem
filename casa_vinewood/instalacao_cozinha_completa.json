@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "revision": "cozinha-completa-20261008",
+  "installed_files": [
+    "decoracao_iluminacao.json",
+    "iluminacao_ambiente.json",
+    "stream/mansao_cozinha_completa.ymap",
+    "stream/mansao_cozinha_completa.ytyp",
+    "stream/mansao_cozinha_parede.ydr",
+    "stream/mansao_decoracao.ymap",
+    "fxmanifest.lua"
+  ],
+  "previous_resource_files_preserved": 62,
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_cozinha_completa_20261008_105048",
+  "walking_routes": 33,
+  "resource_reload_required": true,
+  "in_game_verified": false
+}

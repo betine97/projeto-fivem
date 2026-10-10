@@ -1,0 +1,193 @@
+{
+  "revision": "acabamentos-camera-2026-10-07",
+  "installed_native_files": 37,
+  "installed_hashes_match": true,
+  "geometry": {
+    "slabs": [
+      {
+        "name": "Laje superior contorno nativo",
+        "old_depth_m": 0.25,
+        "new_depth_m": 0.45,
+        "walking_level_z": 2.808000087738037
+      },
+      {
+        "name": "Escada patamar intermediario",
+        "old_depth_m": 0.19999992847442627,
+        "new_depth_m": 0.35,
+        "walking_level_z": 1.003999948501587
+      },
+      {
+        "name": "Escada chegada superior",
+        "old_depth_m": 0.25,
+        "new_depth_m": 0.45,
+        "walking_level_z": 2.808000087738037
+      },
+      {
+        "name": "Fechamento borda mezanino",
+        "old_depth_m": 0.2849998474121094,
+        "new_depth_m": 0.45,
+        "walking_level_z": 2.822999954223633
+      },
+      {
+        "name": "Fechamento borda quarto sobre sala",
+        "old_depth_m": 0.2849998474121094,
+        "new_depth_m": 0.45,
+        "walking_level_z": 2.822999954223633
+      }
+    ],
+    "transparent_pane_triangles": 174,
+    "opaque_window_return_triangles": 1224,
+    "floor_elevations_preserved": true
+  },
+  "landscape_changes": [
+    {
+      "map": "ch2_09b_long_0.ymap",
+      "name": "prop_bush_med_03",
+      "old": [
+        -981.355712890625,
+        687.395263671875,
+        156.75601196289062
+      ],
+      "new": [
+        -981.355712890625,
+        688.895263671875,
+        156.75601196289062
+      ],
+      "shift_y_m": 1.5
+    },
+    {
+      "map": "ch2_09b_strm_0.ymap",
+      "name": "prop_plant_cane_02a",
+      "old": [
+        -979.2618408203125,
+        688.459228515625,
+        157.26504516601562
+      ],
+      "new": [
+        -979.2618408203125,
+        689.659228515625,
+        157.26504516601562
+      ],
+      "shift_y_m": 1.2
+    },
+    {
+      "map": "ch2_09b_strm_1.ymap",
+      "name": "prop_pot_plant_02d",
+      "old": [
+        -968.9298095703125,
+        684.9696655273438,
+        157.44149780273438
+      ],
+      "new": [
+        -968.9298095703125,
+        685.3696655273437,
+        157.44149780273438
+      ],
+      "shift_y_m": 0.4
+    },
+    {
+      "map": "apa_ch2_09b_long_0.ymap",
+      "name": "prop_bush_med_03",
+      "old": [
+        -981.355712890625,
+        687.395263671875,
+        156.75601196289062
+      ],
+      "new": [
+        -981.355712890625,
+        688.895263671875,
+        156.75601196289062
+      ],
+      "shift_y_m": 1.5
+    },
+    {
+      "map": "apa_ch2_09b_strm_0.ymap",
+      "name": "prop_plant_cane_02a",
+      "old": [
+        -979.2618408203125,
+        688.459228515625,
+        157.26504516601562
+      ],
+      "new": [
+        -979.2618408203125,
+        689.659228515625,
+        157.26504516601562
+      ],
+      "shift_y_m": 1.2
+    },
+    {
+      "map": "apa_ch2_09b_strm_1.ymap",
+      "name": "prop_pot_plant_02d",
+      "old": [
+        -968.9298095703125,
+        684.9696655273438,
+        157.44149780273438
+      ],
+      "new": [
+        -968.9298095703125,
+        685.3696655273437,
+        157.44149780273438
+      ],
+      "shift_y_m": 0.4
+    },
+    {
+      "map": "hei_ch2_09b_long_0.ymap",
+      "name": "prop_bush_med_03",
+      "old": [
+        -981.355712890625,
+        687.395263671875,
+        156.75601196289062
+      ],
+      "new": [
+        -981.355712890625,
+        688.895263671875,
+        156.75601196289062
+      ],
+      "shift_y_m": 1.5
+    },
+    {
+      "map": "hei_ch2_09b_strm_0.ymap",
+      "name": "prop_plant_cane_02a",
+      "old": [
+        -979.2618408203125,
+        688.459228515625,
+        157.26504516601562
+      ],
+      "new": [
+        -979.2618408203125,
+        689.659228515625,
+        157.26504516601562
+      ],
+      "shift_y_m": 1.2
+    },
+    {
+      "map": "hei_ch2_09b_strm_1.ymap",
+      "name": "prop_pot_plant_02d",
+      "old": [
+        -968.9298095703125,
+        684.9696655273438,
+        157.44149780273438
+      ],
+      "new": [
+        -968.9298095703125,
+        685.3696655273437,
+        157.44149780273438
+      ],
+      "shift_y_m": 0.4
+    }
+  ],
+  "landscape_instances_audited": 88,
+  "landscape_intrusions": 0,
+  "wall_camera_ray_tests": 7048,
+  "camera_local_alignment_error_m": 0.00028830917013761005,
+  "indoor_lua_behavior_cases": 13,
+  "walking_routes": 25,
+  "doors_or_accesses": 21,
+  "door_directions_checked": 42,
+  "window_regions": 43,
+  "sealed_windows": 0,
+  "activation_requires_resource_reload": true,
+  "in_game_camera_and_pace_test": false,
+  "previous_runtime_audit_revision": "juntas-oclusao-2026-10-07",
+  "superseded_by": "correcao_espessuras.json"
+}

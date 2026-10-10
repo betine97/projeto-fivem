@@ -1,0 +1,166 @@
+{
+  "passed": true,
+  "native_roundtrip": true,
+  "in_game_verified": false,
+  "models": {
+    "mansao_fachada_entrada": {
+      "triangles_by_lod": [
+        1080,
+        696,
+        374,
+        212
+      ],
+      "memory": {
+        "system_MiB": 0.3359375,
+        "graphics_MiB": 1.75,
+        "disk_bytes": 1364102
+      },
+      "embedded_collision": true,
+      "always_on_lights": 6
+    },
+    "mansao_garagem_subsolo": {
+      "triangles_by_lod": [
+        2484,
+        1610,
+        862,
+        494
+      ],
+      "memory": {
+        "system_MiB": 0.7734375,
+        "graphics_MiB": 0.75,
+        "disk_bytes": 754266
+      },
+      "embedded_collision": true,
+      "always_on_lights": 10
+    },
+    "mansao_porta_principal_nova": {
+      "triangles_by_lod": [
+        744,
+        480,
+        258,
+        148
+      ],
+      "memory": {
+        "system_MiB": 0.25,
+        "graphics_MiB": 0.5,
+        "disk_bytes": 232385
+      },
+      "embedded_collision": true,
+      "always_on_lights": 0
+    },
+    "mansao_portao_subsolo": {
+      "triangles_by_lod": [
+        312,
+        202,
+        106,
+        60
+      ],
+      "memory": {
+        "system_MiB": 0.1015625,
+        "graphics_MiB": 0.0078125,
+        "disk_bytes": 26899
+      },
+      "embedded_collision": true,
+      "always_on_lights": 0
+    }
+  },
+  "checks": {
+    "clear_main_door": true,
+    "clear_exterior_stair_arrival": true,
+    "foyer_connection_to_existing_hall": true,
+    "garage_floor_and_car_headroom": true,
+    "ramp_continuous_no_native_ground_above": true,
+    "garage_ceiling_height_m": 2.92,
+    "ramp_max_grade_percent": 16.14788004136505,
+    "gate_swing_below_slab": true,
+    "unchanged_triangles": [
+      {
+        "file": "ch2_09b_hs05.ydr",
+        "triangles_cut": 203,
+        "offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "original_shader_keys_preserved": true,
+        "triangles_outside_cut_verified": 2823
+      },
+      {
+        "file": "ch2_09b_hs05_details.ydr",
+        "triangles_cut": 160,
+        "offset": [
+          1.64703369140625,
+          0.270751953125,
+          -0.0522613525390625
+        ],
+        "original_shader_keys_preserved": true,
+        "triangles_outside_cut_verified": 2971
+      },
+      {
+        "file": "ch2_09b_l2.ydr",
+        "triangles_cut": 27,
+        "offset": [
+          6.81524658203125,
+          -6.431640625,
+          -10.677001953125
+        ],
+        "original_shader_keys_preserved": true,
+        "triangles_outside_cut_verified": 7802
+      },
+      {
+        "file": "mansao_paredes.ydr",
+        "triangles_cut": 10,
+        "offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "original_shader_keys_preserved": true,
+        "triangles_outside_cut_verified": 13306
+      }
+    ],
+    "stairs_office_lavabo_meshes_preserved": true,
+    "lua_server_open_close_proximity_and_people_vehicle_guard": true,
+    "upper_front_door_does_not_trigger_gate": true
+  },
+  "files": {
+    "apa_ch2_09b_0.ybn": "199dc02a502b72604432eac385658d22ff45ccfa126f15cc821e0842bbf8d784",
+    "apa_ch2_09b_1.ybn": "68ab408bcb36aa8e53a8e18f1328c0fb15ee0b69f2a6ce11ac4b4a47b91eaea7",
+    "apa_ch2_09b_2.ybn": "e0df55dbe001fc3a7586bec1720fd8d200ea330e8ec0dc97024e3ed0c93076ec",
+    "apa_ch2_09b_3.ybn": "3c571a0fc57707e93abd9e868b89a06797ab7d06f7e7e97b442e0566e517d13e",
+    "apa_ch2_occl_02.ymap": "b70e7512034204e6088eb177de0c3f1bcff9728f1da92fa0dc146397b979b062",
+    "ch2_09b_0.ybn": "db63b2eae1ec9c0bd68408235b44e8d5f10140d533442ce508699c09e2c9ba82",
+    "ch2_09b_1.ybn": "4078aff7f8dff428279f62068f88973463168201d0d1b5b2b09eb663c638e426",
+    "ch2_09b_2.ybn": "70dfd31191ab73d560e02dbfdca4499e191bd45503cb346b7d4f1a56497899ac",
+    "ch2_09b_3.ybn": "baec669b241ef8f69f84e39b0162b1fc82cb36d59b38291095864e1896c9e901",
+    "ch2_09b_hs05.ydr": "fe775af323a83ae4c0eb3d8ec80096af868f9586dad1706b79e10351591b6487",
+    "ch2_09b_hs05_details.ydr": "b5f5771f56180788cc8bc668e8ecb4ae819317153837c6767dcb91ece4ced273",
+    "ch2_09b_l2.ydr": "d1a8dc3f5f3e64bed1279d7e8eb546893ac53c51a6da5ea35dfc1f48693ccce2",
+    "ch2_occl_02.ymap": "2b7983dbe6d776f1076210392664c9d7832c4bfa79081ba409ca3134ac86bdfc",
+    "cidade_mansao.ybn": "91db8a7b9f0a43a3a7346fb2bbba9a3e549767a267b5b94a458f2fca6b5cecd7",
+    "hei_ch2_09b_0.ybn": "0257f20806e4d68677d63033970ba4aa334c9354e7b68825953d8860c29e6a4d",
+    "hei_ch2_09b_1.ybn": "1aa14d0db44ceeb0d29fc24814e0a6685454fe4d7f4c2134bcd7e5314950a1d2",
+    "hei_ch2_09b_2.ybn": "fafd5892ad830f468473b4478b36cca180c4dd7bd1b728a5a428322d9386248a",
+    "hei_ch2_09b_3.ybn": "0c53be204ee1ffa0b43d507b48a3c2d91525902f2868a25b99444edee556d6a1",
+    "hi@apa_ch2_09b_0.ybn": "554c13ec64d66f557f3d356876a4fb3d639e4b99f310cbf5aa659c83d0993e04",
+    "hi@apa_ch2_09b_1.ybn": "1f96fcf65ad0d8cb89fbaaf6c8b060d12327248ac0913a41bc40953a80607c6f",
+    "hi@apa_ch2_09b_2.ybn": "ad34edd580d36bd89ec7aaf1a89eb0a14ce0d0bbb3cfa3ff5c1de067c7f21735",
+    "hi@apa_ch2_09b_3.ybn": "6980cd726bb2ac98c77c690237db804f0986be1f4cdf4c9b02c49bd758868409",
+    "hi@ch2_09b_0.ybn": "bde0ef2dea0452f1b12daed7fbdcfd5f8584eea9c0e4e578771171ca920ec36b",
+    "hi@ch2_09b_1.ybn": "215cd33cc8af19f863384c43358c3616ec581451cf99f2db4def1fbbe80f95b4",
+    "hi@ch2_09b_2.ybn": "3a560193e41486b82730dd88a1cb5792c5e5b2681346c4355a135dae21dc3afd",
+    "hi@ch2_09b_3.ybn": "6d4251ee2c62871b6b3ec237e1c24ab15e339c320444647b09b80ff6b7a9a08e",
+    "hi@hei_ch2_09b_0.ybn": "d10a4728c20eec081fa8b53c85217aecc393558dbef8c2089a8cc6d510fe03e3",
+    "hi@hei_ch2_09b_1.ybn": "25eb0d725549d322fb96adef0b84359bf54224c8e8aaf494a50acfbb2b7f7352",
+    "hi@hei_ch2_09b_2.ybn": "55d216b8dd20bcf0a3ebb3f03ae99ba1268c135d4cc5a0e1f8cacefdf2e05e5d",
+    "hi@hei_ch2_09b_3.ybn": "7b43e51e48bb96872ef40c5a7d89e5b69949648434a55666c5992f8628834fad",
+    "mansao_acesso_garagem.ybn": "458f2acdfb31cd0d58732dd01801ae8ebaddc31d7aba6152ef6ac6e17c0a9105",
+    "mansao_acesso_garagem.ymap": "100ef73be6c7be7ef6224fff82e4a7746e9963ba63c07584ce89cee1728cd05f",
+    "mansao_acesso_garagem.ytyp": "5a744f9f644deab4ce6229805bdcf8fc110814f4b9407923cf25461a5db34c15",
+    "mansao_fachada_entrada.ydr": "2d6bd400b889d2089307b0902eefadcaac73f77b6f398ba928eee08eaa9998da",
+    "mansao_garagem_subsolo.ydr": "fca50ec02f045985994859355d5bd6b9ddebbfb506d5c2854a608f43f5df4e58",
+    "mansao_paredes.ydr": "cf016267673d5cdbe544faee2cee18188053fba685cb2559e3e8b50aeb28eeb7",
+    "mansao_porta_principal_nova.ydr": "13c19a77b0655e4798383490619d7119252c7b5d47ff2f3451e9db8bda42acfe",
+    "mansao_portao_subsolo.ydr": "128f67a8bd85458002a18e30342779a8b0a52c4847c8374d06b7b1cc38e0c394"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "terreo": {
+    "room_access": {
+      "Sala de estar": true,
+      "Sala de jantar": true,
+      "Cozinha": true,
+      "Hall de entrada": true,
+      "Escritorio": true,
+      "Lavabo": true,
+      "Escada": true,
+      "Despensa": true,
+      "Sala TV Jogos": true,
+      "Lavanderia": true
+    },
+    "reachable_cells": 43103,
+    "grid_m": 0.1
+  },
+  "superior": {
+    "room_access": {
+      "Suite master": true,
+      "Closet": true,
+      "Banheiro da suite": true,
+      "Quarto 2": true,
+      "Quarto 3": true,
+      "Banheiro social": true,
+      "Circulacao quartos": true,
+      "Mezanino": true,
+      "Sala intima / leitura": true
+    },
+    "reachable_cells": 30637,
+    "grid_m": 0.1
+  }
+}

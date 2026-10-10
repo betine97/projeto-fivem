@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Same approved native lowr_001_r base as the previous washed jeans. Original mesh, UV, skinning, LODs and normal/specular maps preserved.",
+    "Front image registered to native silhouette. Supplied waist, leg and cuff panels contribute to corresponding regions; back structure follows native pockets/seams because no back reference was supplied.",
+    "No extra pockets, straps or physics required by this reference. Original cuff skin regions retained; component 4 only."
+  ],
+  "placements": [],
+  "in_game_validation": "pending"
+}

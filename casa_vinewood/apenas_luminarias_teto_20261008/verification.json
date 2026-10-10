@@ -1,0 +1,87 @@
+{
+  "passed": true,
+  "native_sources": 97,
+  "ceiling_white": 88,
+  "pendants_yellow": 9,
+  "point_fill_sources": 0,
+  "decorative_emissive_slots_disabled": 9,
+  "native_room_fill_removed": 19,
+  "aparador_native_sources_removed": 4,
+  "every_fixture_axis_reaches_floor": true,
+  "floor_cone_samples": 388,
+  "maximum_floor_radius_m": 1.1,
+  "native_brightness_multiplier_minimum": 4.444444444444445,
+  "lua_light_calls": 0,
+  "lua_light_threads": 0,
+  "old_boost_command_cannot_add_lights": true,
+  "geometry_checks": [
+    {
+      "file": "ch2_09b_emissive_05.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_adega_vitrines.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_bar_referencia.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_cozinha_parede.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_parede_aparador.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_pendentes.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_spot_embutido.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_spots_led.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    },
+    {
+      "file": "mansao_teto.ydr",
+      "geometry_uv_normals_colours_indices_preserved": true,
+      "textures_identical": true,
+      "shader_keys_and_unrelated_parameters_preserved": true,
+      "collision_preserved": true
+    }
+  ],
+  "volumes_and_coronas": 0,
+  "climate_and_postprocess_unmodified": true,
+  "base_map_preserved": true,
+  "in_game_visual_verified": false,
+  "in_game_fps_measured": false
+}

@@ -1,0 +1,188 @@
+{
+  "passed": true,
+  "native_roundtrip": true,
+  "adega_lod_triangles": [
+    93661,
+    48667,
+    20534,
+    6467
+  ],
+  "lod_batches": {
+    "HIGH": {
+      "models": 1,
+      "geometries": 17
+    },
+    "MEDIUM": {
+      "models": 1,
+      "geometries": 17
+    },
+    "LOW": {
+      "models": 1,
+      "geometries": 17
+    },
+    "VERYLOW": {
+      "models": 1,
+      "geometries": 17
+    }
+  },
+  "adega_memory": {
+    "system_MiB": 11.375,
+    "graphics_MiB": 2.5,
+    "disk_bytes": 5874698
+  },
+  "textures": {
+    "adega_preto": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_rotulo_3": {
+      "width": 512,
+      "height": 256,
+      "mips": 7,
+      "bytes": 87504
+    },
+    "adega_madeira": {
+      "width": 512,
+      "height": 1024,
+      "mips": 8,
+      "bytes": 349648
+    },
+    "adega_bronze": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_vinho_escuro": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_creme": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_normal": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 144
+    },
+    "adega_spec_metal": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_vidro_transparente": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 144
+    },
+    "adega_rotulo_2": {
+      "width": 512,
+      "height": 256,
+      "mips": 7,
+      "bytes": 87504
+    },
+    "adega_ceramica": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_ambar": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_folha": {
+      "width": 256,
+      "height": 256,
+      "mips": 7,
+      "bytes": 43816
+    },
+    "adega_arte_mini": {
+      "width": 256,
+      "height": 512,
+      "mips": 7,
+      "bytes": 87504
+    },
+    "adega_led": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_rotulo_1": {
+      "width": 512,
+      "height": 256,
+      "mips": 7,
+      "bytes": 87504
+    },
+    "adega_spec_fosco": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_vinho": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_marmore": {
+      "width": 1024,
+      "height": 1024,
+      "mips": 9,
+      "bytes": 699176
+    },
+    "adega_spec": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "adega_madeira_n": {
+      "width": 512,
+      "height": 1024,
+      "mips": 8,
+      "bytes": 699168
+    },
+    "adega_cristal": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 144
+    }
+  },
+  "adega_fit_clearances_m": {
+    "wall": 0.017999994754791304,
+    "passage": 0.044000244140624645,
+    "right_wall": 0.026999603271484318,
+    "ceiling": 0.19799991416931162
+  },
+  "dimensions_m": [
+    4.715,
+    0.6,
+    2.96
+  ],
+  "display_wine_bottles": 52,
+  "local_light_budget": 8,
+  "light_near_far_runtime_test": true,
+  "files": {
+    "mansao_adega_vitrines.ydr": "9b905a50e8ad13cd5d371628b1f40da9d6b1585d2a4b153594f43ac80fb256bd",
+    "mansao_adega_vitrines.ytyp": "c66853a021d4d982cdcbf2ed845c42f7b30be0ee7dec1bf810c525396bddf61f",
+    "mansao_adega_vitrines.ymap": "52dfff1e5b3de0ba50e4327a65a5175295155abf116c9a82ed85d3db7ab23805",
+    "mansao_adega_vitrines.ybn": "c2d82e7b044dcc9bca05ade7757006fafb9d47871ff0ba7bd1e9f16b672b42cb"
+  },
+  "in_game_verified": false
+}

@@ -1,0 +1,233 @@
+{
+  "model": "mansao_parede_aparador",
+  "door_model": "mansao_porta_vidro_aparador",
+  "collection": "26_PAREDE_APARADOR_REFERENCIA",
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "placement": {
+    "x": 14.168,
+    "y": -0.98,
+    "z": -0.8
+  },
+  "wall": {
+    "x": 14.186,
+    "ceiling_z": 2.358,
+    "left_y": -0.95,
+    "right_y": -6.582
+  },
+  "opening": {
+    "u0": 3.64,
+    "u1": 4.74,
+    "z0": 0,
+    "z1": 2.5
+  },
+  "door_hinge_local": [
+    4.696,
+    0,
+    0.015
+  ],
+  "door_width": 1.012,
+  "door_height": 2.427,
+  "collision_boxes": [
+    {
+      "name": "Aparador suspenso corpo",
+      "lo": [
+        0.8355963302752293,
+        -0.403,
+        0.35
+      ],
+      "hi": [
+        3.320917431192661,
+        -0.017,
+        0.865
+      ]
+    },
+    {
+      "name": "Batente madeira porta",
+      "lo": [
+        3.64,
+        -0.06,
+        0
+      ],
+      "hi": [
+        3.684,
+        0.2,
+        2.5
+      ]
+    },
+    {
+      "name": "Batente madeira porta",
+      "lo": [
+        4.696,
+        -0.06,
+        0
+      ],
+      "hi": [
+        4.74,
+        0.2,
+        2.5
+      ]
+    },
+    {
+      "name": "Batente madeira porta",
+      "lo": [
+        3.684,
+        -0.06,
+        2.455
+      ],
+      "hi": [
+        4.696,
+        0.2,
+        2.5
+      ]
+    }
+  ],
+  "door_collision_boxes": [
+    {
+      "name": "Folha madeira esquerda",
+      "lo": [
+        3.684,
+        -0.0225,
+        0.015
+      ],
+      "hi": [
+        4.19,
+        0.0225,
+        2.442
+      ]
+    },
+    {
+      "name": "Folha madeira direita",
+      "lo": [
+        4.423,
+        -0.0225,
+        0.015
+      ],
+      "hi": [
+        4.696,
+        0.0225,
+        2.442
+      ]
+    },
+    {
+      "name": "Folha madeira base vidro",
+      "lo": [
+        4.19,
+        -0.0225,
+        0.015
+      ],
+      "hi": [
+        4.423,
+        0.0225,
+        0.218
+      ]
+    },
+    {
+      "name": "Folha madeira topo vidro",
+      "lo": [
+        4.19,
+        -0.0225,
+        2.29
+      ],
+      "hi": [
+        4.423,
+        0.0225,
+        2.442
+      ]
+    },
+    {
+      "name": "Visor vidro fumado",
+      "lo": [
+        4.19,
+        -0.004,
+        0.218
+      ],
+      "hi": [
+        4.423,
+        0.004,
+        2.29
+      ]
+    }
+  ],
+  "in_game_verified": false,
+  "parts": 189,
+  "fixed_bounds": {
+    "lo": [
+      13.680000305175781,
+      -6.510000228881836,
+      -0.800000011920929
+    ],
+    "hi": [
+      14.368000030517578,
+      -1.7000000476837158,
+      2.246999979019165
+    ]
+  },
+  "door_bounds": {
+    "lo": [
+      -1.0120000839233398,
+      -0.07000000029802322,
+      0.0
+    ],
+    "hi": [
+      0.006999969482421875,
+      0.07000000029802322,
+      2.426999807357788
+    ]
+  },
+  "door_hinge_house": [
+    14.168000221252441,
+    -5.676000118255615,
+    -0.7850000262260437
+  ],
+  "lods": {
+    "mansao_parede_aparador": {
+      "HIGH": {
+        "triangles": 9812,
+        "geometries": 9,
+        "removed_degenerates": 0
+      },
+      "MEDIUM": {
+        "triangles": 5810,
+        "geometries": 9,
+        "removed_degenerates": 0
+      },
+      "LOW": {
+        "triangles": 2420,
+        "geometries": 9,
+        "removed_degenerates": 0
+      },
+      "VERYLOW": {
+        "triangles": 968,
+        "geometries": 9,
+        "removed_degenerates": 0
+      }
+    },
+    "mansao_porta_vidro_aparador": {
+      "HIGH": {
+        "triangles": 1848,
+        "geometries": 3,
+        "removed_degenerates": 0
+      },
+      "MEDIUM": {
+        "triangles": 1108,
+        "geometries": 3,
+        "removed_degenerates": 0
+      },
+      "LOW": {
+        "triangles": 462,
+        "geometries": 3,
+        "removed_degenerates": 0
+      },
+      "VERYLOW": {
+        "triangles": 184,
+        "geometries": 3,
+        "removed_degenerates": 0
+      }
+    }
+  },
+  "native_lights": 4
+}

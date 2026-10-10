@@ -1,0 +1,2 @@
+-- Decorative light disabled at the user's request: only ceiling/pendant fixtures illuminate the mansion.
+-- No local fill, glow light or per-frame light loop.

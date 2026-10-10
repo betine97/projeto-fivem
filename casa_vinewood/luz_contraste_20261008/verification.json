@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "assets": [
+    {
+      "model": "mansao_teto",
+      "native_lights": 116,
+      "meshes_collision_textures_preserved": true
+    },
+    {
+      "model": "mansao_pendentes",
+      "native_lights": 9,
+      "meshes_collision_textures_preserved": true
+    },
+    {
+      "model": "mansao_tv",
+      "native_lights": 4,
+      "meshes_collision_textures_preserved": true
+    }
+  ],
+  "light_count_unchanged": true,
+  "geometry_collision_textures_preserved": true,
+  "no_weather_fog_or_primary_filter_changes": true,
+  "relative_floor_distribution": [
+    {
+      "room": "Sala de estar",
+      "samples": 2009,
+      "relative_diffuse_floor_median": 0.4185479325222808
+    },
+    {
+      "room": "Sala de jantar",
+      "samples": 1653,
+      "relative_diffuse_floor_median": 0.43528334240519134
+    },
+    {
+      "room": "Cozinha",
+      "samples": 1792,
+      "relative_diffuse_floor_median": 0.4258986134175371
+    }
+  ],
+  "lua_lifecycle_cases": [
+    "Only five supported optical variables; inside camera applies profile",
+    "Leaving house clears only owned profile",
+    "Foreign extra filter preserved",
+    "F8 comparison commands work",
+    "Resource stop removes own modifier",
+    "Cleanup cannot clear replacement filter",
+    "Unavailable API profile fails without changing game filters",
+    "Missing variables remove unused profile"
+  ],
+  "visual_match_verified": false,
+  "sha256": {
+    "stream/mansao_teto.ydr": "0c3ba86b11de6a547db7ca01fbfea921beb5fff4f8c46f1984990b84d8676e07",
+    "stream/mansao_pendentes.ydr": "90e29a076bf76feabb6f3e255cc33f370c4f264f54760c7329ecc30b6975e4c0",
+    "stream/mansao_tv.ydr": "3f100dcd31d78c671dea459896c8577b73046c17ec701cce260b818b9ead656e",
+    "iluminacao_ambiente.json": "9ec2172dd5df15d39bbe6c36eea73b97e7f32badc2594246171848f11fc6ce1a",
+    "luzes_pendentes.json": "774a8884a31cc2ab9a46229ccfdd0032901caf766c604c2c367e6854141ff81b",
+    "iluminacao_decorativa.lua": "5ab3ac878caf036590133f2e3df795c09afa46badcd4d0e4285504869f17b0b4"
+  }
+}

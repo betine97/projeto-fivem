@@ -1,0 +1,15 @@
+{
+  "installed": true,
+  "changed": [
+    "exterior_remocoes.lua",
+    "fxmanifest.lua",
+    "garagem_client.lua",
+    "garagem_server.lua",
+    "stream/mansao_acesso_garagem.ytyp",
+    "stream/mansao_portao_subsolo.ydr"
+  ],
+  "unrelated_files_preserved": 134,
+  "palm_exclusions_hd_and_lod": true,
+  "restart_required": true,
+  "in_game_verified": false
+}

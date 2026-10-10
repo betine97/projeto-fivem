@@ -1,0 +1,62 @@
+{
+  "revision": "materiais-sofa-2026-10-07",
+  "installed_native_files": 38,
+  "installed_hashes_match": true,
+  "source_assets": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets",
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_materiais_sofa",
+  "editable_blender": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\mansao_fivem_preparada.blend",
+  "finish_objects": {
+    "marble": 7,
+    "wall": 98,
+    "brick": 2,
+    "metal": 42
+  },
+  "tv_wall_objects": [
+    "Revestimento continuo terreo 00 0",
+    "Revestimento continuo superior 00 0"
+  ],
+  "sofa_width_m": 4.399999618530273,
+  "sofa_bounds": {
+    "lo": [
+      -5.476183891296387,
+      -11.0,
+      -0.7950000166893005
+    ],
+    "hi": [
+      -2.5238161087036133,
+      -6.600000381469727,
+      0.018915832042694092
+    ],
+    "dimensions": [
+      2.9523677825927734,
+      4.399999618530273,
+      0.8139158487319946
+    ]
+  },
+  "sofa_game_triangles": 45000,
+  "sofa_original_triangles": 1044086,
+  "sofa_physics_components": 3,
+  "material_surface_probes": 4956,
+  "sofa_uv_probes": 257,
+  "walking_routes": 27,
+  "floor_scan": {
+    "spacing_m": 0.25,
+    "scanned": 15109,
+    "free_custom_geometry_samples": 10721,
+    "unexplained_native_obstacles": [],
+    "passed": true
+  },
+  "door_accesses": 21,
+  "door_directions": 42,
+  "closed_structural_solids": 169,
+  "camera_wall_side_rays": 7196,
+  "collision_triangles": 6658,
+  "activation_requires_resource_reload": true,
+  "in_game_verified": false,
+  "previous_runtime_revision": "espessuras-solidas-2026-10-07",
+  "preview_files": [
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\sala_materiais_visao_geral.png",
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\sala_sofa_frente.png"
+  ],
+  "superseded_by": "correcao_piso_tv_portas.json"
+}

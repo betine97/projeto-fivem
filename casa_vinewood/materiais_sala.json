@@ -1,0 +1,278 @@
+{
+  "marble": {
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\piso_marmore.png",
+    "source_sha256": "25bbbd116c131f19a2b5981c29b49cbb15b8d38237e8d21cfcbff394cba23309",
+    "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\piso_marmore.dds",
+    "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\piso_marmore_n.dds",
+    "size": [
+      2048,
+      2048
+    ],
+    "tile_m": 1.2,
+    "roughness": 0.32,
+    "generated_normal_is_approximation": true,
+    "normal_convention": "GTA/DirectX",
+    "diffuse_mip_count": 12,
+    "normal_mip_count": 12
+  },
+  "wall": {
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\parede_reboco.png",
+    "source_sha256": "cc6d2a208e15fe2c623c67ff9444e6f662ce5c16df737e104acc07c68741238f",
+    "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\parede_reboco.dds",
+    "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\parede_reboco_n.dds",
+    "size": [
+      2048,
+      2048
+    ],
+    "tile_m": 1.8,
+    "roughness": 0.87,
+    "generated_normal_is_approximation": true,
+    "normal_convention": "GTA/DirectX",
+    "diffuse_mip_count": 12,
+    "normal_mip_count": 12
+  },
+  "brick": {
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\parede_tijolo_tv.png",
+    "source_sha256": "511d7eb5b65c513fccb95c57b1c80b62656c9b3772ecb96076cf7bc9f52621ac",
+    "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\parede_tijolo_tv.dds",
+    "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\parede_tijolo_tv_n.dds",
+    "size": [
+      2048,
+      2048
+    ],
+    "tile_m": 1.6,
+    "roughness": 0.89,
+    "generated_normal_is_approximation": true,
+    "normal_convention": "GTA/DirectX",
+    "diffuse_mip_count": 12,
+    "normal_mip_count": 12
+  },
+  "metal": {
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\corrimao_preto.png",
+    "source_sha256": "5fa1471fa41c695bd227c0ab0a2882397b6c070d09b440b9304e1155ab75823d",
+    "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\corrimao_preto.dds",
+    "normal": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\corrimao_preto_n.dds",
+    "size": [
+      2048,
+      2048
+    ],
+    "tile_m": 0.6,
+    "roughness": 0.55,
+    "generated_normal_is_approximation": true,
+    "normal_convention": "GTA/DirectX",
+    "diffuse_mip_count": 12,
+    "normal_mip_count": 12
+  },
+  "sofa": {
+    "glb_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\sofa_original.glb",
+    "glb_sha256": "3c2fc925360e4ad009ae2b0f7954d79a38787caf7018905c47aa4d1ab76246da",
+    "maps": [
+      {
+        "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\sofa_original_albedo.jpg",
+        "dds": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\sofa_albedo.dds",
+        "source_size": [
+          4096,
+          4096
+        ],
+        "export_size": [
+          4096,
+          4096
+        ],
+        "mip_count": 13
+      },
+      {
+        "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\sofa_original_metal_roughness.jpg",
+        "dds": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\sofa_metal_roughness.dds",
+        "source_size": [
+          2048,
+          2048
+        ],
+        "export_size": [
+          2048,
+          2048
+        ],
+        "mip_count": 12
+      },
+      {
+        "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\sofa_original_normal.jpg",
+        "dds": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\sofa_normal.dds",
+        "source_size": [
+          4096,
+          4096
+        ],
+        "export_size": [
+          4096,
+          4096
+        ],
+        "mip_count": 13
+      }
+    ],
+    "uv_preserved": true,
+    "normal_convention": "glTF/OpenGL converted to GTA/DirectX",
+    "spec_mip_count": 12,
+    "specular_intensity": 0.22,
+    "specular_falloff": 35,
+    "specular_fresnel": 0.12,
+    "wetness_multiplier": 0
+  },
+  "tv": {
+    "glb_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\tv_console_original.glb",
+    "glb_sha256": "9ee5502b37c3d24dec4c7c9c9da6b12545998396198b34f57052e8e4cc1dbcff",
+    "maps": [
+      {
+        "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\tv_original_albedo.jpg",
+        "dds": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\tv_albedo.dds",
+        "source_size": [
+          4096,
+          4096
+        ],
+        "export_size": [
+          4096,
+          4096
+        ],
+        "mip_count": 13
+      },
+      {
+        "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\tv_original_metal_roughness.jpg",
+        "dds": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\tv_metal_roughness.dds",
+        "source_size": [
+          2048,
+          2048
+        ],
+        "export_size": [
+          2048,
+          2048
+        ],
+        "mip_count": 12
+      },
+      {
+        "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\tv_original_normal.jpg",
+        "dds": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\tv_normal.dds",
+        "source_size": [
+          4096,
+          4096
+        ],
+        "export_size": [
+          4096,
+          4096
+        ],
+        "mip_count": 13
+      }
+    ],
+    "uv_preserved": true,
+    "normal_convention": "glTF/OpenGL converted to GTA/DirectX",
+    "spec_mip_count": 12,
+    "specular_intensity": 0.22,
+    "specular_falloff": 35,
+    "specular_fresnel": 0.12,
+    "wetness_multiplier": 0
+  },
+  "dining": {
+    "glb_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\dining_original.glb",
+    "glb_sha256": "1e8c7d3ffe9318ca1eced2f4f57ab098da0e8e87759e5ab2532668d72f4165bb",
+    "maps": [
+      {
+        "name": "albedo",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\dining_albedo.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      },
+      {
+        "name": "normal",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\dining_normal.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      }
+    ],
+    "uv_preserved": true,
+    "specular_intensity": 0.22,
+    "wetness_multiplier": 0
+  },
+  "cylinder": {
+    "glb_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\cylinder_original.glb",
+    "glb_sha256": "88a548af0d12cab9d9eb83d6ed47da8d8eadd20cacf17d73e1708291f170bda4",
+    "maps": [
+      {
+        "name": "albedo",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\cylinder_albedo.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      },
+      {
+        "name": "normal",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\cylinder_normal.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      }
+    ],
+    "uv_preserved": true,
+    "specular_intensity": 0.22,
+    "wetness_multiplier": 0
+  },
+  "island": {
+    "glb_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\island_original.glb",
+    "glb_sha256": "75e74086b68315a24d415bba4b4b264296d97150192211e35c1cca7b62d65043",
+    "maps": [
+      {
+        "name": "albedo",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\island_albedo.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      },
+      {
+        "name": "normal",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\island_normal.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      }
+    ],
+    "uv_preserved": true,
+    "specular_intensity": 0.22,
+    "wetness_multiplier": 0
+  },
+  "linear": {
+    "glb_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\linear_original.glb",
+    "glb_sha256": "300f553c151ce7f83d6b1c3f7faf47fecf07273a4fbd1bd8b6edc3e8db898817",
+    "maps": [
+      {
+        "name": "albedo",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\linear_albedo.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      },
+      {
+        "name": "normal",
+        "path": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\work\\materiais\\linear_normal.dds",
+        "size": [
+          4096,
+          4096
+        ],
+        "mips": 13
+      }
+    ],
+    "uv_preserved": true,
+    "specular_intensity": 0.22,
+    "wetness_multiplier": 0
+  }
+}

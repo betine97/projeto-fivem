@@ -1,0 +1,289 @@
+{
+  "installed_directory": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_mansao\\stream",
+  "installed_hashes_match": true,
+  "door_or_access_count": 21,
+  "directions_checked": 42,
+  "body_clearance_and_floor_support_checked": true,
+  "in_game_test": false,
+  "routes": {
+    "Entrada original | ida": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Entrada original | volta": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Sacada esquerda | ida": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Sacada esquerda | volta": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Sacada direita | ida": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Sacada direita | volta": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Sala para deck | ida": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Sala para deck | volta": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Porta dos fundos | ida": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Porta dos fundos | volta": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Portao da rua | ida": {
+      "samples": 78,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Portao da rua | volta": {
+      "samples": 78,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite closet banheiro | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite closet banheiro | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall | ida": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall | volta": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "passed": true,
+  "collision_files_checked": [
+    "apa_ch2_09b_0.ybn",
+    "apa_ch2_09b_1.ybn",
+    "apa_ch2_09b_2.ybn",
+    "apa_ch2_09b_3.ybn",
+    "ch2_09b_0.ybn",
+    "ch2_09b_1.ybn",
+    "ch2_09b_2.ybn",
+    "ch2_09b_3.ybn",
+    "hei_ch2_09b_0.ybn",
+    "hei_ch2_09b_1.ybn",
+    "hei_ch2_09b_2.ybn",
+    "hei_ch2_09b_3.ybn",
+    "hi@apa_ch2_09b_0.ybn",
+    "hi@apa_ch2_09b_1.ybn",
+    "hi@apa_ch2_09b_2.ybn",
+    "hi@apa_ch2_09b_3.ybn",
+    "hi@ch2_09b_0.ybn",
+    "hi@ch2_09b_1.ybn",
+    "hi@ch2_09b_2.ybn",
+    "hi@ch2_09b_3.ybn",
+    "hi@hei_ch2_09b_0.ybn",
+    "hi@hei_ch2_09b_1.ybn",
+    "hi@hei_ch2_09b_2.ybn",
+    "hi@hei_ch2_09b_3.ybn"
+  ]
+}

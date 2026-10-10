@@ -1,0 +1,27 @@
+{
+  "method": "Blender emission bake from supplied original image",
+  "front_projection": "silhouette-registered source reference to native mesh cross-sections",
+  "back_and_sides": "supplied leg fabric on continuous leg coordinates, native pocket/seam shading retained",
+  "native_normal_specular": "preserved",
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "visual_review": "reviewed",
+  "reference_silhouette_rows": [
+    26,
+    1425
+  ],
+  "native_z_bounds": [
+    -0.9861717224121094,
+    0.08410811424255371
+  ],
+  "review_notes": "All four neutral views and both flexion views inspected. Pattern upright, native geometry and cuff skin regions preserved. Back artwork inferred from supplied leg fabric; native seams and material transitions remain. Actual FiveM lighting and clothing combinations pending.",
+  "pattern_scale": 3.6
+}

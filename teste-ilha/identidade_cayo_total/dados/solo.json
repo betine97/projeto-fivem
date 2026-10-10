@@ -1,0 +1,773 @@
+{
+  "sectors": [
+    {
+      "name": "ti_terreno_00_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18432
+      },
+      "original_collision_sha256": "88476f9a3e9d61bb15465f8b269478c330dd6181276b368239799b4df5a9c896"
+    },
+    {
+      "name": "ti_terreno_00_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18432
+      },
+      "original_collision_sha256": "c82166256c5420b3a7e5f4ef3548cad566703b25e8bac0e4d50af0111a8e4c2a"
+    },
+    {
+      "name": "ti_terreno_01_01",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18176,
+        "GRASS": 256
+      },
+      "original_collision_sha256": "f88d8d610ad7ad225d2aa78b93f6ae5ac17441b1bb78e2cd9480e64a7a2ccbae"
+    },
+    {
+      "name": "ti_terreno_01_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 10035,
+        "GRASS": 7873,
+        "ROCK": 524
+      },
+      "original_collision_sha256": "56c539acf8844a63db8af41fc92ae48cea6c687ecd5948916dc24f2df8db13b8"
+    },
+    {
+      "name": "ti_terreno_01_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 17112,
+        "GRASS": 1314,
+        "ROCK": 6
+      },
+      "original_collision_sha256": "ca55c5d20cf84841c84292c0dc5e8ef11ce52b63cee8575f45646da5d4439583"
+    },
+    {
+      "name": "ti_terreno_01_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18078,
+        "GRASS": 354
+      },
+      "original_collision_sha256": "d1039255bb21538675f89d51137a4132b7eb9cd25387e42bd475574751ed3ca3"
+    },
+    {
+      "name": "ti_terreno_01_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 17879,
+        "GRASS": 553
+      },
+      "original_collision_sha256": "f863262417c963533ab1848aed24ae796b72f5b82947714b6777e10f97976e43"
+    },
+    {
+      "name": "ti_terreno_01_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 17739,
+        "GRASS": 693
+      },
+      "original_collision_sha256": "92b6f277dfdd0e8aca3c9fcd5545f2f4e91874c449ad9ec312cfabf05baed02f"
+    },
+    {
+      "name": "ti_terreno_02_01",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 11714,
+        "GRASS": 6718
+      },
+      "original_collision_sha256": "52554377339813c52b1028f33a5c089bed9b72b7f370200683afcb4071f34100"
+    },
+    {
+      "name": "ti_terreno_02_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 18313,
+        "ROCK": 119
+      },
+      "original_collision_sha256": "534e70d95f6f3362e02acbcfb18bf080134565d34b92e98f2d1439fd80f5872a"
+    },
+    {
+      "name": "ti_terreno_02_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 14686,
+        "ROCK": 1676,
+        "DIRT_TRACK": 200,
+        "MUD_SOFT": 776,
+        "SAND_LOOSE": 1094
+      },
+      "original_collision_sha256": "e896b501134c6208497e52bf19fe0c2f29e323ab575c3f89ab8eba6e678d08ea"
+    },
+    {
+      "name": "ti_terreno_02_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 1255,
+        "GRASS": 17169,
+        "MUD_SOFT": 8
+      },
+      "original_collision_sha256": "750595404448407777af23c9e90542a61a1b178fa282c23d424d75a5d0f8f235"
+    },
+    {
+      "name": "ti_terreno_02_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 327,
+        "GRASS": 18105
+      },
+      "original_collision_sha256": "42e3ba39ee7c4593c06052a31c1d4f4bd6866a311a95df50b2550d395ce45cfe"
+    },
+    {
+      "name": "ti_terreno_02_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 8609,
+        "SAND_LOOSE": 9823
+      },
+      "original_collision_sha256": "f2b57e325364ce60bf193ec567a28cbe581ceca41397fcdf59ecc4d7a376fca5"
+    },
+    {
+      "name": "ti_terreno_03_01",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 8487,
+        "GRASS": 9867,
+        "ROCK": 75,
+        "MUD_SOFT": 3
+      },
+      "original_collision_sha256": "5af72bf7f16269753db5e6c42aed7430ebe88494d1ae1dfea83ba9dd5a4d1397"
+    },
+    {
+      "name": "ti_terreno_03_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 18152,
+        "ROCK": 268,
+        "MUD_SOFT": 12
+      },
+      "original_collision_sha256": "170cbe823711812ff448d611ecb81008ccdb6a2eb97c72e91accaf66342b761d"
+    },
+    {
+      "name": "ti_terreno_03_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 16044,
+        "ROCK": 1894,
+        "MUD_SOFT": 418,
+        "DIRT_TRACK": 76
+      },
+      "original_collision_sha256": "71ce26dec881b17df2512f156b0d8d4ae449cc2b7f8678f1e70aac0049f945fd"
+    },
+    {
+      "name": "ti_terreno_03_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 16570,
+        "ROCK": 1524,
+        "MUD_SOFT": 37,
+        "DIRT_TRACK": 301
+      },
+      "original_collision_sha256": "a4e47d57ef3be805082eb2248c2b746c599ebc729fe21f8131b4e2422c5021d3"
+    },
+    {
+      "name": "ti_terreno_03_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 17982,
+        "ROCK": 450
+      },
+      "original_collision_sha256": "01222b096bf66eef2a827dea6c7933336b191cf5cd3761fcfd48effaf2017d10"
+    },
+    {
+      "name": "ti_terreno_03_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 14956,
+        "ROCK": 301,
+        "SAND_LOOSE": 3175
+      },
+      "original_collision_sha256": "4ace1c7eaa48d4f7ebe5803ab74aec2e8c91d3718df4ab776d8e9967f5f4543b"
+    },
+    {
+      "name": "ti_terreno_03_07",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 17794,
+        "GRASS": 638
+      },
+      "original_collision_sha256": "bbb5be647936f3e451d4b27a5d91d01e60855768ad2aa0087c748c5f2818ee5e"
+    },
+    {
+      "name": "ti_terreno_04_00",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18432
+      },
+      "original_collision_sha256": "d2f76a666945de9c121765d4f527377be4c2e49195a8df7e429ec0b5deb61c95"
+    },
+    {
+      "name": "ti_terreno_04_01",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 4213,
+        "GRASS": 13929,
+        "ROCK": 3,
+        "MUD_SOFT": 13,
+        "DIRT_TRACK": 274
+      },
+      "original_collision_sha256": "1f4dadbfbcdd9d401708a6d0f0608a25f94b176fb22937910d046d8ea90e6a32"
+    },
+    {
+      "name": "ti_terreno_04_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 16850,
+        "DIRT_TRACK": 1015,
+        "MUD_SOFT": 529,
+        "ROCK": 38
+      },
+      "original_collision_sha256": "5c764fd075d56fdb8fed3b6e769b5677e07990e0580a1ba2354be40348dd7cba"
+    },
+    {
+      "name": "ti_terreno_04_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 16960,
+        "DIRT_TRACK": 403,
+        "MUD_SOFT": 1069
+      },
+      "original_collision_sha256": "cf66aecb666344a7331599f3e978a7d7419cdbe40a08bd8d7babedc86643bdb6"
+    },
+    {
+      "name": "ti_terreno_04_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 13972,
+        "MUD_SOFT": 329,
+        "ROCK": 556,
+        "DIRT_TRACK": 3575
+      },
+      "original_collision_sha256": "bf13bd365a1d529349bb3260658611758fe28f2d0d589626431b1ba723a4a0d0"
+    },
+    {
+      "name": "ti_terreno_04_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 15161,
+        "DIRT_TRACK": 3090,
+        "MUD_SOFT": 181
+      },
+      "original_collision_sha256": "47af5165dea537d48af8ac5bcbbb1b0a2e67de885c10b48fb686328f9e30b46f"
+    },
+    {
+      "name": "ti_terreno_04_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 16633,
+        "DIRT_TRACK": 1779,
+        "MUD_SOFT": 20
+      },
+      "original_collision_sha256": "e400aa04f694424203e2c44c2bde6395685c9f42e2bda3b0914cac9ac5d0a3ee"
+    },
+    {
+      "name": "ti_terreno_04_07",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 3897,
+        "SAND_LOOSE": 14535
+      },
+      "original_collision_sha256": "35df061b974efb09bd51b0042c8b1c528dec6c167bf21d3a4dbf03f001286c8b"
+    },
+    {
+      "name": "ti_terreno_05_00",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18432
+      },
+      "original_collision_sha256": "299c23e44dc9d5cfad294016e124595d2c3d1fdd6901e5c0a0d5fae404a5f6dd"
+    },
+    {
+      "name": "ti_terreno_05_01",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 4666,
+        "GRASS": 13766
+      },
+      "original_collision_sha256": "c9a012c03a4edfc6f95c6633976ca1c306d17d39b7b9c878861676c9e971d75d"
+    },
+    {
+      "name": "ti_terreno_05_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 17183,
+        "MUD_SOFT": 552,
+        "DIRT_TRACK": 697
+      },
+      "original_collision_sha256": "964ec1f1469d4610218b284c91a61544b29ad02278b94470006345c0c22f207d"
+    },
+    {
+      "name": "ti_terreno_05_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 17675,
+        "MUD_SOFT": 28,
+        "DIRT_TRACK": 276,
+        "ROCK": 453
+      },
+      "original_collision_sha256": "9ad763761ca469f8f196ae11eb33fe005f88a49440619294d427c9bd36f50bb0"
+    },
+    {
+      "name": "ti_terreno_05_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 15299,
+        "ROCK": 229,
+        "MUD_SOFT": 471,
+        "DIRT_TRACK": 2433
+      },
+      "original_collision_sha256": "fe3149f48ea1490ace3cd3907e65717390da58dbd6fea5aef8eebc2fd1edb627"
+    },
+    {
+      "name": "ti_terreno_05_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 15599,
+        "DIRT_TRACK": 1585,
+        "MUD_SOFT": 540,
+        "SAND_LOOSE": 708
+      },
+      "original_collision_sha256": "b0fc7b26d637778a279111611eab1ea7838fa4aff3f1c80f909350614dc00805"
+    },
+    {
+      "name": "ti_terreno_05_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 10705,
+        "GRASS": 7407,
+        "DIRT_TRACK": 267,
+        "MUD_SOFT": 53
+      },
+      "original_collision_sha256": "df3a99d11cc06bfe073b4053bb07786579551f0e6ce44013399adeb5e4925830"
+    },
+    {
+      "name": "ti_terreno_05_07",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18432
+      },
+      "original_collision_sha256": "56e990d59e10ef626a0c20690fccf4173baba8e3bd38cd1a4355f9cf92b4f59e"
+    },
+    {
+      "name": "ti_terreno_06_01",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 16643,
+        "GRASS": 1789
+      },
+      "original_collision_sha256": "1a2be215dda451f6370b789f2854b72cebbc0e1eb6db879992836e61c6bd6c09"
+    },
+    {
+      "name": "ti_terreno_06_02",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "DIRT_TRACK": 204,
+        "GRASS": 5638,
+        "MUD_SOFT": 42,
+        "SAND_LOOSE": 12548
+      },
+      "original_collision_sha256": "7127c57d7a528f7694d9a9c06fcdb3e87649c609d2fb85470fb31db14593392b"
+    },
+    {
+      "name": "ti_terreno_06_03",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "DIRT_TRACK": 168,
+        "GRASS": 9862,
+        "MUD_SOFT": 17,
+        "SAND_LOOSE": 8385
+      },
+      "original_collision_sha256": "4f6d47d81e10ace8b268383dbb1a43e106e9a58c0532105d56569270f01f1beb"
+    },
+    {
+      "name": "ti_terreno_06_04",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "GRASS": 10857,
+        "ROCK": 8,
+        "DIRT_TRACK": 493,
+        "SAND_LOOSE": 7074
+      },
+      "original_collision_sha256": "f0ee742acedda6af467f43efd705a32195e2831339ccd75d64fea7095683534f"
+    },
+    {
+      "name": "ti_terreno_06_05",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 15659,
+        "GRASS": 2773
+      },
+      "original_collision_sha256": "f85947d419d93e8ee830fc2894d3ee4fef6454bf82bc3bf1a3189011685a2824"
+    },
+    {
+      "name": "ti_terreno_06_06",
+      "lod_triangles": {
+        "HIGH": 18432,
+        "MEDIUM": 4608,
+        "LOW": 1152,
+        "VERYLOW": 288
+      },
+      "collision_materials": {
+        "SAND_LOOSE": 18432
+      },
+      "original_collision_sha256": "6b4708e67b8b580a4fea4e710abfda33d5e0c5353bb2a521fa70568b305b6878"
+    }
+  ],
+  "layers": [
+    [
+      {
+        "family": "grass",
+        "diffuse": "cs_rsn_sl_agrgrass_02",
+        "normal": "cs_rsn_sl_agrgrass_02_n",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "family": "sand",
+        "diffuse": "ap_rls_sand_scrabl_warm",
+        "normal": "ap_rls_sand_scrabl_n",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "family": "mud",
+        "diffuse": "hp_islandbank_redmud_02",
+        "normal": "hp_islandbank_redmud_02_n",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "family": "rock",
+        "diffuse": "cs_islx_canyonrock_rough_01",
+        "normal": "cs_islx_canyonrockrough_01_nrm",
+        "size": [
+          512,
+          512
+        ]
+      }
+    ],
+    [
+      {
+        "family": "grass",
+        "diffuse": "cs_rsn_sl_agrgrass_02",
+        "normal": "cs_rsn_sl_agrgrass_02_n",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "family": "sand",
+        "diffuse": "ap_rls_sand_scrabl_warm",
+        "normal": "ap_rls_sand_scrabl_n",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "family": "dirt",
+        "diffuse": "cs_rsn_sl_agrdirttrack2",
+        "normal": "cs_rsn_sl_agrdirttrack2_n",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "family": "rock",
+        "diffuse": "cs_islx_canyonrock_rough_01",
+        "normal": "cs_islx_canyonrockrough_01_nrm",
+        "size": [
+          512,
+          512
+        ]
+      }
+    ],
+    [
+      {
+        "family": "grass",
+        "diffuse": "cs_rsn_sl_agrgrass_02",
+        "normal": "cs_rsn_sl_agrgrass_02_n",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "family": "sand",
+        "diffuse": "ap_rls_sand_scrabl_warm",
+        "normal": "ap_rls_sand_scrabl_n",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "family": "mud",
+        "diffuse": "hp_islandbank_redmud_02",
+        "normal": "hp_islandbank_redmud_02_n",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "family": "rock",
+        "diffuse": "cs_islx_canyonrock_rough_01",
+        "normal": "cs_islx_canyonrockrough_01_nrm",
+        "size": [
+          512,
+          512
+        ]
+      }
+    ]
+  ],
+  "textures": [
+    "cs_rsn_sl_agrgrass_02",
+    "cs_rsn_sl_agrgrass_02_n",
+    "ap_rls_sand_scrabl_warm",
+    "ap_rls_sand_scrabl_n",
+    "hp_islandbank_redmud_02",
+    "hp_islandbank_redmud_02_n",
+    "cs_islx_canyonrock_rough_01",
+    "cs_islx_canyonrockrough_01_nrm",
+    "cs_rsn_sl_agrdirttrack2",
+    "cs_rsn_sl_agrdirttrack2_n"
+  ],
+  "geometry_unchanged": false,
+  "terrain_npz_sha256": "cbabef673264d4936d35e0986a91e945a6002ee966d5a2f3cd1ec2e32d343cb0",
+  "road_uv": "nearest_route_distance_aligned_native_track_01",
+  "road_specular": 0.06,
+  "road_wetness": 0.68,
+  "client_visual_verified": false
+}

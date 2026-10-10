@@ -1,0 +1,18 @@
+[
+  {
+    "file": "01_BASE_ROUPAS.blend",
+    "bones": 128,
+    "mesh_hashes_match": true,
+    "diffuse_textures_packed": true,
+    "rest_pose": true,
+    "bytes": 2509149
+  },
+  {
+    "file": "02_BASE_ANIMACOES.blend",
+    "bones": 128,
+    "mesh_hashes_match": true,
+    "diffuse_textures_packed": true,
+    "rest_pose": true,
+    "bytes": 2525631
+  }
+]

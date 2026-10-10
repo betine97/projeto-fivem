@@ -1,0 +1,29 @@
+STAGE 12 - PLANTAS TEXTURIZADAS E MAIS ALTAS
+
+Abra warehouse_stage12_plantas.blend. A cena completa inclui as texturas
+incorporadas, inclusive todos os materiais anteriores do Stage 11.
+
+18 plantas foram reconstruidas como modelos 3D, com ramificacoes, folhas
+serrilhadas, nervuras e flores em volumes pequenos agrupados. As cinco texturas
+fornecidas foram aplicadas respectivamente ao solo, vaso, caules, folhas e flores.
+A sexta imagem foi usada como referencia visual de forma e proporcao.
+
+Altura da vegetacao acima da terra: 1,056 a 1,092 m.
+Topo das plantas na cena: 1,729 a 1,764 m, antes 1,480 m.
+Os vasos mantem altura de 0,40 m, tamanho e posicao anteriores; receberam
+textura preta e nervuras moldadas. A vegetacao cabe abaixo das luminarias.
+
+As plantas sao uma aproximacao modelada da referencia, com variacoes entre
+exemplares. Os materiais usam cor das imagens e relevo sutil aproximado.
+
+warehouse_stage12_planta_detalhe.png: planta isolada sob luz neutra.
+warehouse_stage12_visao_geral.png: vista de corte, com teto oculto e luz neutra
+de apoio acrescentada apenas para esta imagem, junto da iluminacao rosa.
+warehouse_stage12_validacao.json: alturas verificadas para cada planta.
+
+O script refazer_plantas_stage12.py recria esta etapa a partir do arquivo
+warehouse_stage11_ventiladores.blend colocado ao lado dele. Para apenas abrir
+o resultado pronto, esse arquivo anterior e o script nao sao necessarios.
+
+Este e um arquivo de trabalho Blender. Materiais e malhas ainda nao foram
+convertidos ou otimizados para exportacao ao FiveM.

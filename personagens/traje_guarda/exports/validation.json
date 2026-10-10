@@ -1,0 +1,44 @@
+{
+  "original_triangles": 597401,
+  "preserved_triangles": 597401,
+  "drawables": 8,
+  "texture_names": [
+    "jbib_diff_000_a_uni",
+    "jbib_normal_000",
+    "jbib_spec_000",
+    "uppr_diff_000_a_uni",
+    "uppr_normal_000",
+    "uppr_spec_000",
+    "jbib_diff_001_a_uni",
+    "jbib_normal_001",
+    "jbib_spec_001",
+    "lowr_diff_000_a_uni",
+    "lowr_normal_000",
+    "lowr_spec_000",
+    "head_diff_000_a_bla",
+    "head_normal_000",
+    "head_spec_000",
+    "head_diff_001_a_chi",
+    "head_normal_001",
+    "head_spec_001",
+    "hair_diff_001_a_chi",
+    "hair_normal_001",
+    "hair_spec_001",
+    "hair_diff_000_a_uni",
+    "hair_normal_000",
+    "hair_spec_000"
+  ],
+  "high_lod_preserves_geometry": true,
+  "distant_lod_ratios": [
+    0.15,
+    0.04,
+    0.01
+  ],
+  "native_high_triangles": 597408,
+  "texture_roundtrip_verified": true,
+  "visible_diffuse_resolution": [
+    4096,
+    4096
+  ],
+  "mean_color_compression_error_255": 2.5042664210001626
+}

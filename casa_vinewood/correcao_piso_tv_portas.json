@@ -1,0 +1,319 @@
+{
+  "revision": "piso-tv-portas-2026-10-07",
+  "installed_native_files": 39,
+  "installed_hashes_match": true,
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_piso_tv_portas",
+  "editable_blender": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\mansao_fivem_preparada.blend",
+  "upper_wood_area_m2": 39.60000228881836,
+  "upper_marble_area_m2": 323.2160140275955,
+  "upper_wood_hall_bounds": [
+    -0.8,
+    6.4,
+    -3.85,
+    1.65
+  ],
+  "sofa_width_m": 5.1999993324279785,
+  "sofa_game_triangles": 120000,
+  "tv": {
+    "original_triangles": 1405278,
+    "game_triangles": 99998,
+    "boundary_edges_before_welding": 171950,
+    "boundary_edges_after_optimization": 0,
+    "bounds": {
+      "lo": [
+        -9.026000022888184,
+        -11.100000381469727,
+        -0.7950000166893005
+      ],
+      "hi": [
+        -8.07475757598877,
+        -6.5,
+        2.537886619567871
+      ],
+      "dimensions": [
+        0.9512424468994141,
+        4.600000381469727,
+        3.3328866958618164
+      ]
+    },
+    "uniform_scale": 2.4173786640167236,
+    "facing_positive_x": true,
+    "screen_uv_repair": {
+      "source_face": 51911,
+      "old_uv": [
+        [
+          0.8068150281906128,
+          0.2292180061340332
+        ],
+        [
+          0.8017107248306274,
+          0.2724687457084656
+        ],
+        [
+          0.7823317050933838,
+          0.24156096577644348
+        ]
+      ],
+      "new_uv": [
+        [
+          0.796702486038208,
+          0.2474992392063141
+        ],
+        [
+          0.797202486038208,
+          0.2474992392063141
+        ],
+        [
+          0.796952486038208,
+          0.2479992392063141
+        ]
+      ],
+      "reason": "Collapsed screen triangle sampled the neighboring wooden atlas island.",
+      "geometry_unchanged": true
+    }
+  },
+  "doors": [
+    {
+      "id": 1,
+      "name": "Escritorio",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        -5.624000190734863,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        -6.100000190734862,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        -6.625000190734863,
+        -5.575000190734863,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lavabo",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        -1.524000190734864,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        -2.000000190734864,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        -2.525000190734864,
+        -1.475000190734864,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Despensa",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        4.625999809265136,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        4.149999809265136,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        3.6249998092651357,
+        4.674999809265136,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sala TV Jogos",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        8.575999809265138,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        8.099999809265137,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        7.574999809265137,
+        8.624999809265137,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lavanderia",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        12.575999809265138,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        12.099999809265137,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        11.574999809265137,
+        12.624999809265137,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    }
+  ],
+  "furniture_mesh_quality": [
+    {
+      "family": "sofa",
+      "triangles": 120000,
+      "welded_vertices": 59522,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "embedded_maps": [
+        {
+          "name": "sofa_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "sofa_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "sofa_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mip_count": 10
+        }
+      ],
+      "screen_uv_check": null
+    },
+    {
+      "family": "tv",
+      "triangles": 99998,
+      "welded_vertices": 49843,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "embedded_maps": [
+        {
+          "name": "tv_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "tv_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mip_count": 11
+        },
+        {
+          "name": "tv_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mip_count": 10
+        }
+      ],
+      "screen_uv_check": {
+        "repaired_triangle_samples": 66,
+        "maximum_rgb_channel": 12,
+        "no_wood_atlas_bleed": true
+      }
+    }
+  ],
+  "walking_routes": 27,
+  "camera_wall_side_rays": 10076,
+  "collision_triangles": 15242,
+  "checks": [
+    "verificacao_materiais_sofa.json",
+    "verificacao_malha_mobiliario.json",
+    "verificacao_portas_moveis.json",
+    "verificacao_espessuras_exportadas.json",
+    "verificacao_encaixe.json",
+    "verificacao_camera.json",
+    "verificacao_juntas.json",
+    "verificacao_movimento_lua.json",
+    "verificacao_portas_instaladas.json",
+    "audit_janelas.json"
+  ],
+  "activation_requires_resource_reload": true,
+  "in_game_verified": false,
+  "preview_files": [
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\sala_materiais_visao_geral.png",
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\sala_sofa_frente.png",
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\piso_superior_mezanino.png",
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\porta_madeira_detalhe.png"
+  ],
+  "superseded_by": "instalacao_jantar_cozinha.json"
+}

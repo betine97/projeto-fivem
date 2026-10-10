@@ -1,0 +1,758 @@
+[
+  {
+    "name": "prop_grass_ca",
+    "count": 278986,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\nxg_SL_drygrasspage1_d.png"
+      }
+    ],
+    "bb_min": [
+      -1.3662109375,
+      -1.4267578125,
+      -0.0341796875
+    ],
+    "bb_max": [
+      1.38134765625,
+      1.4267578125,
+      1.13818359375
+    ],
+    "instance_color": [
+      103.0,
+      115.0,
+      67.0
+    ]
+  },
+  {
+    "name": "proc_drygrassfronds01",
+    "count": 85609,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_DryFronds_01.png"
+      }
+    ],
+    "bb_min": [
+      -1.169921875,
+      -1.24755859375,
+      -0.25341796875
+    ],
+    "bb_max": [
+      1.26171875,
+      1.2509765625,
+      1.0185546875
+    ],
+    "instance_color": [
+      178.0,
+      161.0,
+      114.0
+    ]
+  },
+  {
+    "name": "h4_prop_grass_tropical_lush_01",
+    "count": 97538,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\Prop_grass_tropical_Ba_abProp_grass_tropical_ba_al.png"
+      }
+    ],
+    "bb_min": [
+      -0.7314453125,
+      -0.83935546875,
+      -0.2607421875
+    ],
+    "bb_max": [
+      0.79150390625,
+      0.87548828125,
+      0.6826171875
+    ],
+    "instance_color": [
+      99.0,
+      116.0,
+      72.0
+    ]
+  },
+  {
+    "name": "proc_grassfronds01",
+    "count": 137467,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_Grasses_01.png"
+      }
+    ],
+    "bb_min": [
+      -1.169921875,
+      -1.24755859375,
+      -0.25341796875
+    ],
+    "bb_max": [
+      1.26171875,
+      1.2509765625,
+      1.0185546875
+    ],
+    "instance_color": [
+      109.0,
+      121.0,
+      72.0
+    ]
+  },
+  {
+    "name": "prop_tall_grass_ba",
+    "count": 34269,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\nxg_SL_drygrasspage1_d.png"
+      }
+    ],
+    "bb_min": [
+      -1.33740234375,
+      -0.9697265625,
+      -0.03662109375
+    ],
+    "bb_max": [
+      1.33740234375,
+      0.9697265625,
+      0.92724609375
+    ],
+    "instance_color": [
+      101.0,
+      111.0,
+      60.0
+    ]
+  },
+  {
+    "name": "prop_grass_da",
+    "count": 34220,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\nxg_SL_drygrasspage1_d.png"
+      }
+    ],
+    "bb_min": [
+      -1.33740234375,
+      -1.1982421875,
+      -0.0400390625
+    ],
+    "bb_max": [
+      1.33740234375,
+      0.9697265625,
+      0.88134765625
+    ],
+    "instance_color": [
+      101.0,
+      110.0,
+      61.0
+    ]
+  },
+  {
+    "name": "prop_saplin_002_b",
+    "count": 14936,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_Ferns_Forest.png"
+      }
+    ],
+    "bb_min": [
+      -0.74560546875,
+      -0.51904296875,
+      -0.02099609375
+    ],
+    "bb_max": [
+      0.54296875,
+      0.6416015625,
+      1.30029296875
+    ],
+    "instance_color": [
+      97.0,
+      114.0,
+      70.0
+    ]
+  },
+  {
+    "name": "h4_prop_bush_ear_ab",
+    "count": 13935,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\Prop_bush_ear_aa_abProp_bush_ear_aa_al.png"
+      }
+    ],
+    "bb_min": [
+      -0.43212890625,
+      -0.46484375,
+      0.0
+    ],
+    "bb_max": [
+      0.54150390625,
+      0.43798828125,
+      0.7724609375
+    ],
+    "instance_color": [
+      95.0,
+      114.0,
+      69.0
+    ]
+  },
+  {
+    "name": "h4_prop_bush_mang_low_aa",
+    "count": 76167,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\Prop_bush_mang_low_02_abProp_bush_mang_lg_aa_al.png"
+      }
+    ],
+    "bb_min": [
+      -1.1142578125,
+      -1.400390625,
+      -0.583984375
+    ],
+    "bb_max": [
+      1.60693359375,
+      1.27978515625,
+      0.9765625
+    ],
+    "instance_color": [
+      99.0,
+      116.0,
+      73.5
+    ]
+  },
+  {
+    "name": "prop_grass_001_a",
+    "count": 8537,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\nxg_SL_desert_grass_001_dm.png"
+      }
+    ],
+    "bb_min": [
+      -0.8447265625,
+      -0.87451171875,
+      -0.04052734375
+    ],
+    "bb_max": [
+      0.90185546875,
+      0.94970703125,
+      0.8154296875
+    ],
+    "instance_color": [
+      179.0,
+      162.0,
+      115.0
+    ]
+  },
+  {
+    "name": "prop_tall_drygrass_aa",
+    "count": 8575,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\nxg_SL_desert_grass_001_dm.png"
+      }
+    ],
+    "bb_min": [
+      -0.91748046875,
+      -0.97607421875,
+      -0.177734375
+    ],
+    "bb_max": [
+      0.91748046875,
+      0.97607421875,
+      0.91455078125
+    ],
+    "instance_color": [
+      177.0,
+      160.0,
+      112.0
+    ]
+  },
+  {
+    "name": "proc_grassplantmix_02",
+    "count": 8739,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_GreenPlantsGrass_SL_02.png"
+      }
+    ],
+    "bb_min": [
+      -0.80419921875,
+      -0.7724609375,
+      -0.03564453125
+    ],
+    "bb_max": [
+      0.80419921875,
+      0.73486328125,
+      1.04248046875
+    ],
+    "instance_color": [
+      99.0,
+      112.0,
+      65.0
+    ]
+  },
+  {
+    "name": "prop_saplin_001_b",
+    "count": 14940,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_Ferns_Forest.png"
+      }
+    ],
+    "bb_min": [
+      -0.90625,
+      -0.52880859375,
+      -0.0166015625
+    ],
+    "bb_max": [
+      0.68994140625,
+      0.6953125,
+      1.47900390625
+    ],
+    "instance_color": [
+      98.0,
+      116.0,
+      72.0
+    ]
+  },
+  {
+    "name": "prop_saplin_001_c",
+    "count": 38772,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_Ferns_Forest.png"
+      }
+    ],
+    "bb_min": [
+      -0.4990234375,
+      -0.69775390625,
+      -0.07666015625
+    ],
+    "bb_max": [
+      0.75537109375,
+      0.65966796875,
+      0.36279296875
+    ],
+    "instance_color": [
+      96.0,
+      114.0,
+      70.5
+    ]
+  },
+  {
+    "name": "prop_saplin_002_c",
+    "count": 38749,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_Ferns_Forest.png"
+      }
+    ],
+    "bb_min": [
+      -0.72705078125,
+      -0.70263671875,
+      -0.0078125
+    ],
+    "bb_max": [
+      0.60693359375,
+      0.56591796875,
+      0.61669921875
+    ],
+    "instance_color": [
+      99.5,
+      116.0,
+      73.0
+    ]
+  },
+  {
+    "name": "prop_dryweed_002_a",
+    "count": 9585,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\nxg_SL_desert_grass_001_dm.png"
+      }
+    ],
+    "bb_min": [
+      -1.01171875,
+      -0.849609375,
+      -0.1162109375
+    ],
+    "bb_max": [
+      0.89208984375,
+      1.03125,
+      0.93408203125
+    ],
+    "instance_color": [
+      117.0,
+      117.0,
+      74.0
+    ]
+  },
+  {
+    "name": "proc_lizardtail_01",
+    "count": 4543,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_LizardTail_01.png"
+      }
+    ],
+    "bb_min": [
+      -1.40576171875,
+      -1.16259765625,
+      -0.05126953125
+    ],
+    "bb_max": [
+      1.1826171875,
+      1.16796875,
+      1.4873046875
+    ],
+    "instance_color": [
+      98.5,
+      110.0,
+      58.0
+    ]
+  },
+  {
+    "name": "prop_dryweed_001_a",
+    "count": 9553,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\nxg_SL_desert_grass_001_dm.png"
+      }
+    ],
+    "bb_min": [
+      -1.0390625,
+      -0.79443359375,
+      -0.1181640625
+    ],
+    "bb_max": [
+      0.84033203125,
+      1.10400390625,
+      0.98486328125
+    ],
+    "instance_color": [
+      117.0,
+      118.0,
+      73.5
+    ]
+  },
+  {
+    "name": "proc_meadowmix_01",
+    "count": 12876,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_MeadowMix_01.png"
+      }
+    ],
+    "bb_min": [
+      -0.986328125,
+      -0.9970703125,
+      -0.00439453125
+    ],
+    "bb_max": [
+      0.98095703125,
+      0.9970703125,
+      0.64794921875
+    ],
+    "instance_color": [
+      106.0,
+      116.0,
+      67.0
+    ]
+  },
+  {
+    "name": "prop_fernba",
+    "count": 21383,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_Ferns_Forest.png"
+      }
+    ],
+    "bb_min": [
+      -1.48828125,
+      -0.97021484375,
+      -0.1025390625
+    ],
+    "bb_max": [
+      1.484375,
+      1.19287109375,
+      0.76953125
+    ],
+    "instance_color": [
+      101.0,
+      117.0,
+      72.5
+    ]
+  },
+  {
+    "name": "prop_fernbb",
+    "count": 21390,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_SL_Ferns_Forest.png"
+      }
+    ],
+    "bb_min": [
+      -0.9697265625,
+      -0.79541015625,
+      -0.01318359375
+    ],
+    "bb_max": [
+      0.95703125,
+      0.908203125,
+      0.4970703125
+    ],
+    "instance_color": [
+      101.0,
+      117.0,
+      72.0
+    ]
+  },
+  {
+    "name": "h4_prop_bush_mang_low_ab",
+    "count": 45829,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\Prop_bush_mang_low_02_abProp_bush_mang_lg_aa_al.png"
+      }
+    ],
+    "bb_min": [
+      -1.3046875,
+      -1.59912109375,
+      -0.125
+    ],
+    "bb_max": [
+      1.517578125,
+      1.4384765625,
+      0.57763671875
+    ],
+    "instance_color": [
+      108.0,
+      118.0,
+      70.0
+    ]
+  },
+  {
+    "name": "proc_grassplantmix_01",
+    "count": 25509,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_GreenPlantsGrass_SL_01.png"
+      }
+    ],
+    "bb_min": [
+      -0.791015625,
+      -0.87158203125,
+      -0.2607421875
+    ],
+    "bb_max": [
+      0.79248046875,
+      0.87548828125,
+      0.73388671875
+    ],
+    "instance_color": [
+      103.0,
+      118.0,
+      72.0
+    ]
+  },
+  {
+    "name": "h4_prop_bush_fern_tall_cc",
+    "count": 16540,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\Prop_bush_fern_tall_ca_abProp_bush_fern_tall_ca_al.png"
+      }
+    ],
+    "bb_min": [
+      -0.96923828125,
+      -0.8447265625,
+      -0.01318359375
+    ],
+    "bb_max": [
+      0.9140625,
+      0.8427734375,
+      0.50048828125
+    ],
+    "instance_color": [
+      103.0,
+      118.0,
+      72.0
+    ]
+  },
+  {
+    "name": "proc_leafybush_01",
+    "count": 37997,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_Weeds_SL_IM_02.png"
+      }
+    ],
+    "bb_min": [
+      -1.23876953125,
+      -1.2626953125,
+      -0.0166015625
+    ],
+    "bb_max": [
+      1.19873046875,
+      1.1806640625,
+      1.77587890625
+    ],
+    "instance_color": [
+      121.0,
+      125.0,
+      108.0
+    ]
+  },
+  {
+    "name": "h4_prop_bush_seagrape_low_01",
+    "count": 11046,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\prop_bush_seagrape_foliage_abprop_bush_seagrape_foliage_al.png"
+      }
+    ],
+    "bb_min": [
+      -1.9931640625,
+      -1.96142578125,
+      -0.1865234375
+    ],
+    "bb_max": [
+      1.837890625,
+      1.75244140625,
+      0.7998046875
+    ],
+    "instance_color": [
+      101.0,
+      110.0,
+      60.0
+    ]
+  },
+  {
+    "name": "proc_dry_plants_01",
+    "count": 3613,
+    "geometries": [
+      0
+    ],
+    "materials": [
+      {
+        "preset": "grass_batch.sps",
+        "diffuse": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\identidade_cayo_total\\atlas_rasteira\\cache\\NXG_Proc_Dry_Plants_SL_01.png"
+      }
+    ],
+    "bb_min": [
+      -0.83935546875,
+      -0.802734375,
+      -0.046875
+    ],
+    "bb_max": [
+      0.83935546875,
+      0.802734375,
+      1.28564453125
+    ],
+    "instance_color": [
+      166.5,
+      150.0,
+      104.5
+    ]
+  }
+]

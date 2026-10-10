@@ -1,0 +1,10 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'Minha Cidade'
+description 'Hospital Carcer Way - estrutura e interiores autorais no Blender'
+this_is_a_map 'yes'
+dependency 'cidade_castelo_livre'
+files { 'stream/hospital_carcer.ytyp', 'hospital.json' }
+data_file 'DLC_ITYP_REQUEST' 'stream/hospital_carcer.ytyp'
+server_script 'server.lua'
+client_script 'client.lua'

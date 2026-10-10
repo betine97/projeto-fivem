@@ -1,0 +1,10 @@
+services:
+  cidade:
+    environment:
+      APP_ENV: prod
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=512m,uid=10001,gid=10001
+    security_opt:
+      - no-new-privileges:true

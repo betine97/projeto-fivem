@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "doors": 5,
+  "physical_checks": [
+    {
+      "name": "Escritorio",
+      "closed_blocks": true,
+      "open_center_and_body_width_clear": true
+    },
+    {
+      "name": "Lavabo",
+      "closed_blocks": true,
+      "open_center_and_body_width_clear": true
+    },
+    {
+      "name": "Despensa",
+      "closed_blocks": true,
+      "open_center_and_body_width_clear": true
+    },
+    {
+      "name": "Sala TV Jogos",
+      "closed_blocks": true,
+      "open_center_and_body_width_clear": true
+    },
+    {
+      "name": "Lavanderia",
+      "closed_blocks": true,
+      "open_center_and_body_width_clear": true
+    }
+  ],
+  "lua_behavior_cases": [
+    {
+      "name": "Initial five closed states",
+      "passed": true
+    },
+    {
+      "name": "Invalid door rejected",
+      "passed": true
+    },
+    {
+      "name": "Fractional index rejected",
+      "passed": true
+    },
+    {
+      "name": "Remote toggle rejected",
+      "passed": true
+    },
+    {
+      "name": "Nearby door opens for all clients",
+      "passed": true
+    },
+    {
+      "name": "Rapid repeat suppressed",
+      "passed": true
+    },
+    {
+      "name": "Occupied doorway cannot close",
+      "passed": true
+    },
+    {
+      "name": "Clear doorway closes",
+      "passed": true
+    },
+    {
+      "name": "Missing player entity rejected",
+      "passed": true
+    },
+    {
+      "name": "Rejoining client receives snapshot",
+      "passed": true
+    },
+    {
+      "name": "Five local door props spawned",
+      "passed": true
+    },
+    {
+      "name": "Smooth opening rotates leaf around hinge",
+      "passed": true
+    },
+    {
+      "name": "Closing restores leaf collision position",
+      "passed": true
+    },
+    {
+      "name": "Leaving area cleans props",
+      "passed": true
+    },
+    {
+      "name": "Resource stop removes all door props",
+      "passed": true
+    }
+  ],
+  "leaf_sha256": "1455d37b83ec2d8f1ceed80a70f42b65afe34499acf6a01446d55d984d259adf",
+  "in_game_verified": false
+}

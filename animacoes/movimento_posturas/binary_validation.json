@@ -1,0 +1,53 @@
+{
+  "game_tested": false,
+  "assets": {
+    "cidade_mira_v9_deitado_ar": {
+      "frames": 44,
+      "max_matrix_error": 2.2351741790771484e-06,
+      "max_pitch_error_degrees": 4.47305822968147e-05,
+      "max_channel_error": 7.469207048416138e-07,
+      "worst_channel": [
+        "SKEL_L_Finger30",
+        1,
+        0
+      ],
+      "sha256": "983c28818927d5e9b4b7709ca732b892daf507b368e4954c317c4ee91b07d922"
+    },
+    "cidade_mira_v9_deitado_ak": {
+      "frames": 44,
+      "max_matrix_error": 2.0712614059448242e-06,
+      "max_pitch_error_degrees": 2.682971595058259e-05,
+      "max_channel_error": 7.37607479095459e-07,
+      "worst_channel": [
+        "FB_L_CheekBone_001",
+        1,
+        0
+      ],
+      "sha256": "eee05c2ea893e91e4be7d94cca671c7b8c26b097b2853b3b60e55da76ed074f5"
+    },
+    "cidade_mira_v9_ajoelhado_ar": {
+      "frames": 91,
+      "max_matrix_error": 2.3543834686279297e-06,
+      "max_pitch_error_degrees": 4.969337262394902e-05,
+      "max_channel_error": 8.791685104370117e-07,
+      "worst_channel": [
+        "SKEL_L_Finger30",
+        1,
+        0
+      ],
+      "sha256": "8c6e5f407791839f70359b0a46046374792554dc8cf74647029570fe6cc63f28"
+    },
+    "cidade_mira_v9_ajoelhado_ak": {
+      "frames": 91,
+      "max_matrix_error": 1.9371509552001953e-06,
+      "max_pitch_error_degrees": 4.689855452610914e-05,
+      "max_channel_error": 7.37607479095459e-07,
+      "worst_channel": [
+        "FB_L_CheekBone_001",
+        1,
+        0
+      ],
+      "sha256": "f92be503c2b6524e73a67013197e8bdc4ae5d9adc8e1d0f458359a755913a44a"
+    }
+  }
+}

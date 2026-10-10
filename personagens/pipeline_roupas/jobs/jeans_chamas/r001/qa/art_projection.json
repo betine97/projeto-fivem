@@ -1,0 +1,48 @@
+{
+  "method": "Blender emission bake from supplied original image",
+  "front_projection": "silhouette-registered source reference to native mesh cross-sections",
+  "back_and_sides": "supplied leg fabric on continuous leg coordinates, native pocket/seam shading retained",
+  "native_normal_specular": "preserved",
+  "atlas_size": [
+    2048,
+    2048
+  ],
+  "views": [
+    "front",
+    "back",
+    "left",
+    "right"
+  ],
+  "visual_review": "reviewed: front/back/sides and flexion renders",
+  "reference_silhouette_rows": [
+    53,
+    1400
+  ],
+  "native_z_bounds": [
+    -0.9861717224121094,
+    0.08410811424255371
+  ],
+  "flame_art": {
+    "front": "chamas_frente.png",
+    "back": "chamas_costas.png",
+    "z_bottom": -0.97,
+    "z_top": -0.24,
+    "canvas_uv_left": [
+      0.04,
+      0.49
+    ],
+    "canvas_uv_right": [
+      0.55,
+      0.97
+    ]
+  },
+  "clean_back_crop": [
+    0.08,
+    0.05,
+    0.16,
+    0.16
+  ],
+  "limitations": [
+    "Native silhouette retained; back cloth inferred from supplied fabric; FiveM validation pending."
+  ]
+}

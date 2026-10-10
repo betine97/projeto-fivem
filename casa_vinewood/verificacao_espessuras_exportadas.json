@@ -1,0 +1,579 @@
+{
+  "passed": true,
+  "structural_solids": 169,
+  "visible_triangles_checked": 5220,
+  "missing_triangles": 0,
+  "reversed_triangles": 0,
+  "incorrect_shading_normals": 0,
+  "wall_thickness_checks": [
+    {
+      "name": "Revestimento continuo terreo 00 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 01 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 02 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 03 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 04 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 05 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 06 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 07 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 08 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 09 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 10 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 11 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 12 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 13 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 14 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 15 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 16 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 17 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 17 1",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 18 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo terreo 19 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 00 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 01 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 02 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 03 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 04 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 05 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 06 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 07 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 08 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 09 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 10 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 11 0",
+      "target_m": 0.25,
+      "actual_m": 0.2500009536743164
+    },
+    {
+      "name": "Revestimento continuo superior 12 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 13 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 14 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 15 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 16 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 17 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 18 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Revestimento continuo superior 19 0",
+      "target_m": 0.25,
+      "actual_m": 0.25
+    },
+    {
+      "name": "Hall para Escritorio_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Escritorio_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Escritorio_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Lavabo_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Lavabo_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Lavabo_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Escada_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Escada_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Despensa_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Despensa_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Despensa_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Sala TV Jogos_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Sala TV Jogos_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Sala TV Jogos_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Lavanderia_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Lavanderia_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Hall para Lavanderia_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Divisoria apoio 5.4_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Divisoria apoio 8.2_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Divisoria apoio 11.4_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Divisoria apoio 14.5_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Divisoria apoio 19.3_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000076293945312
+    },
+    {
+      "name": "Hall estar_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Hall estar_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Hall jantar_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Hall jantar_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Hall cozinha_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Hall cozinha_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Cozinha lateral_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Cozinha lateral_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Suite closet banheiro_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Suite closet banheiro_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Suite closet banheiro_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Suite closet banheiro_03_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Suite closet banheiro_04_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Closet banheiro divisoria_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Banheiro suite acesso hall_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Banheiro suite acesso hall_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Banheiro suite acesso hall_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Closet limite vazio_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Banheiro limite vazio_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Quarto 2 fundos_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Quarto 2 fundos_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Quarto 2 fundos_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Quarto 2 lateral vazio_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Quarto 3 frente_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Quarto 3 frente_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Quarto 3 frente_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000004768371582
+    },
+    {
+      "name": "Quarto 3 lado leitura_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    },
+    {
+      "name": "Banheiro social lado hall_00_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000076293945312
+    },
+    {
+      "name": "Banheiro social lado hall_01_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000076293945312
+    },
+    {
+      "name": "Banheiro social lado hall_02_0 ajustada 0",
+      "target_m": 0.2,
+      "actual_m": 0.20000076293945312
+    },
+    {
+      "name": "Suite master lado hall Sul",
+      "target_m": 0.2,
+      "actual_m": 0.19999992847442627
+    },
+    {
+      "name": "Suite master lado hall Norte",
+      "target_m": 0.2,
+      "actual_m": 0.19999992847442627
+    },
+    {
+      "name": "Suite master lado hall Verga",
+      "target_m": 0.2,
+      "actual_m": 0.19999992847442627
+    }
+  ],
+  "slab_thickness_checks": [
+    {
+      "name": "Piso continuo Entrada",
+      "target_m": 0.3,
+      "actual_m": 0.30000001192092896
+    },
+    {
+      "name": "Piso continuo Sacada esquerda",
+      "target_m": 0.3,
+      "actual_m": 0.30000001192092896
+    },
+    {
+      "name": "Piso continuo Sacada direita",
+      "target_m": 0.3,
+      "actual_m": 0.30000001192092896
+    },
+    {
+      "name": "Piso continuo Sala deck",
+      "target_m": 0.3,
+      "actual_m": 0.30000001192092896
+    },
+    {
+      "name": "Piso continuo Fundos",
+      "target_m": 0.3,
+      "actual_m": 0.30000001192092896
+    },
+    {
+      "name": "Piso terreo contorno nativo",
+      "target_m": 0.3,
+      "actual_m": 0.30000001192092896
+    },
+    {
+      "name": "Laje superior contorno nativo",
+      "target_m": 0.45,
+      "actual_m": 0.4500000476837158
+    },
+    {
+      "name": "Piso continuo Portao da rua",
+      "target_m": 0.3,
+      "actual_m": 0.30000001192092896
+    },
+    {
+      "name": "Escada chegada superior",
+      "target_m": 0.45,
+      "actual_m": 0.4500000476837158
+    },
+    {
+      "name": "Teto contorno nativo",
+      "target_m": 0.2,
+      "actual_m": 0.19999980926513672
+    }
+  ],
+  "front_face_edge_tests": [
+    {
+      "name": "borda escada esquerda",
+      "visible_front_face": true
+    },
+    {
+      "name": "borda escada direita",
+      "visible_front_face": true
+    },
+    {
+      "name": "borda escada fundos",
+      "visible_front_face": true
+    },
+    {
+      "name": "borda mezanino",
+      "visible_front_face": true
+    }
+  ],
+  "stair_arrival_surface_overlap": [
+    {
+      "level_z": 2.358,
+      "coincident_surface_m2": 0.0
+    },
+    {
+      "level_z": 2.808,
+      "coincident_surface_m2": 0.0
+    }
+  ],
+  "max_position_error_m": 1.7716989146876473e-07,
+  "drawable_sha256": {
+    "mansao_escada.ydr": "5bdaebea354ffc4b677dcc1602f902bd4781e1be92b46e817bb1b51ae043094b",
+    "mansao_paredes.ydr": "7854cb5508e8da64e4306885bb5f5a1b9b85da987b9ec6849752050f8a57cac6",
+    "mansao_pisos.ydr": "e66df7c10cd06c6e38969aafecc583e9c98cb8c02a86cdf856f426ab75268ee7",
+    "mansao_teto.ydr": "e641019ff82a391b7776b4b260714fe6eb1f33972aa80b4e9f7a48f2454a0be8"
+  },
+  "in_game_verified": false,
+  "outer_level_coincident_surface_m2": 0.0
+}

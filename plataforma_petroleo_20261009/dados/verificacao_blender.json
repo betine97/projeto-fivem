@@ -1,0 +1,1302 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Arquivo reaberto",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Referencia original preservada",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Escada EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": {
+        "id": "EMBARQUE_INFERIOR",
+        "from_z": 3.73,
+        "to_z": 14,
+        "width": 2.4,
+        "step_height": 0.17706896551724138,
+        "step_depth": 0.29,
+        "steps": 58,
+        "position": [
+          26.5,
+          -30.3,
+          3.73
+        ],
+        "clear_headroom_m": 2.3
+      }
+    },
+    {
+      "name": "Escada INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": {
+        "id": "INFERIOR_PRODUCAO",
+        "from_z": 14,
+        "to_z": 20,
+        "width": 2.4,
+        "step_height": 0.17647058823529413,
+        "step_depth": 0.29,
+        "steps": 34,
+        "position": [
+          -26,
+          -30,
+          14
+        ],
+        "clear_headroom_m": 2.3
+      }
+    },
+    {
+      "name": "Escada PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": {
+        "id": "PRODUCAO_SUPERIOR",
+        "from_z": 20,
+        "to_z": 26,
+        "width": 2.4,
+        "step_height": 0.17647058823529413,
+        "step_depth": 0.29,
+        "steps": 34,
+        "position": [
+          23,
+          -29,
+          20
+        ],
+        "clear_headroom_m": 2.3
+      }
+    },
+    {
+      "name": "Doze estacoes de trabalho",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_000_Piso do conves 14",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_001_Piso do conves 20",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_002_Piso superior com vao de icamento",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_003_Piso superior com vao de icamento",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_004_Piso superior com vao de icamento",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_005_Doca embarque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_006_Entrada EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_007_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_008_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_009_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_010_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_011_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_012_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_013_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_014_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_015_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_016_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_017_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_018_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_019_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_020_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_021_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_022_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_023_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_024_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_025_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_026_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_027_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_028_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_029_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_030_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_031_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_032_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_033_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_034_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_035_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_036_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_037_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_038_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_039_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_040_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_041_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_042_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_043_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_044_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_045_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_046_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_047_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_048_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_049_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_050_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_051_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_052_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_053_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_054_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_055_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_056_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_057_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_058_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_059_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_060_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_061_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_062_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_063_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_064_Degrau EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_065_Patamar EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_066_Saida EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_067_Passagem EMBARQUE_INFERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_068_Entrada INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_069_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_070_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_071_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_072_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_073_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_074_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_075_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_076_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_077_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_078_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_079_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_080_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_081_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_082_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_083_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_084_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_085_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_086_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_087_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_088_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_089_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_090_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_091_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_092_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_093_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_094_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_095_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_096_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_097_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_098_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_099_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_100_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_101_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_102_Degrau INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_103_Patamar INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_104_Saida INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_105_Passagem INFERIOR_PRODUCAO",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_106_Entrada PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_107_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_108_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_109_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_110_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_111_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_112_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_113_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_114_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_115_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_116_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_117_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_118_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_119_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_120_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_121_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_122_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_123_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_124_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_125_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_126_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_127_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_128_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_129_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_130_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_131_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_132_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_133_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_134_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_135_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_136_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_137_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_138_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_139_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_140_Degrau PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_141_Patamar PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_142_Saida PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_143_Passagem PRODUCAO_SUPERIOR",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_144_Passarela superior",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_145_Mesa de perfuracao",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_146_Skid manifold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_147_Skid manifold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_148_Suporte separador",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_149_Suporte separador",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_150_Separador de lote",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_151_Suporte separador",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_152_Suporte separador",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_153_Separador de lote",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_154_Suporte separador",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_155_Suporte separador",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_156_Separador de lote",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_157_Coluna de processamento",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_158_Coluna de processamento",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_159_Coluna de processamento",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_160_Tanque estoque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_161_Tanque estoque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_162_Tanque estoque",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_163_Skid refino",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_164_Base bomba",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_165_Base bomba",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_166_Base bomba",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_167_Base bomba",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_168_Sala de controle fundo",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_169_Sala de controle lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_170_Sala de controle lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_171_Sala de controle frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_172_Sala de controle frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_173_Sala de controle verga",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_174_Alojamento fundo",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_175_Alojamento lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_176_Alojamento lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_177_Alojamento frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_178_Alojamento frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_179_Alojamento verga",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_180_Manutencao e filtros fundo",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_181_Manutencao e filtros lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_182_Manutencao e filtros lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_183_Manutencao e filtros frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_184_Manutencao e filtros frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_185_Manutencao e filtros verga",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_186_Modulo de energia fundo",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_187_Modulo de energia lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_188_Modulo de energia lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_189_Modulo de energia frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_190_Modulo de energia frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_191_Modulo de energia verga",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_192_Sala de bombas superior fundo",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_193_Sala de bombas superior lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_194_Sala de bombas superior lateral",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_195_Sala de bombas superior frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_196_Sala de bombas superior frente",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_197_Sala de bombas superior verga",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_198_Mesa console",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_199_Mesa console",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_200_Mesa console",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_201_Heliponto",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_202_Passarela heliponto",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_203_Rampa heliponto",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_204_Gabinete de instrumentos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_205_Gabinete de instrumentos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_206_Gabinete de instrumentos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_207_Gabinete de instrumentos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Volume fechado COL_208_Gabinete de instrumentos",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Piso da estacao embarque",
+      "passed": true,
+      "details": [
+        [
+          3.7249999046325684,
+          "COL_005_Doca embarque"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao extracao_painel",
+      "passed": true,
+      "details": [
+        [
+          26.0,
+          "COL_002_Piso superior com vao de icamento"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao extracao_amostra",
+      "passed": true,
+      "details": [
+        [
+          20.0,
+          "COL_001_Piso do conves 20"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao refino_console",
+      "passed": true,
+      "details": [
+        [
+          26.0,
+          "COL_002_Piso superior com vao de icamento"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao refino_inspecao",
+      "passed": true,
+      "details": [
+        [
+          26.0,
+          "COL_002_Piso superior com vao de icamento"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao controle_contrato",
+      "passed": true,
+      "details": [
+        [
+          20.0,
+          "COL_001_Piso do conves 20"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao manutencao",
+      "passed": true,
+      "details": [
+        [
+          14.0,
+          "COL_000_Piso do conves 14"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao heliponto",
+      "passed": true,
+      "details": [
+        [
+          28.700000762939453,
+          "COL_201_Heliponto"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao guindaste",
+      "passed": true,
+      "details": [
+        [
+          26.0,
+          "COL_004_Piso superior com vao de icamento"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao envase",
+      "passed": true,
+      "details": [
+        [
+          20.0,
+          "COL_001_Piso do conves 20"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao carga_conferencia",
+      "passed": true,
+      "details": [
+        [
+          20.0,
+          "COL_001_Piso do conves 20"
+        ]
+      ]
+    },
+    {
+      "name": "Piso da estacao expedicao",
+      "passed": true,
+      "details": [
+        [
+          20.0,
+          "COL_001_Piso do conves 20"
+        ]
+      ]
+    },
+    {
+      "name": "Carga atravessa vao sem cortar piso superior",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Guindaste eleva e gira a carga",
+      "passed": true,
+      "details": {
+        "vertical_m": 8.5,
+        "horizontal_x_m": 11.798011779785156
+      }
+    },
+    {
+      "name": "Contato fisico superior",
+      "passed": true,
+      "details": {
+        "expected_z": 26.2,
+        "actual_z": 26.200000762939453
+      }
+    },
+    {
+      "name": "Contato fisico producao",
+      "passed": true,
+      "details": {
+        "expected_z": 20.2,
+        "actual_z": 20.200000762939453
+      }
+    },
+    {
+      "name": "Contato fisico inferior",
+      "passed": true,
+      "details": {
+        "expected_z": 14.2,
+        "actual_z": 14.199999809265137
+      }
+    },
+    {
+      "name": "Contato fisico heliponto",
+      "passed": true,
+      "details": {
+        "expected_z": 28.9,
+        "actual_z": 28.900001525878906
+      }
+    },
+    {
+      "name": "Contato fisico doca",
+      "passed": true,
+      "details": {
+        "expected_z": 3.9250000000000003,
+        "actual_z": 3.924999952316284
+      }
+    },
+    {
+      "name": "Nao instalado no servidor",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "in_game_verified": false,
+  "physics_scope": "Blender passive collisions; native FiveM export pending"
+}

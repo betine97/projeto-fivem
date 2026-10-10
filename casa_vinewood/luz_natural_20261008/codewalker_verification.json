@@ -1,0 +1,30 @@
+[
+  {
+    "model": "mansao_pendentes.ydr",
+    "lights": 9,
+    "nativeLoaded": true,
+    "systemBytes": 7405568,
+    "graphicsBytes": 12582912
+  },
+  {
+    "model": "mansao_spots_led.ydr",
+    "lights": 20,
+    "nativeLoaded": true,
+    "systemBytes": 65536,
+    "graphicsBytes": 8192
+  },
+  {
+    "model": "mansao_teto.ydr",
+    "lights": 109,
+    "nativeLoaded": true,
+    "systemBytes": 1048576,
+    "graphicsBytes": 8192
+  },
+  {
+    "model": "mansao_tv.ydr",
+    "lights": 1,
+    "nativeLoaded": true,
+    "systemBytes": 13631488,
+    "graphicsBytes": 6291456
+  }
+]

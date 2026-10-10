@@ -1,0 +1,1837 @@
+[
+  {
+    "name": "bh1_45_em_a",
+    "lo": [
+      -6.27197265625,
+      -13.6875,
+      -3.5439453125
+    ],
+    "hi": [
+      33.17919921875,
+      11.0380859375,
+      3.80029296875
+    ],
+    "triangles": 718,
+    "textures": [
+      "im_emissive_window_001",
+      "im_emissive_window_005",
+      "im_emissive_window_011"
+    ]
+  },
+  {
+    "name": "bh1_45_em_b",
+    "lo": [
+      -5.4150390625,
+      -15.3154296875,
+      -3.126953125
+    ],
+    "hi": [
+      15.78271484375,
+      10.2294921875,
+      4.39453125
+    ],
+    "triangles": 174,
+    "textures": [
+      "im_emissive_window_001",
+      "im_emissive_window_004",
+      "im_emissive_window_005",
+      "im_emissive_window_011",
+      "rsn_dc_emissive_windows_0003"
+    ]
+  },
+  {
+    "name": "bh1_45_em_c",
+    "lo": [
+      -5.91748046875,
+      -17.4609375,
+      0.9013671875
+    ],
+    "hi": [
+      20.412109375,
+      13.6162109375,
+      9.70654296875
+    ],
+    "triangles": 350,
+    "textures": [
+      "im_emissive_window_001",
+      "im_emissive_window_003",
+      "im_emissive_window_004",
+      "im_emissive_window_005",
+      "im_emissive_window_011",
+      "im_emissive_window_012"
+    ]
+  },
+  {
+    "name": "bh1_45_em_d",
+    "lo": [
+      -18.8828125,
+      -3.416015625,
+      -0.5322265625
+    ],
+    "hi": [
+      2.09521484375,
+      26.1962890625,
+      5.4853515625
+    ],
+    "triangles": 350,
+    "textures": [
+      "im_emissive_window_001",
+      "im_emissive_window_004",
+      "im_emissive_window_005"
+    ]
+  },
+  {
+    "name": "bh1_45_em_e",
+    "lo": [
+      -11.8818359375,
+      -16.099609375,
+      -7.94775390625
+    ],
+    "hi": [
+      10.89794921875,
+      15.7060546875,
+      2.29931640625
+    ],
+    "triangles": 640,
+    "textures": [
+      "im_emissive_window_001",
+      "im_emissive_window_004",
+      "im_emissive_window_011"
+    ]
+  },
+  {
+    "name": "bh1_45_em_f",
+    "lo": [
+      -11.34326171875,
+      -16.97509765625,
+      -6.1201171875
+    ],
+    "hi": [
+      10.94189453125,
+      15.19970703125,
+      1.9970703125
+    ],
+    "triangles": 174,
+    "textures": [
+      "im_emissive_window_001",
+      "im_emissive_window_004",
+      "im_emissive_window_005",
+      "im_emissive_window_011",
+      "rsn_dc_emissive_windows_0002"
+    ]
+  },
+  {
+    "name": "bh1_45_flowers_1",
+    "lo": [
+      -0.5576171875,
+      -1.7919921875,
+      -0.6376953125
+    ],
+    "hi": [
+      0.73974609375,
+      1.85888671875,
+      0.62158203125
+    ],
+    "triangles": 468,
+    "textures": [
+      "RSN_AM_Flowers_6RSN_AM_Flowers_6_A"
+    ]
+  },
+  {
+    "name": "bh1_45_flowers_2",
+    "lo": [
+      -13.56201171875,
+      -14.99853515625,
+      -1.44580078125
+    ],
+    "hi": [
+      9.14794921875,
+      20.2783203125,
+      1.41650390625
+    ],
+    "triangles": 2676,
+    "textures": [
+      "RSN_AM_Flowers_4RSN_AM_Flowers_4_A",
+      "RSN_AM_Flowers_6RSN_AM_Flowers_6_A"
+    ]
+  },
+  {
+    "name": "bh1_45_flowers_3",
+    "lo": [
+      -1.72607421875,
+      -3.45703125,
+      -0.40966796875
+    ],
+    "hi": [
+      1.68115234375,
+      3.427734375,
+      0.40966796875
+    ],
+    "triangles": 624,
+    "textures": [
+      "RSN_AM_Flowers_6RSN_AM_Flowers_6_A"
+    ]
+  },
+  {
+    "name": "bh1_45_flowers_4",
+    "lo": [
+      -15.0166015625,
+      -20.4052734375,
+      -0.962890625
+    ],
+    "hi": [
+      15.10791015625,
+      22.77197265625,
+      0.94189453125
+    ],
+    "triangles": 2208,
+    "textures": [
+      "RSN_AM_Flowers_4RSN_AM_Flowers_4_A",
+      "RSN_AM_Flowers_6RSN_AM_Flowers_6_A"
+    ]
+  },
+  {
+    "name": "bh1_45_flowers_5",
+    "lo": [
+      -12.56005859375,
+      -16.1328125,
+      -2.68994140625
+    ],
+    "hi": [
+      15.1123046875,
+      15.0908203125,
+      2.68310546875
+    ],
+    "triangles": 2640,
+    "textures": [
+      "RSN_AM_Flowers_4RSN_AM_Flowers_4_A",
+      "RSN_AM_Flowers_6RSN_AM_Flowers_6_A"
+    ]
+  },
+  {
+    "name": "bh1_45_flowers_6",
+    "lo": [
+      -12.50732421875,
+      -16.31103515625,
+      -1.06103515625
+    ],
+    "hi": [
+      18.89794921875,
+      16.1044921875,
+      1.06103515625
+    ],
+    "triangles": 2072,
+    "textures": [
+      "RSN_AM_Flowers_4RSN_AM_Flowers_4_A",
+      "RSN_AM_Flowers_6RSN_AM_Flowers_6_A"
+    ]
+  },
+  {
+    "name": "bh1_45_furhedge00",
+    "lo": [
+      -14.10888671875,
+      -12.00439453125,
+      -3.63232421875
+    ],
+    "hi": [
+      14.10888671875,
+      12.00439453125,
+      3.63232421875
+    ],
+    "triangles": 630,
+    "textures": [
+      "rsn_am_hedge_02_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_furhedge01",
+    "lo": [
+      -7.8544921875,
+      -11.9697265625,
+      -2.97998046875
+    ],
+    "hi": [
+      7.8544921875,
+      11.9697265625,
+      2.97998046875
+    ],
+    "triangles": 808,
+    "textures": [
+      "rsn_am_hedge_02_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_furhedge02",
+    "lo": [
+      -11.3984375,
+      -18.37451171875,
+      -1.5732421875
+    ],
+    "hi": [
+      11.3984375,
+      18.37451171875,
+      1.5732421875
+    ],
+    "triangles": 884,
+    "textures": [
+      "rsn_am_hedge_02_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_furhedge03",
+    "lo": [
+      -13.45849609375,
+      -14.869140625,
+      -4.283203125
+    ],
+    "hi": [
+      13.45849609375,
+      14.869140625,
+      4.283203125
+    ],
+    "triangles": 701,
+    "textures": [
+      "rsn_am_hedge_02_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_furhedge04",
+    "lo": [
+      -11.13916015625,
+      -8.5751953125,
+      -1.6318359375
+    ],
+    "hi": [
+      11.13916015625,
+      8.5751953125,
+      1.6318359375
+    ],
+    "triangles": 404,
+    "textures": [
+      "rsn_am_hedge_02_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_gate1",
+    "lo": [
+      0.0,
+      -0.044921875,
+      -0.05615234375
+    ],
+    "hi": [
+      5.67236328125,
+      0.044921875,
+      2.666015625
+    ],
+    "triangles": 1552,
+    "textures": [
+      "rsn_am_metal_gate_black_2"
+    ]
+  },
+  {
+    "name": "bh1_45_gate2",
+    "lo": [
+      -0.05029296875,
+      -0.67919921875,
+      -1.3583984375
+    ],
+    "hi": [
+      0.05029296875,
+      0.67919921875,
+      1.3583984375
+    ],
+    "triangles": 410,
+    "textures": [
+      "BH1_48_RSN_AM_MichaelsHouse_Gate",
+      "BH1_48_RSN_AM_MichaelsHouse_GateBH1_48_RSN_AM_MichaelsHouse_Gate_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_d",
+    "lo": [
+      -12.84765625,
+      -15.28955078125,
+      -4.78076171875
+    ],
+    "hi": [
+      12.8583984375,
+      15.2900390625,
+      4.78076171875
+    ],
+    "triangles": 7735,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Pieces",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "OS_ML_KToverlay_0001",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "WeedLeavesa_1WeedLeavesa_2a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_d5",
+    "lo": [
+      -16.70166015625,
+      -17.5654296875,
+      -3.5078125
+    ],
+    "hi": [
+      35.67626953125,
+      17.5654296875,
+      3.5078125
+    ],
+    "triangles": 4849,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_Litter01IM_Litter01_a",
+      "IM_WallOverlay01",
+      "OS_ML_KToverlay_0001",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "RSN_AM_Road_Stain_Overlay_DRSN_AM_Road_Stain_Overlay_A",
+      "RSN_AM__Veg_Ivy_crawlRSN_AM__Veg_Ivy_crawl_A",
+      "WeedLeavesa_1WeedLeavesa_2a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_d6",
+    "lo": [
+      -14.17041015625,
+      -28.83642578125,
+      -4.302734375
+    ],
+    "hi": [
+      44.66796875,
+      6.52490234375,
+      4.302734375
+    ],
+    "triangles": 3993,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "OS_ML_KToverlay_0001",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_d7",
+    "lo": [
+      -19.10009765625,
+      -27.5791015625,
+      -3.9248046875
+    ],
+    "hi": [
+      19.10009765625,
+      27.5791015625,
+      3.92431640625
+    ],
+    "triangles": 3256,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Ground_Park_Edging",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_fg01",
+    "lo": [
+      -14.62451171875,
+      -11.8203125,
+      -1.81005859375
+    ],
+    "hi": [
+      14.625,
+      11.8193359375,
+      1.81005859375
+    ],
+    "triangles": 208,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_fg02",
+    "lo": [
+      -5.20556640625,
+      -8.15087890625,
+      -0.212890625
+    ],
+    "hi": [
+      5.205078125,
+      8.150390625,
+      0.212890625
+    ],
+    "triangles": 62,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_fg03",
+    "lo": [
+      -7.45654296875,
+      -13.751953125,
+      -0.30810546875
+    ],
+    "hi": [
+      7.45703125,
+      13.751953125,
+      0.32763671875
+    ],
+    "triangles": 73,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_fg04",
+    "lo": [
+      -15.10791015625,
+      -10.455078125,
+      -1.87158203125
+    ],
+    "hi": [
+      15.10107421875,
+      10.44921875,
+      1.888671875
+    ],
+    "triangles": 401,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_fg05",
+    "lo": [
+      -11.88232421875,
+      -1.47509765625,
+      -1.24365234375
+    ],
+    "hi": [
+      11.88671875,
+      1.4814453125,
+      1.26025390625
+    ],
+    "triangles": 54,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_ivy",
+    "lo": [
+      -9.59716796875,
+      -16.15478515625,
+      -3.00439453125
+    ],
+    "hi": [
+      9.59716796875,
+      16.15478515625,
+      3.00439453125
+    ],
+    "triangles": 736,
+    "textures": [
+      "rsn_am_ivy_1rsn_am_ivy_1_a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_ter",
+    "lo": [
+      -37.01318359375,
+      -22.3603515625,
+      -4.9404296875
+    ],
+    "hi": [
+      34.02099609375,
+      32.0830078125,
+      10.45166015625
+    ],
+    "triangles": 24317,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_Tpage_Windows",
+      "BH1_45_REB__SmallBlock",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "BH1_48_RSN_AM_MichaelsHouse_wall_bits",
+      "DC_Sidewalk004",
+      "IM_Ground_Bricks03",
+      "OS_MLHXD_wall_0007",
+      "OS_ML_BHPfloor_0001",
+      "OS_ML_HHsptile_0002",
+      "RSN_AM_Hedge_03",
+      "RSN_AM_IM_WoodChips01",
+      "RSN_AM_Wall_Concrete_0005_D",
+      "RSN_NS_TeracottaTile_0001",
+      "bh1_45_reb_tpage_pieces",
+      "rsn_am_dc_roof_tile_01",
+      "rsn_am_ivy_1",
+      "rsn_dc_archedcobbles_0001",
+      "sm1_12_rnim_pooltiles02"
+    ]
+  },
+  {
+    "name": "bh1_45_plot1_water",
+    "lo": [
+      -32.80419921875,
+      -14.751953125,
+      -1.33544921875
+    ],
+    "hi": [
+      32.80419921875,
+      14.751953125,
+      1.33544921875
+    ],
+    "triangles": 33,
+    "textures": []
+  },
+  {
+    "name": "bh1_45_plot2_building",
+    "lo": [
+      -43.66455078125,
+      -23.1240234375,
+      -12.283203125
+    ],
+    "hi": [
+      32.14013671875,
+      40.48486328125,
+      8.27001953125
+    ],
+    "triangles": 37053,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_Tpage_Windows",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "BH1_48_RSN_AM_MichaelsHouse_wall_bits",
+      "IM_Ground_Bricks03",
+      "OS_ML_BHPfloor_0001",
+      "OS_ML_HHsptile_0002",
+      "RSN_AM_Hedge_02",
+      "RSN_AM_Hedge_03",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "RSN_AM_IM_WoodChips01",
+      "RSN_NS_TeracottaTile_0001",
+      "bh1_45_reb_tpage_decalbh1_45_reb_tpage_decal_a",
+      "im_floortiles02",
+      "os_ml_whroof_0001",
+      "os_mlhxd_wall_0006",
+      "rsn_am_bricktile_02",
+      "rsn_am_bricktile_02_hi",
+      "rsn_am_hedge_01",
+      "rsn_am_tarpualin_02",
+      "rsn_am_tennis_court",
+      "sc01_rnad_wall_0003"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d2",
+    "lo": [
+      -26.5498046875,
+      -16.69140625,
+      -6.46484375
+    ],
+    "hi": [
+      26.5498046875,
+      16.69140625,
+      6.46923828125
+    ],
+    "triangles": 6649,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_Ground_Dirt005IM_Ground_Dirt005_a",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A",
+      "RSN_AM__Veg_Ivy_crawlRSN_AM__Veg_Ivy_crawl_A",
+      "WeedLeavesa_1WeedLeavesa_1a",
+      "prop_fence_chainlink_01prop_fence_chainlink_01_a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d8",
+    "lo": [
+      -14.29443359375,
+      -12.041015625,
+      -3.486328125
+    ],
+    "hi": [
+      14.29443359375,
+      12.041015625,
+      3.486328125
+    ],
+    "triangles": 1930,
+    "textures": [
+      "BH1_45_REB_Tpage_Pieces",
+      "IM_Ground_Dirt005IM_Ground_Dirt005_a",
+      "RSN_AM_Tennis_net"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d_1",
+    "lo": [
+      -12.83544921875,
+      -13.9794921875,
+      -6.99853515625
+    ],
+    "hi": [
+      12.83984375,
+      13.9794921875,
+      6.99853515625
+    ],
+    "triangles": 3303,
+    "textures": [
+      "AD_HW_Railing01AD_HW_Railing01_A",
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Pieces",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A",
+      "RSN_AM_Road_Stain_Overlay_DRSN_AM_Road_Stain_Overlay_A",
+      "RSN_AM__Veg_Ivy_crawlRSN_AM__Veg_Ivy_crawl_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d_2",
+    "lo": [
+      -18.90625,
+      -8.30908203125,
+      -6.5537109375
+    ],
+    "hi": [
+      18.90625,
+      8.30908203125,
+      6.5537109375
+    ],
+    "triangles": 2909,
+    "textures": [
+      "AD_HW_Railing01AD_HW_Railing01_A",
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Pieces",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "OS_RNBJ_BVwalloverlay_0002"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d_3",
+    "lo": [
+      -11.6318359375,
+      -17.11767578125,
+      -3.80859375
+    ],
+    "hi": [
+      11.6318359375,
+      17.11767578125,
+      3.80859375
+    ],
+    "triangles": 866,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d_4",
+    "lo": [
+      -10.77392578125,
+      -11.77099609375,
+      -7.12939453125
+    ],
+    "hi": [
+      10.77392578125,
+      11.77099609375,
+      7.65380859375
+    ],
+    "triangles": 2968,
+    "textures": [
+      "AD_HW_Railing01AD_HW_Railing01_A",
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Pieces",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM__Veg_Ivy_crawlRSN_AM__Veg_Ivy_crawl_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d_5",
+    "lo": [
+      -12.822265625,
+      -10.322265625,
+      -5.9248046875
+    ],
+    "hi": [
+      12.82275390625,
+      9.9892578125,
+      5.9248046875
+    ],
+    "triangles": 2763,
+    "textures": [
+      "AD_HW_Railing01AD_HW_Railing01_A",
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A",
+      "RSN_AM_Road_Stain_Overlay_DRSN_AM_Road_Stain_Overlay_A",
+      "RSN_AM__Veg_Ivy_crawlRSN_AM__Veg_Ivy_crawl_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_d_6",
+    "lo": [
+      -8.7607421875,
+      -13.19921875,
+      -2.9072265625
+    ],
+    "hi": [
+      8.7607421875,
+      13.19921875,
+      2.9072265625
+    ],
+    "triangles": 684,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_fg01",
+    "lo": [
+      -5.46826171875,
+      -2.45849609375,
+      -0.02490234375
+    ],
+    "hi": [
+      5.46826171875,
+      2.45849609375,
+      0.02490234375
+    ],
+    "triangles": 40,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_fg02",
+    "lo": [
+      -4.49755859375,
+      -3.3974609375,
+      -0.33984375
+    ],
+    "hi": [
+      4.49755859375,
+      3.3974609375,
+      0.33984375
+    ],
+    "triangles": 44,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_terrb",
+    "lo": [
+      -34.06640625,
+      -26.5400390625,
+      -10.4150390625
+    ],
+    "hi": [
+      34.06640625,
+      26.5400390625,
+      10.4150390625
+    ],
+    "triangles": 22072,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_Tpage_Windows",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_Ground_Bricks03",
+      "OS_ML_HHsptile_0002",
+      "RSN_AM_Hedge_03",
+      "RSN_AM_IM_WoodChips01",
+      "RSN_NS_TeracottaTile_0001",
+      "bh1_45_reb_tpage_pieces",
+      "bh1_45_reb_wallbrickredold",
+      "bh1_45_reb_walltudor",
+      "bh1_45_reb_woodwallgreen",
+      "im_floortiles02",
+      "im_wall11",
+      "os_ml_whroof_0001",
+      "rsn_am_ceramic_tile_01"
+    ]
+  },
+  {
+    "name": "bh1_45_plot2_terrb_fg01",
+    "lo": [
+      -4.08349609375,
+      -18.72998046875,
+      -6.5556640625
+    ],
+    "hi": [
+      28.236328125,
+      21.8671875,
+      -4.6005859375
+    ],
+    "triangles": 320,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_d",
+    "lo": [
+      -27.5625,
+      -19.7548828125,
+      -5.2294921875
+    ],
+    "hi": [
+      27.5625,
+      19.7548828125,
+      5.2294921875
+    ],
+    "triangles": 4606,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Park_Edging",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "WeedLeavesa_1WeedLeavesa_1a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_d2",
+    "lo": [
+      -20.5625,
+      -15.47802734375,
+      -5.27197265625
+    ],
+    "hi": [
+      20.5625,
+      15.47802734375,
+      5.27197265625
+    ],
+    "triangles": 2991,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "IM_Litter01IM_Litter01_a",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_d3",
+    "lo": [
+      -13.39208984375,
+      -20.96435546875,
+      -4.287109375
+    ],
+    "hi": [
+      13.39208984375,
+      20.96435546875,
+      4.287109375
+    ],
+    "triangles": 4544,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_d4",
+    "lo": [
+      -19.4736328125,
+      -34.5498046875,
+      -6.1787109375
+    ],
+    "hi": [
+      19.4736328125,
+      34.5498046875,
+      6.1787109375
+    ],
+    "triangles": 4874,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Park_Edging",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "SC1_RSN_NS_ground_0003"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_detailfence",
+    "lo": [
+      -6.8349609375,
+      -14.228515625,
+      -2.5791015625
+    ],
+    "hi": [
+      6.83544921875,
+      14.228515625,
+      2.5791015625
+    ],
+    "triangles": 1782,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_tea_dcl",
+    "lo": [
+      -54.37744140625,
+      -20.90185546875,
+      -7.228515625
+    ],
+    "hi": [
+      54.37744140625,
+      20.90185546875,
+      7.29248046875
+    ],
+    "triangles": 2746,
+    "textures": [
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "CS_RSN_SM_dirtRoad_01",
+      "IM_Ground_Dirt004",
+      "IM_WallOverlay01",
+      "OS_ML_KToverlay_0001",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Park_Edging",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "SC1_RSN_NS_ground_0003",
+      "sc1_rsn_ns_ground_0004"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_tea_dcl2",
+    "lo": [
+      -38.1494140625,
+      -16.3525390625,
+      -5.73681640625
+    ],
+    "hi": [
+      36.50048828125,
+      16.3525390625,
+      2.95556640625
+    ],
+    "triangles": 8641,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "CS_RSN_SM_dirtRoad_01",
+      "IM_Ground_Dirt004",
+      "IM_Litter01IM_Litter01_a",
+      "OS_ML_KToverlay_0001",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "SC1_RSN_NS_ground_0003",
+      "city_rsn_sl_earthbank_0001city_rsn_sl_earthbank_0001_n"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_tera",
+    "lo": [
+      -54.15673828125,
+      -22.86865234375,
+      -7.66162109375
+    ],
+    "hi": [
+      54.1455078125,
+      22.86865234375,
+      7.66162109375
+    ],
+    "triangles": 25264,
+    "textures": [
+      "RSN_AM_Hedge_03",
+      "RSN_AM_Wall_Concrete_Painted_White",
+      "SC1_RSN_NS_ground_0003",
+      "SC1_RSN_NS_ground_0010",
+      "bh1_45_reb_tpage_pieces",
+      "hw_rb_wood_planks_01",
+      "id_09_hj_wood_0001",
+      "im_roof10",
+      "im_wall11",
+      "im_wall_plaster29"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_tera_fg",
+    "lo": [
+      -36.2001953125,
+      -22.876953125,
+      -4.18896484375
+    ],
+    "hi": [
+      36.2001953125,
+      22.876953125,
+      4.18896484375
+    ],
+    "triangles": 793,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_terb",
+    "lo": [
+      -45.98974609375,
+      -22.86474609375,
+      -7.08837890625
+    ],
+    "hi": [
+      43.0224609375,
+      18.6015625,
+      6.95849609375
+    ],
+    "triangles": 24093,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_Tpage_Windows",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "BH1_48_RSN_AM_MichaelsHouse_wall_bits",
+      "DC_Sidewalk004",
+      "OS_ML_BHPfloor_0001",
+      "OS_ML_HHsptile_0002",
+      "RSN_AM_Hedge_03",
+      "RSN_AM_IM_WoodChips01",
+      "RSN_NS_TeracottaTile_0001",
+      "SC1_RSN_NS_ground_0010",
+      "im_hedge01",
+      "os_mlhxd_wall_0007",
+      "rsn_am_dc_roof_tile_01",
+      "rsn_dc_archedcobbles_0001"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_terb_fg01",
+    "lo": [
+      -20.4873046875,
+      -6.73681640625,
+      -0.54736328125
+    ],
+    "hi": [
+      20.4873046875,
+      6.73681640625,
+      0.54736328125
+    ],
+    "triangles": 43,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_terb_fg02",
+    "lo": [
+      -20.36865234375,
+      -13.3798828125,
+      -2.67236328125
+    ],
+    "hi": [
+      20.36865234375,
+      13.3798828125,
+      2.67236328125
+    ],
+    "triangles": 629,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_terb_fg03",
+    "lo": [
+      -2.98095703125,
+      -6.20556640625,
+      -0.72021484375
+    ],
+    "hi": [
+      2.98095703125,
+      6.20556640625,
+      0.72021484375
+    ],
+    "triangles": 48,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3_water",
+    "lo": [
+      -19.41259765625,
+      -27.23828125,
+      -1.80078125
+    ],
+    "hi": [
+      19.41259765625,
+      27.23828125,
+      1.80078125
+    ],
+    "triangles": 20,
+    "textures": []
+  },
+  {
+    "name": "bh1_45_plot3b_d",
+    "lo": [
+      -30.10595703125,
+      -16.099609375,
+      -8.52880859375
+    ],
+    "hi": [
+      28.53662109375,
+      23.82763671875,
+      10.05419921875
+    ],
+    "triangles": 1461,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Strip",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Road_Stain_Overlay_DRSN_AM_Road_Stain_Overlay_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_d2_1",
+    "lo": [
+      -9.08154296875,
+      -15.58203125,
+      -5.87109375
+    ],
+    "hi": [
+      9.08154296875,
+      15.58203125,
+      5.87109375
+    ],
+    "triangles": 3231,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_WoodWallGreen",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_d2_2",
+    "lo": [
+      -13.462890625,
+      -11.06884765625,
+      -5.22412109375
+    ],
+    "hi": [
+      13.462890625,
+      11.32421875,
+      5.22412109375
+    ],
+    "triangles": 2106,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_WoodWallGreen",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_d2_3",
+    "lo": [
+      -11.462890625,
+      -8.91259765625,
+      -3.095703125
+    ],
+    "hi": [
+      11.462890625,
+      8.91259765625,
+      3.095703125
+    ],
+    "triangles": 2278,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_WoodWallGreen",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_01",
+    "lo": [
+      -8.701171875,
+      -6.88623046875,
+      -2.51513671875
+    ],
+    "hi": [
+      8.701171875,
+      6.88623046875,
+      2.51513671875
+    ],
+    "triangles": 1326,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_02",
+    "lo": [
+      -10.734375,
+      -4.19189453125,
+      -2.0263671875
+    ],
+    "hi": [
+      10.734375,
+      4.19189453125,
+      2.0263671875
+    ],
+    "triangles": 1061,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "weedylong_1"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_03",
+    "lo": [
+      -8.6162109375,
+      -3.7890625,
+      -2.845703125
+    ],
+    "hi": [
+      8.6162109375,
+      3.7890625,
+      2.845703125
+    ],
+    "triangles": 368,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_04",
+    "lo": [
+      -5.24072265625,
+      -9.64404296875,
+      -3.2724609375
+    ],
+    "hi": [
+      5.24072265625,
+      9.64404296875,
+      3.2724609375
+    ],
+    "triangles": 798,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_05",
+    "lo": [
+      -6.39453125,
+      -10.3466796875,
+      -3.37890625
+    ],
+    "hi": [
+      6.39453125,
+      10.3466796875,
+      3.37890625
+    ],
+    "triangles": 640,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "weedylong_1"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_06",
+    "lo": [
+      -10.875,
+      -3.73876953125,
+      -3.49609375
+    ],
+    "hi": [
+      10.875,
+      3.73876953125,
+      3.49609375
+    ],
+    "triangles": 576,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_07",
+    "lo": [
+      -10.35595703125,
+      -7.35009765625,
+      -3.6787109375
+    ],
+    "hi": [
+      10.35595703125,
+      7.35009765625,
+      3.6787109375
+    ],
+    "triangles": 628,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot3b_hdg_08",
+    "lo": [
+      -5.66455078125,
+      -8.6845703125,
+      -2.42529296875
+    ],
+    "hi": [
+      5.66455078125,
+      8.6845703125,
+      2.42529296875
+    ],
+    "triangles": 740,
+    "textures": [
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_d",
+    "lo": [
+      -13.07177734375,
+      -14.603515625,
+      -3.486328125
+    ],
+    "hi": [
+      13.07177734375,
+      14.603515625,
+      3.486328125
+    ],
+    "triangles": 2146,
+    "textures": [
+      "BH1_45_REB_Tpage_Pieces",
+      "IM_Ground_Dirt005IM_Ground_Dirt005_a",
+      "RSN_AM_Tennis_net"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_d2_1",
+    "lo": [
+      -20.4052734375,
+      -16.75244140625,
+      -8.2626953125
+    ],
+    "hi": [
+      20.4052734375,
+      16.75244140625,
+      8.2626953125
+    ],
+    "triangles": 6318,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Pieces",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_WoodWallGreen",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_d2_2",
+    "lo": [
+      -16.84033203125,
+      -8.951171875,
+      -8.5927734375
+    ],
+    "hi": [
+      16.83984375,
+      8.951171875,
+      8.5927734375
+    ],
+    "triangles": 6537,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_WoodWallGreen",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_d2_3",
+    "lo": [
+      -13.1884765625,
+      -17.7216796875,
+      -5.5205078125
+    ],
+    "hi": [
+      13.1884765625,
+      17.7216796875,
+      5.5205078125
+    ],
+    "triangles": 5647,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_WoodWallGreen",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A",
+      "RSN_AM_Road_Stain_Overlay_DRSN_AM_Road_Stain_Overlay_A",
+      "WeedLeavesa_1WeedLeavesa_1a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_d_4",
+    "lo": [
+      -30.39111328125,
+      -20.98974609375,
+      -2.85791015625
+    ],
+    "hi": [
+      30.39111328125,
+      20.98974609375,
+      2.85791015625
+    ],
+    "triangles": 4894,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "BH1_48_RSN_AM_MichaelsHouse_Gate",
+      "BH1_48_RSN_AM_MichaelsHouse_GateBH1_48_RSN_AM_MichaelsHouse_Gate_A",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Ground_Park_Edging",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "RSN_AM_Road_Stain_Overlay_DRSN_AM_Road_Stain_Overlay_A",
+      "WeedLeavesa_1WeedLeavesa_1a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_d_5",
+    "lo": [
+      -40.3720703125,
+      -30.94970703125,
+      -4.2841796875
+    ],
+    "hi": [
+      40.3720703125,
+      30.94970703125,
+      4.2841796875
+    ],
+    "triangles": 5904,
+    "textures": [
+      "BH1_45_REB_TPage_AlphaBH1_45_REB_TPage_Alpha_A",
+      "BH1_45_REB_Tpage_Decal",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Ground_Park_Edging",
+      "RSN_AM_Hedge_03RSN_AM_Hedge_03_A",
+      "WeedLeavesa_1WeedLeavesa_1a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_fg01",
+    "lo": [
+      -14.7119140625,
+      -11.94970703125,
+      -0.33056640625
+    ],
+    "hi": [
+      14.7119140625,
+      11.94970703125,
+      0.33056640625
+    ],
+    "triangles": 151,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_fg02",
+    "lo": [
+      -16.17578125,
+      -8.39697265625,
+      -0.67578125
+    ],
+    "hi": [
+      16.17578125,
+      8.39697265625,
+      0.67578125
+    ],
+    "triangles": 241,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_fg03",
+    "lo": [
+      -30.19677734375,
+      -8.9150390625,
+      -1.10986328125
+    ],
+    "hi": [
+      30.19921875,
+      8.9208984375,
+      1.12939453125
+    ],
+    "triangles": 135,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4a_ter_dcs",
+    "lo": [
+      -39.3505859375,
+      -33.66015625,
+      -3.0751953125
+    ],
+    "hi": [
+      39.41796875,
+      27.29296875,
+      16.537109375
+    ],
+    "triangles": 35101,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_Tpage_Windows",
+      "BH1_45_REB__SmallBlock",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "BH1_48_RSN_AM_MichaelsHouse_wall_bits",
+      "DC_Sidewalk004",
+      "OS_MLHXD_wall_0007",
+      "OS_ML_HHsptile_0002",
+      "RSN_AM_Hedge_02",
+      "RSN_AM_Hedge_03",
+      "RSN_AM_IM_WoodChips01",
+      "RSN_AM_Wall_Concrete_0005_D",
+      "RSN_NS_TeracottaTile_0001",
+      "bh1_45_reb_tpage_decalbh1_45_reb_tpage_decal_a",
+      "bh1_45_reb_woodwallgreen",
+      "bh1_45_rooftilered",
+      "im_floortiles02",
+      "prop_fnclink_02_dark",
+      "rsn_am_bricktile_02",
+      "rsn_am_ceramic_tile_01",
+      "rsn_am_im_ground_bricks03",
+      "rsn_am_tennis_court"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4b_d",
+    "lo": [
+      -12.60986328125,
+      -18.63623046875,
+      -5.65234375
+    ],
+    "hi": [
+      12.6103515625,
+      18.63623046875,
+      5.65234375
+    ],
+    "triangles": 2858,
+    "textures": [
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "BH1_45_REB_Tpage_Pieces",
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_48_RSN_AM_MichaelsHouse_Bits",
+      "IM_Litter01IM_Litter01_a",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Road_Stain_Overlay_DRSN_AM_Road_Stain_Overlay_A"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4b_d_1",
+    "lo": [
+      -23.9921875,
+      -28.310546875,
+      -5.0478515625
+    ],
+    "hi": [
+      23.9921875,
+      28.310546875,
+      5.052734375
+    ],
+    "triangles": 3075,
+    "textures": [
+      "BH1_45_REB_Tpage_Decal",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002",
+      "RSN_AM_Ground_Ovly_001RSN_AM_Ground_Ovly_001_A",
+      "RSN_AM_Hedge_02RSN_AM_Hedge_02_A",
+      "WeedLeavesa_1WeedLeavesa_2a"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4b_d_2",
+    "lo": [
+      -12.046875,
+      -13.7919921875,
+      -5.17236328125
+    ],
+    "hi": [
+      12.046875,
+      13.7919921875,
+      5.17236328125
+    ],
+    "triangles": 2690,
+    "textures": [
+      "BH1_45_REB_Tpage_DecalBH1_45_REB_Tpage_Decal_A",
+      "BH1_45_REB_Tpage_Pieces",
+      "BH1_45_REB_Tpage_Strip",
+      "IM_WallOverlay01",
+      "OS_RNBJ_BVwalloverlay_0002"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4b_fg01",
+    "lo": [
+      -4.53466796875,
+      -6.10498046875,
+      0.009765625
+    ],
+    "hi": [
+      4.5341796875,
+      6.10498046875,
+      0.01025390625
+    ],
+    "triangles": 36,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4b_fg02",
+    "lo": [
+      -12.5888671875,
+      -5.251953125,
+      -0.49755859375
+    ],
+    "hi": [
+      12.58837890625,
+      5.25048828125,
+      0.51708984375
+    ],
+    "triangles": 82,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4b_fg03",
+    "lo": [
+      -6.8525390625,
+      -10.2275390625,
+      -0.20556640625
+    ],
+    "hi": [
+      6.8525390625,
+      10.2275390625,
+      0.2255859375
+    ],
+    "triangles": 15,
+    "textures": [
+      "im_grass11b_Fur"
+    ]
+  },
+  {
+    "name": "bh1_45_plot4b_ter",
+    "lo": [
+      -26.28271484375,
+      -28.3466796875,
+      -6.71435546875
+    ],
+    "hi": [
+      29.1416015625,
+      29.11083984375,
+      6.71435546875
+    ],
+    "triangles": 10010,
+    "textures": [
+      "BH1_45_REB_Tpage_Strip",
+      "BH1_45_REB_Tpage_Windows",
+      "IM_Roof04",
+      "OS_ML_HHsptile_0002",
+      "RSN_AM_Hedge_02",
+      "RSN_AM_IM_WoodChips01",
+      "RSN_AM_Wall_Concrete_Painted_White",
+      "SC1_RSN_NS_ground_0010",
+      "dh_ch02_wood04",
+      "im_ground_stones02",
+      "im_ground_stones02_hi",
+      "im_wall23",
+      "rsn_am_im_ground_bricks03",
+      "rsn_dc_tiles_0002",
+      "sm1_12_rnim_pooltiles02"
+    ]
+  },
+  {
+    "name": "bh1_45_plot_4_water",
+    "lo": [
+      -15.373046875,
+      -44.18701171875,
+      -7.80419921875
+    ],
+    "hi": [
+      15.373046875,
+      44.92578125,
+      7.80419921875
+    ],
+    "triangles": 14,
+    "textures": []
+  }
+]

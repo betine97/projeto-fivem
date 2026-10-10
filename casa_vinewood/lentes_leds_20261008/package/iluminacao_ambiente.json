@@ -1,0 +1,3266 @@
+{
+  "version": 5,
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "lighting_style": "ceiling_with_requested_stair_tv_leds",
+  "native_always_on": true,
+  "native_count": 120,
+  "native_ceiling_count": 88,
+  "native_pendant_count": 9,
+  "native_bounce_count": 0,
+  "max_lights": 0,
+  "lights": [],
+  "floor_radius_m": {
+    "spot_and_cylinder": 1.1,
+    "linear": 0.8
+  },
+  "native_lights": [
+    {
+      "id": "cylinder_1",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65391,
+        -9.39921,
+        1.77623
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 4.601864337921143,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 16.19048309326172,
+      "outer_angle": 23.121538162231445,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.576229977607727,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_2",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6519,
+        -8.87573,
+        2.21882
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 5.219478130340576,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.91640853881836,
+      "outer_angle": 20.020767211914062,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0188200950622557,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_3",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64823,
+        -8.37012,
+        1.46593
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 4.178225517272949,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 18.2684326171875,
+      "outer_angle": 25.89434242248535,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.2659299850463865,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_4",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65108,
+        -7.83108,
+        2.14434
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 5.114664554595947,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.254257202148438,
+      "outer_angle": 20.485595703125,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.9443400382995604,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_5",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64681,
+        -7.50033,
+        1.89824
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 4.770769119262695,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 15.494318008422852,
+      "outer_angle": 22.17940330505371,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.698239970207214,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "cylinder_6",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65057,
+        -7.19507,
+        2.1542
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 5.128521919250488,
+      "intensity": 8.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.208611488342285,
+      "outer_angle": 20.422876358032227,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 2.9542000770568846,
+      "brightness_multiplier_from_previous": 4.444444444444445
+    },
+    {
+      "id": "linear_1",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.75,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 3.7918663024902344,
+      "intensity": 7.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.424402236938477,
+      "outer_angle": 20.719152450561523,
+      "shadow": false,
+      "floor_radius_m": 0.8,
+      "beam_height_m": 2.115000057220459,
+      "brightness_multiplier_from_previous": 5.185185185185185
+    },
+    {
+      "id": "linear_2",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.0,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 3.7918663024902344,
+      "intensity": 7.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.424402236938477,
+      "outer_angle": 20.719152450561523,
+      "shadow": true,
+      "floor_radius_m": 0.8,
+      "beam_height_m": 2.115000057220459,
+      "brightness_multiplier_from_previous": 5.185185185185185
+    },
+    {
+      "id": "linear_3",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -8.25,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 3.7918663024902344,
+      "intensity": 7.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 14.424402236938477,
+      "outer_angle": 20.719152450561523,
+      "shadow": false,
+      "floor_radius_m": 0.8,
+      "beam_height_m": 2.115000057220459,
+      "brightness_multiplier_from_previous": 5.185185185185185
+    },
+    {
+      "id": "spot_1",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 11.288246154785156,
+      "intensity": 15.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 5.951635837554932,
+      "outer_angle": 8.716156959533691,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 7.175,
+      "brightness_multiplier_from_previous": 5.357142857142858
+    },
+    {
+      "id": "spot_2",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -8.09998,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 11.288246154785156,
+      "intensity": 15.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 5.951635837554932,
+      "outer_angle": 8.716156959533691,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 7.175,
+      "brightness_multiplier_from_previous": 5.357142857142858
+    },
+    {
+      "id": "spot_3",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 11.288246154785156,
+      "intensity": 15.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 5.951635837554932,
+      "outer_angle": 8.716156959533691,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 7.175,
+      "brightness_multiplier_from_previous": 5.357142857142858
+    },
+    {
+      "id": "spot_4",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_5",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_6",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_7",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_8",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        8.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_9",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 11.288246154785156,
+      "intensity": 15.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 5.951635837554932,
+      "outer_angle": 8.716156959533691,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 7.175,
+      "brightness_multiplier_from_previous": 5.357142857142858
+    },
+    {
+      "id": "spot_10",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_11",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_12",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_13",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_14",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        8.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_15",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 11.288246154785156,
+      "intensity": 15.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 5.951635837554932,
+      "outer_angle": 8.716156959533691,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 7.175,
+      "brightness_multiplier_from_previous": 5.357142857142858
+    },
+    {
+      "id": "spot_16",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_17",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_18",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_19",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_20",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        8.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_21",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 11.288246154785156,
+      "intensity": 15.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 5.951635837554932,
+      "outer_angle": 8.716156959533691,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 7.175,
+      "brightness_multiplier_from_previous": 5.357142857142858
+    },
+    {
+      "id": "spot_22",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_23",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_24",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 11.288246154785156,
+      "intensity": 15.0,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 5.951635837554932,
+      "outer_angle": 8.716156959533691,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 7.175,
+      "brightness_multiplier_from_previous": 5.357142857142858
+    },
+    {
+      "id": "spot_25",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_26",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_27",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_28",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_29",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -11.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_30",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -8.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_31",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -5.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_32",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_33",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_34",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_35",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_36",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -11.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_37",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -5.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_38",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_39",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_40",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -11.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_41",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -8.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_42",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -5.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_43",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_44",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_45",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_46",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.3100409507751465,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 13.637632369995117,
+      "outer_angle": 19.63616180419922,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.0829999923706053,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_47",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_48",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_49",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_50",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_51",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        8.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_52",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_53",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_54",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        8.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_55",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_56",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_57",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_58",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_59",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        8.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_60",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_61",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_62",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_63",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_64",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_65",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_66",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -14.40002,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_67",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_68",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -8.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_69",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_70",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_71",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_72",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_73",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_74",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -14.40002,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_75",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_76",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_77",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_78",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_79",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_80",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_81",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -14.40002,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_82",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_83",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -8.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_84",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_85",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_86",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_87",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    },
+    {
+      "id": "spot_88",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.999138355255127,
+      "intensity": 8.5,
+      "falloff_exponent": 1.0,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 11.843317031860352,
+      "outer_angle": 17.13884162902832,
+      "shadow": false,
+      "floor_radius_m": 1.1,
+      "beam_height_m": 3.567,
+      "brightness_multiplier_from_previous": 5.0
+    }
+  ],
+  "description": "Strong narrow white ceiling cones; yellow pendants; only the requested yellow stair and top TV LEDs restored. No room fill, volume lighting, weather or global filter changes.",
+  "native_stair_count": 20,
+  "native_tv_led_count": 3,
+  "ceiling_lens_diffuser_lods": [
+    {
+      "lod": "HIGH",
+      "radius_m": 0.05,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 5.0
+    },
+    {
+      "lod": "MED",
+      "radius_m": 0.052,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 12.0
+    },
+    {
+      "lod": "LOW",
+      "radius_m": 0.055,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 30.0
+    },
+    {
+      "lod": "VLOW",
+      "radius_m": 0.055,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 70.0
+    }
+  ],
+  "decorative_native_lights": [
+    {
+      "id": "stair_1",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000000715255737,
+        1.78000004196167,
+        2.7500000953674317
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.0959999561309814
+    },
+    {
+      "id": "stair_2",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        1.7199993619918823,
+        -0.6776000499725342
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_3",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.019999433517456,
+        -0.4971999764442444
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_4",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.319998670578003,
+        -0.3167999923229218
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_5",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.6199998149871826,
+        -0.1364000156521797
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_6",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.9199990520477295,
+        0.0439999982714653
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_7",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.220000196456909,
+        0.22439996004104615
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_8",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.519999433517456,
+        0.40479997396469114
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_9",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.819998670578003,
+        0.5851999282836914
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_10",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        4.120000053405762,
+        0.7655999422073364
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.096000075340271
+    },
+    {
+      "id": "stair_11",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.480000328063965,
+        1.1263999700546266
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_12",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.179998706817627,
+        1.3068001031875611
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_13",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.879999708175659,
+        1.4871999979019166
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_14",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.5800004711151123,
+        1.6676001310348512
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_15",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.2799993267059326,
+        1.8480000257492066
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_16",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.9800000896453858,
+        2.0284000396728517
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_17",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.679998945236206,
+        2.208799934387207
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_18",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.379999708175659,
+        2.3892000675201417
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_19",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.079999517440796,
+        2.569599962234497
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 1.095999836921692
+    },
+    {
+      "id": "stair_20",
+      "kind": "stair_yellow",
+      "position": [
+        1.100000023841858,
+        4.419999767303467,
+        0.9459998965263366
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.72,
+      "intensity": 0.9,
+      "length_m": 2.496000051498413
+    },
+    {
+      "id": "tv_top_1",
+      "kind": "tv_top_yellow",
+      "position": [
+        -8.8,
+        -9.59,
+        1.464
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.78,
+      "intensity": 0.8
+    },
+    {
+      "id": "tv_top_2",
+      "kind": "tv_top_yellow",
+      "position": [
+        -8.8,
+        -8.7735,
+        1.464
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.78,
+      "intensity": 0.8
+    },
+    {
+      "id": "tv_top_3",
+      "kind": "tv_top_yellow",
+      "position": [
+        -8.8,
+        -7.957,
+        1.464
+      ],
+      "rgb": [
+        255,
+        180,
+        55
+      ],
+      "range": 0.78,
+      "intensity": 0.8
+    }
+  ]
+}

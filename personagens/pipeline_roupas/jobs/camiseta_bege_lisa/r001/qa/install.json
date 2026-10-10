@@ -1,0 +1,14 @@
+{
+  "resource": "cidade_camiseta_bege_lisa",
+  "installed": true,
+  "files_verified": {
+    "client.lua": "e60ec07afb09b03014a1d621d46d866c969f5ba49518f9abeecf6b9170eaddb5",
+    "data\\shop.meta": "a710eca2c69a073ab804647b6fd209ada2a097e44adc7ece094f35abd4324856",
+    "fxmanifest.lua": "bc0b129dcb945114f6c5d64441c4e0e382cd410fb5698c09f265ab30f09f2bfa",
+    "stream\\mp_m_freemode_01_cidade_camiseta_bege_lisa_r001.ymt": "163938123051c1509d3689c0070b42c15a62d39d309a064bfaa48ef68470ebc2",
+    "stream\\mp_m_freemode_01_cidade_camiseta_bege_lisa_r001^jbib_000_u.ydd": "a6d8133d6a144cba173335221607534a12007cad6e37be56595ccf10752a5506",
+    "stream\\mp_m_freemode_01_cidade_camiseta_bege_lisa_r001^jbib_diff_000_a_uni.ytd": "81dc52cc1af18df904e2992c37ac5992b0322a2a4fa07e100caabe502fd08451"
+  },
+  "server_reload_required": true,
+  "in_game_verified": false
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mp2023_02\\dlc.rpf",
+    "nested": "x64/models/cdimages/mp2023_02_male.rpf",
+    "dir": "mp_m_freemode_01_mp_m_2023_02",
+    "file": "feet_002_r.ydd"
+  },
+  {
+    "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mp2023_02\\dlc.rpf",
+    "nested": "x64/models/cdimages/mp2023_02_male.rpf",
+    "dir": "mp_m_freemode_01_mp_m_2023_02",
+    "file": "feet_005_r.ydd"
+  },
+  {
+    "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mpapartment\\dlc.rpf",
+    "nested": "x64/models/cdimages/mpapt01.rpf",
+    "dir": "mp_m_freemode_01_male_apt01",
+    "file": "feet_001_r.ydd"
+  },
+  {
+    "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mpsum2\\dlc.rpf",
+    "nested": "x64/models/cdimages/mpsum2_male.rpf",
+    "dir": "mp_m_freemode_01_mp_m_sum2",
+    "file": "feet_003_r.ydd"
+  },
+  {
+    "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mpsum2\\dlc.rpf",
+    "nested": "x64/models/cdimages/mpsum2_male.rpf",
+    "dir": "mp_m_freemode_01_mp_m_sum2",
+    "file": "feet_005_r.ydd"
+  },
+  {
+    "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\mpsum2\\dlc.rpf",
+    "nested": "x64/models/cdimages/mpsum2_male.rpf",
+    "dir": "mp_m_freemode_01_mp_m_sum2",
+    "file": "feet_006_r.ydd"
+  },
+  {
+    "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\update\\x64\\dlcpacks\\patchday9ng\\dlc.rpf",
+    "nested": "x64/models/cdimages/patchday9ng_male.rpf",
+    "dir": "mp_m_freemode_01_male_apt01",
+    "file": "feet_001_r.ydd"
+  }
+]

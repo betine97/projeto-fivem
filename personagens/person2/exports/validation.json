@@ -1,0 +1,29 @@
+{
+  "source": "C:\\Users\\erons\\Downloads\\Meshy_AI_hazmat_worker_lowpoly_1005172433_texture.glb",
+  "sha256": "b5e90c84ea6dc4db723e068b891ea310b73d6eab867198aa9590826f5495ea32",
+  "used_blender": false,
+  "vertices": 13675,
+  "triangles": 10398,
+  "geometry_preserved": true,
+  "uv_preserved_with_native_v_conversion": true,
+  "original_diffuse_png_preserved_exactly": true,
+  "gpu_texture_format": "BC1",
+  "color_compression_rmse_0_255": 3.469176769256592,
+  "color_compression_psnr_db": 37.32627501767937,
+  "diffuse_size": [
+    4096,
+    4096
+  ],
+  "bones": 98,
+  "max_influences": 4,
+  "unweighted_vertices": 0,
+  "full_original_mesh_at_all_lods": true,
+  "command": "person2",
+  "files": {
+    "person2.ydd": 2024972,
+    "person2.yft": 12586,
+    "person2.ymt": 1335,
+    "person2.ytd": 4270079,
+    "person2_peds.meta": 4642
+  }
+}

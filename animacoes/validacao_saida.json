@@ -1,0 +1,13 @@
+{
+  "frames_checked": 91,
+  "duration_seconds": 1.5,
+  "kneel_hold_frames": [
+    49,
+    61
+  ],
+  "start_matches_prone": true,
+  "continuous_pelvis_height": true,
+  "game_tested": false,
+  "source_duration_seconds": 3,
+  "game_clip_rate": 2
+}

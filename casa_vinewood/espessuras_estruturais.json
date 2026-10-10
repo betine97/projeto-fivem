@@ -1,0 +1,3397 @@
+{
+  "revision": "espessuras-solidas-2026-10-07",
+  "interior_wall_thickness_m": 0.2,
+  "exterior_wall_thickness_m": 0.25,
+  "ground_floor_thickness_m": 0.3,
+  "upper_floor_thickness_m": 0.45,
+  "roof_slab_thickness_m": 0.2,
+  "solids": [
+    {
+      "name": "Fechamento borda mezanino",
+      "group": "outer",
+      "lo": [
+        -9.255000114440918,
+        -3.950000047683716,
+        2.372999906539917
+      ],
+      "hi": [
+        6.489999771118164,
+        -3.75,
+        2.822999954223633
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 1.4170504777074129,
+      "volume_after_m3": 1.4170504777074129,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Fechamento borda quarto sobre sala",
+      "group": "outer",
+      "lo": [
+        6.300000190734863,
+        -13.28499984741211,
+        2.372999906539917
+      ],
+      "hi": [
+        6.5,
+        -3.75,
+        2.822999954223633
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.8581492588042448,
+      "volume_after_m3": 0.8581492588042448,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 00 0",
+      "group": "outer",
+      "lo": [
+        -9.305999755859375,
+        -12.03499984741211,
+        -0.8149999976158142
+      ],
+      "hi": [
+        -9.055999755859375,
+        9.85200023651123,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 5.948935262502573,
+      "volume_after_m3": 16.69773807437099,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 01 0",
+      "group": "outer",
+      "lo": [
+        -9.305999755859375,
+        9.60200023651123,
+        -0.8149999976158142
+      ],
+      "hi": [
+        -1.0880000591278076,
+        9.85200023651123,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 2.3167911330923134,
+      "volume_after_m3": 6.518928336825603,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 02 0",
+      "group": "outer",
+      "lo": [
+        -1.3380000591278076,
+        5.791999816894531,
+        -0.8149999976158142
+      ],
+      "hi": [
+        -1.0880000591278076,
+        9.85200023651123,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -0.861169301577014,
+      "volume_after_m3": 2.3703578439819855,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 03 0",
+      "group": "outer",
+      "lo": [
+        -1.3380000591278076,
+        5.791999816894531,
+        -0.8149999976158142
+      ],
+      "hi": [
+        1.100000023841858,
+        6.041999816894531,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -2.0619386163821245,
+      "volume_after_m3": 1.9339435887756338,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 04 0",
+      "group": "outer",
+      "lo": [
+        0.8500000238418579,
+        5.644000053405762,
+        -0.8149999976158142
+      ],
+      "hi": [
+        1.100000023841858,
+        6.041999816894531,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 0.3366083075144246,
+      "volume_after_m3": 0.3157133161356417,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 05 0",
+      "group": "outer",
+      "lo": [
+        0.8500000238418579,
+        5.644000053405762,
+        -0.8149999976158142
+      ],
+      "hi": [
+        3.7990000247955322,
+        5.894000053405762,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -2.494116806702735,
+      "volume_after_m3": 2.3392942785288096,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 06 0",
+      "group": "outer",
+      "lo": [
+        3.5490000247955322,
+        5.644000053405762,
+        -0.8149999976158142
+      ],
+      "hi": [
+        3.7990000247955322,
+        7.574999809265137,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -1.6331430801187687,
+      "volume_after_m3": 1.5317655745207066,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 07 0",
+      "group": "outer",
+      "lo": [
+        3.5490000247955322,
+        7.324999809265137,
+        -0.8149999976158142
+      ],
+      "hi": [
+        13.4350004196167,
+        7.574999809265137,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.7074307586885022,
+      "volume_after_m3": 4.809210194276549,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 08 0",
+      "group": "outer",
+      "lo": [
+        13.1850004196167,
+        6.125999927520752,
+        -0.8149999976158142
+      ],
+      "hi": [
+        13.4350004196167,
+        7.574999809265137,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.225491677450063,
+      "volume_after_m3": 1.1494191698397422,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 09 0",
+      "group": "outer",
+      "lo": [
+        13.1850004196167,
+        6.125999927520752,
+        -0.8149999976158142
+      ],
+      "hi": [
+        14.435999870300293,
+        6.375999927520752,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 0.3526776030424834,
+      "volume_after_m3": 0.9923553260361282,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 10 0",
+      "group": "outer",
+      "lo": [
+        14.185999870300293,
+        -14.491000175476074,
+        -0.8149999976158142
+      ],
+      "hi": [
+        14.435999870300293,
+        6.375999927520752,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -5.6613802614352,
+      "volume_after_m3": 15.888623079895126,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 11 0",
+      "group": "outer",
+      "lo": [
+        6.218999862670898,
+        -14.491000175476074,
+        -0.8149999976158142
+      ],
+      "hi": [
+        14.435999870300293,
+        -14.241000175476074,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 6.949527912199836,
+      "volume_after_m3": 6.518135333435879,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 12 0",
+      "group": "outer",
+      "lo": [
+        6.218999862670898,
+        -14.491000175476074,
+        -0.8149999976158142
+      ],
+      "hi": [
+        6.468999862670898,
+        -11.451000213623047,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 0.5690058370673725,
+      "volume_after_m3": 1.5474174842131032,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 13 0",
+      "group": "outer",
+      "lo": [
+        4.686999797821045,
+        -11.701000213623047,
+        -0.8149999976158142
+      ],
+      "hi": [
+        6.468999862670898,
+        -11.451000213623047,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.5071265886232819,
+      "volume_after_m3": 1.4135715682241958,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 14 0",
+      "group": "outer",
+      "lo": [
+        4.686999797821045,
+        -11.701000213623047,
+        -0.8149999976158142
+      ],
+      "hi": [
+        4.936999797821045,
+        -11.303000450134277,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -0.33660830751442017,
+      "volume_after_m3": 0.3157133161356457,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 15 0",
+      "group": "outer",
+      "lo": [
+        1.3309999704360962,
+        -11.553000450134277,
+        -0.8149999976158142
+      ],
+      "hi": [
+        4.936999797821045,
+        -11.303000450134277,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 3.0497744223599237,
+      "volume_after_m3": 2.8604593970327272,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 16 0",
+      "group": "outer",
+      "lo": [
+        1.3309999704360962,
+        -13.234000205993652,
+        -0.8149999976158142
+      ],
+      "hi": [
+        1.5809999704360962,
+        -11.303000450134277,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.63314308011877,
+      "volume_after_m3": 1.5317655745207004,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 17 0",
+      "group": "outer",
+      "lo": [
+        -4.876929759979248,
+        -13.234000205993652,
+        -0.8149999976158142
+      ],
+      "hi": [
+        1.5809999704360962,
+        -12.984000205993652,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -1.4592722867481782,
+      "volume_after_m3": 4.1074285688906835,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 17 1",
+      "group": "outer",
+      "lo": [
+        -8.305000305175781,
+        -13.234000205993652,
+        -0.8149999976158142
+      ],
+      "hi": [
+        -6.184593677520752,
+        -12.984000205993652,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -0.23689334912863497,
+      "volume_after_m3": 0.6679861192640801,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 18 0",
+      "group": "outer",
+      "lo": [
+        -8.305000305175781,
+        -13.234000205993652,
+        -0.8149999976158142
+      ],
+      "hi": [
+        -8.055000305175781,
+        -11.78499984741211,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -1.2254920807350886,
+      "volume_after_m3": 1.1494195480908163,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo terreo 19 0",
+      "group": "outer",
+      "lo": [
+        -9.305999755859375,
+        -12.03499984741211,
+        -0.8149999976158142
+      ],
+      "hi": [
+        -8.055000305175781,
+        -11.78499984741211,
+        2.3580000400543213
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.0580328091274467,
+      "volume_after_m3": 0.992355326036094,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 00 0",
+      "group": "outer",
+      "lo": [
+        -9.305999755859375,
+        -12.03499984741211,
+        2.3580000400543213
+      ],
+      "hi": [
+        -9.055999755859375,
+        9.76200008392334,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 6.815067328127333,
+      "volume_after_m3": 20.44520198438207,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 01 0",
+      "group": "outer",
+      "lo": [
+        -9.305999755859375,
+        9.51200008392334,
+        2.3580000400543213
+      ],
+      "hi": [
+        -1.0880000591278076,
+        9.76200008392334,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.9852494817201862,
+      "volume_after_m3": 5.955748445160568,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 02 0",
+      "group": "outer",
+      "lo": [
+        -1.3380000591278076,
+        5.791999816894531,
+        2.3580000400543213
+      ],
+      "hi": [
+        -1.0880000591278076,
+        9.76200008392334,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -1.373620154862408,
+      "volume_after_m3": 4.120860464587224,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 03 0",
+      "group": "outer",
+      "lo": [
+        -1.3380000591278076,
+        5.791999816894531,
+        2.3580000400543213
+      ],
+      "hi": [
+        1.100000023841858,
+        6.041999816894531,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -2.530644201212887,
+      "volume_after_m3": 2.530644201212887,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 04 0",
+      "group": "outer",
+      "lo": [
+        0.8500000238418579,
+        5.644000053405762,
+        2.3580000400543213
+      ],
+      "hi": [
+        1.100000023841858,
+        6.041999816894531,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 0.4131237732896693,
+      "volume_after_m3": 0.4131237732896693,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 05 0",
+      "group": "outer",
+      "lo": [
+        0.8500000238418579,
+        5.644000053405762,
+        2.3580000400543213
+      ],
+      "hi": [
+        3.7990000247955322,
+        5.894000053405762,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -3.0610621402030045,
+      "volume_after_m3": 3.0610621402030045,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 06 0",
+      "group": "outer",
+      "lo": [
+        3.5490000247955322,
+        5.644000053405762,
+        2.3580000400543213
+      ],
+      "hi": [
+        3.7990000247955322,
+        7.574999809265137,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -2.0043778377385024,
+      "volume_after_m3": 2.0043778377385024,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 07 0",
+      "group": "outer",
+      "lo": [
+        3.5490000247955322,
+        7.324999809265137,
+        2.3580000400543213
+      ],
+      "hi": [
+        13.4350004196167,
+        7.574999809265137,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 2.259681395001988,
+      "volume_after_m3": 6.779044185006079,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 08 0",
+      "group": "outer",
+      "lo": [
+        13.1850004196167,
+        6.125999927520752,
+        2.3580000400543213
+      ],
+      "hi": [
+        13.4350004196167,
+        7.574999809265137,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.5040619456534534,
+      "volume_after_m3": 1.5040619456534534,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 09 0",
+      "group": "outer",
+      "lo": [
+        13.1850004196167,
+        6.125999927520752,
+        2.3580000400543213
+      ],
+      "hi": [
+        14.435999870300293,
+        6.375999927520752,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 0.4328458296217921,
+      "volume_after_m3": 1.2985374888653407,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 10 0",
+      "group": "outer",
+      "lo": [
+        14.185999870300293,
+        -16.01300048828125,
+        2.3580000400543213
+      ],
+      "hi": [
+        14.435999870300293,
+        6.375999927520752,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -7.019956568094455,
+      "volume_after_m3": 21.059869704283255,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 11 0",
+      "group": "outer",
+      "lo": [
+        6.218999862670898,
+        -16.01300048828125,
+        2.3580000400543213
+      ],
+      "hi": [
+        14.435999870300293,
+        -15.762999534606934,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -1.4301312546967124,
+      "volume_after_m3": 4.290393764089979,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 12 0",
+      "group": "outer",
+      "lo": [
+        6.218999862670898,
+        -16.01300048828125,
+        2.3580000400543213
+      ],
+      "hi": [
+        6.468999862670898,
+        -11.451000213623047,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.5784521668176623,
+      "volume_after_m3": 4.735356500453015,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 13 0",
+      "group": "outer",
+      "lo": [
+        4.686999797821045,
+        -11.701000213623047,
+        2.3580000400543213
+      ],
+      "hi": [
+        6.468999862670898,
+        -11.451000213623047,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.849716151436807,
+      "volume_after_m3": 1.849716151436807,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 14 0",
+      "group": "outer",
+      "lo": [
+        4.686999797821045,
+        -11.701000213623047,
+        2.3580000400543213
+      ],
+      "hi": [
+        4.936999797821045,
+        -11.303000450134277,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -0.4131237732896702,
+      "volume_after_m3": 0.4131237732896702,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 15 0",
+      "group": "outer",
+      "lo": [
+        1.3309999704360962,
+        -11.553000450134277,
+        2.3580000400543213
+      ],
+      "hi": [
+        4.936999797821045,
+        -11.303000450134277,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 3.743027991053571,
+      "volume_after_m3": 3.743027991053571,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 16 0",
+      "group": "outer",
+      "lo": [
+        1.3309999704360962,
+        -13.234000205993652,
+        2.3580000400543213
+      ],
+      "hi": [
+        1.5809999704360962,
+        -11.303000450134277,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 2.004377837738504,
+      "volume_after_m3": 2.004377837738504,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 17 0",
+      "group": "outer",
+      "lo": [
+        -8.305000305175781,
+        -13.234000205993652,
+        2.3580000400543213
+      ],
+      "hi": [
+        1.5809999704360962,
+        -12.984000205993652,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -2.259818583760851,
+      "volume_after_m3": 6.779455751282565,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 18 0",
+      "group": "outer",
+      "lo": [
+        -8.305000305175781,
+        -13.234000205993652,
+        2.3580000400543213
+      ],
+      "hi": [
+        -8.055000305175781,
+        -11.78499984741211,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": -1.5040624406104044,
+      "volume_after_m3": 1.5040624406104044,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Revestimento continuo superior 19 0",
+      "group": "outer",
+      "lo": [
+        -9.305999755859375,
+        -12.03499984741211,
+        2.3580000400543213
+      ],
+      "hi": [
+        -8.055000305175781,
+        -11.78499984741211,
+        6.510000228881836
+      ],
+      "thickness_m": 0.25,
+      "volume_before_m3": 1.2985374888653354,
+      "volume_after_m3": 1.2985374888653354,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Escritorio_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -9.255999565124512,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -6.625,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.5937283444209935,
+      "volume_after_m3": 1.781185033262993,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Escritorio_01_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -6.625000476837158,
+        2.249999523162842,
+        1.6999999284744263
+      ],
+      "hi": [
+        -5.575000286102295,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.06124996105828151,
+      "volume_after_m3": 0.18374988317484575,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Escritorio_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -5.575000286102295,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -3.4000000953674316,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.4908245822151027,
+      "volume_after_m3": 1.4724737466453082,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Lavabo_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -3.4000000953674316,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -2.5250000953674316,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.19745814794301708,
+      "volume_after_m3": 0.5923744438290512,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Lavabo_01_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -2.5250000953674316,
+        2.249999523162842,
+        1.6999999284744263
+      ],
+      "hi": [
+        -1.475000023841858,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.06124995410441225,
+      "volume_after_m3": 0.18374986231323664,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Lavabo_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -1.4750003814697266,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -0.6000003814697266,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.19745814794301708,
+      "volume_after_m3": 0.5923744438290517,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Escada_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -0.6000002026557922,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -0.2500001788139343,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.07898326455751459,
+      "volume_after_m3": 0.2369497936725431,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Escada_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        2.4000000953674316,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        2.5999999046325684,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.04513324791594353,
+      "volume_after_m3": 0.13539974374782726,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Despensa_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        2.6000001430511475,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        3.625000238418579,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.2313081376830497,
+      "volume_after_m3": 0.69392441304915,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Despensa_01_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        3.624999523162842,
+        2.249999523162842,
+        1.6999999284744263
+      ],
+      "hi": [
+        4.674999713897705,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.06124996105828173,
+      "volume_after_m3": 0.1837498831748462,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Despensa_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        4.675000190734863,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        5.699999809265137,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.23130803007689948,
+      "volume_after_m3": 0.6939240902306958,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Sala TV Jogos_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        5.699999809265137,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        7.574999809265137,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.4231246027350366,
+      "volume_after_m3": 1.2693738082051151,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Sala TV Jogos_01_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        7.5749993324279785,
+        2.249999523162842,
+        1.6999999284744263
+      ],
+      "hi": [
+        8.624999046325684,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.0612499332428037,
+      "volume_after_m3": 0.183749799728413,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Sala TV Jogos_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        8.624999046325684,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        10.499999046325684,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.4231246027350366,
+      "volume_after_m3": 1.2693738082051151,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Lavanderia_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        10.499999046325684,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        11.574999809265137,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.24259161107126337,
+      "volume_after_m3": 0.7277748332137866,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Lavanderia_01_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        11.574999809265137,
+        2.249999523162842,
+        1.6999999284744263
+      ],
+      "hi": [
+        12.624999046325684,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.061249905427325446,
+      "volume_after_m3": 0.18374971628197645,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall para Lavanderia_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        12.624999046325684,
+        2.249999523162842,
+        -0.8100000023841858
+      ],
+      "hi": [
+        14.38599967956543,
+        2.4499993324279785,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.39739876978971544,
+      "volume_after_m3": 1.192196309369149,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Divisoria apoio 5.4_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -3.5,
+        2.3499999046325684,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -3.3000001907348633,
+        9.756999969482422,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.6715114452789273,
+      "volume_after_m3": 5.0145343358367676,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Divisoria apoio 8.2_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -0.7000004053115845,
+        2.3499999046325684,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -0.5000003576278687,
+        5.947000026702881,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.8117232330833377,
+      "volume_after_m3": 2.4351696992500127,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Divisoria apoio 11.4_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        2.499999523162842,
+        2.3499999046325684,
+        -0.8100000023841858
+      ],
+      "hi": [
+        2.6999993324279785,
+        5.798999786376953,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.7783235758913492,
+      "volume_after_m3": 2.3349707276740475,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Divisoria apoio 14.5_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        5.599999904632568,
+        2.3499999046325684,
+        -0.8100000023841858
+      ],
+      "hi": [
+        5.799999713897705,
+        7.525000095367432,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.1678239465911693,
+      "volume_after_m3": 3.5034718397734657,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Divisoria apoio 19.3_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        10.399998664855957,
+        2.3499999046325684,
+        -0.8100000023841858
+      ],
+      "hi": [
+        10.59999942779541,
+        7.525000095367432,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.1678295152149933,
+      "volume_after_m3": 3.503488545644956,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall estar_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -9.255999565124512,
+        -0.9500004053115845,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -3.9000003337860107,
+        -0.7500003576278687,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.208670799252471,
+      "volume_after_m3": 3.626012397757412,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall estar_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -1.600000262260437,
+        -0.9500004053115845,
+        -0.8100000023841858
+      ],
+      "hi": [
+        -0.8000003099441528,
+        -0.7500003576278687,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.18053336828549493,
+      "volume_after_m3": 0.541600104856485,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall jantar_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        -0.8000001907348633,
+        -0.9500004053115845,
+        -0.8100000023841858
+      ],
+      "hi": [
+        0.19999980926513672,
+        -0.7500003576278687,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.2256667238076535,
+      "volume_after_m3": 0.6770001714229608,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall jantar_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        4.5,
+        -0.9500004053115845,
+        -0.8100000023841858
+      ],
+      "hi": [
+        6.399999618530273,
+        -0.7500003576278687,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.4287666891495183,
+      "volume_after_m3": 1.2863000674485545,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall cozinha_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        6.399999618530273,
+        -0.9500004053115845,
+        -0.8100000023841858
+      ],
+      "hi": [
+        7.399999618530273,
+        -0.7500003576278687,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.22566672380765374,
+      "volume_after_m3": 0.677000171422961,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Hall cozinha_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        9.399999618530273,
+        -0.9500004053115845,
+        -0.8100000023841858
+      ],
+      "hi": [
+        14.38599967956543,
+        -0.7500003576278687,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.1251742986785649,
+      "volume_after_m3": 3.3755228960356938,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Cozinha lateral_00_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        6.299999713897705,
+        -11.899999618530273,
+        -0.8100000023841858
+      ],
+      "hi": [
+        6.499999523162842,
+        -9.850000381469727,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.4611414967196481,
+      "volume_after_m3": 1.383424490158962,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Cozinha lateral_02_0 ajustada 0",
+      "group": "ground",
+      "lo": [
+        6.299999713897705,
+        -4.450000762939453,
+        -0.8100000023841858
+      ],
+      "hi": [
+        6.499999523162842,
+        -0.8500006198883057,
+        2.575000047683716
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.8123992695331173,
+      "volume_after_m3": 2.4371978085993455,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite closet banheiro_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -9.255999565124512,
+        1.0499995946884155,
+        2.7980000972747803
+      ],
+      "hi": [
+        -6.40000057220459,
+        1.2499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.7067647443450298,
+      "volume_after_m3": 2.120294233035092,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite closet banheiro_01_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -6.400000095367432,
+        1.0499995946884155,
+        5.307999610900879
+      ],
+      "hi": [
+        -5.349999904632568,
+        1.2499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.08414007860344852,
+      "volume_after_m3": 0.2524202358103467,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite closet banheiro_02_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -5.350000381469727,
+        1.0499995946884155,
+        2.7980000972747803
+      ],
+      "hi": [
+        -3.3000001907348633,
+        1.2499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.5073068528048363,
+      "volume_after_m3": 1.5219205584145117,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite closet banheiro_03_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -3.3000001907348633,
+        1.0499995946884155,
+        5.307999610900879
+      ],
+      "hi": [
+        -2.25,
+        1.2499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.08414007860344841,
+      "volume_after_m3": 0.2524202358103451,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite closet banheiro_04_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -2.25,
+        1.0499995946884155,
+        2.7980000972747803
+      ],
+      "hi": [
+        -0.8000000715255737,
+        1.2499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.3588267472394291,
+      "volume_after_m3": 1.0764802417182868,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Closet banheiro divisoria_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -4.900000095367432,
+        -3.8500003814697266,
+        2.7980000972747803
+      ],
+      "hi": [
+        -4.700000286102295,
+        1.1499996185302734,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.2373321971892877,
+      "volume_after_m3": 3.7119965915678663,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Banheiro suite acesso hall_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -0.9000002145767212,
+        -3.8500008583068848,
+        2.7980000972747803
+      ],
+      "hi": [
+        -0.7000001668930054,
+        -1.300000786781311,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.6310401905250648,
+      "volume_after_m3": 1.8931205715751946,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Banheiro suite acesso hall_01_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -0.9000002145767212,
+        -1.300000548362732,
+        5.307999610900879
+      ],
+      "hi": [
+        -0.7000001668930054,
+        -0.25000059604644775,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.08414005949815875,
+      "volume_after_m3": 0.25242017849447607,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Banheiro suite acesso hall_02_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -0.9000002145767212,
+        -0.2500001788139343,
+        2.7980000972747803
+      ],
+      "hi": [
+        -0.7000001668930054,
+        1.1499998569488525,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.3464534370676734,
+      "volume_after_m3": 1.0393603112030187,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Closet limite vazio_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -9.255999565124512,
+        -3.950000286102295,
+        2.7980000972747803
+      ],
+      "hi": [
+        -4.800000190734863,
+        -3.750000476837158,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.1027102993175255,
+      "volume_after_m3": 3.30813089795258,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Banheiro limite vazio_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        -4.800000190734863,
+        -3.950000286102295,
+        2.7980000972747803
+      ],
+      "hi": [
+        -0.8000001907348633,
+        -3.750000476837158,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.9898657577514314,
+      "volume_after_m3": 2.969597273254294,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 2 fundos_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        6.400000095367432,
+        -2.950000286102295,
+        2.7980000972747803
+      ],
+      "hi": [
+        7.200000286102295,
+        -2.750000476837158,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.19797319875076358,
+      "volume_after_m3": 0.5939195962522823,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 2 fundos_01_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        7.19999885559082,
+        -2.950000286102295,
+        5.307999610900879
+      ],
+      "hi": [
+        8.299999237060547,
+        -2.750000476837158,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.08814665849044157,
+      "volume_after_m3": 0.2644399754713267,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 2 fundos_02_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        8.299999237060547,
+        -2.950000286102295,
+        2.7980000972747803
+      ],
+      "hi": [
+        14.38599967956543,
+        -2.750000476837158,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.5060808599239088,
+      "volume_after_m3": 4.518242579771734,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 2 lateral vazio_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        6.299999713897705,
+        -15.963000297546387,
+        2.7980000972747803
+      ],
+      "hi": [
+        6.499999523162842,
+        -2.8500003814697266,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -3.221063719513765,
+      "volume_after_m3": 9.66319115854131,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 3 frente_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        6.400000095367432,
+        1.5499995946884155,
+        2.7980000972747803
+      ],
+      "hi": [
+        7.200000286102295,
+        1.7499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.19797343475343343,
+      "volume_after_m3": 0.593920304260295,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 3 frente_01_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        7.19999885559082,
+        1.5499995946884155,
+        5.307999610900879
+      ],
+      "hi": [
+        8.299999237060547,
+        1.7499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.08814676356954765,
+      "volume_after_m3": 0.26444029070864317,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 3 frente_02_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        8.299999237060547,
+        1.5499995946884155,
+        2.7980000972747803
+      ],
+      "hi": [
+        14.38599967956543,
+        1.7499996423721313,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.5060826553139162,
+      "volume_after_m3": 4.518247965941754,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Quarto 3 lado leitura_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        6.299999713897705,
+        1.6499996185302734,
+        2.7980000972747803
+      ],
+      "hi": [
+        6.499999523162842,
+        7.525000095367432,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -1.4538654496986134,
+      "volume_after_m3": 4.361596349095808,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Banheiro social lado hall_00_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        9.699999809265137,
+        -2.8500003814697266,
+        2.7980000972747803
+      ],
+      "hi": [
+        9.90000057220459,
+        -1.3500003814697266,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.37120142917638044,
+      "volume_after_m3": 1.113604287529141,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Banheiro social lado hall_01_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        9.699999809265137,
+        -1.3500007390975952,
+        5.307999610900879
+      ],
+      "hi": [
+        9.90000057220459,
+        -0.30000078678131104,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.08414036040638646,
+      "volume_after_m3": 0.2524210812191662,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Banheiro social lado hall_02_0 ajustada 0",
+      "group": "upper",
+      "lo": [
+        9.699999809265137,
+        -0.30000078678131104,
+        2.7980000972747803
+      ],
+      "hi": [
+        9.90000057220459,
+        1.6499992609024048,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -0.4825618697294747,
+      "volume_after_m3": 1.4476856091884134,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite master lado hall Sul",
+      "group": "upper",
+      "lo": [
+        -1.649999976158142,
+        1.149999976158142,
+        2.7980000972747803
+      ],
+      "hi": [
+        -1.4500000476837158,
+        1.5,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": 0.25983993398665495,
+      "volume_after_m3": 0.25983993398665495,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite master lado hall Norte",
+      "group": "upper",
+      "lo": [
+        -1.649999976158142,
+        2.5999999046325684,
+        2.7980000972747803
+      ],
+      "hi": [
+        -1.4500000476837158,
+        9.699999809265137,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": 5.2710382310103885,
+      "volume_after_m3": 5.2710382310103885,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Suite master lado hall Verga",
+      "group": "upper",
+      "lo": [
+        -1.649999976158142,
+        1.5,
+        5.308000087738037
+      ],
+      "hi": [
+        -1.4500000476837158,
+        2.5999999046325684,
+        6.510000228881836
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": 0.26443991355418606,
+      "volume_after_m3": 0.26443991355418606,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Piso continuo Entrada",
+      "group": "slabs",
+      "lo": [
+        5.5,
+        -13.520000457763672,
+        -1.100000023841858
+      ],
+      "hi": [
+        7.179999828338623,
+        -12.270000457763672,
+        -0.800000011920929
+      ],
+      "thickness_m": 0.3,
+      "volume_before_m3": 0.6299999606609317,
+      "volume_after_m3": 0.6299999606609317,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": -0.800000011920929
+    },
+    {
+      "name": "Piso continuo Sacada esquerda",
+      "group": "slabs",
+      "lo": [
+        -9.84000015258789,
+        -5.71999979019165,
+        -1.100000023841858
+      ],
+      "hi": [
+        -8.869999885559082,
+        -4.619999885559082,
+        -0.800000011920929
+      ],
+      "thickness_m": 0.3,
+      "volume_before_m3": 0.3201000730872099,
+      "volume_after_m3": 0.3201000730872099,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": -0.800000011920929
+    },
+    {
+      "name": "Piso continuo Sacada direita",
+      "group": "slabs",
+      "lo": [
+        13.880000114440918,
+        -5.71999979019165,
+        -1.100000023841858
+      ],
+      "hi": [
+        15.050000190734863,
+        -4.619999885559082,
+        -0.800000011920929
+      ],
+      "thickness_m": 0.3,
+      "volume_before_m3": 0.3861000070452665,
+      "volume_after_m3": 0.3861000070452665,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": -0.800000011920929
+    },
+    {
+      "name": "Piso continuo Sala deck",
+      "group": "slabs",
+      "lo": [
+        -6.190000057220459,
+        -13.649999618530273,
+        -1.100000023841858
+      ],
+      "hi": [
+        -4.869999885559082,
+        -12.800000190734863,
+        -0.800000011920929
+      ],
+      "thickness_m": 0.3,
+      "volume_before_m3": 0.33659983055587894,
+      "volume_after_m3": 0.33659983055587894,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": -0.800000011920929
+    },
+    {
+      "name": "Piso continuo Fundos",
+      "group": "slabs",
+      "lo": [
+        -2.0999999046325684,
+        6.369999885559082,
+        -1.100000023841858
+      ],
+      "hi": [
+        -0.3499999940395355,
+        7.650000095367432,
+        -0.800000011920929
+      ],
+      "thickness_m": 0.3,
+      "volume_before_m3": 0.6720001025199871,
+      "volume_after_m3": 0.6720001025199871,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": -0.800000011920929
+    },
+    {
+      "name": "Piso terreo contorno nativo",
+      "group": "slabs",
+      "lo": [
+        -9.246000289916992,
+        -14.430999755859375,
+        -1.100000023841858
+      ],
+      "hi": [
+        14.37600040435791,
+        9.791999816894531,
+        -0.800000011920929
+      ],
+      "thickness_m": 0.3,
+      "volume_before_m3": -49.948810831766,
+      "volume_after_m3": 149.84643249529802,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": -0.800000011920929
+    },
+    {
+      "name": "Laje superior contorno nativo",
+      "group": "slabs",
+      "lo": [
+        -9.246000289916992,
+        -15.95300006866455,
+        2.3580000400543213
+      ],
+      "hi": [
+        14.37600040435791,
+        9.70199966430664,
+        2.808000087738037
+      ],
+      "thickness_m": 0.45,
+      "volume_before_m3": -54.422407719989074,
+      "volume_after_m3": 163.2672231599673,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": 2.808000087738037
+    },
+    {
+      "name": "Piso continuo Portao da rua",
+      "group": "slabs",
+      "lo": [
+        1.100000023841858,
+        7.050000190734863,
+        -1.100000023841858
+      ],
+      "hi": [
+        3.609999895095825,
+        7.590000152587891,
+        -0.800000011920929
+      ],
+      "thickness_m": 0.3,
+      "volume_before_m3": 0.4066199665760992,
+      "volume_after_m3": 0.4066199665760992,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": -0.800000011920929
+    },
+    {
+      "name": "Escada lance 1 degrau 01",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        1.7499994039535522,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        2.049999475479126,
+        -0.6195999979972839
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.06494402307701311,
+      "volume_after_m3": 0.06494402307701311,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 02",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        2.049999475479126,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        2.3499996662139893,
+        -0.4391999840736389
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.1298880977668863,
+      "volume_after_m3": 0.1298880977668863,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 03",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        2.349998712539673,
+        -0.7999999523162842
+      ],
+      "hi": [
+        0.9999996423721313,
+        2.649998903274536,
+        -0.2587999999523163
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.19483211446379956,
+      "volume_after_m3": 0.19483211446379956,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 04",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        2.6499998569488525,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        2.950000047683716,
+        -0.07840001583099365
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.2597761740760859,
+      "volume_after_m3": 0.2597761740760859,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 05",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        2.9499990940093994,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        3.2499992847442627,
+        0.10199999809265137
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.3247202229595292,
+      "volume_after_m3": 0.3247202229595292,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 06",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        3.250000238418579,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        3.5500004291534424,
+        0.2823999524116516
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.3896642503852858,
+      "volume_after_m3": 0.3896642503852858,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 07",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        3.549999475479126,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        3.8499996662139893,
+        0.46279996633529663
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.454608299268729,
+      "volume_after_m3": 0.454608299268729,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 08",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        3.849998712539673,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        4.149998664855957,
+        0.6431999802589417
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.5195519352493259,
+      "volume_after_m3": 0.5195519352493259,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 1 degrau 09",
+      "group": "stairs",
+      "lo": [
+        -0.20000040531158447,
+        4.150000095367432,
+        -0.800000011920929
+      ],
+      "hi": [
+        0.9999996423721313,
+        4.450000286102295,
+        0.8235999941825867
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.5844963970356153,
+      "volume_after_m3": 0.5844963970356153,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 11",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        4.150000095367432,
+        0.9643999338150024
+      ],
+      "hi": [
+        2.4000000953674316,
+        4.450000286102295,
+        1.184399962425232
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07920005593300197,
+      "volume_after_m3": 0.07920005593300197,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 12",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        3.849998712539673,
+        1.144800066947937
+      ],
+      "hi": [
+        2.4000000953674316,
+        4.149998664855957,
+        1.3648000955581665
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07919999299049249,
+      "volume_after_m3": 0.07919999299049249,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 13",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        3.549999475479126,
+        1.3251999616622925
+      ],
+      "hi": [
+        2.4000000953674316,
+        3.8499996662139893,
+        1.545199990272522
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07920005593300139,
+      "volume_after_m3": 0.07920005593300139,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 14",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        3.250000238418579,
+        1.505600094795227
+      ],
+      "hi": [
+        2.4000000953674316,
+        3.5500004291534424,
+        1.7256001234054565
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07920005593300194,
+      "volume_after_m3": 0.07920005593300194,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 15",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        2.9499990940093994,
+        1.6859999895095825
+      ],
+      "hi": [
+        2.4000000953674316,
+        3.2499992847442627,
+        1.906000018119812
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0792000559330012,
+      "volume_after_m3": 0.0792000559330012,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 16",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        2.6499998569488525,
+        1.866400122642517
+      ],
+      "hi": [
+        2.4000000953674316,
+        2.950000047683716,
+        2.086400032043457
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07920001301763255,
+      "volume_after_m3": 0.07920001301763255,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 17",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        2.349998712539673,
+        2.046800136566162
+      ],
+      "hi": [
+        2.4000000953674316,
+        2.649998903274536,
+        2.2667999267578125
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07919997010226326,
+      "volume_after_m3": 0.07919997010226326,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 18",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        2.049999475479126,
+        2.2272002696990967
+      ],
+      "hi": [
+        2.4000000953674316,
+        2.3499996662139893,
+        2.447200059890747
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07919997010226354,
+      "volume_after_m3": 0.07919997010226354,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada lance 2 degrau 19",
+      "group": "stairs",
+      "lo": [
+        1.2000001668930054,
+        1.7499994039535522,
+        2.407600164413452
+      ],
+      "hi": [
+        2.4000000953674316,
+        2.049999475479126,
+        2.6275999546051025
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.07919993863104313,
+      "volume_after_m3": 0.07919993863104313,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala montante",
+      "group": "stairs",
+      "lo": [
+        -0.7259998321533203,
+        -3.87600040435791,
+        2.808000087738037
+      ],
+      "hi": [
+        -0.6739997863769531,
+        -3.824000358581543,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032151043245224,
+      "volume_after_m3": 0.0021032151043245224,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala montante.001",
+      "group": "stairs",
+      "lo": [
+        0.4440002739429474,
+        -3.87600040435791,
+        2.808000087738037
+      ],
+      "hi": [
+        0.4960002601146698,
+        -3.824000358581543,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032156036245612,
+      "volume_after_m3": 0.0021032156036245612,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala montante.002",
+      "group": "stairs",
+      "lo": [
+        1.613999366760254,
+        -3.87600040435791,
+        2.808000087738037
+      ],
+      "hi": [
+        1.665999412536621,
+        -3.824000358581543,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.00210321851371425,
+      "volume_after_m3": 0.00210321851371425,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala montante.003",
+      "group": "stairs",
+      "lo": [
+        2.783999443054199,
+        -3.87600040435791,
+        2.808000087738037
+      ],
+      "hi": [
+        2.8359994888305664,
+        -3.824000358581543,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103211694935116,
+      "volume_after_m3": 0.002103211694935116,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala montante.004",
+      "group": "stairs",
+      "lo": [
+        3.9539995193481445,
+        -3.87600040435791,
+        2.808000087738037
+      ],
+      "hi": [
+        4.005999565124512,
+        -3.824000358581543,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103211694935071,
+      "volume_after_m3": 0.002103211694935071,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala montante.005",
+      "group": "stairs",
+      "lo": [
+        5.12399959564209,
+        -3.87600040435791,
+        2.808000087738037
+      ],
+      "hi": [
+        5.175999641418457,
+        -3.824000358581543,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103225332491678,
+      "volume_after_m3": 0.002103225332491678,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala montante.006",
+      "group": "stairs",
+      "lo": [
+        6.293999671936035,
+        -3.87600040435791,
+        2.808000087738037
+      ],
+      "hi": [
+        6.345999717712402,
+        -3.824000358581543,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032253324939658,
+      "volume_after_m3": 0.0021032253324939658,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala travessa",
+      "group": "stairs",
+      "lo": [
+        -0.6999998092651367,
+        -3.8700006008148193,
+        3.167999744415283
+      ],
+      "hi": [
+        6.319999694824219,
+        -3.830000162124634,
+        3.2080001831054688
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.007942226476144076,
+      "volume_after_m3": 0.007942226476144076,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala travessa.001",
+      "group": "stairs",
+      "lo": [
+        -0.6999998092651367,
+        -3.8700006008148193,
+        3.507999897003174
+      ],
+      "hi": [
+        6.319999694824219,
+        -3.830000162124634,
+        3.5480003356933594
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.007942226476139328,
+      "volume_after_m3": 0.007942226476139328,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Mezanino sala travessa.002",
+      "group": "stairs",
+      "lo": [
+        -0.6999998092651367,
+        -3.8700006008148193,
+        3.888000011444092
+      ],
+      "hi": [
+        6.319999694824219,
+        -3.830000162124634,
+        3.9280004501342773
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.007942226476146461,
+      "volume_after_m3": 0.007942226476146461,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda montante",
+      "group": "stairs",
+      "lo": [
+        -0.3260001838207245,
+        1.6239993572235107,
+        2.808000087738037
+      ],
+      "hi": [
+        -0.2740001976490021,
+        1.675999402999878,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032224223964044,
+      "volume_after_m3": 0.0021032224223964044,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda montante.001",
+      "group": "stairs",
+      "lo": [
+        -0.3260001838207245,
+        2.6364991664886475,
+        2.808000087738037
+      ],
+      "hi": [
+        -0.2740001976490021,
+        2.6884992122650146,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103215603624473,
+      "volume_after_m3": 0.002103215603624473,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda montante.002",
+      "group": "stairs",
+      "lo": [
+        -0.3260001838207245,
+        3.6489999294281006,
+        2.808000087738037
+      ],
+      "hi": [
+        -0.2740001976490021,
+        3.7009999752044678,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103215603624473,
+      "volume_after_m3": 0.002103215603624473,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda montante.003",
+      "group": "stairs",
+      "lo": [
+        -0.3260001838207245,
+        4.6614990234375,
+        2.808000087738037
+      ],
+      "hi": [
+        -0.2740001976490021,
+        4.713499069213867,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103229241168257,
+      "volume_after_m3": 0.002103229241168257,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda montante.004",
+      "group": "stairs",
+      "lo": [
+        -0.3260001838207245,
+        5.673999786376953,
+        2.808000087738037
+      ],
+      "hi": [
+        -0.2740001976490021,
+        5.72599983215332,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032292411683104,
+      "volume_after_m3": 0.0021032292411683104,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda travessa",
+      "group": "stairs",
+      "lo": [
+        -0.32000020146369934,
+        1.6499993801116943,
+        3.167999744415283
+      ],
+      "hi": [
+        -0.2800001800060272,
+        5.699999809265137,
+        3.2080001831054688
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.004582053131386069,
+      "volume_after_m3": 0.004582053131386069,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda travessa.001",
+      "group": "stairs",
+      "lo": [
+        -0.32000020146369934,
+        1.6499993801116943,
+        3.507999897003174
+      ],
+      "hi": [
+        -0.2800001800060272,
+        5.699999809265137,
+        3.5480003356933594
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0045820531313858935,
+      "volume_after_m3": 0.0045820531313858935,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada esquerda travessa.002",
+      "group": "stairs",
+      "lo": [
+        -0.32000020146369934,
+        1.6499993801116943,
+        3.888000011444092
+      ],
+      "hi": [
+        -0.2800001800060272,
+        5.699999809265137,
+        3.9280004501342773
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.004582053131385551,
+      "volume_after_m3": 0.004582053131385551,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada fundo montante",
+      "group": "stairs",
+      "lo": [
+        -0.3260001838207245,
+        5.673999786376953,
+        2.808000087738037
+      ],
+      "hi": [
+        -0.2740001976490021,
+        5.72599983215332,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032292411683104,
+      "volume_after_m3": 0.0021032292411683104,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada fundo montante.001",
+      "group": "stairs",
+      "lo": [
+        0.6073331832885742,
+        5.673999786376953,
+        2.808000087738037
+      ],
+      "hi": [
+        0.6593332290649414,
+        5.72599983215332,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032287418839,
+      "volume_after_m3": 0.0021032287418839,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada fundo montante.002",
+      "group": "stairs",
+      "lo": [
+        1.5406665802001953,
+        5.673999786376953,
+        2.808000087738037
+      ],
+      "hi": [
+        1.5926666259765625,
+        5.72599983215332,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032321512740523,
+      "volume_after_m3": 0.0021032321512740523,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada fundo montante.003",
+      "group": "stairs",
+      "lo": [
+        2.4739999771118164,
+        5.673999786376953,
+        2.808000087738037
+      ],
+      "hi": [
+        2.5260000228881836,
+        5.72599983215332,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032253324951835,
+      "volume_after_m3": 0.0021032253324951835,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada fundo travessa",
+      "group": "stairs",
+      "lo": [
+        -0.3000001907348633,
+        5.679999828338623,
+        3.1679999828338623
+      ],
+      "hi": [
+        2.5,
+        5.71999979019165,
+        3.2079999446868896
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0031678267082648932,
+      "volume_after_m3": 0.0031678267082648932,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada fundo travessa.001",
+      "group": "stairs",
+      "lo": [
+        -0.3000001907348633,
+        5.679999828338623,
+        3.508000135421753
+      ],
+      "hi": [
+        2.5,
+        5.71999979019165,
+        3.5480000972747803
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0031678267082625275,
+      "volume_after_m3": 0.0031678267082625275,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada fundo travessa.002",
+      "group": "stairs",
+      "lo": [
+        -0.3000001907348633,
+        5.679999828338623,
+        3.888000249862671
+      ],
+      "hi": [
+        2.5,
+        5.71999979019165,
+        3.9280002117156982
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.003167826708267249,
+      "volume_after_m3": 0.003167826708267249,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita montante",
+      "group": "stairs",
+      "lo": [
+        2.4739999771118164,
+        5.673999786376953,
+        2.808000087738037
+      ],
+      "hi": [
+        2.5260000228881836,
+        5.72599983215332,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032253324951835,
+      "volume_after_m3": 0.0021032253324951835,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita montante.001",
+      "group": "stairs",
+      "lo": [
+        2.4739999771118164,
+        4.686500549316406,
+        2.808000087738037
+      ],
+      "hi": [
+        2.5260000228881836,
+        4.738500595092773,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103225332494001,
+      "volume_after_m3": 0.002103225332494001,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita montante.002",
+      "group": "stairs",
+      "lo": [
+        2.4739999771118164,
+        3.6989991664886475,
+        2.808000087738037
+      ],
+      "hi": [
+        2.5260000228881836,
+        3.7509992122650146,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032116949339075,
+      "volume_after_m3": 0.0021032116949339075,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita montante.003",
+      "group": "stairs",
+      "lo": [
+        2.4739999771118164,
+        2.7114999294281006,
+        2.808000087738037
+      ],
+      "hi": [
+        2.5260000228881836,
+        2.7634999752044678,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103211694934496,
+      "volume_after_m3": 0.002103211694934496,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita montante.004",
+      "group": "stairs",
+      "lo": [
+        2.4739999771118164,
+        1.7239997386932373,
+        2.808000087738037
+      ],
+      "hi": [
+        2.5260000228881836,
+        1.7759997844696045,
+        3.9080004692077637
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002103218513715163,
+      "volume_after_m3": 0.002103218513715163,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita travessa",
+      "group": "stairs",
+      "lo": [
+        2.4800000190734863,
+        1.749999761581421,
+        3.167999744415283
+      ],
+      "hi": [
+        2.5199999809265137,
+        5.699999809265137,
+        3.2080001831054688
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0044688981415419785,
+      "volume_after_m3": 0.0044688981415419785,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita travessa.001",
+      "group": "stairs",
+      "lo": [
+        2.4800000190734863,
+        1.749999761581421,
+        3.507999897003174
+      ],
+      "hi": [
+        2.5199999809265137,
+        5.699999809265137,
+        3.5480003356933594
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.004468898141540232,
+      "volume_after_m3": 0.004468898141540232,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Vao escada direita travessa.002",
+      "group": "stairs",
+      "lo": [
+        2.4800000190734863,
+        1.749999761581421,
+        3.888000011444092
+      ],
+      "hi": [
+        2.5199999809265137,
+        5.699999809265137,
+        3.9280004501342773
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.004468898141543727,
+      "volume_after_m3": 0.004468898141543727,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar montante",
+      "group": "stairs",
+      "lo": [
+        -0.20600029826164246,
+        5.593999862670898,
+        1.003999948501587
+      ],
+      "hi": [
+        -0.15400031208992004,
+        5.645999908447266,
+        2.1040000915527344
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032283591321,
+      "volume_after_m3": 0.0021032283591321,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar montante.001",
+      "group": "stairs",
+      "lo": [
+        0.6473331451416016,
+        5.593999862670898,
+        1.003999948501587
+      ],
+      "hi": [
+        0.6993331909179688,
+        5.645999908447266,
+        2.1040000915527344
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032282860217392,
+      "volume_after_m3": 0.0021032282860217392,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar montante.002",
+      "group": "stairs",
+      "lo": [
+        1.500666618347168,
+        5.593999862670898,
+        1.003999948501587
+      ],
+      "hi": [
+        1.5526666641235352,
+        5.645999908447266,
+        2.1040000915527344
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032316954110834,
+      "volume_after_m3": 0.0021032316954110834,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar montante.003",
+      "group": "stairs",
+      "lo": [
+        2.3540000915527344,
+        5.593999862670898,
+        1.003999948501587
+      ],
+      "hi": [
+        2.4060001373291016,
+        5.645999908447266,
+        2.1040000915527344
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0021032248766327,
+      "volume_after_m3": 0.0021032248766327,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar travessa",
+      "group": "stairs",
+      "lo": [
+        -0.18000030517578125,
+        5.599999904632568,
+        1.3639999628067017
+      ],
+      "hi": [
+        2.380000114440918,
+        5.639999866485596,
+        1.404000163078308
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0028962971944386353,
+      "volume_after_m3": 0.0028962971944386353,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar travessa.001",
+      "group": "stairs",
+      "lo": [
+        -0.18000030517578125,
+        5.599999904632568,
+        1.7039998769760132
+      ],
+      "hi": [
+        2.380000114440918,
+        5.639999866485596,
+        1.7440000772476196
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.002896297194438576,
+      "volume_after_m3": 0.002896297194438576,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar travessa.002",
+      "group": "stairs",
+      "lo": [
+        -0.18000030517578125,
+        5.599999904632568,
+        2.0840001106262207
+      ],
+      "hi": [
+        2.380000114440918,
+        5.639999866485596,
+        2.124000072479248
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.0028962989821448176,
+      "volume_after_m3": 0.0028962989821448176,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada corrimao lance1",
+      "group": "stairs",
+      "lo": [
+        -0.2150004506111145,
+        1.731963038444519,
+        0.30040544271469116
+      ],
+      "hi": [
+        -0.145000159740448,
+        4.46803617477417,
+        1.983994483947754
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.010916157795145324,
+      "volume_after_m3": 0.010916157795145324,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada corrimao lance2",
+      "group": "stairs",
+      "lo": [
+        2.3450000286102295,
+        1.7305554151535034,
+        1.9248980283737183
+      ],
+      "hi": [
+        2.4150002002716064,
+        4.4694437980651855,
+        3.7871017456054688
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 0.011251047906459387,
+      "volume_after_m3": 0.011251047906459387,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada patamar intermediario",
+      "group": "stairs",
+      "lo": [
+        -0.20000000298023224,
+        4.449999809265137,
+        0.653999924659729
+      ],
+      "hi": [
+        2.4000000953674316,
+        5.649999618530273,
+        1.003999948501587
+      ],
+      "thickness_m": null,
+      "volume_before_m3": 1.0919999421238737,
+      "volume_after_m3": 1.0919999421238737,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Escada chegada superior",
+      "group": "stairs",
+      "lo": [
+        1.2000000476837158,
+        1.649999976158142,
+        2.3580000400543213
+      ],
+      "hi": [
+        2.4000000953674316,
+        1.75,
+        2.808000087738037
+      ],
+      "thickness_m": 0.45,
+      "volume_before_m3": 0.054000020742418664,
+      "volume_after_m3": 0.054000020742418664,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    },
+    {
+      "name": "Teto contorno nativo",
+      "group": "ceil",
+      "lo": [
+        -9.246000289916992,
+        -15.95300006866455,
+        6.450000286102295
+      ],
+      "hi": [
+        14.37600040435791,
+        9.70199966430664,
+        6.650000095367432
+      ],
+      "thickness_m": 0.2,
+      "volume_before_m3": -34.07216114972604,
+      "volume_after_m3": 102.21648344917796,
+      "closed": true,
+      "outward_faces": true,
+      "walking_level_z": null
+    }
+  ],
+  "solid_count": 169,
+  "inconsistent_original_volume_count": 73,
+  "window_positions_preserved": true,
+  "door_clear_widths_preserved": true,
+  "in_game_verified": false,
+  "outer_shared_level_z": 2.358,
+  "outer_level_overlap_m2": 0.0
+}

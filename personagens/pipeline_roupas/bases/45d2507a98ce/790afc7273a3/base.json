@@ -1,0 +1,88 @@
+{
+  "paths": {
+    "model": "source\\jbib_000_u.ydd",
+    "texture": "source\\jbib_diff_000_a_uni.ytd",
+    "rig": "source\\mp_m_freemode_01.yft"
+  },
+  "archives": {
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\x64v.rpf": [
+      1942046720,
+      1790893001481090600
+    ]
+  },
+  "geometry": [
+    {
+      "drawable": "hash_0E4F123C",
+      "lod": 0,
+      "model": 0,
+      "geometry": 0,
+      "signature": "b202e779c97a3c3c5b21077e8049856ceea177a9b879caf7e8bfd797934e20c7",
+      "vertices": 1005,
+      "triangles": 1414
+    },
+    {
+      "drawable": "hash_0E4F123C",
+      "lod": 1,
+      "model": 0,
+      "geometry": 0,
+      "signature": "40b06141ba1f3b1320b94700c0fabd4baeeb01443fc740d4d6b278a238cec54d",
+      "vertices": 400,
+      "triangles": 382
+    },
+    {
+      "drawable": "hash_0E4F123C",
+      "lod": 2,
+      "model": 0,
+      "geometry": 0,
+      "signature": "1bef4e5c68855002c9b49aa9952695555e8faa0bc7473ef532b716e8111c8b99",
+      "vertices": 64,
+      "triangles": 71
+    }
+  ],
+  "coordinates": {
+    "left": "+X",
+    "front": "-Y",
+    "up": "+Z",
+    "origin": "native pelvis",
+    "unit": "metre"
+  },
+  "textures": [
+    "jbib_diff_000_a_uni",
+    "jbib_normal_000",
+    "jbib_pall_000_x",
+    "jbib_spec_000"
+  ],
+  "archive_sources": {
+    "model": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/jbib_000_u.ydd",
+    "texture": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/jbib_diff_000_a_uni.ytd"
+  },
+  "version": 1,
+  "item": {
+    "id": "45d2507a98ce",
+    "sex": "male",
+    "category": "jbib",
+    "title": "Camisas e jaquetas",
+    "collection": "mp_m_freemode_01",
+    "collectionLabel": "Jogo base",
+    "index": 0,
+    "file": "jbib_000_u.ydd",
+    "textureCount": 16,
+    "textureFile": "jbib_diff_000_a_uni.ytd",
+    "triangles": 1414,
+    "image": "previews/45d2507a98ce.webp",
+    "back": "previews/45d2507a98ce-back.webp",
+    "textureIndex": 0
+  },
+  "backend_sha256": "57d5a3014ee17794e9f48e207330959ab5b724c40fccb3ec635b550ca9233ff8",
+  "inventory_sha256": "9cb9023613c43f5f133d2610600e42b308b00ade6d970aa6639022d24925180c",
+  "files": {
+    "source\\jbib_000_u.ydd": "cdf53d0c78cc5c925f0ece59f4f2edb619dba987be09af5ea99bd3d32943a67b",
+    "source\\jbib_diff_000_a_uni.ytd": "1570edf9d44793affb078c187e391781fb8358029ac595605de64f25e599fb7a",
+    "source\\mp_m_freemode_01.yft": "6675cbf88db5a75f600b1b9c91dd985d45571c5105566c577e61fe874fb34fed",
+    "source\\textures\\jbib_diff_000_a_uni.dds": "d36f81d46a4a8c94f907b972743f05255009e0d712feadf30ae055ac2562d801",
+    "source\\textures\\jbib_normal_000.dds": "f8e98473c9a138921f5bc81f6e428d47ce3800b935370a60e32c8595ebb99844",
+    "source\\textures\\jbib_pall_000_x.dds": "0daf89f31c763d108384e350c62d4d3b0d1e30aa57dc6681a53e95afa2a7e03e",
+    "source\\textures\\jbib_spec_000.dds": "56eb7695283ef28c074215d29421be02fc21e24cb012a647ab5208e88c7b7bc8",
+    "uv_regions.png": "7c7d7c9bd0ba68ec409f97bd5220a1e5bdfde4642f86e7fd2c1a9f29f8ee77b1"
+  }
+}

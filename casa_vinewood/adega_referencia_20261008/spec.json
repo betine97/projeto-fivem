@@ -1,0 +1,276 @@
+{
+  "revision": "adega-vitrines-referencia-20261008",
+  "model": "mansao_adega_vitrines",
+  "collection": "25_ADEGA_VITRINES_REFERENCIA",
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "width_m": 4.715,
+  "height_m": 2.96,
+  "depth_m": 0.6,
+  "placement": {
+    "left_x": 9.444,
+    "back_y": -0.968,
+    "floor_z": -0.8
+  },
+  "wall": {
+    "left_x": 9.4,
+    "right_x": 14.186,
+    "front_y": -0.95,
+    "ceiling_z": 2.358
+  },
+  "references": {
+    "reference": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-bc939891-f036-4e61-80d9-204a13f5aecb.png",
+      "sha256": "ab2c62e378060aada935fd7d7da6fdde7f86b60081ac5bcb4413399b90b6f6c6"
+    },
+    "game": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-25131d86-8fab-4bc8-99f2-958981cb5530.png",
+      "sha256": "55ecf9b78b350c4f31107169f2fb602a162d70cda021e4050db6571b651131ae"
+    },
+    "marked_wall": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-e98433ff-fcbc-4a86-9d5d-fcda23b9702f.png",
+      "sha256": "b061d518eb90c83bcec92e69bfed109952755e9c7450dcf4205c6db7efd95b58"
+    }
+  },
+  "in_game_verified": false,
+  "display_wine_bottles": 52,
+  "parts": 1157,
+  "collision_boxes": [
+    {
+      "name": "Costas madeira continuo",
+      "lo": [
+        0,
+        -0.023,
+        0
+      ],
+      "hi": [
+        4.715,
+        0,
+        2.96
+      ]
+    },
+    {
+      "name": "Topo madeira continuo",
+      "lo": [
+        0,
+        -0.575,
+        2.925
+      ],
+      "hi": [
+        4.715,
+        0,
+        2.96
+      ]
+    },
+    {
+      "name": "Lateral estrutural madeira",
+      "lo": [
+        0,
+        -0.555,
+        0.025
+      ],
+      "hi": [
+        0.024,
+        -0.015,
+        2.93
+      ]
+    },
+    {
+      "name": "Lateral estrutural madeira",
+      "lo": [
+        1.2760624551328068,
+        -0.555,
+        0.025
+      ],
+      "hi": [
+        1.3000624551328068,
+        -0.015,
+        2.93
+      ]
+    },
+    {
+      "name": "Lateral estrutural madeira",
+      "lo": [
+        3.4220136396267047,
+        -0.555,
+        0.025
+      ],
+      "hi": [
+        3.4460136396267047,
+        -0.015,
+        2.93
+      ]
+    },
+    {
+      "name": "Lateral estrutural madeira",
+      "lo": [
+        4.691,
+        -0.555,
+        0.025
+      ],
+      "hi": [
+        4.715,
+        -0.015,
+        2.93
+      ]
+    },
+    {
+      "name": "Vidro transparente porta vitrine 0",
+      "lo": [
+        0.10792605886575735,
+        -0.55,
+        0.10137428243398393
+      ],
+      "hi": [
+        0.6028779612347451,
+        -0.548,
+        2.882414466130884
+      ]
+    },
+    {
+      "name": "Vidro transparente porta vitrine 1",
+      "lo": [
+        0.717186647523331,
+        -0.55,
+        0.10137428243398393
+      ],
+      "hi": [
+        1.2155233309404163,
+        -0.548,
+        2.882414466130884
+      ]
+    },
+    {
+      "name": "Vidro transparente porta vitrine 2",
+      "lo": [
+        3.502861450107681,
+        -0.55,
+        0.10137428243398393
+      ],
+      "hi": [
+        4.004582914572865,
+        -0.548,
+        2.882414466130884
+      ]
+    },
+    {
+      "name": "Vidro transparente porta vitrine 3",
+      "lo": [
+        4.112122038765254,
+        -0.55,
+        0.10137428243398393
+      ],
+      "hi": [
+        4.607073941134242,
+        -0.548,
+        2.882414466130884
+      ]
+    },
+    {
+      "name": "Prateleira central espessa 0.829",
+      "lo": [
+        1.309910265613783,
+        -0.588,
+        0.8292078071182549
+      ],
+      "hi": [
+        3.4118592964824117,
+        -0.029,
+        0.9082078071182549
+      ]
+    },
+    {
+      "name": "Prateleira central espessa 1.607",
+      "lo": [
+        1.309910265613783,
+        -0.588,
+        1.6074397244546499
+      ],
+      "hi": [
+        3.4118592964824117,
+        -0.029,
+        1.65143972445465
+      ]
+    },
+    {
+      "name": "Prateleira central espessa 2.189",
+      "lo": [
+        1.309910265613783,
+        -0.588,
+        2.188564867967853
+      ],
+      "hi": [
+        3.4118592964824117,
+        -0.029,
+        2.232564867967853
+      ]
+    },
+    {
+      "name": "Base central caixa aberta",
+      "lo": [
+        1.309910265613783,
+        -0.56,
+        0.06
+      ],
+      "hi": [
+        3.4118592964824117,
+        -0.026,
+        0.8224110218140069
+      ]
+    }
+  ],
+  "local_lo": [
+    0.0,
+    -0.6470000147819519,
+    0.0
+  ],
+  "local_hi": [
+    4.715000152587891,
+    0.0,
+    2.9600000381469727
+  ],
+  "lo": [
+    9.444000244140625,
+    -1.6150000095367432,
+    -0.800000011920929
+  ],
+  "hi": [
+    14.159000396728516,
+    -0.9679999947547913,
+    2.1600000858306885
+  ],
+  "lods": {
+    "HIGH": {
+      "triangles": 93661,
+      "degenerate_removed": 115,
+      "models": 1,
+      "geometries": 17,
+      "source_models": 1157
+    },
+    "MEDIUM": {
+      "triangles": 48667,
+      "degenerate_removed": 96,
+      "models": 1,
+      "geometries": 17,
+      "source_models": 1
+    },
+    "LOW": {
+      "triangles": 20534,
+      "degenerate_removed": 96,
+      "models": 1,
+      "geometries": 17,
+      "source_models": 1
+    },
+    "VERYLOW": {
+      "triangles": 6467,
+      "degenerate_removed": 96,
+      "models": 1,
+      "geometries": 17,
+      "source_models": 1
+    }
+  },
+  "collision_triangles": 168
+}

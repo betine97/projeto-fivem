@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "checks": {
+    "finite_heightfield": {
+      "passed": true,
+      "details": [
+        769,
+        769,
+        3
+      ]
+    },
+    "three_times_reference_area": {
+      "passed": true,
+      "details": {
+        "saved_mesh_area_m2": 3370274.418764615,
+        "ratio": 2.9999487457893896,
+        "tolerance_ratio": 0.001
+      }
+    },
+    "river_descends_to_sea": {
+      "passed": true,
+      "details": {
+        "source_z": 172.95849609375,
+        "mouth_z": 0.0
+      }
+    },
+    "lake_and_river_source_match": {
+      "passed": true,
+      "details": {
+        "distance_m": 0.0
+      }
+    },
+    "river_center_below_water": {
+      "passed": true,
+      "details": {
+        "min_depth_m": 3.27766501948787,
+        "max_depth_m": 3.995033728291304
+      }
+    },
+    "lake_bed_below_water": {
+      "passed": true,
+      "details": null
+    },
+    "runway_graded": {
+      "passed": true,
+      "details": {
+        "max_height_error_m": 0.0
+      }
+    },
+    "authoral_undeveloped_island": {
+      "passed": true,
+      "details": null
+    },
+    "terrain_texture_4k": {
+      "passed": true,
+      "details": null
+    },
+    "heightmap_16bit": {
+      "passed": true,
+      "details": {
+        "mode": "I;16",
+        "size": [
+          769,
+          769
+        ]
+      }
+    },
+    "glb_header": {
+      "passed": true,
+      "details": null
+    },
+    "glb_binary_chunk": {
+      "passed": true,
+      "details": null
+    },
+    "glb_accessors_finite_and_in_bounds": {
+      "passed": true,
+      "details": {
+        "accessors": 214
+      }
+    },
+    "glb_triangle_indices": {
+      "passed": true,
+      "details": {
+        "triangles": 774892,
+        "meshes": 84
+      }
+    },
+    "glb_water_meshes": {
+      "passed": true,
+      "details": null
+    },
+    "glb_embedded_texture": {
+      "passed": true,
+      "details": null
+    },
+    "city_snapshot_hashes": {
+      "passed": true,
+      "details": {
+        "files": 4464,
+        "mismatches": []
+      }
+    },
+    "live_server_configs_unchanged": {
+      "passed": true,
+      "details": {
+        "checked": 5,
+        "changed": []
+      }
+    },
+    "snapshot_database_integrity": {
+      "passed": true,
+      "details": null
+    }
+  },
+  "in_game_verified": false,
+  "native_world_isolation_activated": false,
+  "native_water_physics_configured": false
+}

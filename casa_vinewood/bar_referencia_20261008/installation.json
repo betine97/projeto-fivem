@@ -1,0 +1,23 @@
+{
+  "installed_files": {
+    "stream\\mansao_bar_referencia.ydr": "43b9306d4e8bb3835c3a99518adfa03f327a327d8d481cfc584c4b207bd8e95a",
+    "stream\\mansao_bar_referencia.ytyp": "933c888612d8aec3d5d0fbee3535fe6ef472ca820e60a2bdec4032f3e7a2dc0b",
+    "stream\\mansao_bar_referencia.ymap": "706943076911ab7fde88410f36beab1ab923a4e3acf8cd55682956b5f147e1f7",
+    "stream\\mansao_bar_referencia.ybn": "b8adb9ce0b4899c10c9332b273cf45458237f0bd8cd86998ebe4a3213d2df642",
+    "stream\\mansao_tapete_urso.ydr": "d6a7f340753f262d86c18db586831a632489cd0ca6f7a98aa5b466a5f6a3c3a9",
+    "stream\\mansao_piano_tapetes.ytyp": "f4624a712c6aaff918378051cd8f84487506ccf5f12243978a395f4d99936b19",
+    "bar_referencia_luzes.lua": "013ae7810ae6537bcd711ea1b1d7c9cb054d064355f7ed3a277c73734ded9e57",
+    "objetos_catalogo.json": "258d55384c5c39edbc46d0e38be422c4d373191dc586f105c1c3a8bfc7e2d331",
+    "fxmanifest.lua": "d1bd7001a9a2c5bb8ee887190ea5a2a1da77298a1bd2a019833be6f3c2f16fb6"
+  },
+  "backups": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\bar_referencia_20261008\\backup_preinstall\\20261008_125920_160770",
+  "in_game_verified": false,
+  "requires_resource_reload": true,
+  "bear_geometry_factor": 1.5,
+  "catalog_object_ids_poses_scales_preserved": true,
+  "saved_positions_file_not_modified": true,
+  "new_bar_protected_from_prop_editor": true,
+  "native_hashes_match_validation": true,
+  "shared_manifest_previous_entries_preserved": true,
+  "installed_at": "2026-10-08T12:59:20.339288-03:00"
+}

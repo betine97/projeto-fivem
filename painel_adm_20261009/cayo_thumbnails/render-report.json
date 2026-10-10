@@ -1,0 +1,218 @@
+[
+  {
+    "name": "h4_mph4_air_cable189307_hvlit001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_air_cable189368_thvy001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_air_cable189428_tstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_air_cbl_thvy001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cable2_hvlit001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_01",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_04",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_05",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_08",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_09",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_11",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_14",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cabledock_15",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_bch_cablemesh3_tstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62516_hvstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62579_hvstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62613_hvstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62651_thvy001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62656_thvy001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62666_thvy001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62717_thvy001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62804_tstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab62816_tstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cab70464_thvy001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh118175_tstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh1448",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh2152",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh_001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh_55_001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh_56",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh_57",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_dock_cablemesh_58",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_manb_cablemesh16281_tstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_manb_cablemesh16290_hvlit001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_manb_cablemesh7265_hvlit001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  },
+  {
+    "name": "h4_mph4_manb_cablemesh7283_tstd001",
+    "geometry": true,
+    "textured": false,
+    "native_cable_shader_emulated": true
+  }
+]

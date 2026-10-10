@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "checks": [
+    "Native GPU grass and medium cover overlap without a distance gap",
+    "Every cover patch stays on planted terrain, outside roads, water, runway and buildings",
+    "All grass patches have complete HD/LOD/SLOD2/SLOD3/SLOD4 links",
+    "Eight-kilometre streaming volumes include vertical flight and coastal views",
+    "Far cover follows actual terrain heights, with bounded native indices and UVs",
+    "Far geometry uses one third of the medium triangle count",
+    "Both native atlases retain nine mip levels after YTD serialization",
+    "Every procedural grass archetype resolves an explicitly installed native texture dictionary",
+    "All 7014254 native GPU instances remain intact with expanded near visibility"
+  ],
+  "patches": 66656,
+  "groups": 1375,
+  "triangles": {
+    "medium": 799872,
+    "far": 266624
+  },
+  "grass_instances": 7014254,
+  "in_game_visual_verified": false
+}

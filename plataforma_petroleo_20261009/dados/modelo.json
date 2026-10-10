@@ -1,0 +1,16 @@
+{
+  "objects": 292,
+  "mesh_objects": 258,
+  "vertices": 57680,
+  "polygons": 48115,
+  "collision_volumes": 209,
+  "interaction_points": 12,
+  "animated_controls": [
+    "Guindaste principal | GIRO",
+    "Guindaste principal | GANCHO",
+    "CARGA | pallet articulado"
+  ],
+  "source_sha256": "0df465cdbd69aa6a20df471530b2e3d38c6a8ca61a4751308b4c507f1175ea87",
+  "in_game_verified": false,
+  "installed": false
+}

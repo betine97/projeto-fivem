@@ -1,0 +1,24 @@
+PROJETO COMPLETO - STAGE 15 - LUMINARIAS LED
+
+Abra warehouse_stage15_projeto_completo.blend. Todo o ambiente e todos os
+materiais anteriores continuam juntos, com as imagens incorporadas ao arquivo.
+
+As seis luminarias receberam as duas imagens enviadas:
+- Rosa: doze barras LED, com textura conectada a cor e emissao.
+- Preto riscado: carcasas, canais, tampas laterais, drivers, suportes e parafusos.
+Os cabos mantem o material de borracha anterior.
+
+Foram preservadas a intensidade da emissao, as potencias e cores das luzes AREA
+e a direcao vertical para baixo. O relevo do metal e uma aproximacao de shader.
+
+warehouse_stage15_projeto_completo.png mostra o conjunto.
+warehouse_stage15_led_detalhe.png mostra uma luminaria acesa em detalhe.
+O brilho da emissao pode suavizar a leitura dos riscos da textura rosa.
+
+O arquivo continua com teto e partes frontais ocultos para mostrar o interior.
+A colecao APRESENTACAO_Luz_de_apoio pode ser desligada para conferir apenas
+a iluminacao original do ambiente.
+
+O script aplicar_led_stage15.py recria esta etapa a partir de
+warehouse_stage14_projeto_completo.blend ao lado dele. O script nao e necessario
+para abrir o projeto pronto.

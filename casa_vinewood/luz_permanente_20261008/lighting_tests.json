@@ -1,0 +1,198 @@
+{
+  "passed": true,
+  "coverage": [
+    {
+      "room": "Sala de estar",
+      "level": "terreo",
+      "samples": 584,
+      "worst_distance_to_radius": 0.7588556799709054,
+      "native_sources": 6
+    },
+    {
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "samples": 498,
+      "worst_distance_to_radius": 0.7503371533394301,
+      "native_sources": 6
+    },
+    {
+      "room": "Cozinha",
+      "level": "terreo",
+      "samples": 546,
+      "worst_distance_to_radius": 0.6624703330329296,
+      "native_sources": 6
+    },
+    {
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "samples": 456,
+      "worst_distance_to_radius": 0.6678867623128393,
+      "native_sources": 5
+    },
+    {
+      "room": "Escritorio",
+      "level": "terreo",
+      "samples": 260,
+      "worst_distance_to_radius": 0.6076026594210538,
+      "native_sources": 4
+    },
+    {
+      "room": "Lavabo",
+      "level": "terreo",
+      "samples": 96,
+      "worst_distance_to_radius": 0.654095805149406,
+      "native_sources": 1
+    },
+    {
+      "room": "Escada",
+      "level": "terreo",
+      "samples": 78,
+      "worst_distance_to_radius": 0.7657693425245056,
+      "native_sources": 1
+    },
+    {
+      "room": "Despensa",
+      "level": "terreo",
+      "samples": 96,
+      "worst_distance_to_radius": 0.6634669771375711,
+      "native_sources": 1
+    },
+    {
+      "room": "Sala TV Jogos",
+      "level": "terreo",
+      "samples": 162,
+      "worst_distance_to_radius": 0.7336583301882054,
+      "native_sources": 1
+    },
+    {
+      "room": "Lavanderia",
+      "level": "terreo",
+      "samples": 104,
+      "worst_distance_to_radius": 0.6668093511220442,
+      "native_sources": 1
+    },
+    {
+      "room": "Suite master",
+      "level": "superior",
+      "samples": 406,
+      "worst_distance_to_radius": 0.7325402197515978,
+      "native_sources": 4
+    },
+    {
+      "room": "Closet",
+      "level": "superior",
+      "samples": 144,
+      "worst_distance_to_radius": 0.7522656467670082,
+      "native_sources": 1
+    },
+    {
+      "room": "Banheiro da suite",
+      "level": "superior",
+      "samples": 144,
+      "worst_distance_to_radius": 0.7522656467670082,
+      "native_sources": 1
+    },
+    {
+      "room": "Quarto 2",
+      "level": "superior",
+      "samples": 572,
+      "worst_distance_to_radius": 0.7204236127572319,
+      "native_sources": 6
+    },
+    {
+      "room": "Quarto 3",
+      "level": "superior",
+      "samples": 256,
+      "worst_distance_to_radius": 0.6605090448639653,
+      "native_sources": 4
+    },
+    {
+      "room": "Banheiro social",
+      "level": "superior",
+      "samples": 112,
+      "worst_distance_to_radius": 0.7243483021378025,
+      "native_sources": 1
+    },
+    {
+      "room": "Circulacao quartos",
+      "level": "superior",
+      "samples": 112,
+      "worst_distance_to_radius": 0.7059155944206652,
+      "native_sources": 1
+    },
+    {
+      "room": "Mezanino",
+      "level": "superior",
+      "samples": 260,
+      "worst_distance_to_radius": 0.6584130432617432,
+      "native_sources": 4
+    },
+    {
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "samples": 212,
+      "worst_distance_to_radius": 0.6584130432617432,
+      "native_sources": 4
+    }
+  ],
+  "total_surface_samples": 5098,
+  "native_lights": 68,
+  "rooms": 19,
+  "lua_cases": [
+    {
+      "place": "hall_print",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "sala_print",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "jantar",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "cozinha",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "quarto_terreo",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "mezanino",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "suite",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "quarto_superior",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    },
+    {
+      "place": "deck",
+      "boost_lights": 19,
+      "unchanged_at_all_tested_hours": true
+    }
+  ],
+  "optional_boost_exactly_identical_from_all_rooms_and_hours": true,
+  "default_script_draws": 0,
+  "drone_camera_verified": true,
+  "far_loop_sleeps": true,
+  "native_constant_all_24_hours": true,
+  "native_light_hashes_unique": true,
+  "native_visible_from_outside": true,
+  "shadow_sources": 3,
+  "lua_syntax": true,
+  "in_game_verified": false
+}

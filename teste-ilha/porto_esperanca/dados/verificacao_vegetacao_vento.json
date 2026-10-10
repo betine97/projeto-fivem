@@ -1,0 +1,1089 @@
+{
+  "revisao": "porto-20261009-vegetacao-vento-1",
+  "aprovado": true,
+  "verificacoes": [
+    {
+      "nome": "dezoito_modelos_preparados",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_anterior_preservado",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "sem_instalacao",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "terreno_e_lotes_preservados",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_01_coqueiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_02_imperial",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_03_caneleira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_04_amendoeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_05_flamboyant",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_06_arvore_rua",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_07_reseda",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_09_oliveira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_10_castanhola",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_11_mangueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_12_bananeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_13_mangue",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_15_palmeira_ana",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_16_palma_azul",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_17_yucca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_18_cerca_viva",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_19_oiti",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "especie_procedural_preservada_19_oiti",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_20_figueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "especie_procedural_preservada_20_figueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_21_areca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "especie_procedural_preservada_21_areca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_22_palmeira_leque",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "especie_procedural_preservada_22_palmeira_leque",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_23_jasmim_manga",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "especie_procedural_preservada_23_jasmim_manga",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "contagem_24_vegetacao_baixa",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "especie_procedural_preservada_24_vegetacao_baixa",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "posicoes_escalas_preservadas",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisores_implantados",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisores_alinhados",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "grama_pedras_preservadas",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "originais_intactos_troncos",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "originais_intactos_lote01",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "originais_intactos_lote02",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_01_coqueiro",
+      "ok": true,
+      "detalhes": 0.40103
+    },
+    {
+      "nome": "bases_e_troncos_fixos_01_coqueiro",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_01_coqueiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_01_coqueiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_01_coqueiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_02_imperial",
+      "ok": true,
+      "detalhes": 0.38843
+    },
+    {
+      "nome": "bases_e_troncos_fixos_02_imperial",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_02_imperial",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_02_imperial",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_02_imperial",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_03_caneleira",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_03_caneleira",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_03_caneleira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_03_caneleira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_03_caneleira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_04_amendoeira",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_04_amendoeira",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_04_amendoeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_04_amendoeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_04_amendoeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_05_flamboyant",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_05_flamboyant",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_05_flamboyant",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_05_flamboyant",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_05_flamboyant",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_06_arvore_rua",
+      "ok": true,
+      "detalhes": 0.167095
+    },
+    {
+      "nome": "bases_e_troncos_fixos_06_arvore_rua",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_06_arvore_rua",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_06_arvore_rua",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_06_arvore_rua",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_07_reseda",
+      "ok": true,
+      "detalhes": 0.167069
+    },
+    {
+      "nome": "bases_e_troncos_fixos_07_reseda",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_07_reseda",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_07_reseda",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_07_reseda",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_09_oliveira",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_09_oliveira",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_09_oliveira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_09_oliveira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_09_oliveira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_10_castanhola",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_10_castanhola",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_10_castanhola",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_10_castanhola",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_10_castanhola",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_11_mangueira",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_11_mangueira",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_11_mangueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_11_mangueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_11_mangueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_12_bananeira",
+      "ok": true,
+      "detalhes": 0.444432
+    },
+    {
+      "nome": "bases_e_troncos_fixos_12_bananeira",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_12_bananeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_12_bananeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_12_bananeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_13_mangue",
+      "ok": true,
+      "detalhes": 0.167096
+    },
+    {
+      "nome": "bases_e_troncos_fixos_13_mangue",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_13_mangue",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_13_mangue",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_13_mangue",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": 0.095249
+    },
+    {
+      "nome": "bases_e_troncos_fixos_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_15_palmeira_ana",
+      "ok": true,
+      "detalhes": 0.380994
+    },
+    {
+      "nome": "bases_e_troncos_fixos_15_palmeira_ana",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_15_palmeira_ana",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_15_palmeira_ana",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_15_palmeira_ana",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_16_palma_azul",
+      "ok": true,
+      "detalhes": 0.380995
+    },
+    {
+      "nome": "bases_e_troncos_fixos_16_palma_azul",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_16_palma_azul",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_16_palma_azul",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_16_palma_azul",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_17_yucca",
+      "ok": true,
+      "detalhes": 0.098525
+    },
+    {
+      "nome": "bases_e_troncos_fixos_17_yucca",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_17_yucca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_17_yucca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_17_yucca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vento_mexe_folhas_18_cerca_viva",
+      "ok": true,
+      "detalhes": 0.095249
+    },
+    {
+      "nome": "bases_e_troncos_fixos_18_cerca_viva",
+      "ok": true,
+      "detalhes": 0.0
+    },
+    {
+      "nome": "malha_vento_finita_18_cerca_viva",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisor_fechado_18_cerca_viva",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "raio_encontra_tronco_18_cerca_viva",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "corpo_rigido_contato_11_mangueira",
+      "ok": true,
+      "detalhes": {
+        "z_contato": 4.386893272399902,
+        "z_queda_livre": 2.7726101875305176,
+        "topo": 4.3000006675720215
+      }
+    },
+    {
+      "nome": "corpo_rigido_contato_12_bananeira",
+      "ok": true,
+      "detalhes": {
+        "z_contato": 4.670266628265381,
+        "z_queda_livre": 3.196746349334717,
+        "topo": 4.724136829376221
+      }
+    },
+    {
+      "nome": "corpo_rigido_contato_16_palma_azul",
+      "ok": true,
+      "detalhes": {
+        "z_contato": 7.044260501861572,
+        "z_queda_livre": 5.427631378173828,
+        "topo": 6.955021858215332
+      }
+    },
+    {
+      "nome": "projeto_individual_01_coqueiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_01_coqueiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_01_coqueiro",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_02_imperial",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_02_imperial",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_02_imperial",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_03_caneleira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_03_caneleira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_03_caneleira",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_04_amendoeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_04_amendoeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_04_amendoeira",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_05_flamboyant",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_05_flamboyant",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_05_flamboyant",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_06_arvore_rua",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_06_arvore_rua",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_06_arvore_rua",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_07_reseda",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_07_reseda",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_07_reseda",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_09_oliveira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_09_oliveira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_09_oliveira",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_10_castanhola",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_10_castanhola",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_10_castanhola",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_11_mangueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_11_mangueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_11_mangueira",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_12_bananeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_12_bananeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_12_bananeira",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_13_mangue",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_13_mangue",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_13_mangue",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_15_palmeira_ana",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_15_palmeira_ana",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_15_palmeira_ana",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_16_palma_azul",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_16_palma_azul",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_16_palma_azul",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_17_yucca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_17_yucca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_17_yucca",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "projeto_individual_18_cerca_viva",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_passiva_individual_18_cerca_viva",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "imagens_individuais_packed_18_cerca_viva",
+      "ok": true,
+      "detalhes": 2
+    },
+    {
+      "nome": "dezoito_YBN_reabertos",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_catalogo_lote02.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_vento_e_contato.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_vento.mp4",
+      "ok": true,
+      "detalhes": null
+    }
+  ],
+  "medidas_vento": [
+    {
+      "id": "01_coqueiro",
+      "deslocamento_folhas_entre_quadros_m": 0.4010297656059265,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "02_imperial",
+      "deslocamento_folhas_entre_quadros_m": 0.3884304463863373,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "03_caneleira",
+      "deslocamento_folhas_entre_quadros_m": 0.16709557175636292,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "04_amendoeira",
+      "deslocamento_folhas_entre_quadros_m": 0.1670958548784256,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "05_flamboyant",
+      "deslocamento_folhas_entre_quadros_m": 0.16709569096565247,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "06_arvore_rua",
+      "deslocamento_folhas_entre_quadros_m": 0.16709470748901367,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "07_reseda",
+      "deslocamento_folhas_entre_quadros_m": 0.16706949472427368,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "08_ipe_amarelo",
+      "deslocamento_folhas_entre_quadros_m": 0.16709591448307037,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "09_oliveira",
+      "deslocamento_folhas_entre_quadros_m": 0.16709581017494202,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "10_castanhola",
+      "deslocamento_folhas_entre_quadros_m": 0.16709578037261963,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "11_mangueira",
+      "deslocamento_folhas_entre_quadros_m": 0.1670955866575241,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "12_bananeira",
+      "deslocamento_folhas_entre_quadros_m": 0.4444322884082794,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "13_mangue",
+      "deslocamento_folhas_entre_quadros_m": 0.16709567606449127,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "14_arbusto_costeiro",
+      "deslocamento_folhas_entre_quadros_m": 0.09524867683649063,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "15_palmeira_ana",
+      "deslocamento_folhas_entre_quadros_m": 0.38099420070648193,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "16_palma_azul",
+      "deslocamento_folhas_entre_quadros_m": 0.38099461793899536,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "17_yucca",
+      "deslocamento_folhas_entre_quadros_m": 0.09852464497089386,
+      "deslocamento_vertices_fixos_m": 0.0
+    },
+    {
+      "id": "18_cerca_viva",
+      "deslocamento_folhas_entre_quadros_m": 0.09524872153997421,
+      "deslocamento_vertices_fixos_m": 0.0
+    }
+  ],
+  "teste_contato": [
+    {
+      "modelo": "11_mangueira",
+      "z_contato_m": 4.386893272399902,
+      "z_controle_m": 2.7726101875305176
+    },
+    {
+      "modelo": "12_bananeira",
+      "z_contato_m": 4.670266628265381,
+      "z_controle_m": 3.196746349334717
+    },
+    {
+      "modelo": "16_palma_azul",
+      "z_contato_m": 7.044260501861572,
+      "z_controle_m": 5.427631378173828
+    }
+  ],
+  "validacao_fivem": false,
+  "aprovacao_visual_usuario": "pendente"
+}

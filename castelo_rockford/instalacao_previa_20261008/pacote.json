@@ -1,0 +1,738 @@
+{
+  "passed": true,
+  "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\castelo_rockford\\evolucao_interiores_20261008\\castelo_rockford_evoluido.blend",
+  "source_sha256": "212dec3523417cda90d93513fa5082a82ee35b6d8d8611085d66950528105e9c",
+  "scale": [
+    1,
+    1,
+    1
+  ],
+  "anchor": [
+    -946.0,
+    207.0,
+    66.47
+  ],
+  "rotation_degrees": 60,
+  "textures": [
+    {
+      "name": "crf_m00_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Acesso veicular fosco"
+    },
+    {
+      "name": "crf_m00_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Acesso veicular fosco"
+    },
+    {
+      "name": "crf_m00_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Acesso veicular fosco"
+    },
+    {
+      "name": "crf_m01_diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "dds_bytes": 2796344,
+      "mips": 12,
+      "format": "DXT1",
+      "source_material": "Ardosia cinza azulada"
+    },
+    {
+      "name": "crf_m01_normal",
+      "size": [
+        2048,
+        2048
+      ],
+      "dds_bytes": 5592560,
+      "mips": 12,
+      "format": "DXT5",
+      "source_material": "Ardosia cinza azulada"
+    },
+    {
+      "name": "crf_m01_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Ardosia cinza azulada"
+    },
+    {
+      "name": "crf_m02_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Boiserie / marfim acetinado"
+    },
+    {
+      "name": "crf_m02_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Boiserie / marfim acetinado"
+    },
+    {
+      "name": "crf_m02_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Boiserie / marfim acetinado"
+    },
+    {
+      "name": "crf_m03_diffuse",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 699192,
+      "mips": 11,
+      "format": "DXT1",
+      "source_material": "Boiserie conselho / nogueira escura"
+    },
+    {
+      "name": "crf_m03_normal",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 1398256,
+      "mips": 11,
+      "format": "DXT5",
+      "source_material": "Boiserie conselho / nogueira escura"
+    },
+    {
+      "name": "crf_m03_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Boiserie conselho / nogueira escura"
+    },
+    {
+      "name": "crf_m04_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Bronze envelhecido"
+    },
+    {
+      "name": "crf_m04_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Bronze envelhecido"
+    },
+    {
+      "name": "crf_m04_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Bronze envelhecido"
+    },
+    {
+      "name": "crf_m05_diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "dds_bytes": 2796344,
+      "mips": 12,
+      "format": "DXT1",
+      "source_material": "Calcario creme / juntas e relevo"
+    },
+    {
+      "name": "crf_m05_normal",
+      "size": [
+        2048,
+        2048
+      ],
+      "dds_bytes": 5592560,
+      "mips": 12,
+      "format": "DXT5",
+      "source_material": "Calcario creme / juntas e relevo"
+    },
+    {
+      "name": "crf_m05_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Calcario creme / juntas e relevo"
+    },
+    {
+      "name": "crf_m06_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Cantaria esculpida / marfim"
+    },
+    {
+      "name": "crf_m06_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Cantaria esculpida / marfim"
+    },
+    {
+      "name": "crf_m06_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Cantaria esculpida / marfim"
+    },
+    {
+      "name": "crf_m07_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Difusor lustre / luz quente 3000 K"
+    },
+    {
+      "name": "crf_m08_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Ferro preto"
+    },
+    {
+      "name": "crf_m08_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Ferro preto"
+    },
+    {
+      "name": "crf_m08_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Ferro preto"
+    },
+    {
+      "name": "crf_m09_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Folhagem topiaria / variacao natural"
+    },
+    {
+      "name": "crf_m09_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Folhagem topiaria / variacao natural"
+    },
+    {
+      "name": "crf_m09_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Folhagem topiaria / variacao natural"
+    },
+    {
+      "name": "crf_m10_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Fonte agua"
+    },
+    {
+      "name": "crf_m10_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Fonte agua"
+    },
+    {
+      "name": "crf_m10_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Fonte agua"
+    },
+    {
+      "name": "crf_m12_diffuse",
+      "size": [
+        512,
+        512
+      ],
+      "dds_bytes": 174904,
+      "mips": 10,
+      "format": "DXT1",
+      "source_material": "Linho claro"
+    },
+    {
+      "name": "crf_m12_normal",
+      "size": [
+        512,
+        512
+      ],
+      "dds_bytes": 349680,
+      "mips": 10,
+      "format": "DXT5",
+      "source_material": "Linho claro"
+    },
+    {
+      "name": "crf_m12_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Linho claro"
+    },
+    {
+      "name": "crf_m13_diffuse",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 699192,
+      "mips": 11,
+      "format": "DXT1",
+      "source_material": "Madeira nogueira"
+    },
+    {
+      "name": "crf_m13_normal",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 1398256,
+      "mips": 11,
+      "format": "DXT5",
+      "source_material": "Madeira nogueira"
+    },
+    {
+      "name": "crf_m13_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Madeira nogueira"
+    },
+    {
+      "name": "crf_m14_diffuse",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 699192,
+      "mips": 11,
+      "format": "DXT1",
+      "source_material": "Parede branca / textura da mansao"
+    },
+    {
+      "name": "crf_m14_normal",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 1398256,
+      "mips": 11,
+      "format": "DXT5",
+      "source_material": "Parede branca / textura da mansao"
+    },
+    {
+      "name": "crf_m14_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Parede branca / textura da mansao"
+    },
+    {
+      "name": "crf_m15_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 2872,
+      "mips": 7,
+      "format": "DXT1",
+      "source_material": "Pavers acesso"
+    },
+    {
+      "name": "crf_m15_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Pavers acesso"
+    },
+    {
+      "name": "crf_m15_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Pavers acesso"
+    },
+    {
+      "name": "crf_m16_diffuse",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 699192,
+      "mips": 11,
+      "format": "DXT1",
+      "source_material": "Piso da mansao / pedra polida"
+    },
+    {
+      "name": "crf_m16_normal",
+      "size": [
+        1024,
+        1024
+      ],
+      "dds_bytes": 1398256,
+      "mips": 11,
+      "format": "DXT5",
+      "source_material": "Piso da mansao / pedra polida"
+    },
+    {
+      "name": "crf_m16_spec",
+      "size": [
+        16,
+        16
+      ],
+      "dds_bytes": 312,
+      "mips": 5,
+      "format": "DXT1",
+      "source_material": "Piso da mansao / pedra polida"
+    },
+    {
+      "name": "crf_m18_diffuse",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Vidro levemente azul"
+    },
+    {
+      "name": "crf_m18_normal",
+      "size": [
+        64,
+        64
+      ],
+      "dds_bytes": 5616,
+      "mips": 7,
+      "format": "DXT5",
+      "source_material": "Vidro levemente azul"
+    }
+  ],
+  "models": [
+    {
+      "model": "crf_cobertura_arquitetura",
+      "triangles": 6790,
+      "vertices": 15946,
+      "geometries": 6,
+      "lights": 0,
+      "collision_triangles": 1158,
+      "local_bounds": [
+        [
+          -14.899999618530273,
+          -11.399999618530273,
+          13.079999923706055
+        ],
+        [
+          14.899999618530273,
+          11.399999618530273,
+          24.350000381469727
+        ]
+      ]
+    },
+    {
+      "model": "crf_conselho_arquitetura",
+      "triangles": 9656,
+      "vertices": 20721,
+      "geometries": 7,
+      "lights": 9,
+      "collision_triangles": 9656,
+      "local_bounds": [
+        [
+          -14.824307441711426,
+          -11.324307441711426,
+          8.850000381469727
+        ],
+        [
+          14.824307441711426,
+          11.324307441711426,
+          13.300000190734863
+        ]
+      ]
+    },
+    {
+      "model": "crf_conselho_detalhes",
+      "triangles": 18625,
+      "vertices": 46876,
+      "geometries": 9,
+      "lights": 0,
+      "collision_triangles": 8076,
+      "local_bounds": [
+        [
+          -14.25,
+          -10.449999809265137,
+          9.09999942779541
+        ],
+        [
+          14.25,
+          10.25,
+          14.25
+        ]
+      ]
+    },
+    {
+      "model": "crf_implantacao_arquitetura",
+      "triangles": 3504,
+      "vertices": 8653,
+      "geometries": 10,
+      "lights": 0,
+      "collision_triangles": 1192,
+      "local_bounds": [
+        [
+          -19.799999237060547,
+          -22.0,
+          -0.14000000059604645
+        ],
+        [
+          23.0,
+          25.0,
+          3.640000104904175
+        ]
+      ]
+    },
+    {
+      "model": "crf_suites_arquitetura",
+      "triangles": 13468,
+      "vertices": 28907,
+      "geometries": 7,
+      "lights": 6,
+      "collision_triangles": 13468,
+      "local_bounds": [
+        [
+          -14.824307441711426,
+          -12.5,
+          4.619999885559082
+        ],
+        [
+          14.824307441711426,
+          11.324307441711426,
+          9.100000381469727
+        ]
+      ]
+    },
+    {
+      "model": "crf_suites_detalhes",
+      "triangles": 8968,
+      "vertices": 22689,
+      "geometries": 8,
+      "lights": 0,
+      "collision_triangles": 3240,
+      "local_bounds": [
+        [
+          -14.25,
+          -10.25,
+          4.900000095367432
+        ],
+        [
+          14.25,
+          10.25,
+          10.100000381469727
+        ]
+      ]
+    },
+    {
+      "model": "crf_terreo_arquitetura",
+      "triangles": 9748,
+      "vertices": 21172,
+      "geometries": 7,
+      "lights": 9,
+      "collision_triangles": 9748,
+      "local_bounds": [
+        [
+          -14.824307441711426,
+          -12.225000381469727,
+          0.44999998807907104
+        ],
+        [
+          14.824307441711426,
+          11.324307441711426,
+          4.900000095367432
+        ]
+      ]
+    },
+    {
+      "model": "crf_terreo_detalhes",
+      "triangles": 21026,
+      "vertices": 53626,
+      "geometries": 10,
+      "lights": 0,
+      "collision_triangles": 11016,
+      "local_bounds": [
+        [
+          -14.25,
+          -10.25,
+          0.6999999284744263
+        ],
+        [
+          14.25,
+          10.25,
+          5.900000095367432
+        ]
+      ]
+    }
+  ],
+  "texture_dds_bytes": 25778872,
+  "exterior_materials_baked": true,
+  "source_unchanged": true,
+  "world_bounds": [
+    [
+      -977.5506347131412,
+      178.85269766579307,
+      66.32999999940395
+    ],
+    [
+      -915.4474411167423,
+      239.41858428704208,
+      90.82000038146973
+    ]
+  ],
+  "native_files": [
+    "crf_castelo_previa.ymap",
+    "crf_castelo_previa.ytyp",
+    "crf_castelo_texturas.ytd",
+    "crf_cobertura_arquitetura.ydr",
+    "crf_conselho_arquitetura.ydr",
+    "crf_conselho_detalhes.ydr",
+    "crf_implantacao_arquitetura.ydr",
+    "crf_suites_arquitetura.ydr",
+    "crf_suites_detalhes.ydr",
+    "crf_terreo_arquitetura.ydr",
+    "crf_terreo_detalhes.ydr"
+  ],
+  "geometry_lods": "Full detail preview; texture mipmaps supplied. Simplified geometry LOD pending.",
+  "in_game_verified": false
+}

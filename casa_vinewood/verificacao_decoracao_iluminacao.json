@@ -1,0 +1,201 @@
+{
+  "passed": true,
+  "revision": "tapete-quadros-noite-2026-10-08",
+  "spots": 88,
+  "stair_led_strips": 20,
+  "native_plants": 17,
+  "native_paintings": 4,
+  "rug_triangles": 45000,
+  "rug_uv_finite": true,
+  "rug_no_collision": true,
+  "night_multiplier": 4,
+  "fixture_triangles": 33920,
+  "fixture_no_collision": true,
+  "walking_routes": {
+    "entrada_original": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_esquerda": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_direita": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_deck": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "porta_fundos": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_perto_vidro": {
+      "samples": 127,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "cozinha_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "portao_entrada_rua": {
+      "samples": 78,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "escada_completa": {
+      "samples": 124,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite closet banheiro": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem entre sofa e jantar": {
+      "samples": 64,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem cozinha": {
+      "samples": 84,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Volta completa da mesa": {
+      "samples": 222,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Entre jantar e cozinha": {
+      "samples": 55,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "native_map_roundtrip": true,
+  "runtime_cases": 9,
+  "max_spotlights": 18,
+  "max_shadow_lights": 6,
+  "files": {
+    "mansao_decoracao.ymap": "aa06765da52841ebeae6a36059418addfa911e9774284ddbd2bfe7f89f6bb3d1",
+    "mansao_decoracao.ytyp": "9f9ab31fbcbacb394ec5c1371a17e8513fdda4e732229a8dfe9b4243483cd269",
+    "mansao_spots_led.ydr": "f967aba1ddd3cfec000aea99132b937e596478e956b20251d99aa908ebd4325f",
+    "mansao_tapete_sala.ydr": "1b0398c62b79e566f483f6244dc25c915076c44907fcb7b6894771c65d8f65eb"
+  },
+  "in_game_verified": false
+}

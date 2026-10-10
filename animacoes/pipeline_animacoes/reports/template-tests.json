@@ -1,0 +1,22 @@
+{
+  "root_control": true,
+  "ik": {
+    "L_HAND": {
+      "contact_error_m": 1.0205218425109525e-05,
+      "no_stretch": true
+    },
+    "L_FOOT": {
+      "contact_error_m": 1.4839396396741943e-05,
+      "no_stretch": true
+    },
+    "R_HAND": {
+      "contact_error_m": 1.0463581835601969e-05,
+      "no_stretch": true
+    },
+    "R_FOOT": {
+      "contact_error_m": 1.4843438828063768e-05,
+      "no_stretch": true
+    }
+  },
+  "source_modified": false
+}

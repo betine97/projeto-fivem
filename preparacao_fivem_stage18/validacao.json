@@ -1,0 +1,24 @@
+{
+  "plants": 54,
+  "pots": 54,
+  "plants_per_rack": 27,
+  "plants_per_module": 9,
+  "rows_per_module": 3,
+  "row_spacing_m": 0.78,
+  "shared_vegetation_meshes": 18,
+  "installed_on_server": false,
+  "placement_coordinates": null,
+  "game_ready": false,
+  "remaining": [
+    "Baking/conversao dos materiais Blender para shaders GTA",
+    "LOD e otimizacao final",
+    "Exportacao YDR/YTD/YBN e validacao no jogo",
+    "Posicionamento YMAP apos receber coordenadas"
+  ],
+  "collision_proxy_count": 33,
+  "unique_meshes": 1265,
+  "instanced_triangle_estimate": 4327634,
+  "lod_vegetation_instances": 54,
+  "lod_unique_meshes": 18,
+  "lod_triangle_estimate": 149472
+}

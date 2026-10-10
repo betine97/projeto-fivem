@@ -1,0 +1,3133 @@
+{
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "night_multiplier": 2.2,
+  "day_multiplier": 0.6,
+  "max_lights": 24,
+  "selection_ms": 200,
+  "fade_ms": 450,
+  "selection_distance": 14,
+  "budgets": {
+    "ambient": 8,
+    "fixture": 6,
+    "pendant": 3,
+    "stair": 3
+  },
+  "lights": [
+    {
+      "id": "fill_1",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -11.1,
+        1.4000000000000001
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 8.0,
+      "intensity": 1.75
+    },
+    {
+      "id": "ceiling_1",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -11.1,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 7.5,
+      "intensity": 1.05
+    },
+    {
+      "id": "fill_2",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -8.1,
+        1.4000000000000001
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 8.0,
+      "intensity": 1.75
+    },
+    {
+      "id": "ceiling_2",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -8.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 7.5,
+      "intensity": 1.05
+    },
+    {
+      "id": "fill_3",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -5.3,
+        1.4000000000000001
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 8.0,
+      "intensity": 1.75
+    },
+    {
+      "id": "ceiling_3",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -5.3,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 7.5,
+      "intensity": 1.05
+    },
+    {
+      "id": "fill_4",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_4",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        -2.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_5",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_5",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        0.6,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_6",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        4.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_6",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        4.1,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_7",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        6.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_7",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        6.6,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_8",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        8.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_8",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -7.6,
+        8.3,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_9",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        -5.3,
+        1.4000000000000001
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 8.0,
+      "intensity": 1.75
+    },
+    {
+      "id": "ceiling_9",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        -5.3,
+        6.126999809265137
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 7.5,
+      "intensity": 1.05
+    },
+    {
+      "id": "fill_10",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_10",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        -2.3,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_11",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_11",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        0.6,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_12",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        4.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_12",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        4.1,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_13",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        6.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_13",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        6.6,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_14",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        8.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_14",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -5.1,
+        8.3,
+        2.0349998016357422
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_15",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        -5.3,
+        1.4000000000000001
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 8.0,
+      "intensity": 1.75
+    },
+    {
+      "id": "ceiling_15",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        -5.3,
+        6.126999809265137
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 7.5,
+      "intensity": 1.05
+    },
+    {
+      "id": "fill_16",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_16",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        -2.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_17",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_17",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        0.6,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_18",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        4.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_18",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        4.1,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_19",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        6.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_19",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        6.6,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_20",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        8.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_20",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        8.3,
+        2.0349998016357422
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_21",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        1.3,
+        -5.3,
+        1.4000000000000001
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 8.0,
+      "intensity": 1.75
+    },
+    {
+      "id": "ceiling_21",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        1.3,
+        -5.3,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 7.5,
+      "intensity": 1.05
+    },
+    {
+      "id": "fill_22",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        1.3,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_22",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        1.3,
+        -2.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_23",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        1.3,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_23",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        1.3,
+        0.6,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_24",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        4.3,
+        -5.3,
+        1.4000000000000001
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 8.0,
+      "intensity": 1.75
+    },
+    {
+      "id": "ceiling_24",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        4.3,
+        -5.3,
+        6.126999809265137
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 7.5,
+      "intensity": 1.05
+    },
+    {
+      "id": "fill_25",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        4.3,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_25",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        4.3,
+        -2.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_26",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        4.3,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_26",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        4.3,
+        0.6,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_27",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        4.3,
+        4.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_27",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        4.3,
+        4.1,
+        2.0349998016357422
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_28",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        4.3,
+        6.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_28",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        4.3,
+        6.6,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_29",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -11.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_29",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -11.1,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_30",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -8.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_30",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -8.1,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_31",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -5.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_31",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -5.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_32",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_32",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        7.7,
+        -2.3,
+        2.0349998016357422
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_33",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        7.7,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_33",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        7.7,
+        0.6,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_34",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        7.7,
+        4.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_34",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        7.7,
+        4.1,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_35",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        7.7,
+        6.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_35",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        7.7,
+        6.6,
+        2.0349998016357422
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_36",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        10.8,
+        -11.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_36",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        10.8,
+        -11.1,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_37",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        10.8,
+        -5.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_37",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        10.8,
+        -5.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_38",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        10.8,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_38",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        10.8,
+        -2.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_39",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        10.8,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_39",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        10.8,
+        0.6,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_40",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -11.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_40",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -11.1,
+        2.0349998016357422
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_41",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -8.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_41",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -8.1,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_42",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -5.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_42",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -5.3,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_43",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -2.3,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_43",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        12.9,
+        -2.3,
+        2.0350002784729004
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_44",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.9,
+        0.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_44",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        12.9,
+        0.6,
+        2.0349998016357422
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_45",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.9,
+        4.1,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_45",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        12.9,
+        4.1,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_46",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.9,
+        6.6,
+        1.0
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_46",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        12.9,
+        6.6,
+        2.0350000400543213
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_47",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -7.6,
+        -2.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_47",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -7.6,
+        -2.3,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_48",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -7.6,
+        0.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_48",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -7.6,
+        0.6,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_49",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -7.6,
+        4.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_49",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -7.6,
+        4.1,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_50",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -7.6,
+        6.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_50",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -7.6,
+        6.6,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_51",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -7.6,
+        8.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_51",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -7.6,
+        8.3,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_52",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -5.1,
+        4.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_52",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -5.1,
+        4.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_53",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -5.1,
+        6.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_53",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -5.1,
+        6.6,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_54",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -5.1,
+        8.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_54",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -5.1,
+        8.3,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_55",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -2.0,
+        -2.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_55",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -2.0,
+        -2.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_56",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -2.0,
+        0.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_56",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -2.0,
+        0.6,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_57",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -2.0,
+        4.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_57",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -2.0,
+        4.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_58",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -2.0,
+        6.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_58",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -2.0,
+        6.6,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_59",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -2.0,
+        8.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_59",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        -2.0,
+        8.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_60",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        1.3,
+        -2.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_60",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        1.3,
+        -2.3,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_61",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        1.3,
+        0.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_61",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        1.3,
+        0.6,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_62",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        4.3,
+        -2.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_62",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        4.3,
+        -2.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_63",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        4.3,
+        0.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_63",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        4.3,
+        0.6,
+        6.126999809265137
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_64",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        4.3,
+        4.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_64",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        4.3,
+        4.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_65",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        4.3,
+        6.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_65",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        4.3,
+        6.6,
+        6.126999809265137
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_66",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        -14.4,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_66",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        -14.4,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_67",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        -11.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_67",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        -11.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_68",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        -8.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_68",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        -8.1,
+        6.126999809265137
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_69",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        -5.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_69",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        -5.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_70",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        -2.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_70",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        -2.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_71",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        0.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_71",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        0.6,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_72",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        4.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_72",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        4.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_73",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        7.7,
+        6.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_73",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        7.7,
+        6.6,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_74",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.8,
+        -14.4,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_74",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        10.8,
+        -14.4,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_75",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.8,
+        -11.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_75",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        10.8,
+        -11.1,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_76",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.8,
+        -5.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_76",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        10.8,
+        -5.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_77",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.8,
+        -2.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_77",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        10.8,
+        -2.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_78",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.8,
+        0.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_78",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        10.8,
+        0.6,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_79",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.8,
+        4.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_79",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        10.8,
+        4.1,
+        6.126999809265137
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_80",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.8,
+        6.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_80",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        10.8,
+        6.6,
+        6.127000762939454
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_81",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        -14.4,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_81",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        -14.4,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_82",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        -11.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_82",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        -11.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_83",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        -8.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_83",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        -8.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_84",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        -5.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_84",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        -5.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_85",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        -2.3,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_85",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        -2.3,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_86",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        0.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_86",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        0.6,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_87",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        4.1,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_87",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        4.1,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "fill_88",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        12.9,
+        6.6,
+        4.608
+      ],
+      "rgb": [
+        255,
+        239,
+        218
+      ],
+      "range": 6.6,
+      "intensity": 1.4
+    },
+    {
+      "id": "ceiling_88",
+      "kind": "fixture",
+      "level": "superior",
+      "position": [
+        12.9,
+        6.6,
+        6.127000286102295
+      ],
+      "rgb": [
+        255,
+        232,
+        198
+      ],
+      "range": 5.8,
+      "intensity": 0.8
+    },
+    {
+      "id": "dining_a",
+      "kind": "pendant",
+      "level": "terreo",
+      "position": [
+        2.650145928064982,
+        -8.883827209472656,
+        2.833616536458333
+      ],
+      "rgb": [
+        255,
+        226,
+        187
+      ],
+      "range": 6.2,
+      "intensity": 1.5
+    },
+    {
+      "id": "dining_b",
+      "kind": "pendant",
+      "level": "terreo",
+      "position": [
+        2.6492626667022705,
+        -7.723227183024089,
+        2.5694959576924643
+      ],
+      "rgb": [
+        255,
+        226,
+        187
+      ],
+      "range": 6.2,
+      "intensity": 1.5
+    },
+    {
+      "id": "kitchen",
+      "kind": "pendant",
+      "level": "terreo",
+      "position": [
+        10.45,
+        -9.0,
+        1.3
+      ],
+      "rgb": [
+        255,
+        226,
+        187
+      ],
+      "range": 6.2,
+      "intensity": 1.5
+    },
+    {
+      "id": "stair_0",
+      "kind": "stair",
+      "level": "both",
+      "position": [
+        0.39999961853027344,
+        2.3579993085861206,
+        -0.3047999999523163
+      ],
+      "rgb": [
+        255,
+        213,
+        163
+      ],
+      "range": 2.4,
+      "intensity": 0.48
+    },
+    {
+      "id": "stair_1",
+      "kind": "stair",
+      "level": "both",
+      "position": [
+        0.5399997040629387,
+        3.8579996662139893,
+        0.5971999683380127
+      ],
+      "rgb": [
+        255,
+        213,
+        163
+      ],
+      "range": 2.4,
+      "intensity": 0.48
+    },
+    {
+      "id": "stair_2",
+      "kind": "stair",
+      "level": "both",
+      "position": [
+        1.8000001311302185,
+        3.8419996662139893,
+        1.4992000379562378
+      ],
+      "rgb": [
+        255,
+        213,
+        163
+      ],
+      "range": 2.4,
+      "intensity": 0.48
+    },
+    {
+      "id": "stair_3",
+      "kind": "stair",
+      "level": "both",
+      "position": [
+        1.8000001192092896,
+        2.3419996185302736,
+        2.4012000122070316
+      ],
+      "rgb": [
+        255,
+        213,
+        163
+      ],
+      "range": 2.4,
+      "intensity": 0.48
+    }
+  ],
+  "description": "Diffuse point lights and broad bounce fill; no spotlight cones or shadow passes."
+}

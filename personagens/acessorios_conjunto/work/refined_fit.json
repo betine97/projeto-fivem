@@ -1,0 +1,15 @@
+{
+  "revision": 2,
+  "original_uvs_preserved": {
+    "CAMISA_ESTAMPADA": "03c051f830d594f40884458b2851608dbf84f29713000bfc6e928cf26cf09f88",
+    "CALCA_BEGE": "20d0ff8c06bd651368424b9e190853d7463d0868baa840435b89ac77469619d5"
+  },
+  "shirt_depth_scale": 0.68,
+  "hem_width_scale": 0.7,
+  "hem_depth_scale": 0.66,
+  "hem_raise_m": 0.012,
+  "skin_parts": {
+    "PELE_PES_MOCASSINS": 18,
+    "PELE_TORNOZELOS_MOCASSINS": 260
+  }
+}

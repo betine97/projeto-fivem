@@ -1,0 +1,650 @@
+{
+  "revisao": "porto-20261009-vegetacao-vento-1",
+  "arquivo": "porto_esperanca_vegetacao_vento.blend",
+  "modelos_lote02": [
+    {
+      "id": "11_mangueira",
+      "poligonos": 41806,
+      "vertices": 126100,
+      "tronco": "texturas/troncos/originais/lote01_03.png",
+      "folhas": "texturas/folhas/lote02/folhas_11.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4920255183413078,
+          0.14752791068580542
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          617,
+          185,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.5087719298245614,
+          0.6730462519936204
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          638,
+          844,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Casca reutilizada provisoriamente; não foi recebido tronco exclusivo de mangueira."
+    },
+    {
+      "id": "12_bananeira",
+      "poligonos": 720,
+      "vertices": 2920,
+      "tronco": "texturas/troncos/originais/lote02_04.png",
+      "folhas": "texturas/folhas/lote02/folhas_12.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4696969696969697,
+          0.14752791068580542
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          589,
+          185,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.5199362041467305,
+          0.6228070175438597
+        ],
+        "tamanho_uv": [
+          0.019138755980861243,
+          0.11961722488038277
+        ],
+        "retangulo_pixels": [
+          652,
+          781,
+          24,
+          150
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Pseudocaules verdes, imagem própria."
+    },
+    {
+      "id": "13_mangue",
+      "poligonos": 41410,
+      "vertices": 125020,
+      "tronco": "texturas/troncos/originais/lote02_07.png",
+      "folhas": "texturas/folhas/lote02/folhas_13.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4696969696969697,
+          0.1331738437001595
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          589,
+          167,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.430622009569378,
+          0.55103668261563
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          540,
+          691,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Associação pela sequência e aparência; raízes de suporte preservadas em 3D."
+    },
+    {
+      "id": "14_arbusto_costeiro",
+      "poligonos": 13707,
+      "vertices": 41470,
+      "tronco": "texturas/troncos/originais/lote02_08.png",
+      "folhas": "texturas/folhas/lote02/folhas_14.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4696969696969697,
+          0.14752791068580542
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          589,
+          185,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.46411483253588515,
+          0.55103668261563
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          582,
+          691,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Troncos e ramos de arbusto."
+    },
+    {
+      "id": "15_palmeira_ana",
+      "poligonos": 18780,
+      "vertices": 75300,
+      "tronco": "texturas/troncos/originais/lote02_06.png",
+      "folhas": "texturas/folhas/lote02/folhas_15.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4696969696969697,
+          0.14752791068580542
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          589,
+          185,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.5478468899521531,
+          0.5725677830940988
+        ],
+        "tamanho_uv": [
+          0.019138755980861243,
+          0.11961722488038277
+        ],
+        "retangulo_pixels": [
+          687,
+          718,
+          24,
+          150
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Touceira de palmeira anã."
+    },
+    {
+      "id": "16_palma_azul",
+      "poligonos": 6476,
+      "vertices": 26180,
+      "tronco": "texturas/troncos/originais/lote02_03.png",
+      "folhas": "texturas/folhas/lote02/folhas_16.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4696969696969697,
+          0.14752791068580542
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          589,
+          185,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.5422647527910686,
+          0.5079744816586922
+        ],
+        "tamanho_uv": [
+          0.019138755980861243,
+          0.11961722488038277
+        ],
+        "retangulo_pixels": [
+          680,
+          637,
+          24,
+          150
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Palmeira de folhas em leque azuladas."
+    },
+    {
+      "id": "17_yucca",
+      "poligonos": 680,
+      "vertices": 2112,
+      "tronco": "texturas/troncos/originais/lote02_05.png",
+      "folhas": "texturas/folhas/lote02/folhas_17.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4696969696969697,
+          0.14752791068580542
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          589,
+          185,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.5590111642743222,
+          0.5223285486443381
+        ],
+        "tamanho_uv": [
+          0.019138755980861243,
+          0.11961722488038277
+        ],
+        "retangulo_pixels": [
+          701,
+          655,
+          24,
+          150
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Caules múltiplos de yucca."
+    },
+    {
+      "id": "18_cerca_viva",
+      "poligonos": 13707,
+      "vertices": 41470,
+      "tronco": "texturas/troncos/originais/lote02_08.png",
+      "folhas": "texturas/folhas/lote02/folhas_18.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4696969696969697,
+          0.14752791068580542
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.12759170653907495
+        ],
+        "retangulo_pixels": [
+          589,
+          185,
+          80,
+          160
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.5701754385964912,
+          0.6730462519936204
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          715,
+          844,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "nota_associacao": "Casca de arbusto reutilizada na cerca viva."
+    }
+  ],
+  "modelos_texturizados_total": 18,
+  "vento": [
+    {
+      "vertices_fixos": 2666,
+      "vertices_moveis": 72864,
+      "peso_maximo": 1.0,
+      "id": "01_coqueiro",
+      "amplitude_m": 0.24
+    },
+    {
+      "vertices_fixos": 2180,
+      "vertices_moveis": 72864,
+      "peso_maximo": 1.0,
+      "id": "02_imperial",
+      "amplitude_m": 0.24
+    },
+    {
+      "vertices_fixos": 22660,
+      "vertices_moveis": 102000,
+      "peso_maximo": 1.0,
+      "id": "03_caneleira",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 22660,
+      "vertices_moveis": 102000,
+      "peso_maximo": 1.0,
+      "id": "04_amendoeira",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 34372,
+      "vertices_moveis": 160560,
+      "peso_maximo": 1.0,
+      "id": "05_flamboyant",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 22660,
+      "vertices_moveis": 102000,
+      "peso_maximo": 1.0,
+      "id": "06_arvore_rua",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 34372,
+      "vertices_moveis": 160560,
+      "peso_maximo": 1.0,
+      "id": "07_reseda",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 34372,
+      "vertices_moveis": 160560,
+      "peso_maximo": 1.0,
+      "id": "08_ipe_amarelo",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 22660,
+      "vertices_moveis": 102000,
+      "peso_maximo": 1.0,
+      "id": "09_oliveira",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 22660,
+      "vertices_moveis": 102000,
+      "peso_maximo": 1.0,
+      "id": "10_castanhola",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 24100,
+      "vertices_moveis": 102000,
+      "peso_maximo": 1.0,
+      "id": "11_mangueira",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 400,
+      "vertices_moveis": 2520,
+      "peso_maximo": 1.0,
+      "id": "12_bananeira",
+      "amplitude_m": 0.28
+    },
+    {
+      "vertices_fixos": 23020,
+      "vertices_moveis": 102000,
+      "peso_maximo": 1.0,
+      "id": "13_mangue",
+      "amplitude_m": 0.1
+    },
+    {
+      "vertices_fixos": 7870,
+      "vertices_moveis": 33600,
+      "peso_maximo": 1.0,
+      "id": "14_arbusto_costeiro",
+      "amplitude_m": 0.06
+    },
+    {
+      "vertices_fixos": 1140,
+      "vertices_moveis": 74160,
+      "peso_maximo": 1.0,
+      "id": "15_palmeira_ana",
+      "amplitude_m": 0.24
+    },
+    {
+      "vertices_fixos": 1460,
+      "vertices_moveis": 24720,
+      "peso_maximo": 1.0,
+      "id": "16_palma_azul",
+      "amplitude_m": 0.24
+    },
+    {
+      "vertices_fixos": 512,
+      "vertices_moveis": 1600,
+      "peso_maximo": 1.0,
+      "id": "17_yucca",
+      "amplitude_m": 0.075
+    },
+    {
+      "vertices_fixos": 7870,
+      "vertices_moveis": 33600,
+      "peso_maximo": 1.0,
+      "id": "18_cerca_viva",
+      "amplitude_m": 0.06
+    }
+  ],
+  "colisoes": [
+    {
+      "id": "01_coqueiro",
+      "vertices": 100,
+      "poligonos": 92,
+      "tubos": 1,
+      "objeto": "COL_01_coqueiro",
+      "folhas_colidem": false
+    },
+    {
+      "id": "02_imperial",
+      "vertices": 100,
+      "poligonos": 92,
+      "tubos": 1,
+      "objeto": "COL_02_imperial",
+      "folhas_colidem": false
+    },
+    {
+      "id": "03_caneleira",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_03_caneleira",
+      "folhas_colidem": false
+    },
+    {
+      "id": "04_amendoeira",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_04_amendoeira",
+      "folhas_colidem": false
+    },
+    {
+      "id": "05_flamboyant",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_05_flamboyant",
+      "folhas_colidem": false
+    },
+    {
+      "id": "06_arvore_rua",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_06_arvore_rua",
+      "folhas_colidem": false
+    },
+    {
+      "id": "07_reseda",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_07_reseda",
+      "folhas_colidem": false
+    },
+    {
+      "id": "08_ipe_amarelo",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_08_ipe_amarelo",
+      "folhas_colidem": false
+    },
+    {
+      "id": "09_oliveira",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_09_oliveira",
+      "folhas_colidem": false
+    },
+    {
+      "id": "10_castanhola",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_10_castanhola",
+      "folhas_colidem": false
+    },
+    {
+      "id": "11_mangueira",
+      "vertices": 354,
+      "poligonos": 274,
+      "tubos": 19,
+      "objeto": "COL_11_mangueira",
+      "folhas_colidem": false
+    },
+    {
+      "id": "12_bananeira",
+      "vertices": 120,
+      "poligonos": 90,
+      "tubos": 5,
+      "objeto": "COL_12_bananeira",
+      "folhas_colidem": false
+    },
+    {
+      "id": "13_mangue",
+      "vertices": 462,
+      "poligonos": 358,
+      "tubos": 25,
+      "objeto": "COL_13_mangue",
+      "folhas_colidem": false
+    },
+    {
+      "id": "14_arbusto_costeiro",
+      "vertices": 30,
+      "poligonos": 22,
+      "tubos": 1,
+      "objeto": "COL_14_arbusto_costeiro",
+      "folhas_colidem": false
+    },
+    {
+      "id": "15_palmeira_ana",
+      "vertices": 300,
+      "poligonos": 276,
+      "tubos": 3,
+      "objeto": "COL_15_palmeira_ana",
+      "folhas_colidem": false
+    },
+    {
+      "id": "16_palma_azul",
+      "vertices": 100,
+      "poligonos": 92,
+      "tubos": 1,
+      "objeto": "COL_16_palma_azul",
+      "folhas_colidem": false
+    },
+    {
+      "id": "17_yucca",
+      "vertices": 64,
+      "poligonos": 40,
+      "tubos": 4,
+      "objeto": "COL_17_yucca",
+      "folhas_colidem": false
+    },
+    {
+      "id": "18_cerca_viva",
+      "vertices": 30,
+      "poligonos": 22,
+      "tubos": 1,
+      "objeto": "COL_18_cerca_viva",
+      "folhas_colidem": false
+    }
+  ],
+  "colisores_implantados": 2649,
+  "teste_contato": [
+    {
+      "modelo": "11_mangueira",
+      "bola": "BOLA_CONTATO_11_mangueira",
+      "controle": "BOLA_CONTROLE_11_mangueira",
+      "topo_caule_m": 4.3000006675720215,
+      "raio_bola_m": 0.1
+    },
+    {
+      "modelo": "12_bananeira",
+      "bola": "BOLA_CONTATO_12_bananeira",
+      "controle": "BOLA_CONTROLE_12_bananeira",
+      "topo_caule_m": 4.724136829376221,
+      "raio_bola_m": 0.024749993656923826
+    },
+    {
+      "modelo": "16_palma_azul",
+      "bola": "BOLA_CONTATO_16_palma_azul",
+      "controle": "BOLA_CONTROLE_16_palma_azul",
+      "topo_caule_m": 6.955021858215332,
+      "raio_bola_m": 0.09108000716156202
+    }
+  ],
+  "instalado_fivem": false,
+  "vento_nativo_validado": false,
+  "imagens_alteradas": false,
+  "limites": [
+    "Vento Blender é deformação visual, não solver de pano.",
+    "Colisores implantados são malhas estáticas de preparação; cena Fisica e vento contém corpos rígidos passivos e bolas ativas.",
+    "Conversão para shaders/canais nativos e colisão GTA ocorre em etapa separada; não presumir que modificadores Blender funcionem no FiveM.",
+    "Seis espécies adicionais do projeto permanecem com materiais procedurais anteriores."
+  ]
+}

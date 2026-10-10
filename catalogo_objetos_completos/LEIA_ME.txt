@@ -1,0 +1,7 @@
+CATÁLOGO POR OBJETOS COMPLETOS
+24 imagens de 1200 x 1200 px. Abra index.html.
+Cada foto reúne o objeto completo, não suas peças internas. Um exemplar representa as repetições iguais.
+As plantas são os placeholders atuais com seus vasos. As LEDs aparecem sem luz rosa de ambiente para facilitar a referência dos materiais.
+Devolva as texturas usando o nome da imagem como prefixo. Exemplo: 01_barril_basecolor.png.
+O mapeamento_objetos.json guarda a relação entre cada conjunto e suas peças no Blender.
+Estas fotos são referências; para texturas, peça imagens planas de superfície, sem sombras ou perspectiva.

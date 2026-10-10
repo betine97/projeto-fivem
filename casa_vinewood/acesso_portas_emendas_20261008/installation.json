@@ -1,0 +1,17 @@
+{
+  "installed": true,
+  "changed": [
+    "portas_client.lua",
+    "portas_madeira.json",
+    "portas_server.lua",
+    "stream/apa_ch2_09b_0.ybn",
+    "stream/ch2_09b_0.ybn",
+    "stream/hei_ch2_09b_0.ybn",
+    "stream/mansao_paredes.ydr"
+  ],
+  "unrelated_files_preserved": 132,
+  "palm_absent_hd_and_lod": true,
+  "door_count": 8,
+  "restart_required": true,
+  "in_game_verified": false
+}

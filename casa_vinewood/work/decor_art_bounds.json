@@ -1,0 +1,70 @@
+{
+  "apa_mp_h_acc_artwallm_02": {
+    "lo": [
+      -0.68359375,
+      -0.05419921875,
+      -0.68212890625
+    ],
+    "hi": [
+      0.68359375,
+      0.00048828125,
+      0.68212890625
+    ],
+    "texture_dictionary": "apa_mp_acc_artwallm_02",
+    "shaders": [
+      "default.sps",
+      "normal.sps"
+    ]
+  },
+  "apa_mp_h_acc_artwallm_03": {
+    "lo": [
+      -0.68359375,
+      -0.05419921875,
+      -0.68212890625
+    ],
+    "hi": [
+      0.68359375,
+      0.00048828125,
+      0.68212890625
+    ],
+    "texture_dictionary": "apa_mp_h_acc_artwallm_03",
+    "shaders": [
+      "default.sps",
+      "normal.sps"
+    ]
+  },
+  "apa_mp_h_acc_artwallm_04": {
+    "lo": [
+      -0.68359375,
+      -0.05419921875,
+      -0.68212890625
+    ],
+    "hi": [
+      0.68359375,
+      0.00048828125,
+      0.68212890625
+    ],
+    "texture_dictionary": "apa_mp_h_acc_artwallm_04",
+    "shaders": [
+      "default.sps",
+      "normal.sps"
+    ]
+  },
+  "apa_mp_h_acc_artwalll_01": {
+    "lo": [
+      -1.12744140625,
+      -0.05419921875,
+      -1.16064453125
+    ],
+    "hi": [
+      1.12744140625,
+      0.00048828125,
+      1.16064453125
+    ],
+    "texture_dictionary": "apa_mph_acc_artwalll1",
+    "shaders": [
+      "default.sps",
+      "normal.sps"
+    ]
+  }
+}

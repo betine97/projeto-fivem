@@ -1,0 +1,17 @@
+[
+  {
+    "map": "ch2_09b_long_0.ymap",
+    "name": "prop_bush_med_03",
+    "old": [
+      -981.355712890625,
+      687.395263671875,
+      156.75601196289062
+    ],
+    "new": [
+      -981.355712890625,
+      688.895263671875,
+      156.75601196289062
+    ],
+    "reason": "Plant collision protruded through rear wall into room; move this instance outward."
+  }
+]

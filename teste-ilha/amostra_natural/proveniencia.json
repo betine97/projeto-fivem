@@ -1,0 +1,137 @@
+[
+  {
+    "file": "gdislxterrain.ytd",
+    "archive": "update/x64/dlcpacks/mpheist4/dlc1.rpf|x64/levels/gta5/generic/mph4_gtxd.rpf",
+    "sha256": "d1adec53062f04b9f873378c24b19b1919c4207819bdd756f9339a1216f6bdc3"
+  },
+  {
+    "file": "gdislxterrain+hi.ytd",
+    "archive": "update/x64/dlcpacks/mpheist4/dlc1.rpf|x64/levels/gta5/generic/mph4_gtxd.rpf",
+    "sha256": "40e2c4aa747f31e603e0120ca31996e3711818b5c5df0fb8b144e8529b9a1e74"
+  },
+  {
+    "file": "gdislxtertracks.ytd",
+    "archive": "update/x64/dlcpacks/mpheist4/dlc1.rpf|x64/levels/gta5/generic/mph4_gtxd.rpf",
+    "sha256": "602c2cb73e2e3f855c3bc06a18efd860bc4d345f0719a0fbe1b3170ffc1a9b4e"
+  },
+  {
+    "file": "gdislxtertracks+hi.ytd",
+    "archive": "update/x64/dlcpacks/mpheist4/dlc1.rpf|x64/levels/gta5/generic/mph4_gtxd.rpf",
+    "sha256": "1b9f504b171fc70eacf3032a882947d55a79ab38e4d066e15f823d2ac9655933"
+  },
+  {
+    "file": "prop_palm_med_01a.ydr",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_palm.rpf",
+    "sha256": "0bc5790639e89d96fb96b93342b35394860ba984f258b24cc983f33b41d05301"
+  },
+  {
+    "file": "v_palm.ytyp",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_palm.rpf",
+    "sha256": "ad8559765bf362e463eadc1ee89f21ed1f61dd922c8e9af814417c9dfe084ced"
+  },
+  {
+    "file": "prop_veg_palm.ytd",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_palm.rpf",
+    "sha256": "d39e61a2e7ee33480fa993b300b6e5dde16d506e80c24e93e7394adee74327e7"
+  },
+  {
+    "file": "prop_palm_sm_01a.ydr",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_palm.rpf",
+    "sha256": "40f08cbe6fbb8b866eb14623e4e83f179eb841653fb4ed1d9531639cace05e07"
+  },
+  {
+    "file": "prop_veg_palm.ytd",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_palm.rpf",
+    "sha256": "d39e61a2e7ee33480fa993b300b6e5dde16d506e80c24e93e7394adee74327e7"
+  },
+  {
+    "file": "prop_palm_sm_01d.ydr",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_palm.rpf",
+    "sha256": "721e77fce280d89d2f82c01f2b91b80497e14c68a667ac6ad529466cc7ce2cd9"
+  },
+  {
+    "file": "prop_veg_palm.ytd",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_palm.rpf",
+    "sha256": "d39e61a2e7ee33480fa993b300b6e5dde16d506e80c24e93e7394adee74327e7"
+  },
+  {
+    "file": "prop_tree_eucalip_01.ydr",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_trees.rpf",
+    "sha256": "96b7871fd4b571ed540724bbbdc40d4f6994c38d30a31e13d85bff78c45729f0"
+  },
+  {
+    "file": "v_trees.ytyp",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_trees.rpf",
+    "sha256": "abadd46893aa46cc1c663912e1c93b22c337a69dc573a18b85c275a07ba2af13"
+  },
+  {
+    "file": "z_eucalip_1.ytd",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_trees.rpf",
+    "sha256": "51a7a08d077d42bb81ba61b1e4034df010be6c5765f53950f8da0bdf01791975"
+  },
+  {
+    "file": "prop_rock_1_a.ydr",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_rocks.rpf",
+    "sha256": "c875f80d36d5b296700cc786695aa34bed15dfa69b028ebb731625cf9d3b31f4"
+  },
+  {
+    "file": "v_rocks.ytyp",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_rocks.rpf",
+    "sha256": "7a461fee08e400143941f3b3cd2e192ff26bc76a21b2e369d5ac37a7b13a2568"
+  },
+  {
+    "file": "prop_rock_2_a.ydr",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_rocks.rpf",
+    "sha256": "4d9b5729c79d95170cebdfd1c8639a1590221d795bd6e689ddd027656e861b32"
+  },
+  {
+    "file": "prop_rock_4_c.ydr",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_rocks.rpf",
+    "sha256": "06b9c30dc57165cdc4ca191e130ba811ff2fe96e87a03befa0bd1edd655889f3"
+  },
+  {
+    "file": "prop_rock_4.ytd",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_rocks.rpf",
+    "sha256": "b8eaed2ef060c9bf545f544f135e256417a2ae910cf31be5f92789472dedda35"
+  },
+  {
+    "file": "prop_rock_4+hi.ytd",
+    "archive": "x64i.rpf|levels/gta5/props/vegetation/v_rocks.rpf",
+    "sha256": "e3f630f23438b4da3cafc72ade05a386f8fbe92535dd56a150bf2660fc7c4df4"
+  },
+  {
+    "file": "prop_bush_med_01.ydr",
+    "archive": "x64f.rpf|levels/gta5/props/vegetation/v_bush.rpf",
+    "sha256": "1880dbfcc336f8b4e952418ae2a01e402b0ca5da5211d9e908217f286e2bd7b1"
+  },
+  {
+    "file": "v_bush.ytyp",
+    "archive": "x64f.rpf|levels/gta5/props/vegetation/v_bush.rpf",
+    "sha256": "456b5c19511124eff14fbae80fda3f1efe4fb8f8550ed1aa109f12b45cf59fca"
+  },
+  {
+    "file": "prop_bush_med_03.ydr",
+    "archive": "x64f.rpf|levels/gta5/props/vegetation/v_bush.rpf",
+    "sha256": "28bd7576ec8c28b6d1a84ca647eb4fc6b4d471f709d855e35aa78c0c933d526d"
+  },
+  {
+    "file": "prop_veg_grass_01_a.ydr",
+    "archive": "x64c.rpf|levels/gta5/props/vegetation/v_ext_veg.rpf",
+    "sha256": "3bcc79e8e565e9ec5d810d9fb429d6bc701435cbc1768e274ab3f482a31edb85"
+  },
+  {
+    "file": "v_ext_veg.ytyp",
+    "archive": "x64c.rpf|levels/gta5/props/vegetation/v_ext_veg.rpf",
+    "sha256": "cbe7c7e449c7596b7f168f5673ff9da77be148e26c3a04fbb278872253bd8c8d"
+  },
+  {
+    "file": "prop_veg_grass_01_b.ydr",
+    "archive": "x64c.rpf|levels/gta5/props/vegetation/v_ext_veg.rpf",
+    "sha256": "20a3adf3ded06b1f4001c9d512096c83938afb93db1a7519035e2b12fffc5e6f"
+  },
+  {
+    "file": "prop_veg_grass_01_c.ydr",
+    "archive": "x64c.rpf|levels/gta5/props/vegetation/v_ext_veg.rpf",
+    "sha256": "3bb54c9d15605973fe96b127dc3c11d39238d5bb130b4edeb94405ceeb7af7cd"
+  }
+]

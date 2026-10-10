@@ -1,0 +1,202 @@
+{
+  "installed": [
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\client.lua",
+      "sha256": "22884576b3f3b5c28c8913a923f465f2bd8b976f17e10ee8597f2326d7568923"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\fxmanifest.lua",
+      "sha256": "e35af4088ca48dbea621e8e425dee3d4d4ff90f1ce2a6fe7edb946688289d163"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\hospital.json",
+      "sha256": "734f114d99980bb230f0eea5b50265916fc20b26c667e8271d74a51c115b2462"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\server.lua",
+      "sha256": "c19eea010e4eb3055922c512928b1c7d104d8e42fc7368f15f9212632c656512"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_0.ybn",
+      "sha256": "8d1aea1a98a3c18536f567b383cfa6d1f3254e337f640222b70cfe30a650848a"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_base.ydr",
+      "sha256": "bf351dcbd2afd6def79b932e20424ebbe8f1c8797547201ef4fd0f7f1ae15c98"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_critical_0.ymap",
+      "sha256": "f94a32552cb079cc8130c40c1befa9c68f6c9b0c36dc78175f88e0a80cc6fdd7"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_doorfizz_1.ydr",
+      "sha256": "7398245e9c3a65f1976e447485dd0eb7bce94461ce776acbae979fe77eb22383"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_doorfizz_2.ydr",
+      "sha256": "ceea73687c402efc15e2378ade53ae64b7a7f72a23764767c21e5c1cea87c09e"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_emissivesign.ydr",
+      "sha256": "ac2253d5b05c1ad0c82e405710afc06c0cf6d899aaf0c14c11bab0d2de513524"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_emissive_22.ydr",
+      "sha256": "24e4df4fbece42d31572bb61518cb59f0ead719e70bb41f361fc5e1b1d83e1a7"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_emissive_slod_children.ydd",
+      "sha256": "dbd3ef75e3063dda833fceaa8f09c5820bcf33f33cd3621a73fe52ec5275a05c"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_fakeint.ydr",
+      "sha256": "3fc27fe5fa1723d3c57af0159cfa6da6f08c4c095852527d2175e5077324e3ee"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_long_0.ymap",
+      "sha256": "65e1e8e7e0b284166ad8ed82e0eeb6c4259a9c754200819ae2934460aae7dd68"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_overlays.ydr",
+      "sha256": "9c67722b40f078e5565ca60475b6ffee1cf1694414b216db84c9f24cbc2f8e91"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_overlays_01.ydr",
+      "sha256": "24ff89ad3cfe5db726872adb277fd9cedfce97cf055d12a5296eec3a77541935"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_overlays_02.ydr",
+      "sha256": "ef13d8369b68a5333462be9508903b752b207528b111be9f15c6383b95dc9fac"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_overlays_03.ydr",
+      "sha256": "057de830f4f2027dab38c8606dd567a516c63a2c2c4e1b2a86ce685fd8a177de"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_overlays_04.ydr",
+      "sha256": "17333ffb9e65d2a34ffe08de9e61c799a9c77fce710fa8b650583b845eadaeaf"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_slod1_children.ydd",
+      "sha256": "2d23866513b5a51eb280c781aa103fb00599db3968056bc47c47ad95186e6473"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_strm_0.ymap",
+      "sha256": "6c848442f0325dbff97df660e49ba737de37643c02371715550411983bbbbc05"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_towerw.ydr",
+      "sha256": "0a4d69ef189724969a2303571aec7217a1f1a9d67982b209df50254295cc375b"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_22_towerw_dtl.ydr",
+      "sha256": "ef03354226c4645019fc76efdd70daee9a0504474307ed61a424877ed75335ae"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_lod_17_18_22_children.ydd",
+      "sha256": "ca7e750e8d0eae5822ee5ac5fed4326c6925969a2f21afd3fa088438fe9a29ec"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_lod_emissive_6_21_slod3.ydr",
+      "sha256": "c9477578b1804d0664a1be6a1d5b6f2ddd16fcc6f8ea5d7209ea565cbcef48f5"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_lod_emissive_6_21_slod3_children.ydd",
+      "sha256": "e0d03ce950ad8149045a2e04a17be6c74addff665dcfcf237a9faf19d0357a05"
+    },
+    {
+      "file": "server-data\\resources\\cidade_castelo_livre\\stream\\bh1_lod_slod3.ydr",
+      "sha256": "7540c853a62021d511bbbafb582ad77ee84c747cd75aa5d90789618f93e86092"
+    },
+    {
+      "file": "server-data\\resources\\cidade_castelo_livre\\stream\\bh1_lod_slod3_children.ydd",
+      "sha256": "ac27444e4ed8ba96afe3622fd0b5f71b8810acde2d74d9f499be23e957826636"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\bh1_occl_05.ymap",
+      "sha256": "6c374d4346eebbaeb60cc41572d2ce05d2fc1a2a1712fbc6cc11e83779ec25cb"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_exterior.ydr",
+      "sha256": "6a48600df06d2fecdd23900210d017fbf4fc62469e2b0caea349955b87552439"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_jardins.ydr",
+      "sha256": "f8cf8f39138c0495fbccf12763421251739f564639677e32c54977f005a91f8d"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_mobiliario_0.ydr",
+      "sha256": "2d98d688dbb2431d8451d032a42d95418c6824330ca75b8b1ba669e63d6b54ff"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_mobiliario_1.ydr",
+      "sha256": "f545eb935703042d1024328d8ff0386ae6401812b2795d24f5d32d3657d8ea8c"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_porta_clinica.ydr",
+      "sha256": "f8bd46adaf14213c518d41830f36ad2dd2aea965e157d8e61c69906c3f18ffc4"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_porta_entrada.ydr",
+      "sha256": "5c82156539c684c6693536d9a634786e1e608343bcf2ae011debe6e4da3dbae9"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_superior.ydr",
+      "sha256": "aa5fe19fed5f9369f51333ae45894d1c22f6677801c26d59fe917aefc41593a0"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hc_terreo.ydr",
+      "sha256": "3b299290c0d93a9ea12eadf296d69f158234cfd8730b4b26ca49f303d6275d50"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hei_bh1_22_0.ybn",
+      "sha256": "3de7164629d0eda0aba07a41e896a75be8841c7f12fcbe0d3cd3b004a735f343"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hei_bh1_22_critical_0.ymap",
+      "sha256": "691432f63149835133647fb60d54afd3af070c0a9980766f206ef2da83dbd379"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hei_bh1_22_long_0.ymap",
+      "sha256": "d2bb3d12905bd3fa088ae967b97f25b84a12bf92a669b273edf08eecfde1c7fc"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hei_bh1_22_strm_0.ymap",
+      "sha256": "536fe4cbfa953324f39306b661f1a80b57d18ecf5fe9385f9d73f5b4746a00c2"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hei_bh1_occl_05.ymap",
+      "sha256": "2268cfbd441025e3f2a6eac3b53a8da1d5f98434811b6be145e130a2ae5f35d8"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hi@bh1_22_0.ybn",
+      "sha256": "38ce602c1ba0d3c01cbf3834111ad909998956d8eac4ec2e4216ba861d7f9d30"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hi@hei_bh1_22_0.ybn",
+      "sha256": "17edc54af01163e5b64e1c98e7097e7ac7a943bacfae8ceecfd062576f2c00d9"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hospital_carcer.ybn",
+      "sha256": "672649c81d1cc516feaea4f820a2b3346b531e359ef03d5d4fe97c3596893dbd"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hospital_carcer.ymap",
+      "sha256": "d244aa279933673a01e754c54264e3544182b725f6bf47e2226550a53c55b1ff"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\hospital_carcer.ytyp",
+      "sha256": "df7b9ef4ff543e975576eedee23da558a87790908ebf4f1757bca116f1b6ec56"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\ma@bh1_22_0.ybn",
+      "sha256": "3727ca7a9eee2d90c3402fcbf31d69e419910d12488f7171f63f58ab74bf7bd8"
+    },
+    {
+      "file": "server-data\\resources\\cidade_hospital_carcer\\stream\\ma@hei_bh1_22_0.ybn",
+      "sha256": "6f06430ce2432459c8b090a43df11c79f5a6205f1cb8cba8454bf66b481b72a3"
+    }
+  ],
+  "server_running_requires_reload": true,
+  "in_game_verified": false
+}

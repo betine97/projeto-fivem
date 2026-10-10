@@ -1,0 +1,20 @@
+{
+  "Status": "aguardando validacao do jogador",
+  "FirstPiece": "calca bege",
+  "Command": "/calcabege",
+  "RestoreCommand": "/roupaanterior",
+  "ServerPID": 27508,
+  "Resource": "cidade_roupas",
+  "ServerReady": true,
+  "InstalledFiles": [
+    {
+      "File": "mp_m_freemode_01_male_heist^lowr_008_u.ydd",
+      "SHA256": "30EDEE4A933E7BDE2705DB72D80A14B1BB45A0656EFCB450C6DFB6FFFEBB0EDB"
+    },
+    {
+      "File": "mp_m_freemode_01_male_heist^lowr_diff_008_a_uni.ytd",
+      "SHA256": "ADB207A5225EDE25F82625FCFF0B7C1FD316B834D379DC5CA57C4D6526296A15"
+    }
+  ],
+  "CollectionNameFix": "Male_Heist / Male_Apt01; compare case-insensitively, preserve native spelling"
+}

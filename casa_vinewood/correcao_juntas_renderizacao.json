@@ -1,0 +1,119 @@
+{
+  "revision": "juntas-oclusao-2026-10-07",
+  "installed_native_files": 29,
+  "installed_hashes_match": true,
+  "closed_facade_panels": 41,
+  "corner_rays": 160,
+  "open_corner_rays": 0,
+  "doors_accesses": 21,
+  "doors_directions": 42,
+  "window_regions": 43,
+  "sealed_windows": 0,
+  "occlusion_layers": [
+    {
+      "file": "apa_ch2_occl_02.ymap",
+      "before": {
+        "boxes": 3,
+        "models": 0,
+        "box_locations": [
+          {
+            "center_local": [
+              2.60101318359375,
+              -2.73089599609375,
+              2.9149627685546875
+            ],
+            "size_m": [
+              22.5,
+              17.0,
+              7.25
+            ]
+          },
+          {
+            "center_local": [
+              2.60101318359375,
+              3.26910400390625,
+              -4.3350372314453125
+            ],
+            "size_m": [
+              22.5,
+              4.75,
+              7.25
+            ]
+          },
+          {
+            "center_local": [
+              -6.89898681640625,
+              5.26910400390625,
+              -1.5850372314453125
+            ],
+            "size_m": [
+              11.0,
+              9.0,
+              8.5
+            ]
+          }
+        ]
+      },
+      "after": {
+        "boxes": 0,
+        "models": 0,
+        "box_locations": []
+      }
+    },
+    {
+      "file": "ch2_occl_02.ymap",
+      "before": {
+        "boxes": 3,
+        "models": 0,
+        "box_locations": [
+          {
+            "center_local": [
+              2.60101318359375,
+              -2.73089599609375,
+              2.9149627685546875
+            ],
+            "size_m": [
+              22.5,
+              17.0,
+              7.25
+            ]
+          },
+          {
+            "center_local": [
+              2.60101318359375,
+              3.26910400390625,
+              -4.3350372314453125
+            ],
+            "size_m": [
+              22.5,
+              4.75,
+              7.25
+            ]
+          },
+          {
+            "center_local": [
+              -6.89898681640625,
+              5.26910400390625,
+              -1.5850372314453125
+            ],
+            "size_m": [
+              11.0,
+              9.0,
+              8.5
+            ]
+          }
+        ]
+      },
+      "after": {
+        "boxes": 0,
+        "models": 0,
+        "box_locations": []
+      }
+    }
+  ],
+  "offline_checks_passed": true,
+  "in_game_visual_test": false,
+  "requires_reload": "restart cidade_mansao, then reconnect FiveM",
+  "editable_scene": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\mansao_fivem_preparada.blend",
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_frestas_render"
+}

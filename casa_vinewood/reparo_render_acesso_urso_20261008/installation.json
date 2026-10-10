@@ -1,0 +1,29 @@
+{
+  "installed": true,
+  "files_changed": [
+    "stream/mansao_acesso_garagem.ybn",
+    "stream/mansao_acesso_garagem.ymap",
+    "stream/mansao_acesso_garagem.ytyp",
+    "stream/mansao_fachada_entrada.ydr",
+    "stream/mansao_garagem_subsolo.ydr"
+  ],
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\reparo_render_acesso_urso_20261008\\backup_preinstall\\20261008_193402",
+  "verification": {
+    "closed_side_and_driveway_rays": 1779,
+    "structural_shells_retained_all_lods": true,
+    "solid_parts_watertight": true,
+    "vehicle_and_pedestrian_clearance": true,
+    "architecture_within_curb": true,
+    "single_palm_removed_hd_and_lod": true,
+    "unrelated_parent_links_preserved": 1134,
+    "rug_visual_vertices_uvs_textures_unchanged": true,
+    "rug_full_silhouette_collider": true,
+    "rug_walkable_collider_height_m": 0.012,
+    "rug_client_positions_tested": 72,
+    "rug_reload_preserves_render_settings": true,
+    "lighting_preserved": true
+  },
+  "unrelated_files_preserved": 95,
+  "in_game_verified": false,
+  "resource_restart_required": true
+}

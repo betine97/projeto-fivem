@@ -1,0 +1,30 @@
+{
+  "probes": {
+    "porta_principal": {
+      "sample_count": 18,
+      "blocked_samples": [],
+      "passed": true
+    },
+    "porta_sala_deck": {
+      "sample_count": 18,
+      "blocked_samples": [],
+      "passed": true
+    },
+    "sala_interna": {
+      "sample_count": 35,
+      "blocked_samples": [],
+      "passed": true
+    },
+    "cozinha_interna": {
+      "sample_count": 25,
+      "blocked_samples": [],
+      "passed": true
+    },
+    "quarto_superior": {
+      "sample_count": 25,
+      "blocked_samples": [],
+      "passed": true
+    }
+  },
+  "files": 24
+}

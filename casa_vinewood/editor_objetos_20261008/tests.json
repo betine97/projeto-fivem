@@ -1,0 +1,36 @@
+{
+  "passed": 24,
+  "checks": [
+    "rotation preserves off-centre mesh centre",
+    "NaN rejected",
+    "non-admin activation denied",
+    "concurrent ownership protected",
+    "forged token rejected",
+    "stale move rejected; snapshot shares move",
+    "cancel restores committed pose",
+    "commit persisted",
+    "disk failure rolls back",
+    "disconnect rolls back",
+    "stalled lock expires",
+    "permission revocation disables editor",
+    "far-away teleport rejected",
+    "restart reloads saved layout",
+    "ordinary map prop descriptor persisted",
+    "previous disk revision backed up",
+    "client preserves original YMAP scale",
+    "CAPS requests selection",
+    "walking moves prop by ped displacement without pivot jump",
+    "second CAPS commits",
+    "commit restores collision",
+    "BACKSPACE cancels",
+    "resource stop removes clones",
+    "invalid save recovers backup or refuses overwrite"
+  ],
+  "lua_syntax": [
+    "objetos_shared.lua",
+    "objetos_server.lua",
+    "objetos_client.lua",
+    "fxmanifest.lua"
+  ],
+  "in_game_verified": false
+}

@@ -1,0 +1,42 @@
+{
+  "server_restarted": false,
+  "game_tested": false,
+  "assets": [
+    {
+      "binary_verified": true,
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\pipeline_animacoes\\revisao_mao_esquerda\\ajoelhado_v6\\cidade_ajoelhado_v6_ak.ycd",
+      "native_bones": 98,
+      "posture": "ajoelhado",
+      "sha256": "cf5f1e457c3d41fa3a26abe2be39f170ac6ddc20ee6d27c405386ed3684bd798"
+    },
+    {
+      "binary_verified": true,
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\pipeline_animacoes\\revisao_mao_esquerda\\deitado_v6\\cidade_deitado_v6_ak.ycd",
+      "native_bones": 98,
+      "posture": "deitado",
+      "sha256": "a52ada8f5e2d5acbaa79ea68f1726b9c74573b995f6ced2154a63a9b6f0519a2"
+    },
+    {
+      "binary_verified": true,
+      "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\animacoes\\pipeline_animacoes\\revisao_mao_esquerda\\sentado_v6\\cidade_sentado_v6_ak.ycd",
+      "native_bones": 98,
+      "posture": "sentado",
+      "sha256": "fbf1c52add396cd475daf8a0cd0bc75d0ee34bdffde3d5594cc7008e72e390f2"
+    }
+  ],
+  "revision": "v6-apoio-transicoes",
+  "rifle": "WEAPON_ASSAULTRIFLE",
+  "mock_tests": {
+    "game_tested": false,
+    "mock_only": true,
+    "repeated_reload_cycles": 72,
+    "rifles": 2,
+    "postures": 3,
+    "async_tasks": true,
+    "native_reload_recovery": true,
+    "recoil_recovery": true,
+    "noninterruptible_flags_removed": true,
+    "cleanup_and_prone_exit": true
+  },
+  "installed_on_disk": true
+}

@@ -1,0 +1,28 @@
+PRINT RÁPIDO — Windows
+
+Abra PrintRapido.exe. O aplicativo fica no ícone perto do relógio.
+Pressione a tecla física abaixo do Esc (aspas no teclado brasileiro).
+O atalho usa a posição da tecla, independente do idioma do teclado.
+
+• Arraste na tela para selecionar uma área.
+• Arraste dentro da seleção para movê-la; use os cantos para ajustar o tamanho.
+• Para uma seleção nova, arraste a partir de fora da seleção atual.
+• Tela inteira seleciona todos os monitores.
+• Caneta vermelha: clique no botão e arraste dentro da seleção para desenhar.
+• Selecionar / ajustar volta ao modo de seleção.
+• Desfazer ou Ctrl+Z remove o último traço.
+• Copiar ou Ctrl+C envia a imagem para a área de transferência.
+• Salvar PNG ou Ctrl+S permite escolher onde salvar.
+• Esc cancela a captura.
+• Para encerrar o aplicativo, clique com o botão direito no ícone e escolha Sair.
+
+Enquanto o aplicativo estiver aberto, a tecla abaixo do Esc sem modificadores
+fica reservada para capturar. Encerre pelo ícone para voltar a digitar normalmente.
+Combinações com Shift, Ctrl e Alt continuam disponíveis.
+
+Não requer instalação. Usa o .NET Framework do Windows.
+A captura depende de uma sessão de desktop ativa. Conteúdo protegido e alguns
+jogos em tela cheia exclusiva podem não aparecer; use janela sem bordas nesses casos.
+
+Fonte: PrintRapido.cs. Para compilar no PowerShell:
+& C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /target:winexe /out:PrintRapido.exe /reference:System.Windows.Forms.dll /reference:System.Drawing.dll PrintRapido.cs

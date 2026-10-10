@@ -1,0 +1,4009 @@
+{
+  "version": 6,
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "lighting_style": "natural_soft_focus_and_sparse_indirect",
+  "native_always_on": true,
+  "native_count": 139,
+  "native_ceiling_count": 88,
+  "native_pendant_count": 9,
+  "native_bounce_count": 21,
+  "max_lights": 0,
+  "lights": [],
+  "native_lights": [
+    {
+      "id": "cylinder_1",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65391,
+        -9.39921,
+        1.77623
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.076230049133301,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 40.496036529541016,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.57623,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_2",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6519,
+        -8.87573,
+        2.21882
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.518819808959961,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 36.083126068115234,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 3.01882,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_3",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64823,
+        -8.37012,
+        1.46593
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.76593017578125,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 44.15420913696289,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.26593,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_4",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65108,
+        -7.83108,
+        2.14434
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.444340229034424,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 36.76694869995117,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.9443400000000004,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_5",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64681,
+        -7.50033,
+        1.89824
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.198239803314209,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.19195556640625,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.69824,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_6",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65057,
+        -7.19507,
+        2.1542
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.45419979095459,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 36.67514419555664,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.9542,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "linear_1",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.75,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.614999771118164,
+      "intensity": 1.15,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 38.79171371459961,
+      "shadow": false,
+      "floor_radius_m": 1.7,
+      "beam_height_m": 2.115,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "linear_2",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.0,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.614999771118164,
+      "intensity": 1.15,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 38.79171371459961,
+      "shadow": true,
+      "floor_radius_m": 1.7,
+      "beam_height_m": 2.115,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "linear_3",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -8.25,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.614999771118164,
+      "intensity": 1.15,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 38.79171371459961,
+      "shadow": false,
+      "floor_radius_m": 1.7,
+      "beam_height_m": 2.115,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_1",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 10.777247428894043,
+      "intensity": 3.5,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 26.003345489501953,
+      "shadow": false,
+      "floor_radius_m": 3.5,
+      "beam_height_m": 7.175,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_2",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -8.09998,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 10.777247428894043,
+      "intensity": 3.5,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 26.003345489501953,
+      "shadow": false,
+      "floor_radius_m": 3.5,
+      "beam_height_m": 7.175,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_3",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 10.777247428894043,
+      "intensity": 3.5,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 26.003345489501953,
+      "shadow": false,
+      "floor_radius_m": 3.5,
+      "beam_height_m": 7.175,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_4",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_5",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_6",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_7",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_8",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        8.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_9",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 10.777247428894043,
+      "intensity": 3.5,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 26.003345489501953,
+      "shadow": false,
+      "floor_radius_m": 3.5,
+      "beam_height_m": 7.175,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_10",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_11",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_12",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_13",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_14",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        8.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_15",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 10.777247428894043,
+      "intensity": 3.5,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 26.003345489501953,
+      "shadow": false,
+      "floor_radius_m": 3.5,
+      "beam_height_m": 7.175,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_16",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_17",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_18",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_19",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_20",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        8.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_21",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 10.777247428894043,
+      "intensity": 3.5,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 26.003345489501953,
+      "shadow": false,
+      "floor_radius_m": 3.5,
+      "beam_height_m": 7.175,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_22",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_23",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_24",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 10.777247428894043,
+      "intensity": 3.5,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 26.003345489501953,
+      "shadow": false,
+      "floor_radius_m": 3.5,
+      "beam_height_m": 7.175,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_25",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_26",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_27",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_28",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_29",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -11.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_30",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -8.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_31",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -5.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_32",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_33",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_34",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_35",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_36",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -11.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_37",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -5.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_38",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_39",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_40",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -11.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_41",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -8.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_42",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -5.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_43",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -2.29999,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_44",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        0.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_45",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        4.09998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_46",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        6.59998,
+        2.283
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 5.583000183105469,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.038543701171875,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.083,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_47",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_48",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_49",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_50",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_51",
+      "kind": "ceiling_white",
+      "position": [
+        -7.59998,
+        8.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_52",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_53",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_54",
+      "kind": "ceiling_white",
+      "position": [
+        -5.09998,
+        8.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_55",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_56",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_57",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_58",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_59",
+      "kind": "ceiling_white",
+      "position": [
+        -2.0,
+        8.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_60",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_61",
+      "kind": "ceiling_white",
+      "position": [
+        1.29999,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_62",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_63",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_64",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_65",
+      "kind": "ceiling_white",
+      "position": [
+        4.29999,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_66",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -14.40002,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_67",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_68",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -8.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_69",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_70",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_71",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_72",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_73",
+      "kind": "ceiling_white",
+      "position": [
+        7.70001,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_74",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -14.40002,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_75",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_76",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_77",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_78",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_79",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_80",
+      "kind": "ceiling_white",
+      "position": [
+        10.79999,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_81",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -14.40002,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_82",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -11.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_83",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -8.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_84",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -5.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_85",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        -2.29999,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_86",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        0.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_87",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        4.09998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "spot_88",
+      "kind": "ceiling_white",
+      "position": [
+        12.90002,
+        6.59998,
+        6.375
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "range": 6.066999912261963,
+      "intensity": 2.2,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 35.02542495727539,
+      "shadow": false,
+      "floor_radius_m": 2.5,
+      "beam_height_m": 3.567,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "bounce_0_0",
+      "kind": "bounce",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -4.8,
+        -9.3,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_0_1",
+      "kind": "bounce",
+      "room": "Sala de estar",
+      "level": "terreo",
+      "position": [
+        -4.8,
+        -3.6,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_1_0",
+      "kind": "bounce",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        2.8,
+        -9.3,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_1_1",
+      "kind": "bounce",
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "position": [
+        2.8,
+        -3.6,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 5.8,
+      "intensity": 0.35,
+      "falloff_exponent": 6,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_2_0",
+      "kind": "bounce",
+      "room": "Cozinha",
+      "level": "terreo",
+      "position": [
+        10.05,
+        -6.85,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        239,
+        217
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_3_0",
+      "kind": "bounce",
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "position": [
+        2.45,
+        0.75,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_4_0",
+      "kind": "bounce",
+      "room": "Escritorio",
+      "level": "terreo",
+      "position": [
+        -6.1,
+        6.0,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_5_0",
+      "kind": "bounce",
+      "room": "Lavabo",
+      "level": "terreo",
+      "position": [
+        -2.0,
+        4.196,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_6_0",
+      "kind": "bounce",
+      "room": "Escada",
+      "level": "terreo",
+      "position": [
+        1.0,
+        4.122,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_7_0",
+      "kind": "bounce",
+      "room": "Despensa",
+      "level": "terreo",
+      "position": [
+        4.15,
+        4.122,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_8_0",
+      "kind": "bounce",
+      "room": "Sala TV Jogos",
+      "level": "terreo",
+      "position": [
+        8.1,
+        4.75,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_9_0",
+      "kind": "bounce",
+      "room": "Lavanderia",
+      "level": "terreo",
+      "position": [
+        12.1,
+        4.363,
+        0.75
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_10_0",
+      "kind": "bounce",
+      "room": "Suite master",
+      "level": "superior",
+      "position": [
+        -4.8,
+        3.596,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 5.0,
+      "intensity": 0.4,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_11_0",
+      "kind": "bounce",
+      "room": "Closet",
+      "level": "superior",
+      "position": [
+        -6.8,
+        -1.35,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_12_0",
+      "kind": "bounce",
+      "room": "Banheiro da suite",
+      "level": "superior",
+      "position": [
+        -2.8,
+        -1.35,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_13_0",
+      "kind": "bounce",
+      "room": "Quarto 2",
+      "level": "superior",
+      "position": [
+        10.05,
+        -9.2,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 5.0,
+      "intensity": 0.4,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_14_0",
+      "kind": "bounce",
+      "room": "Quarto 3",
+      "level": "superior",
+      "position": [
+        10.05,
+        4.013,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 5.0,
+      "intensity": 0.4,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_15_0",
+      "kind": "bounce",
+      "room": "Banheiro social",
+      "level": "superior",
+      "position": [
+        11.75,
+        -0.6,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_16_0",
+      "kind": "bounce",
+      "room": "Circulacao quartos",
+      "level": "superior",
+      "position": [
+        8.1,
+        -0.6,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 3.0,
+      "intensity": 0.24,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_17_0",
+      "kind": "bounce",
+      "room": "Mezanino",
+      "level": "superior",
+      "position": [
+        2.8,
+        -1.1,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    },
+    {
+      "id": "bounce_18_0",
+      "kind": "bounce",
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "position": [
+        2.8,
+        3.772,
+        4.358
+      ],
+      "floor_z": 2.808,
+      "rgb": [
+        255,
+        250,
+        242
+      ],
+      "range": 4.3,
+      "intensity": 0.3,
+      "falloff_exponent": 8,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 0,
+      "shadow": false,
+      "cull_below_floor": true,
+      "no_specular": true
+    }
+  ],
+  "description": "White ceiling lights and warm yellow pendants with gradual beam edges, reduced peak intensity and sparse low-power native indirect fill. Linear warm stair/TV LEDs. Constant lights; no weather, global filter, fog or bloom changes.",
+  "native_stair_count": 20,
+  "native_tv_led_count": 1,
+  "ceiling_lens_diffuser_lods": [
+    {
+      "lod": "HIGH",
+      "radius_m": 0.05,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 5.0
+    },
+    {
+      "lod": "MED",
+      "radius_m": 0.052,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 12.0
+    },
+    {
+      "lod": "LOW",
+      "radius_m": 0.055,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 30.0
+    },
+    {
+      "lod": "VLOW",
+      "radius_m": 0.055,
+      "surface_z": [
+        -0.004,
+        -0.003
+      ],
+      "threshold_m": 70.0
+    }
+  ],
+  "decorative_native_lights": [
+    {
+      "id": "stair_1",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000000715255737,
+        1.78000004196167,
+        2.7500000953674317
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.0959999561309814,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_2",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        1.7199993619918823,
+        -0.6776000499725342
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_3",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.019999433517456,
+        -0.4971999764442444
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_4",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.319998670578003,
+        -0.3167999923229218
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_5",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.6199998149871826,
+        -0.1364000156521797
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_6",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        2.9199990520477295,
+        0.0439999982714653
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_7",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.220000196456909,
+        0.22439996004104615
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_8",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.519999433517456,
+        0.40479997396469114
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_9",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        3.819998670578003,
+        0.5851999282836914
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_10",
+      "kind": "stair_yellow",
+      "position": [
+        0.39999961853027344,
+        4.120000053405762,
+        0.7655999422073364
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.096000075340271,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_11",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.480000328063965,
+        1.1263999700546266
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_12",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        4.179998706817627,
+        1.3068001031875611
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_13",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.879999708175659,
+        1.4871999979019166
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_14",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.5800004711151123,
+        1.6676001310348512
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_15",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        3.2799993267059326,
+        1.8480000257492066
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_16",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.9800000896453858,
+        2.0284000396728517
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_17",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.679998945236206,
+        2.208799934387207
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_18",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.379999708175659,
+        2.3892000675201417
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_19",
+      "kind": "stair_yellow",
+      "position": [
+        1.8000001907348633,
+        2.079999517440796,
+        2.569599962234497
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 1.095999836921692,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "stair_20",
+      "kind": "stair_yellow",
+      "position": [
+        1.100000023841858,
+        4.419999767303467,
+        0.9459998965263366
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.42,
+      "intensity": 0.5,
+      "length_m": 2.496000051498413,
+      "falloff_exponent": 4,
+      "source_type": "CAPSULE",
+      "direction": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "tv_top_linear",
+      "kind": "tv_top_yellow",
+      "position": [
+        -8.8,
+        -8.773499999999999,
+        1.464
+      ],
+      "rgb": [
+        255,
+        196,
+        100
+      ],
+      "range": 0.6,
+      "intensity": 0.6,
+      "falloff_exponent": 6,
+      "source_type": "CAPSULE",
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "length_m": 2.193
+    }
+  ],
+  "reference_inspection": "227 native sources read from original Michael and clothing-store GTA assets; adapted to mansion dimensions, without copying original assets."
+}

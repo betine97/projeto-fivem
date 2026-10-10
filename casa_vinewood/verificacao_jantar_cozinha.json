@@ -1,0 +1,204 @@
+{
+  "passed": true,
+  "revision": "jantar-cozinha-2026-10-07",
+  "mesh_checks": [
+    {
+      "family": "dining",
+      "triangles": 100000,
+      "welded_vertices": 49428,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "emissive_triangles": 0,
+      "embedded_maps": [
+        {
+          "name": "dining_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "dining_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "dining_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mips": 10,
+          "decoded_pixels_equal": true
+        }
+      ],
+      "bounds_match": true
+    },
+    {
+      "family": "island",
+      "triangles": 64998,
+      "welded_vertices": 32443,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "emissive_triangles": 0,
+      "embedded_maps": [
+        {
+          "name": "island_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "island_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "island_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mips": 10,
+          "decoded_pixels_equal": true
+        }
+      ],
+      "bounds_match": true
+    },
+    {
+      "family": "cylinder",
+      "triangles": 24000,
+      "welded_vertices": 12002,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "emissive_triangles": 2277,
+      "embedded_maps": [
+        {
+          "name": "cylinder_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "cylinder_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "cylinder_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mips": 10,
+          "decoded_pixels_equal": true
+        }
+      ],
+      "bounds_match": true
+    },
+    {
+      "family": "linear",
+      "triangles": 15998,
+      "welded_vertices": 7997,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "zero_tangents": 0,
+      "emissive_triangles": 2942,
+      "embedded_maps": [
+        {
+          "name": "linear_albedo",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "linear_normal",
+          "size": [
+            4096,
+            4096
+          ],
+          "mips": 11,
+          "decoded_pixels_equal": true
+        },
+        {
+          "name": "linear_spec",
+          "size": [
+            2048,
+            2048
+          ],
+          "mips": 10,
+          "decoded_pixels_equal": true
+        }
+      ],
+      "bounds_match": true
+    }
+  ],
+  "drawable_sha256": {
+    "mansao_jantar.ydr": "ffd38a5ba3eff1edb4e45b875e2c6b32c7ba8d59cba2ceaf37d8e47be4154122",
+    "mansao_ilha.ydr": "f47d0ef3944e22fd18e43224ea44b52e22a6a36e8c1f71f1f804aefab87989e6",
+    "mansao_pendentes.ydr": "6ca06bb9f1de26ebc30eb204598e70d23af347e0a1fe2b05722e9e3dfae2840c"
+  },
+  "existing_geometry_and_uvs_preserved": [
+    "mansao_paredes",
+    "mansao_pisos",
+    "mansao_escada",
+    "mansao_teto",
+    "mansao_vidros",
+    "mansao_mobiliario",
+    "mansao_porta_madeira_095"
+  ],
+  "walking_routes": {
+    "Circulacao mesa e oito cadeiras": {
+      "samples": 222,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Circulacao ilha e quatro banquetas": {
+      "samples": 168,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Entre jantar e cozinha": {
+      "samples": 55,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "pendant_mounts_match_ceiling": true,
+  "light_points": 9,
+  "light_behavior_cases": 3,
+  "in_game_verified": false
+}

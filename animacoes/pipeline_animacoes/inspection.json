@@ -1,0 +1,1698 @@
+{
+  "ajoelhado_refinado.blend": {
+    "rigs": {
+      "GTA_Personagem_Rig": 98,
+      "hash_976FBF04": 98,
+      "hash_A1286BE2": 98,
+      "w_ar_carbinerifle": 17
+    },
+    "joints": {
+      "SKEL_ROOT": [
+        0.0,
+        0.007100999820977449,
+        0.5312939882278442
+      ],
+      "SKEL_Pelvis": [
+        -1.6292068139023286e-08,
+        0.007100999820977449,
+        0.5312939882278442
+      ],
+      "SKEL_L_Thigh": [
+        0.09611795842647552,
+        0.007327001541852951,
+        0.457785964012146
+      ],
+      "SKEL_L_Calf": [
+        0.12756773829460144,
+        -0.39625784754753113,
+        0.4950355291366577
+      ],
+      "SKEL_L_Foot": [
+        0.15000005066394806,
+        -0.4399999678134918,
+        0.08500003814697266
+      ],
+      "SKEL_L_Toe0": [
+        0.15000003576278687,
+        -0.5899712443351746,
+        0.025011539459228516
+      ],
+      "SKEL_R_Thigh": [
+        -0.09611804783344269,
+        0.007327002473175526,
+        0.45778608322143555
+      ],
+      "SKEL_R_Calf": [
+        -0.14172081649303436,
+        -0.05681171268224716,
+        0.05895775556564331
+      ],
+      "SKEL_R_Foot": [
+        -0.14000000059604645,
+        0.34999996423721313,
+        0.13000017404556274
+      ],
+      "SKEL_R_Toe0": [
+        -0.13999997079372406,
+        0.26881465315818787,
+        -0.009638488292694092
+      ],
+      "SKEL_Spine_Root": [
+        -1.6292068139023286e-08,
+        0.007100999820977449,
+        0.5312939882278442
+      ],
+      "SKEL_Spine0": [
+        -0.0018516323762014508,
+        0.01699930429458618,
+        0.550000011920929
+      ],
+      "SKEL_Spine1": [
+        -0.0008248161757364869,
+        0.025004543364048004,
+        0.6344703435897827
+      ],
+      "SKEL_Spine2": [
+        -0.006536087486892939,
+        0.005786873400211334,
+        0.7180206179618835
+      ],
+      "SKEL_Spine3": [
+        -0.026899145916104317,
+        -0.04729333892464638,
+        0.8155558109283447
+      ],
+      "SKEL_L_Clavicle": [
+        -0.055433690547943115,
+        -0.2012820988893509,
+        0.9748070240020752
+      ],
+      "SKEL_L_UpperArm": [
+        0.12615767121315002,
+        -0.20586977899074554,
+        0.9653563499450684
+      ],
+      "SKEL_L_Forearm": [
+        0.03911079093813896,
+        -0.42515280842781067,
+        0.8256852626800537
+      ],
+      "SKEL_L_Hand": [
+        -0.16000017523765564,
+        -0.5500001311302185,
+        0.9350000023841858
+      ],
+      "SKEL_R_Clavicle": [
+        -0.11361196637153625,
+        -0.17508801817893982,
+        0.9769160747528076
+      ],
+      "SKEL_R_UpperArm": [
+        -0.23766186833381653,
+        -0.04206538572907448,
+        0.9785449504852295
+      ],
+      "SKEL_R_Forearm": [
+        -0.35262560844421387,
+        -0.194086492061615,
+        0.7814579606056213
+      ],
+      "SKEL_R_Hand": [
+        -0.21999993920326233,
+        -0.36000004410743713,
+        0.9300000071525574
+      ],
+      "SKEL_Neck_1": [
+        -0.07773998379707336,
+        -0.1767915040254593,
+        1.0214616060256958
+      ],
+      "SKEL_Head": [
+        -0.11876773089170456,
+        -0.248866468667984,
+        1.0983258485794067
+      ]
+    },
+    "gun_contacts": {
+      "Gun_Root": [
+        -0.19699394702911377,
+        -0.4751860797405243,
+        1.016754150390625
+      ],
+      "Gun_GripR": [
+        -0.21999992430210114,
+        -0.3600000739097595,
+        0.9300001263618469
+      ],
+      "Gun_Main_Bone": [
+        -0.19699405133724213,
+        -0.47518640756607056,
+        1.016754150390625
+      ],
+      "Gun_Cock1": [
+        -0.19703003764152527,
+        -0.389805406332016,
+        1.055920124053955
+      ],
+      "Gun_Breach": [
+        -0.19699400663375854,
+        -0.4707738161087036,
+        1.0417970418930054
+      ],
+      "Gun_VFX_Eject": [
+        -0.203621044754982,
+        -0.5041804313659668,
+        1.0403012037277222
+      ],
+      "Gun_Muzzle": [
+        -0.19703005254268646,
+        -0.8757134675979614,
+        1.034270167350769
+      ],
+      "WAPFlshLasr": [
+        -0.21845205128192902,
+        -0.7501464486122131,
+        1.0324411392211914
+      ],
+      "WAPSupp": [
+        -0.19703005254268646,
+        -0.7047924399375916,
+        1.030481219291687
+      ],
+      "WAPScop": [
+        -0.19699403643608093,
+        -0.5334604382514954,
+        1.0672781467437744
+      ],
+      "WAPGrip": [
+        -0.19703005254268646,
+        -0.6410694122314453,
+        1.0051732063293457
+      ],
+      "NM_Butt_Marker": [
+        -0.19699405133724213,
+        -0.1353093683719635,
+        1.0360280275344849
+      ],
+      "Gun_Sight_front": [
+        -0.19699402153491974,
+        -0.7459064722061157,
+        1.0739061832427979
+      ],
+      "Gun_Sight_rear": [
+        -0.19699402153491974,
+        -0.43097740411758423,
+        1.0777981281280518
+      ],
+      "WAPClip": [
+        -0.19742505252361298,
+        -0.5120694041252136,
+        1.0116461515426636
+      ],
+      "Gun_Trigger": [
+        -0.19699440896511078,
+        -0.451487272977829,
+        0.985794186592102
+      ],
+      "Gun_GripL": [
+        -0.19699396193027496,
+        -0.6410720944404602,
+        1.000641107559204
+      ]
+    },
+    "gun_matrix": [
+      [
+        -1.3435884227419592e-07,
+        1.0,
+        -1.4901161193847656e-08,
+        -0.19699394702911377
+      ],
+      [
+        -1.0000001192092896,
+        -1.3435885648505064e-07,
+        -3.725290298461914e-09,
+        -0.4751860797405243
+      ],
+      [
+        9.313226634333205e-09,
+        1.2513143614404894e-15,
+        1.0,
+        1.016754150390625
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "bones": [
+      {
+        "name": "SKEL_ROOT",
+        "parent": null,
+        "tag": 0
+      },
+      {
+        "name": "SKEL_Pelvis",
+        "parent": "SKEL_ROOT",
+        "tag": 11816
+      },
+      {
+        "name": "SKEL_L_Thigh",
+        "parent": "SKEL_Pelvis",
+        "tag": 58271
+      },
+      {
+        "name": "SKEL_L_Calf",
+        "parent": "SKEL_L_Thigh",
+        "tag": 63931
+      },
+      {
+        "name": "SKEL_L_Foot",
+        "parent": "SKEL_L_Calf",
+        "tag": 14201
+      },
+      {
+        "name": "SKEL_L_Toe0",
+        "parent": "SKEL_L_Foot",
+        "tag": 2108
+      },
+      {
+        "name": "IK_L_Foot",
+        "parent": "SKEL_L_Foot",
+        "tag": 65245
+      },
+      {
+        "name": "PH_L_Foot",
+        "parent": "SKEL_L_Foot",
+        "tag": 57717
+      },
+      {
+        "name": "MH_L_Knee",
+        "parent": "SKEL_L_Thigh",
+        "tag": 46078
+      },
+      {
+        "name": "SKEL_R_Thigh",
+        "parent": "SKEL_Pelvis",
+        "tag": 51826
+      },
+      {
+        "name": "SKEL_R_Calf",
+        "parent": "SKEL_R_Thigh",
+        "tag": 36864
+      },
+      {
+        "name": "SKEL_R_Foot",
+        "parent": "SKEL_R_Calf",
+        "tag": 52301
+      },
+      {
+        "name": "SKEL_R_Toe0",
+        "parent": "SKEL_R_Foot",
+        "tag": 20781
+      },
+      {
+        "name": "IK_R_Foot",
+        "parent": "SKEL_R_Foot",
+        "tag": 35502
+      },
+      {
+        "name": "PH_R_Foot",
+        "parent": "SKEL_R_Foot",
+        "tag": 24806
+      },
+      {
+        "name": "MH_R_Knee",
+        "parent": "SKEL_R_Thigh",
+        "tag": 16335
+      },
+      {
+        "name": "RB_L_ThighRoll",
+        "parent": "SKEL_Pelvis",
+        "tag": 23639
+      },
+      {
+        "name": "RB_R_ThighRoll",
+        "parent": "SKEL_Pelvis",
+        "tag": 6442
+      },
+      {
+        "name": "SKEL_Spine_Root",
+        "parent": "SKEL_ROOT",
+        "tag": 57597
+      },
+      {
+        "name": "SKEL_Spine0",
+        "parent": "SKEL_Spine_Root",
+        "tag": 23553
+      },
+      {
+        "name": "SKEL_Spine1",
+        "parent": "SKEL_Spine0",
+        "tag": 24816
+      },
+      {
+        "name": "SKEL_Spine2",
+        "parent": "SKEL_Spine1",
+        "tag": 24817
+      },
+      {
+        "name": "SKEL_Spine3",
+        "parent": "SKEL_Spine2",
+        "tag": 24818
+      },
+      {
+        "name": "SKEL_L_Clavicle",
+        "parent": "SKEL_Spine3",
+        "tag": 64729
+      },
+      {
+        "name": "SKEL_L_UpperArm",
+        "parent": "SKEL_L_Clavicle",
+        "tag": 45509
+      },
+      {
+        "name": "SKEL_L_Forearm",
+        "parent": "SKEL_L_UpperArm",
+        "tag": 61163
+      },
+      {
+        "name": "SKEL_L_Hand",
+        "parent": "SKEL_L_Forearm",
+        "tag": 18905
+      },
+      {
+        "name": "SKEL_L_Finger00",
+        "parent": "SKEL_L_Hand",
+        "tag": 26610
+      },
+      {
+        "name": "SKEL_L_Finger01",
+        "parent": "SKEL_L_Finger00",
+        "tag": 4089
+      },
+      {
+        "name": "SKEL_L_Finger02",
+        "parent": "SKEL_L_Finger01",
+        "tag": 4090
+      },
+      {
+        "name": "SKEL_L_Finger10",
+        "parent": "SKEL_L_Hand",
+        "tag": 26611
+      },
+      {
+        "name": "SKEL_L_Finger11",
+        "parent": "SKEL_L_Finger10",
+        "tag": 4169
+      },
+      {
+        "name": "SKEL_L_Finger12",
+        "parent": "SKEL_L_Finger11",
+        "tag": 4170
+      },
+      {
+        "name": "SKEL_L_Finger20",
+        "parent": "SKEL_L_Hand",
+        "tag": 26612
+      },
+      {
+        "name": "SKEL_L_Finger21",
+        "parent": "SKEL_L_Finger20",
+        "tag": 4185
+      },
+      {
+        "name": "SKEL_L_Finger22",
+        "parent": "SKEL_L_Finger21",
+        "tag": 4186
+      },
+      {
+        "name": "SKEL_L_Finger30",
+        "parent": "SKEL_L_Hand",
+        "tag": 26613
+      },
+      {
+        "name": "SKEL_L_Finger31",
+        "parent": "SKEL_L_Finger30",
+        "tag": 4137
+      },
+      {
+        "name": "SKEL_L_Finger32",
+        "parent": "SKEL_L_Finger31",
+        "tag": 4138
+      },
+      {
+        "name": "SKEL_L_Finger40",
+        "parent": "SKEL_L_Hand",
+        "tag": 26614
+      },
+      {
+        "name": "SKEL_L_Finger41",
+        "parent": "SKEL_L_Finger40",
+        "tag": 4153
+      },
+      {
+        "name": "SKEL_L_Finger42",
+        "parent": "SKEL_L_Finger41",
+        "tag": 4154
+      },
+      {
+        "name": "PH_L_Hand",
+        "parent": "SKEL_L_Hand",
+        "tag": 60309
+      },
+      {
+        "name": "IK_L_Hand",
+        "parent": "SKEL_L_Hand",
+        "tag": 36029
+      },
+      {
+        "name": "RB_L_ForeArmRoll",
+        "parent": "SKEL_L_Forearm",
+        "tag": 61007
+      },
+      {
+        "name": "RB_L_ArmRoll",
+        "parent": "SKEL_L_UpperArm",
+        "tag": 5232
+      },
+      {
+        "name": "MH_L_Elbow",
+        "parent": "SKEL_L_UpperArm",
+        "tag": 22711
+      },
+      {
+        "name": "SKEL_R_Clavicle",
+        "parent": "SKEL_Spine3",
+        "tag": 10706
+      },
+      {
+        "name": "SKEL_R_UpperArm",
+        "parent": "SKEL_R_Clavicle",
+        "tag": 40269
+      },
+      {
+        "name": "SKEL_R_Forearm",
+        "parent": "SKEL_R_UpperArm",
+        "tag": 28252
+      },
+      {
+        "name": "SKEL_R_Hand",
+        "parent": "SKEL_R_Forearm",
+        "tag": 57005
+      },
+      {
+        "name": "SKEL_R_Finger00",
+        "parent": "SKEL_R_Hand",
+        "tag": 58866
+      },
+      {
+        "name": "SKEL_R_Finger01",
+        "parent": "SKEL_R_Finger00",
+        "tag": 64016
+      },
+      {
+        "name": "SKEL_R_Finger02",
+        "parent": "SKEL_R_Finger01",
+        "tag": 64017
+      },
+      {
+        "name": "SKEL_R_Finger10",
+        "parent": "SKEL_R_Hand",
+        "tag": 58867
+      },
+      {
+        "name": "SKEL_R_Finger11",
+        "parent": "SKEL_R_Finger10",
+        "tag": 64096
+      },
+      {
+        "name": "SKEL_R_Finger12",
+        "parent": "SKEL_R_Finger11",
+        "tag": 64097
+      },
+      {
+        "name": "SKEL_R_Finger20",
+        "parent": "SKEL_R_Hand",
+        "tag": 58868
+      },
+      {
+        "name": "SKEL_R_Finger21",
+        "parent": "SKEL_R_Finger20",
+        "tag": 64112
+      },
+      {
+        "name": "SKEL_R_Finger22",
+        "parent": "SKEL_R_Finger21",
+        "tag": 64113
+      },
+      {
+        "name": "SKEL_R_Finger30",
+        "parent": "SKEL_R_Hand",
+        "tag": 58869
+      },
+      {
+        "name": "SKEL_R_Finger31",
+        "parent": "SKEL_R_Finger30",
+        "tag": 64064
+      },
+      {
+        "name": "SKEL_R_Finger32",
+        "parent": "SKEL_R_Finger31",
+        "tag": 64065
+      },
+      {
+        "name": "SKEL_R_Finger40",
+        "parent": "SKEL_R_Hand",
+        "tag": 58870
+      },
+      {
+        "name": "SKEL_R_Finger41",
+        "parent": "SKEL_R_Finger40",
+        "tag": 64080
+      },
+      {
+        "name": "SKEL_R_Finger42",
+        "parent": "SKEL_R_Finger41",
+        "tag": 64081
+      },
+      {
+        "name": "PH_R_Hand",
+        "parent": "SKEL_R_Hand",
+        "tag": 28422
+      },
+      {
+        "name": "IK_R_Hand",
+        "parent": "SKEL_R_Hand",
+        "tag": 6286
+      },
+      {
+        "name": "RB_R_ForeArmRoll",
+        "parent": "SKEL_R_Forearm",
+        "tag": 43810
+      },
+      {
+        "name": "RB_R_ArmRoll",
+        "parent": "SKEL_R_UpperArm",
+        "tag": 37119
+      },
+      {
+        "name": "MH_R_Elbow",
+        "parent": "SKEL_R_UpperArm",
+        "tag": 2992
+      },
+      {
+        "name": "SKEL_Neck_1",
+        "parent": "SKEL_Spine3",
+        "tag": 39317
+      },
+      {
+        "name": "SKEL_Head",
+        "parent": "SKEL_Neck_1",
+        "tag": 31086
+      },
+      {
+        "name": "IK_Head",
+        "parent": "SKEL_Head",
+        "tag": 12844
+      },
+      {
+        "name": "FACIAL_facialRoot",
+        "parent": "SKEL_Head",
+        "tag": 65068
+      },
+      {
+        "name": "FB_L_Brow_Out_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 58331
+      },
+      {
+        "name": "FB_L_Lid_Upper_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 45750
+      },
+      {
+        "name": "FB_L_Eye_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 25260
+      },
+      {
+        "name": "FB_L_CheekBone_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 21550
+      },
+      {
+        "name": "FB_L_Lip_Corner_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 29868
+      },
+      {
+        "name": "FB_R_Lid_Upper_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 43536
+      },
+      {
+        "name": "FB_R_Eye_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 27474
+      },
+      {
+        "name": "FB_R_CheekBone_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 19336
+      },
+      {
+        "name": "FB_R_Brow_Out_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 1356
+      },
+      {
+        "name": "FB_R_Lip_Corner_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 11174
+      },
+      {
+        "name": "FB_Brow_Centre_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 37193
+      },
+      {
+        "name": "FB_UpperLipRoot_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 20178
+      },
+      {
+        "name": "FB_UpperLip_001",
+        "parent": "FB_UpperLipRoot_001",
+        "tag": 61839
+      },
+      {
+        "name": "FB_L_Lip_Top_001",
+        "parent": "FB_UpperLip_001",
+        "tag": 20279
+      },
+      {
+        "name": "FB_R_Lip_Top_001",
+        "parent": "FB_UpperLip_001",
+        "tag": 17719
+      },
+      {
+        "name": "FB_Jaw_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 46240
+      },
+      {
+        "name": "FB_LowerLipRoot_001",
+        "parent": "FB_Jaw_001",
+        "tag": 17188
+      },
+      {
+        "name": "FB_LowerLip_001",
+        "parent": "FB_LowerLipRoot_001",
+        "tag": 20623
+      },
+      {
+        "name": "FB_L_Lip_Bot_001",
+        "parent": "FB_LowerLip_001",
+        "tag": 47419
+      },
+      {
+        "name": "FB_R_Lip_Bot_001",
+        "parent": "FB_LowerLip_001",
+        "tag": 49979
+      },
+      {
+        "name": "FB_Tongue_001",
+        "parent": "FB_LowerLipRoot_001",
+        "tag": 47495
+      },
+      {
+        "name": "RB_Neck_1",
+        "parent": "SKEL_Neck_1",
+        "tag": 35731
+      },
+      {
+        "name": "IK_Root",
+        "parent": "SKEL_ROOT",
+        "tag": 56604
+      }
+    ],
+    "visible_meshes": [
+      {
+        "name": "Chao referencia Z=0",
+        "parent": null,
+        "modifiers": []
+      },
+      {
+        "name": "Gun_Root",
+        "parent": "w_ar_carbinerifle",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "w_ar_carbinerifle"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT",
+        "parent": "hash_976FBF04",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "hash_976FBF04"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.002",
+        "parent": "hash_0E4F123C",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.003",
+        "parent": "hash_7CEAC270",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.005",
+        "parent": "hash_90C29132",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.007",
+        "parent": "hash_E439CA4F",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      }
+    ]
+  },
+  "deitado_tiro.blend": {
+    "rigs": {
+      "GTA_Personagem_Rig": 98,
+      "hash_976FBF04": 98,
+      "hash_A1286BE2": 98,
+      "w_ar_carbinerifle": 17
+    },
+    "joints": {
+      "SKEL_ROOT": [
+        0.0,
+        0.0,
+        0.15000003576278687
+      ],
+      "SKEL_Pelvis": [
+        -1.6292068139023286e-08,
+        0.0,
+        0.15000003576278687
+      ],
+      "SKEL_L_Thigh": [
+        0.09611795097589493,
+        0.07243051379919052,
+        0.13745808601379395
+      ],
+      "SKEL_L_Calf": [
+        0.2230125367641449,
+        0.43193766474723816,
+        -0.003643810749053955
+      ],
+      "SKEL_L_Foot": [
+        0.24000000953674316,
+        0.8300000429153442,
+        0.10499995946884155
+      ],
+      "SKEL_L_Toe0": [
+        0.2885519862174988,
+        0.9821295142173767,
+        0.08072400093078613
+      ],
+      "SKEL_R_Thigh": [
+        -0.09611806273460388,
+        0.07243042439222336,
+        0.13745808601379395
+      ],
+      "SKEL_R_Calf": [
+        -0.2230125218629837,
+        0.4319377541542053,
+        -0.0036439895629882812
+      ],
+      "SKEL_R_Foot": [
+        -0.2399999499320984,
+        0.8300002217292786,
+        0.10500001907348633
+      ],
+      "SKEL_R_Toe0": [
+        -0.2885518968105316,
+        0.9821298122406006,
+        0.08072406053543091
+      ],
+      "SKEL_Spine_Root": [
+        -1.6292068139023286e-08,
+        0.0,
+        0.15000003576278687
+      ],
+      "SKEL_Spine0": [
+        -2.662404696707199e-08,
+        -0.016673177480697632,
+        0.16316533088684082
+      ],
+      "SKEL_Spine1": [
+        -7.328060291911243e-08,
+        -0.09845872223377228,
+        0.1857815980911255
+      ],
+      "SKEL_Spine2": [
+        -1.2181139652511774e-07,
+        -0.1800023913383484,
+        0.2128596305847168
+      ],
+      "SKEL_Spine3": [
+        -1.2711591068637063e-07,
+        -0.28532645106315613,
+        0.2535058856010437
+      ],
+      "SKEL_L_Clavicle": [
+        0.031918715685606,
+        -0.5043436288833618,
+        0.2835116386413574
+      ],
+      "SKEL_L_UpperArm": [
+        0.2063111662864685,
+        -0.5533915162086487,
+        0.26716238260269165
+      ],
+      "SKEL_L_Forearm": [
+        0.013940872624516487,
+        -0.6597172617912292,
+        0.10327619314193726
+      ],
+      "SKEL_L_Hand": [
+        -0.13000012934207916,
+        -0.7900002002716064,
+        0.27500027418136597
+      ],
+      "SKEL_R_Clavicle": [
+        -0.03191915526986122,
+        -0.504343569278717,
+        0.2835119962692261
+      ],
+      "SKEL_R_UpperArm": [
+        -0.20631255209445953,
+        -0.553391695022583,
+        0.2671626806259155
+      ],
+      "SKEL_R_Forearm": [
+        -0.26339495182037354,
+        -0.6471708416938782,
+        0.015931129455566406
+      ],
+      "SKEL_R_Hand": [
+        -0.18999993801116943,
+        -0.5999999046325684,
+        0.2600002884864807
+      ],
+      "SKEL_Neck_1": [
+        -7.373281363243223e-08,
+        -0.5225997567176819,
+        0.32735109329223633
+      ],
+      "SKEL_Head": [
+        -8.33033340086331e-08,
+        -0.6019875407218933,
+        0.40787285566329956
+      ]
+    },
+    "gun_contacts": {
+      "Gun_Root": [
+        -0.16699393093585968,
+        -0.7151858806610107,
+        0.3467542827129364
+      ],
+      "Gun_GripR": [
+        -0.18999992311000824,
+        -0.5999998450279236,
+        0.2600002884864807
+      ],
+      "Gun_Main_Bone": [
+        -0.16699403524398804,
+        -0.7151862382888794,
+        0.3467542827129364
+      ],
+      "Gun_Cock1": [
+        -0.16703002154827118,
+        -0.6298052072525024,
+        0.3859202563762665
+      ],
+      "Gun_Breach": [
+        -0.16699399054050446,
+        -0.7107736468315125,
+        0.3717971444129944
+      ],
+      "Gun_VFX_Eject": [
+        -0.1736210286617279,
+        -0.7441802024841309,
+        0.3703012764453888
+      ],
+      "Gun_Muzzle": [
+        -0.16703003644943237,
+        -1.115713357925415,
+        0.36427032947540283
+      ],
+      "WAPFlshLasr": [
+        -0.18845203518867493,
+        -0.990146279335022,
+        0.3624413311481476
+      ],
+      "WAPSupp": [
+        -0.16703003644943237,
+        -0.9447922706604004,
+        0.360481321811676
+      ],
+      "WAPScop": [
+        -0.16699402034282684,
+        -0.7734602093696594,
+        0.3972782790660858
+      ],
+      "WAPGrip": [
+        -0.16703003644943237,
+        -0.8810692429542542,
+        0.3351733088493347
+      ],
+      "NM_Butt_Marker": [
+        -0.16699402034282684,
+        -0.3753091096878052,
+        0.36602821946144104
+      ],
+      "Gun_Sight_front": [
+        -0.16699400544166565,
+        -0.9859063029289246,
+        0.40390631556510925
+      ],
+      "Gun_Sight_rear": [
+        -0.16699400544166565,
+        -0.6709771752357483,
+        0.40779826045036316
+      ],
+      "WAPClip": [
+        -0.1674250364303589,
+        -0.7520692348480225,
+        0.341646283864975
+      ],
+      "Gun_Trigger": [
+        -0.1669943928718567,
+        -0.6914870738983154,
+        0.31579431891441345
+      ],
+      "Gun_GripL": [
+        -0.16699396073818207,
+        -0.881071925163269,
+        0.3306412696838379
+      ]
+    },
+    "gun_matrix": [
+      [
+        -1.3435885648505064e-07,
+        1.0000001192092896,
+        1.4901161193847656e-08,
+        -0.16699393093585968
+      ],
+      [
+        -1.000000238418579,
+        -1.3435887069590535e-07,
+        -5.587935447692871e-09,
+        -0.7151858806610107
+      ],
+      [
+        -7.450583261459087e-09,
+        1.4901161193847656e-08,
+        1.0000001192092896,
+        0.3467542827129364
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "bones": [
+      {
+        "name": "SKEL_ROOT",
+        "parent": null,
+        "tag": 0
+      },
+      {
+        "name": "SKEL_Pelvis",
+        "parent": "SKEL_ROOT",
+        "tag": 11816
+      },
+      {
+        "name": "SKEL_L_Thigh",
+        "parent": "SKEL_Pelvis",
+        "tag": 58271
+      },
+      {
+        "name": "SKEL_L_Calf",
+        "parent": "SKEL_L_Thigh",
+        "tag": 63931
+      },
+      {
+        "name": "SKEL_L_Foot",
+        "parent": "SKEL_L_Calf",
+        "tag": 14201
+      },
+      {
+        "name": "SKEL_L_Toe0",
+        "parent": "SKEL_L_Foot",
+        "tag": 2108
+      },
+      {
+        "name": "IK_L_Foot",
+        "parent": "SKEL_L_Foot",
+        "tag": 65245
+      },
+      {
+        "name": "PH_L_Foot",
+        "parent": "SKEL_L_Foot",
+        "tag": 57717
+      },
+      {
+        "name": "MH_L_Knee",
+        "parent": "SKEL_L_Thigh",
+        "tag": 46078
+      },
+      {
+        "name": "SKEL_R_Thigh",
+        "parent": "SKEL_Pelvis",
+        "tag": 51826
+      },
+      {
+        "name": "SKEL_R_Calf",
+        "parent": "SKEL_R_Thigh",
+        "tag": 36864
+      },
+      {
+        "name": "SKEL_R_Foot",
+        "parent": "SKEL_R_Calf",
+        "tag": 52301
+      },
+      {
+        "name": "SKEL_R_Toe0",
+        "parent": "SKEL_R_Foot",
+        "tag": 20781
+      },
+      {
+        "name": "IK_R_Foot",
+        "parent": "SKEL_R_Foot",
+        "tag": 35502
+      },
+      {
+        "name": "PH_R_Foot",
+        "parent": "SKEL_R_Foot",
+        "tag": 24806
+      },
+      {
+        "name": "MH_R_Knee",
+        "parent": "SKEL_R_Thigh",
+        "tag": 16335
+      },
+      {
+        "name": "RB_L_ThighRoll",
+        "parent": "SKEL_Pelvis",
+        "tag": 23639
+      },
+      {
+        "name": "RB_R_ThighRoll",
+        "parent": "SKEL_Pelvis",
+        "tag": 6442
+      },
+      {
+        "name": "SKEL_Spine_Root",
+        "parent": "SKEL_ROOT",
+        "tag": 57597
+      },
+      {
+        "name": "SKEL_Spine0",
+        "parent": "SKEL_Spine_Root",
+        "tag": 23553
+      },
+      {
+        "name": "SKEL_Spine1",
+        "parent": "SKEL_Spine0",
+        "tag": 24816
+      },
+      {
+        "name": "SKEL_Spine2",
+        "parent": "SKEL_Spine1",
+        "tag": 24817
+      },
+      {
+        "name": "SKEL_Spine3",
+        "parent": "SKEL_Spine2",
+        "tag": 24818
+      },
+      {
+        "name": "SKEL_L_Clavicle",
+        "parent": "SKEL_Spine3",
+        "tag": 64729
+      },
+      {
+        "name": "SKEL_L_UpperArm",
+        "parent": "SKEL_L_Clavicle",
+        "tag": 45509
+      },
+      {
+        "name": "SKEL_L_Forearm",
+        "parent": "SKEL_L_UpperArm",
+        "tag": 61163
+      },
+      {
+        "name": "SKEL_L_Hand",
+        "parent": "SKEL_L_Forearm",
+        "tag": 18905
+      },
+      {
+        "name": "SKEL_L_Finger00",
+        "parent": "SKEL_L_Hand",
+        "tag": 26610
+      },
+      {
+        "name": "SKEL_L_Finger01",
+        "parent": "SKEL_L_Finger00",
+        "tag": 4089
+      },
+      {
+        "name": "SKEL_L_Finger02",
+        "parent": "SKEL_L_Finger01",
+        "tag": 4090
+      },
+      {
+        "name": "SKEL_L_Finger10",
+        "parent": "SKEL_L_Hand",
+        "tag": 26611
+      },
+      {
+        "name": "SKEL_L_Finger11",
+        "parent": "SKEL_L_Finger10",
+        "tag": 4169
+      },
+      {
+        "name": "SKEL_L_Finger12",
+        "parent": "SKEL_L_Finger11",
+        "tag": 4170
+      },
+      {
+        "name": "SKEL_L_Finger20",
+        "parent": "SKEL_L_Hand",
+        "tag": 26612
+      },
+      {
+        "name": "SKEL_L_Finger21",
+        "parent": "SKEL_L_Finger20",
+        "tag": 4185
+      },
+      {
+        "name": "SKEL_L_Finger22",
+        "parent": "SKEL_L_Finger21",
+        "tag": 4186
+      },
+      {
+        "name": "SKEL_L_Finger30",
+        "parent": "SKEL_L_Hand",
+        "tag": 26613
+      },
+      {
+        "name": "SKEL_L_Finger31",
+        "parent": "SKEL_L_Finger30",
+        "tag": 4137
+      },
+      {
+        "name": "SKEL_L_Finger32",
+        "parent": "SKEL_L_Finger31",
+        "tag": 4138
+      },
+      {
+        "name": "SKEL_L_Finger40",
+        "parent": "SKEL_L_Hand",
+        "tag": 26614
+      },
+      {
+        "name": "SKEL_L_Finger41",
+        "parent": "SKEL_L_Finger40",
+        "tag": 4153
+      },
+      {
+        "name": "SKEL_L_Finger42",
+        "parent": "SKEL_L_Finger41",
+        "tag": 4154
+      },
+      {
+        "name": "PH_L_Hand",
+        "parent": "SKEL_L_Hand",
+        "tag": 60309
+      },
+      {
+        "name": "IK_L_Hand",
+        "parent": "SKEL_L_Hand",
+        "tag": 36029
+      },
+      {
+        "name": "RB_L_ForeArmRoll",
+        "parent": "SKEL_L_Forearm",
+        "tag": 61007
+      },
+      {
+        "name": "RB_L_ArmRoll",
+        "parent": "SKEL_L_UpperArm",
+        "tag": 5232
+      },
+      {
+        "name": "MH_L_Elbow",
+        "parent": "SKEL_L_UpperArm",
+        "tag": 22711
+      },
+      {
+        "name": "SKEL_R_Clavicle",
+        "parent": "SKEL_Spine3",
+        "tag": 10706
+      },
+      {
+        "name": "SKEL_R_UpperArm",
+        "parent": "SKEL_R_Clavicle",
+        "tag": 40269
+      },
+      {
+        "name": "SKEL_R_Forearm",
+        "parent": "SKEL_R_UpperArm",
+        "tag": 28252
+      },
+      {
+        "name": "SKEL_R_Hand",
+        "parent": "SKEL_R_Forearm",
+        "tag": 57005
+      },
+      {
+        "name": "SKEL_R_Finger00",
+        "parent": "SKEL_R_Hand",
+        "tag": 58866
+      },
+      {
+        "name": "SKEL_R_Finger01",
+        "parent": "SKEL_R_Finger00",
+        "tag": 64016
+      },
+      {
+        "name": "SKEL_R_Finger02",
+        "parent": "SKEL_R_Finger01",
+        "tag": 64017
+      },
+      {
+        "name": "SKEL_R_Finger10",
+        "parent": "SKEL_R_Hand",
+        "tag": 58867
+      },
+      {
+        "name": "SKEL_R_Finger11",
+        "parent": "SKEL_R_Finger10",
+        "tag": 64096
+      },
+      {
+        "name": "SKEL_R_Finger12",
+        "parent": "SKEL_R_Finger11",
+        "tag": 64097
+      },
+      {
+        "name": "SKEL_R_Finger20",
+        "parent": "SKEL_R_Hand",
+        "tag": 58868
+      },
+      {
+        "name": "SKEL_R_Finger21",
+        "parent": "SKEL_R_Finger20",
+        "tag": 64112
+      },
+      {
+        "name": "SKEL_R_Finger22",
+        "parent": "SKEL_R_Finger21",
+        "tag": 64113
+      },
+      {
+        "name": "SKEL_R_Finger30",
+        "parent": "SKEL_R_Hand",
+        "tag": 58869
+      },
+      {
+        "name": "SKEL_R_Finger31",
+        "parent": "SKEL_R_Finger30",
+        "tag": 64064
+      },
+      {
+        "name": "SKEL_R_Finger32",
+        "parent": "SKEL_R_Finger31",
+        "tag": 64065
+      },
+      {
+        "name": "SKEL_R_Finger40",
+        "parent": "SKEL_R_Hand",
+        "tag": 58870
+      },
+      {
+        "name": "SKEL_R_Finger41",
+        "parent": "SKEL_R_Finger40",
+        "tag": 64080
+      },
+      {
+        "name": "SKEL_R_Finger42",
+        "parent": "SKEL_R_Finger41",
+        "tag": 64081
+      },
+      {
+        "name": "PH_R_Hand",
+        "parent": "SKEL_R_Hand",
+        "tag": 28422
+      },
+      {
+        "name": "IK_R_Hand",
+        "parent": "SKEL_R_Hand",
+        "tag": 6286
+      },
+      {
+        "name": "RB_R_ForeArmRoll",
+        "parent": "SKEL_R_Forearm",
+        "tag": 43810
+      },
+      {
+        "name": "RB_R_ArmRoll",
+        "parent": "SKEL_R_UpperArm",
+        "tag": 37119
+      },
+      {
+        "name": "MH_R_Elbow",
+        "parent": "SKEL_R_UpperArm",
+        "tag": 2992
+      },
+      {
+        "name": "SKEL_Neck_1",
+        "parent": "SKEL_Spine3",
+        "tag": 39317
+      },
+      {
+        "name": "SKEL_Head",
+        "parent": "SKEL_Neck_1",
+        "tag": 31086
+      },
+      {
+        "name": "IK_Head",
+        "parent": "SKEL_Head",
+        "tag": 12844
+      },
+      {
+        "name": "FACIAL_facialRoot",
+        "parent": "SKEL_Head",
+        "tag": 65068
+      },
+      {
+        "name": "FB_L_Brow_Out_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 58331
+      },
+      {
+        "name": "FB_L_Lid_Upper_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 45750
+      },
+      {
+        "name": "FB_L_Eye_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 25260
+      },
+      {
+        "name": "FB_L_CheekBone_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 21550
+      },
+      {
+        "name": "FB_L_Lip_Corner_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 29868
+      },
+      {
+        "name": "FB_R_Lid_Upper_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 43536
+      },
+      {
+        "name": "FB_R_Eye_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 27474
+      },
+      {
+        "name": "FB_R_CheekBone_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 19336
+      },
+      {
+        "name": "FB_R_Brow_Out_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 1356
+      },
+      {
+        "name": "FB_R_Lip_Corner_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 11174
+      },
+      {
+        "name": "FB_Brow_Centre_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 37193
+      },
+      {
+        "name": "FB_UpperLipRoot_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 20178
+      },
+      {
+        "name": "FB_UpperLip_001",
+        "parent": "FB_UpperLipRoot_001",
+        "tag": 61839
+      },
+      {
+        "name": "FB_L_Lip_Top_001",
+        "parent": "FB_UpperLip_001",
+        "tag": 20279
+      },
+      {
+        "name": "FB_R_Lip_Top_001",
+        "parent": "FB_UpperLip_001",
+        "tag": 17719
+      },
+      {
+        "name": "FB_Jaw_001",
+        "parent": "FACIAL_facialRoot",
+        "tag": 46240
+      },
+      {
+        "name": "FB_LowerLipRoot_001",
+        "parent": "FB_Jaw_001",
+        "tag": 17188
+      },
+      {
+        "name": "FB_LowerLip_001",
+        "parent": "FB_LowerLipRoot_001",
+        "tag": 20623
+      },
+      {
+        "name": "FB_L_Lip_Bot_001",
+        "parent": "FB_LowerLip_001",
+        "tag": 47419
+      },
+      {
+        "name": "FB_R_Lip_Bot_001",
+        "parent": "FB_LowerLip_001",
+        "tag": 49979
+      },
+      {
+        "name": "FB_Tongue_001",
+        "parent": "FB_LowerLipRoot_001",
+        "tag": 47495
+      },
+      {
+        "name": "RB_Neck_1",
+        "parent": "SKEL_Neck_1",
+        "tag": 35731
+      },
+      {
+        "name": "IK_Root",
+        "parent": "SKEL_ROOT",
+        "tag": 56604
+      }
+    ],
+    "visible_meshes": [
+      {
+        "name": "Chao referencia Z=0",
+        "parent": null,
+        "modifiers": []
+      },
+      {
+        "name": "Gun_Root",
+        "parent": "w_ar_carbinerifle",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "w_ar_carbinerifle"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT",
+        "parent": "hash_976FBF04",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "hash_976FBF04"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.002",
+        "parent": "hash_0E4F123C",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.003",
+        "parent": "hash_7CEAC270",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.005",
+        "parent": "hash_90C29132",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      },
+      {
+        "name": "SKEL_ROOT.007",
+        "parent": "hash_E439CA4F",
+        "modifiers": [
+          [
+            "ARMATURE",
+            "GTA_Personagem_Rig"
+          ]
+        ]
+      }
+    ]
+  },
+  "assault_contacts": {
+    "Gun_Root": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Gun_GripR": [
+      -0.11363500356674194,
+      -0.023005999624729156,
+      -0.04128099977970123
+    ],
+    "Gun_Main_Bone": [
+      2.58034560829401e-07,
+      1.3504177331924438e-08,
+      1.594889909029007e-07
+    ],
+    "Gun_Trigger_Pr": [
+      -0.010739746503531933,
+      -3.5980505344923586e-05,
+      0.016580156981945038
+    ],
+    "Gun_Cock1": [
+      0.08383924514055252,
+      -0.016880927607417107,
+      0.0670681968331337
+    ],
+    "Gun_Safety": [
+      -0.03670775145292282,
+      -0.015700967982411385,
+      0.04897315800189972
+    ],
+    "Gun_VFX_Eject": [
+      0.10569624602794647,
+      -0.024522922933101654,
+      0.06432320177555084
+    ],
+    "Gun_Muzzle": [
+      0.5477912425994873,
+      -3.5825971281155944e-05,
+      0.04142231494188309
+    ],
+    "WAPClip": [
+      0.11369125545024872,
+      5.374204903318969e-08,
+      0.02177519164979458
+    ],
+    "WAPSupp": [
+      0.538186252117157,
+      -3.582835415727459e-05,
+      0.041513312608003616
+    ],
+    "WAPFlshLasr": [
+      0.2958022356033325,
+      -0.017849886789917946,
+      0.043663252145051956
+    ],
+    "WAPGrip": [
+      0.23800025880336761,
+      0.0004050787538290024,
+      0.009515227749943733
+    ],
+    "WAPCover": [
+      0.2958022356033325,
+      -0.017849886789917946,
+      0.043663252145051956
+    ],
+    "WAPScop": [
+      0.24595023691654205,
+      0.0004381224571261555,
+      0.0888972282409668
+    ],
+    "NM_Butt_Marker": [
+      -0.33611875772476196,
+      -5.852823292684661e-08,
+      0.024965062737464905
+    ],
+    "Gun_GripL": [
+      0.23800000548362732,
+      0.00040499999886378646,
+      0.009514999575912952
+    ]
+  }
+}

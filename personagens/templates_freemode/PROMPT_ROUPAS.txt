@@ -1,0 +1,27 @@
+MODELO FIXO: GTA V / FiveM — mp_m_freemode_01 masculino
+
+PEÇA DESTA GERAÇÃO: [tipo de roupa]
+DESENHO E DETALHES: [corte, mangas, gola, bolsos, fechos, costuras]
+MATERIAL E CORES: [tecido, cor e acabamento]
+CAIMENTO: [justo / regular / amplo]
+
+Crie somente a peça de roupa indicada, como um objeto 3D separado, usando as imagens de frente, lateral e costas anexadas e, se o gerador aceitar, a malha de referência fornecida. Preserve as proporções do manequim. Não inclua corpo, cabeça, cabelo, mãos, pés, cenário, chão nem uma cópia da bermuda do manequim, exceto quando a peça solicitada for explicitamente uma bermuda.
+
+O manequim é o Freemode masculino original do GTA V, cabeça 000, tronco 015, pernas/bermuda 014 e pés/chinelos 005, na pose de repouso original com braços inclinados. A peça deve acompanhar exatamente essa pose das referências, com aberturas adequadas e espaço para o corpo. Não entregue uma roupa amassada no chão nem vestida sobre um personagem gerado.
+
+REFERÊNCIAS MEDIDAS NO MODELO:
+- Altura total desta composição: aproximadamente 181,8 cm, incluindo as solas dos chinelos originais.
+- Tórax: seção horizontal a 132,2 cm das solas, perímetro 107,7 cm, largura 37,4 cm e profundidade 26,7 cm.
+- Abdômen: seção horizontal a 108,2 cm das solas, perímetro 91,3 cm, largura 32,0 cm e profundidade 22,8 cm.
+- Distância entre os centros das articulações dos ombros: 39,9 cm. Não é a largura externa dos ombros.
+- Ombro → cotovelo → punho, pela cadeia de articulações: 53,3 cm. Não é uma medida de manga pela superfície da pele.
+- Extensão entre as extremidades das mãos na pose original inclinada: 118,5 cm. Não é envergadura em T.
+
+Para blusas e casacos, acrescente folga coerente com o caimento solicitado; as medidas acima são do manequim, não as dimensões finais da roupa. Para calças, use principalmente a malha e as vistas: a bermuda cobre a pelve, portanto não há medida exata de quadril nu neste pacote. Para calçados, os pés da referência usam chinelos; o ajuste final exige conferir o componente de pés apropriado.
+
+Se a ferramenta permitir controle de escala e eixos: 1 unidade = 1 metro, +Z para cima e -Y para a frente no Blender. Preserve a origem da referência junto à pelve: solas em Z=-1,002028 m e topo da cabeça em Z=0,816047 m. Se exportar em glTF/GLB, use a conversão de eixos padrão do formato, mantendo a escala física, sem girar manualmente o objeto duas vezes.
+
+Entregue malha com superfície interna onde necessária, espessura coerente, UV utilizável e texturas sem iluminação forte pintada. Evite unir mangas ao tronco, fechar a gola, fundir pernas ou incluir pele na roupa. Priorize a silhueta e o corte da referência.
+
+INSTRUÇÃO PARA USO DESTE PROMPT:
+Substitua somente os campos entre colchetes e anexe referencia_frente.png, referencia_lateral.png e referencia_costas.png. Se a ferramenta aceitar apenas uma imagem, escolha a vista mais clara da peça. As medidas orientam a geração; o gerador pode não obedecê-las exatamente. A precisão final vem do ajuste da malha no Blender, seguido de pesos, materiais, LODs e testes de movimento no FiveM.

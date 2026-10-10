@@ -1,0 +1,272 @@
+{
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "embedded_in": "stream/mansao_pendentes.ydr",
+  "description": "Six warm yellow cylinders and three warm yellow linear beams with a soft continuous edge and reduced peak power, reaching the floor.",
+  "lights": [
+    {
+      "id": "cylinder_1",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65391,
+        -9.39921,
+        1.77623
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.076230049133301,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 40.496036529541016,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.57623,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_2",
+      "kind": "pendant_yellow",
+      "position": [
+        2.6519,
+        -8.87573,
+        2.21882
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.518819808959961,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 36.083126068115234,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 3.01882,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_3",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64823,
+        -8.37012,
+        1.46593
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.76593017578125,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 44.15420913696289,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.26593,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_4",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65108,
+        -7.83108,
+        2.14434
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.444340229034424,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 36.76694869995117,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.9443400000000004,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_5",
+      "kind": "pendant_yellow",
+      "position": [
+        2.64681,
+        -7.50033,
+        1.89824
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.198239803314209,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 39.19195556640625,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.69824,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "cylinder_6",
+      "kind": "pendant_yellow",
+      "position": [
+        2.65057,
+        -7.19507,
+        2.1542
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 5.45419979095459,
+      "intensity": 0.85,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 36.67514419555664,
+      "shadow": false,
+      "floor_radius_m": 2.2,
+      "beam_height_m": 2.9542,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "linear_1",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.75,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.614999771118164,
+      "intensity": 1.15,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 38.79171371459961,
+      "shadow": false,
+      "floor_radius_m": 1.7,
+      "beam_height_m": 2.115,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "linear_2",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -9.0,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.614999771118164,
+      "intensity": 1.15,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 38.79171371459961,
+      "shadow": true,
+      "floor_radius_m": 1.7,
+      "beam_height_m": 2.115,
+      "edge_style": "continuous_axis_to_edge_fade"
+    },
+    {
+      "id": "linear_3",
+      "kind": "pendant_yellow",
+      "position": [
+        10.45,
+        -8.25,
+        1.315
+      ],
+      "floor_z": -0.8,
+      "rgb": [
+        255,
+        208,
+        140
+      ],
+      "range": 4.614999771118164,
+      "intensity": 1.15,
+      "falloff_exponent": 4,
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "inner_angle": 0,
+      "outer_angle": 38.79171371459961,
+      "shadow": false,
+      "floor_radius_m": 1.7,
+      "beam_height_m": 2.115,
+      "edge_style": "continuous_axis_to_edge_fade"
+    }
+  ]
+}

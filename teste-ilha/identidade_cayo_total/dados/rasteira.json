@@ -1,0 +1,1689 @@
+{
+  "source_counts": {
+    "prop_grass_ca": 278986,
+    "proc_drygrassfronds01": 85609,
+    "h4_prop_grass_tropical_lush_01": 97538,
+    "proc_stones_01": 18908,
+    "proc_stones_05": 21142,
+    "proc_grassfronds01": 137467,
+    "prop_tall_grass_ba": 34269,
+    "prop_grass_da": 34220,
+    "prop_saplin_002_b": 14936,
+    "h4_prop_bush_ear_ab": 13935,
+    "h4_prop_bush_mang_low_aa": 76167,
+    "prop_grass_001_a": 8537,
+    "prop_tall_drygrass_aa": 8575,
+    "proc_grassplantmix_02": 8739,
+    "prop_saplin_001_b": 14940,
+    "prop_saplin_001_c": 38772,
+    "prop_saplin_002_c": 38749,
+    "prop_dryweed_002_a": 9585,
+    "proc_lizardtail_01": 4543,
+    "prop_dryweed_001_a": 9553,
+    "proc_meadowmix_01": 12876,
+    "prop_fernba": 21383,
+    "prop_fernbb": 21390,
+    "h4_prop_bush_mang_low_ab": 45829,
+    "proc_stones_02": 42472,
+    "proc_grassplantmix_01": 25509,
+    "proc_stones_03": 36830,
+    "h4_prop_bush_fern_tall_cc": 16540,
+    "proc_leafybush_01": 37997,
+    "h4_prop_bush_seagrape_low_01": 11046,
+    "proc_dry_plants_01": 3613
+  },
+  "density_per_m2": 1.0954306578699071,
+  "counts": 7014254,
+  "maps": [
+    {
+      "name": "ni_rasteira_000",
+      "instances": 4391
+    },
+    {
+      "name": "ni_rasteira_001",
+      "instances": 8542
+    },
+    {
+      "name": "ni_rasteira_002",
+      "instances": 5142
+    },
+    {
+      "name": "ni_rasteira_003",
+      "instances": 4043
+    },
+    {
+      "name": "ni_rasteira_004",
+      "instances": 4756
+    },
+    {
+      "name": "ni_rasteira_005",
+      "instances": 5079
+    },
+    {
+      "name": "ni_rasteira_006",
+      "instances": 222
+    },
+    {
+      "name": "ni_rasteira_007",
+      "instances": 209
+    },
+    {
+      "name": "ni_rasteira_008",
+      "instances": 6250
+    },
+    {
+      "name": "ni_rasteira_009",
+      "instances": 5444
+    },
+    {
+      "name": "ni_rasteira_010",
+      "instances": 1258
+    },
+    {
+      "name": "ni_rasteira_011",
+      "instances": 3018
+    },
+    {
+      "name": "ni_rasteira_012",
+      "instances": 14467
+    },
+    {
+      "name": "ni_rasteira_013",
+      "instances": 16720
+    },
+    {
+      "name": "ni_rasteira_014",
+      "instances": 16190
+    },
+    {
+      "name": "ni_rasteira_015",
+      "instances": 23225
+    },
+    {
+      "name": "ni_rasteira_016",
+      "instances": 23451
+    },
+    {
+      "name": "ni_rasteira_017",
+      "instances": 23801
+    },
+    {
+      "name": "ni_rasteira_018",
+      "instances": 23709
+    },
+    {
+      "name": "ni_rasteira_019",
+      "instances": 23728
+    },
+    {
+      "name": "ni_rasteira_020",
+      "instances": 23301
+    },
+    {
+      "name": "ni_rasteira_021",
+      "instances": 20068
+    },
+    {
+      "name": "ni_rasteira_022",
+      "instances": 6242
+    },
+    {
+      "name": "ni_rasteira_023",
+      "instances": 541
+    },
+    {
+      "name": "ni_rasteira_024",
+      "instances": 5878
+    },
+    {
+      "name": "ni_rasteira_025",
+      "instances": 18405
+    },
+    {
+      "name": "ni_rasteira_026",
+      "instances": 23618
+    },
+    {
+      "name": "ni_rasteira_027",
+      "instances": 23706
+    },
+    {
+      "name": "ni_rasteira_028",
+      "instances": 23622
+    },
+    {
+      "name": "ni_rasteira_029",
+      "instances": 23188
+    },
+    {
+      "name": "ni_rasteira_030",
+      "instances": 18469
+    },
+    {
+      "name": "ni_rasteira_031",
+      "instances": 14677
+    },
+    {
+      "name": "ni_rasteira_032",
+      "instances": 23252
+    },
+    {
+      "name": "ni_rasteira_033",
+      "instances": 23297
+    },
+    {
+      "name": "ni_rasteira_034",
+      "instances": 23185
+    },
+    {
+      "name": "ni_rasteira_035",
+      "instances": 23599
+    },
+    {
+      "name": "ni_rasteira_036",
+      "instances": 23448
+    },
+    {
+      "name": "ni_rasteira_037",
+      "instances": 23298
+    },
+    {
+      "name": "ni_rasteira_038",
+      "instances": 23623
+    },
+    {
+      "name": "ni_rasteira_039",
+      "instances": 23494
+    },
+    {
+      "name": "ni_rasteira_040",
+      "instances": 23689
+    },
+    {
+      "name": "ni_rasteira_041",
+      "instances": 9403
+    },
+    {
+      "name": "ni_rasteira_042",
+      "instances": 218
+    },
+    {
+      "name": "ni_rasteira_043",
+      "instances": 13410
+    },
+    {
+      "name": "ni_rasteira_044",
+      "instances": 22476
+    },
+    {
+      "name": "ni_rasteira_045",
+      "instances": 23630
+    },
+    {
+      "name": "ni_rasteira_046",
+      "instances": 23525
+    },
+    {
+      "name": "ni_rasteira_047",
+      "instances": 23527
+    },
+    {
+      "name": "ni_rasteira_048",
+      "instances": 23736
+    },
+    {
+      "name": "ni_rasteira_049",
+      "instances": 23582
+    },
+    {
+      "name": "ni_rasteira_050",
+      "instances": 23000
+    },
+    {
+      "name": "ni_rasteira_051",
+      "instances": 17784
+    },
+    {
+      "name": "ni_rasteira_052",
+      "instances": 14549
+    },
+    {
+      "name": "ni_rasteira_053",
+      "instances": 23149
+    },
+    {
+      "name": "ni_rasteira_054",
+      "instances": 15996
+    },
+    {
+      "name": "ni_rasteira_055",
+      "instances": 5847
+    },
+    {
+      "name": "ni_rasteira_056",
+      "instances": 20407
+    },
+    {
+      "name": "ni_rasteira_057",
+      "instances": 23657
+    },
+    {
+      "name": "ni_rasteira_058",
+      "instances": 23415
+    },
+    {
+      "name": "ni_rasteira_059",
+      "instances": 23551
+    },
+    {
+      "name": "ni_rasteira_060",
+      "instances": 23518
+    },
+    {
+      "name": "ni_rasteira_061",
+      "instances": 23619
+    },
+    {
+      "name": "ni_rasteira_062",
+      "instances": 18648
+    },
+    {
+      "name": "ni_rasteira_063",
+      "instances": 11123
+    },
+    {
+      "name": "ni_rasteira_064",
+      "instances": 23295
+    },
+    {
+      "name": "ni_rasteira_065",
+      "instances": 23534
+    },
+    {
+      "name": "ni_rasteira_066",
+      "instances": 23415
+    },
+    {
+      "name": "ni_rasteira_067",
+      "instances": 23640
+    },
+    {
+      "name": "ni_rasteira_068",
+      "instances": 23557
+    },
+    {
+      "name": "ni_rasteira_069",
+      "instances": 23270
+    },
+    {
+      "name": "ni_rasteira_070",
+      "instances": 23428
+    },
+    {
+      "name": "ni_rasteira_071",
+      "instances": 23523
+    },
+    {
+      "name": "ni_rasteira_072",
+      "instances": 18407
+    },
+    {
+      "name": "ni_rasteira_073",
+      "instances": 14317
+    },
+    {
+      "name": "ni_rasteira_074",
+      "instances": 20294
+    },
+    {
+      "name": "ni_rasteira_075",
+      "instances": 17229
+    },
+    {
+      "name": "ni_rasteira_076",
+      "instances": 17801
+    },
+    {
+      "name": "ni_rasteira_077",
+      "instances": 22165
+    },
+    {
+      "name": "ni_rasteira_078",
+      "instances": 23595
+    },
+    {
+      "name": "ni_rasteira_079",
+      "instances": 23269
+    },
+    {
+      "name": "ni_rasteira_080",
+      "instances": 23380
+    },
+    {
+      "name": "ni_rasteira_081",
+      "instances": 15288
+    },
+    {
+      "name": "ni_rasteira_082",
+      "instances": 6136
+    },
+    {
+      "name": "ni_rasteira_083",
+      "instances": 20425
+    },
+    {
+      "name": "ni_rasteira_084",
+      "instances": 4637
+    },
+    {
+      "name": "ni_rasteira_085",
+      "instances": 23242
+    },
+    {
+      "name": "ni_rasteira_086",
+      "instances": 22644
+    },
+    {
+      "name": "ni_rasteira_087",
+      "instances": 23515
+    },
+    {
+      "name": "ni_rasteira_088",
+      "instances": 23245
+    },
+    {
+      "name": "ni_rasteira_089",
+      "instances": 23839
+    },
+    {
+      "name": "ni_rasteira_090",
+      "instances": 23936
+    },
+    {
+      "name": "ni_rasteira_091",
+      "instances": 23583
+    },
+    {
+      "name": "ni_rasteira_092",
+      "instances": 23917
+    },
+    {
+      "name": "ni_rasteira_093",
+      "instances": 23687
+    },
+    {
+      "name": "ni_rasteira_094",
+      "instances": 18551
+    },
+    {
+      "name": "ni_rasteira_095",
+      "instances": 14199
+    },
+    {
+      "name": "ni_rasteira_096",
+      "instances": 19763
+    },
+    {
+      "name": "ni_rasteira_097",
+      "instances": 23789
+    },
+    {
+      "name": "ni_rasteira_098",
+      "instances": 23491
+    },
+    {
+      "name": "ni_rasteira_099",
+      "instances": 23441
+    },
+    {
+      "name": "ni_rasteira_100",
+      "instances": 23573
+    },
+    {
+      "name": "ni_rasteira_101",
+      "instances": 23404
+    },
+    {
+      "name": "ni_rasteira_102",
+      "instances": 23337
+    },
+    {
+      "name": "ni_rasteira_103",
+      "instances": 19766
+    },
+    {
+      "name": "ni_rasteira_104",
+      "instances": 13774
+    },
+    {
+      "name": "ni_rasteira_105",
+      "instances": 22003
+    },
+    {
+      "name": "ni_rasteira_106",
+      "instances": 3366
+    },
+    {
+      "name": "ni_rasteira_107",
+      "instances": 3024
+    },
+    {
+      "name": "ni_rasteira_108",
+      "instances": 13520
+    },
+    {
+      "name": "ni_rasteira_109",
+      "instances": 19179
+    },
+    {
+      "name": "ni_rasteira_110",
+      "instances": 20023
+    },
+    {
+      "name": "ni_rasteira_111",
+      "instances": 17781
+    },
+    {
+      "name": "ni_rasteira_112",
+      "instances": 18577
+    },
+    {
+      "name": "ni_rasteira_113",
+      "instances": 19840
+    },
+    {
+      "name": "ni_rasteira_114",
+      "instances": 20628
+    },
+    {
+      "name": "ni_rasteira_115",
+      "instances": 21180
+    },
+    {
+      "name": "ni_rasteira_116",
+      "instances": 21859
+    },
+    {
+      "name": "ni_rasteira_117",
+      "instances": 17895
+    },
+    {
+      "name": "ni_rasteira_118",
+      "instances": 14654
+    },
+    {
+      "name": "ni_rasteira_119",
+      "instances": 19969
+    },
+    {
+      "name": "ni_rasteira_120",
+      "instances": 23685
+    },
+    {
+      "name": "ni_rasteira_121",
+      "instances": 23640
+    },
+    {
+      "name": "ni_rasteira_122",
+      "instances": 23739
+    },
+    {
+      "name": "ni_rasteira_123",
+      "instances": 23919
+    },
+    {
+      "name": "ni_rasteira_124",
+      "instances": 23658
+    },
+    {
+      "name": "ni_rasteira_125",
+      "instances": 23375
+    },
+    {
+      "name": "ni_rasteira_126",
+      "instances": 23735
+    },
+    {
+      "name": "ni_rasteira_127",
+      "instances": 19295
+    },
+    {
+      "name": "ni_rasteira_128",
+      "instances": 23645
+    },
+    {
+      "name": "ni_rasteira_129",
+      "instances": 18212
+    },
+    {
+      "name": "ni_rasteira_130",
+      "instances": 3402
+    },
+    {
+      "name": "ni_rasteira_131",
+      "instances": 23625
+    },
+    {
+      "name": "ni_rasteira_132",
+      "instances": 23554
+    },
+    {
+      "name": "ni_rasteira_133",
+      "instances": 23528
+    },
+    {
+      "name": "ni_rasteira_134",
+      "instances": 23562
+    },
+    {
+      "name": "ni_rasteira_135",
+      "instances": 23399
+    },
+    {
+      "name": "ni_rasteira_136",
+      "instances": 22409
+    },
+    {
+      "name": "ni_rasteira_137",
+      "instances": 23429
+    },
+    {
+      "name": "ni_rasteira_138",
+      "instances": 18388
+    },
+    {
+      "name": "ni_rasteira_139",
+      "instances": 14489
+    },
+    {
+      "name": "ni_rasteira_140",
+      "instances": 20299
+    },
+    {
+      "name": "ni_rasteira_141",
+      "instances": 23501
+    },
+    {
+      "name": "ni_rasteira_142",
+      "instances": 23889
+    },
+    {
+      "name": "ni_rasteira_143",
+      "instances": 23935
+    },
+    {
+      "name": "ni_rasteira_144",
+      "instances": 23510
+    },
+    {
+      "name": "ni_rasteira_145",
+      "instances": 23502
+    },
+    {
+      "name": "ni_rasteira_146",
+      "instances": 23433
+    },
+    {
+      "name": "ni_rasteira_147",
+      "instances": 23438
+    },
+    {
+      "name": "ni_rasteira_148",
+      "instances": 20369
+    },
+    {
+      "name": "ni_rasteira_149",
+      "instances": 23452
+    },
+    {
+      "name": "ni_rasteira_150",
+      "instances": 21411
+    },
+    {
+      "name": "ni_rasteira_151",
+      "instances": 586
+    },
+    {
+      "name": "ni_rasteira_152",
+      "instances": 2875
+    },
+    {
+      "name": "ni_rasteira_153",
+      "instances": 23168
+    },
+    {
+      "name": "ni_rasteira_154",
+      "instances": 23550
+    },
+    {
+      "name": "ni_rasteira_155",
+      "instances": 21013
+    },
+    {
+      "name": "ni_rasteira_156",
+      "instances": 20494
+    },
+    {
+      "name": "ni_rasteira_157",
+      "instances": 17997
+    },
+    {
+      "name": "ni_rasteira_158",
+      "instances": 21925
+    },
+    {
+      "name": "ni_rasteira_159",
+      "instances": 21834
+    },
+    {
+      "name": "ni_rasteira_160",
+      "instances": 17981
+    },
+    {
+      "name": "ni_rasteira_161",
+      "instances": 14606
+    },
+    {
+      "name": "ni_rasteira_162",
+      "instances": 20219
+    },
+    {
+      "name": "ni_rasteira_163",
+      "instances": 23447
+    },
+    {
+      "name": "ni_rasteira_164",
+      "instances": 23576
+    },
+    {
+      "name": "ni_rasteira_165",
+      "instances": 23763
+    },
+    {
+      "name": "ni_rasteira_166",
+      "instances": 23453
+    },
+    {
+      "name": "ni_rasteira_167",
+      "instances": 23543
+    },
+    {
+      "name": "ni_rasteira_168",
+      "instances": 23342
+    },
+    {
+      "name": "ni_rasteira_169",
+      "instances": 23526
+    },
+    {
+      "name": "ni_rasteira_170",
+      "instances": 18576
+    },
+    {
+      "name": "ni_rasteira_171",
+      "instances": 23397
+    },
+    {
+      "name": "ni_rasteira_172",
+      "instances": 23332
+    },
+    {
+      "name": "ni_rasteira_173",
+      "instances": 1313
+    },
+    {
+      "name": "ni_rasteira_174",
+      "instances": 11608
+    },
+    {
+      "name": "ni_rasteira_175",
+      "instances": 1162
+    },
+    {
+      "name": "ni_rasteira_176",
+      "instances": 2015
+    },
+    {
+      "name": "ni_rasteira_177",
+      "instances": 15704
+    },
+    {
+      "name": "ni_rasteira_178",
+      "instances": 18830
+    },
+    {
+      "name": "ni_rasteira_179",
+      "instances": 17042
+    },
+    {
+      "name": "ni_rasteira_180",
+      "instances": 15344
+    },
+    {
+      "name": "ni_rasteira_181",
+      "instances": 14919
+    },
+    {
+      "name": "ni_rasteira_182",
+      "instances": 12725
+    },
+    {
+      "name": "ni_rasteira_183",
+      "instances": 15586
+    },
+    {
+      "name": "ni_rasteira_184",
+      "instances": 15010
+    },
+    {
+      "name": "ni_rasteira_185",
+      "instances": 18743
+    },
+    {
+      "name": "ni_rasteira_186",
+      "instances": 19739
+    },
+    {
+      "name": "ni_rasteira_187",
+      "instances": 16859
+    },
+    {
+      "name": "ni_rasteira_188",
+      "instances": 17172
+    },
+    {
+      "name": "ni_rasteira_189",
+      "instances": 23517
+    },
+    {
+      "name": "ni_rasteira_190",
+      "instances": 19684
+    },
+    {
+      "name": "ni_rasteira_191",
+      "instances": 17302
+    },
+    {
+      "name": "ni_rasteira_192",
+      "instances": 18084
+    },
+    {
+      "name": "ni_rasteira_193",
+      "instances": 19603
+    },
+    {
+      "name": "ni_rasteira_194",
+      "instances": 15091
+    },
+    {
+      "name": "ni_rasteira_195",
+      "instances": 23328
+    },
+    {
+      "name": "ni_rasteira_196",
+      "instances": 23417
+    },
+    {
+      "name": "ni_rasteira_197",
+      "instances": 3373
+    },
+    {
+      "name": "ni_rasteira_198",
+      "instances": 3967
+    },
+    {
+      "name": "ni_rasteira_199",
+      "instances": 19
+    },
+    {
+      "name": "ni_rasteira_200",
+      "instances": 1910
+    },
+    {
+      "name": "ni_rasteira_201",
+      "instances": 21796
+    },
+    {
+      "name": "ni_rasteira_202",
+      "instances": 20586
+    },
+    {
+      "name": "ni_rasteira_203",
+      "instances": 19909
+    },
+    {
+      "name": "ni_rasteira_204",
+      "instances": 20878
+    },
+    {
+      "name": "ni_rasteira_205",
+      "instances": 21478
+    },
+    {
+      "name": "ni_rasteira_206",
+      "instances": 21648
+    },
+    {
+      "name": "ni_rasteira_207",
+      "instances": 23632
+    },
+    {
+      "name": "ni_rasteira_208",
+      "instances": 23700
+    },
+    {
+      "name": "ni_rasteira_209",
+      "instances": 23567
+    },
+    {
+      "name": "ni_rasteira_210",
+      "instances": 16325
+    },
+    {
+      "name": "ni_rasteira_211",
+      "instances": 16270
+    },
+    {
+      "name": "ni_rasteira_212",
+      "instances": 14744
+    },
+    {
+      "name": "ni_rasteira_213",
+      "instances": 7529
+    },
+    {
+      "name": "ni_rasteira_214",
+      "instances": 12048
+    },
+    {
+      "name": "ni_rasteira_215",
+      "instances": 18260
+    },
+    {
+      "name": "ni_rasteira_216",
+      "instances": 18318
+    },
+    {
+      "name": "ni_rasteira_217",
+      "instances": 17870
+    },
+    {
+      "name": "ni_rasteira_218",
+      "instances": 6408
+    },
+    {
+      "name": "ni_rasteira_219",
+      "instances": 15286
+    },
+    {
+      "name": "ni_rasteira_220",
+      "instances": 23761
+    },
+    {
+      "name": "ni_rasteira_221",
+      "instances": 2050
+    },
+    {
+      "name": "ni_rasteira_222",
+      "instances": 18723
+    },
+    {
+      "name": "ni_rasteira_223",
+      "instances": 23415
+    },
+    {
+      "name": "ni_rasteira_224",
+      "instances": 19266
+    },
+    {
+      "name": "ni_rasteira_225",
+      "instances": 17229
+    },
+    {
+      "name": "ni_rasteira_226",
+      "instances": 19701
+    },
+    {
+      "name": "ni_rasteira_227",
+      "instances": 21535
+    },
+    {
+      "name": "ni_rasteira_228",
+      "instances": 23394
+    },
+    {
+      "name": "ni_rasteira_229",
+      "instances": 23471
+    },
+    {
+      "name": "ni_rasteira_230",
+      "instances": 23599
+    },
+    {
+      "name": "ni_rasteira_231",
+      "instances": 21173
+    },
+    {
+      "name": "ni_rasteira_232",
+      "instances": 7631
+    },
+    {
+      "name": "ni_rasteira_233",
+      "instances": 9278
+    },
+    {
+      "name": "ni_rasteira_234",
+      "instances": 6018
+    },
+    {
+      "name": "ni_rasteira_235",
+      "instances": 12450
+    },
+    {
+      "name": "ni_rasteira_236",
+      "instances": 17274
+    },
+    {
+      "name": "ni_rasteira_237",
+      "instances": 18363
+    },
+    {
+      "name": "ni_rasteira_238",
+      "instances": 20641
+    },
+    {
+      "name": "ni_rasteira_239",
+      "instances": 12251
+    },
+    {
+      "name": "ni_rasteira_240",
+      "instances": 16320
+    },
+    {
+      "name": "ni_rasteira_241",
+      "instances": 23588
+    },
+    {
+      "name": "ni_rasteira_242",
+      "instances": 11298
+    },
+    {
+      "name": "ni_rasteira_243",
+      "instances": 13515
+    },
+    {
+      "name": "ni_rasteira_244",
+      "instances": 23285
+    },
+    {
+      "name": "ni_rasteira_245",
+      "instances": 20157
+    },
+    {
+      "name": "ni_rasteira_246",
+      "instances": 18235
+    },
+    {
+      "name": "ni_rasteira_247",
+      "instances": 18462
+    },
+    {
+      "name": "ni_rasteira_248",
+      "instances": 21846
+    },
+    {
+      "name": "ni_rasteira_249",
+      "instances": 23678
+    },
+    {
+      "name": "ni_rasteira_250",
+      "instances": 10044
+    },
+    {
+      "name": "ni_rasteira_251",
+      "instances": 11716
+    },
+    {
+      "name": "ni_rasteira_252",
+      "instances": 19540
+    },
+    {
+      "name": "ni_rasteira_253",
+      "instances": 6912
+    },
+    {
+      "name": "ni_rasteira_254",
+      "instances": 6961
+    },
+    {
+      "name": "ni_rasteira_255",
+      "instances": 4387
+    },
+    {
+      "name": "ni_rasteira_256",
+      "instances": 10033
+    },
+    {
+      "name": "ni_rasteira_257",
+      "instances": 15543
+    },
+    {
+      "name": "ni_rasteira_258",
+      "instances": 23474
+    },
+    {
+      "name": "ni_rasteira_259",
+      "instances": 23710
+    },
+    {
+      "name": "ni_rasteira_260",
+      "instances": 23789
+    },
+    {
+      "name": "ni_rasteira_261",
+      "instances": 23936
+    },
+    {
+      "name": "ni_rasteira_262",
+      "instances": 23507
+    },
+    {
+      "name": "ni_rasteira_263",
+      "instances": 15163
+    },
+    {
+      "name": "ni_rasteira_264",
+      "instances": 13203
+    },
+    {
+      "name": "ni_rasteira_265",
+      "instances": 23541
+    },
+    {
+      "name": "ni_rasteira_266",
+      "instances": 20730
+    },
+    {
+      "name": "ni_rasteira_267",
+      "instances": 19669
+    },
+    {
+      "name": "ni_rasteira_268",
+      "instances": 20041
+    },
+    {
+      "name": "ni_rasteira_269",
+      "instances": 23025
+    },
+    {
+      "name": "ni_rasteira_270",
+      "instances": 21675
+    },
+    {
+      "name": "ni_rasteira_271",
+      "instances": 22591
+    },
+    {
+      "name": "ni_rasteira_272",
+      "instances": 23635
+    },
+    {
+      "name": "ni_rasteira_273",
+      "instances": 23841
+    },
+    {
+      "name": "ni_rasteira_274",
+      "instances": 9061
+    },
+    {
+      "name": "ni_rasteira_275",
+      "instances": 12236
+    },
+    {
+      "name": "ni_rasteira_276",
+      "instances": 13607
+    },
+    {
+      "name": "ni_rasteira_277",
+      "instances": 12823
+    },
+    {
+      "name": "ni_rasteira_278",
+      "instances": 15015
+    },
+    {
+      "name": "ni_rasteira_279",
+      "instances": 23887
+    },
+    {
+      "name": "ni_rasteira_280",
+      "instances": 23924
+    },
+    {
+      "name": "ni_rasteira_281",
+      "instances": 23494
+    },
+    {
+      "name": "ni_rasteira_282",
+      "instances": 23762
+    },
+    {
+      "name": "ni_rasteira_283",
+      "instances": 15341
+    },
+    {
+      "name": "ni_rasteira_284",
+      "instances": 1180
+    },
+    {
+      "name": "ni_rasteira_285",
+      "instances": 17826
+    },
+    {
+      "name": "ni_rasteira_286",
+      "instances": 22269
+    },
+    {
+      "name": "ni_rasteira_287",
+      "instances": 17426
+    },
+    {
+      "name": "ni_rasteira_288",
+      "instances": 15046
+    },
+    {
+      "name": "ni_rasteira_289",
+      "instances": 15258
+    },
+    {
+      "name": "ni_rasteira_290",
+      "instances": 23895
+    },
+    {
+      "name": "ni_rasteira_291",
+      "instances": 22735
+    },
+    {
+      "name": "ni_rasteira_292",
+      "instances": 22809
+    },
+    {
+      "name": "ni_rasteira_293",
+      "instances": 23531
+    },
+    {
+      "name": "ni_rasteira_294",
+      "instances": 23555
+    },
+    {
+      "name": "ni_rasteira_295",
+      "instances": 7605
+    },
+    {
+      "name": "ni_rasteira_296",
+      "instances": 8507
+    },
+    {
+      "name": "ni_rasteira_297",
+      "instances": 8834
+    },
+    {
+      "name": "ni_rasteira_298",
+      "instances": 6865
+    },
+    {
+      "name": "ni_rasteira_299",
+      "instances": 17099
+    },
+    {
+      "name": "ni_rasteira_300",
+      "instances": 23311
+    },
+    {
+      "name": "ni_rasteira_301",
+      "instances": 23717
+    },
+    {
+      "name": "ni_rasteira_302",
+      "instances": 23550
+    },
+    {
+      "name": "ni_rasteira_303",
+      "instances": 16319
+    },
+    {
+      "name": "ni_rasteira_304",
+      "instances": 138
+    },
+    {
+      "name": "ni_rasteira_305",
+      "instances": 2788
+    },
+    {
+      "name": "ni_rasteira_306",
+      "instances": 19753
+    },
+    {
+      "name": "ni_rasteira_307",
+      "instances": 23411
+    },
+    {
+      "name": "ni_rasteira_308",
+      "instances": 23436
+    },
+    {
+      "name": "ni_rasteira_309",
+      "instances": 22810
+    },
+    {
+      "name": "ni_rasteira_310",
+      "instances": 23048
+    },
+    {
+      "name": "ni_rasteira_311",
+      "instances": 22949
+    },
+    {
+      "name": "ni_rasteira_312",
+      "instances": 21751
+    },
+    {
+      "name": "ni_rasteira_313",
+      "instances": 23583
+    },
+    {
+      "name": "ni_rasteira_314",
+      "instances": 23462
+    },
+    {
+      "name": "ni_rasteira_315",
+      "instances": 23477
+    },
+    {
+      "name": "ni_rasteira_316",
+      "instances": 8936
+    },
+    {
+      "name": "ni_rasteira_317",
+      "instances": 9211
+    },
+    {
+      "name": "ni_rasteira_318",
+      "instances": 6174
+    },
+    {
+      "name": "ni_rasteira_319",
+      "instances": 12128
+    },
+    {
+      "name": "ni_rasteira_320",
+      "instances": 19232
+    },
+    {
+      "name": "ni_rasteira_321",
+      "instances": 23409
+    },
+    {
+      "name": "ni_rasteira_322",
+      "instances": 23738
+    },
+    {
+      "name": "ni_rasteira_323",
+      "instances": 16768
+    },
+    {
+      "name": "ni_rasteira_324",
+      "instances": 824
+    },
+    {
+      "name": "ni_rasteira_325",
+      "instances": 8146
+    },
+    {
+      "name": "ni_rasteira_326",
+      "instances": 23488
+    },
+    {
+      "name": "ni_rasteira_327",
+      "instances": 23238
+    },
+    {
+      "name": "ni_rasteira_328",
+      "instances": 22225
+    },
+    {
+      "name": "ni_rasteira_329",
+      "instances": 22172
+    },
+    {
+      "name": "ni_rasteira_330",
+      "instances": 23882
+    },
+    {
+      "name": "ni_rasteira_331",
+      "instances": 21611
+    },
+    {
+      "name": "ni_rasteira_332",
+      "instances": 23480
+    },
+    {
+      "name": "ni_rasteira_333",
+      "instances": 23380
+    },
+    {
+      "name": "ni_rasteira_334",
+      "instances": 23673
+    },
+    {
+      "name": "ni_rasteira_335",
+      "instances": 23487
+    },
+    {
+      "name": "ni_rasteira_336",
+      "instances": 9595
+    },
+    {
+      "name": "ni_rasteira_337",
+      "instances": 10536
+    },
+    {
+      "name": "ni_rasteira_338",
+      "instances": 7476
+    },
+    {
+      "name": "ni_rasteira_339",
+      "instances": 14866
+    },
+    {
+      "name": "ni_rasteira_340",
+      "instances": 19382
+    },
+    {
+      "name": "ni_rasteira_341",
+      "instances": 23527
+    },
+    {
+      "name": "ni_rasteira_342",
+      "instances": 22954
+    },
+    {
+      "name": "ni_rasteira_343",
+      "instances": 2162
+    },
+    {
+      "name": "ni_rasteira_344",
+      "instances": 9566
+    },
+    {
+      "name": "ni_rasteira_345",
+      "instances": 23580
+    },
+    {
+      "name": "ni_rasteira_346",
+      "instances": 23228
+    },
+    {
+      "name": "ni_rasteira_347",
+      "instances": 23194
+    },
+    {
+      "name": "ni_rasteira_348",
+      "instances": 23571
+    },
+    {
+      "name": "ni_rasteira_349",
+      "instances": 23773
+    },
+    {
+      "name": "ni_rasteira_350",
+      "instances": 21909
+    },
+    {
+      "name": "ni_rasteira_351",
+      "instances": 23128
+    },
+    {
+      "name": "ni_rasteira_352",
+      "instances": 23596
+    },
+    {
+      "name": "ni_rasteira_353",
+      "instances": 23535
+    },
+    {
+      "name": "ni_rasteira_354",
+      "instances": 23353
+    },
+    {
+      "name": "ni_rasteira_355",
+      "instances": 19767
+    },
+    {
+      "name": "ni_rasteira_356",
+      "instances": 19165
+    },
+    {
+      "name": "ni_rasteira_357",
+      "instances": 15295
+    },
+    {
+      "name": "ni_rasteira_358",
+      "instances": 16732
+    },
+    {
+      "name": "ni_rasteira_359",
+      "instances": 22075
+    },
+    {
+      "name": "ni_rasteira_360",
+      "instances": 23408
+    },
+    {
+      "name": "ni_rasteira_361",
+      "instances": 10773
+    },
+    {
+      "name": "ni_rasteira_362",
+      "instances": 939
+    },
+    {
+      "name": "ni_rasteira_363",
+      "instances": 3546
+    },
+    {
+      "name": "ni_rasteira_364",
+      "instances": 5063
+    },
+    {
+      "name": "ni_rasteira_365",
+      "instances": 7248
+    },
+    {
+      "name": "ni_rasteira_366",
+      "instances": 10362
+    },
+    {
+      "name": "ni_rasteira_367",
+      "instances": 17358
+    },
+    {
+      "name": "ni_rasteira_368",
+      "instances": 23605
+    },
+    {
+      "name": "ni_rasteira_369",
+      "instances": 21741
+    },
+    {
+      "name": "ni_rasteira_370",
+      "instances": 22489
+    },
+    {
+      "name": "ni_rasteira_371",
+      "instances": 23329
+    },
+    {
+      "name": "ni_rasteira_372",
+      "instances": 23518
+    },
+    {
+      "name": "ni_rasteira_373",
+      "instances": 23396
+    },
+    {
+      "name": "ni_rasteira_374",
+      "instances": 13060
+    },
+    {
+      "name": "ni_rasteira_375",
+      "instances": 8336
+    },
+    {
+      "name": "ni_rasteira_376",
+      "instances": 23854
+    },
+    {
+      "name": "ni_rasteira_377",
+      "instances": 13386
+    },
+    {
+      "name": "ni_rasteira_378",
+      "instances": 3519
+    },
+    {
+      "name": "ni_rasteira_379",
+      "instances": 1487
+    },
+    {
+      "name": "ni_rasteira_380",
+      "instances": 6806
+    },
+    {
+      "name": "ni_rasteira_381",
+      "instances": 16416
+    },
+    {
+      "name": "ni_rasteira_382",
+      "instances": 23648
+    },
+    {
+      "name": "ni_rasteira_383",
+      "instances": 23545
+    },
+    {
+      "name": "ni_rasteira_384",
+      "instances": 23584
+    },
+    {
+      "name": "ni_rasteira_385",
+      "instances": 17965
+    },
+    {
+      "name": "ni_rasteira_386",
+      "instances": 15293
+    },
+    {
+      "name": "ni_rasteira_387",
+      "instances": 17521
+    },
+    {
+      "name": "ni_rasteira_388",
+      "instances": 39
+    },
+    {
+      "name": "ni_rasteira_389",
+      "instances": 35
+    },
+    {
+      "name": "ni_rasteira_390",
+      "instances": 9181
+    },
+    {
+      "name": "ni_rasteira_391",
+      "instances": 18667
+    },
+    {
+      "name": "ni_rasteira_392",
+      "instances": 19247
+    },
+    {
+      "name": "ni_rasteira_393",
+      "instances": 15137
+    },
+    {
+      "name": "ni_rasteira_394",
+      "instances": 10114
+    },
+    {
+      "name": "ni_rasteira_395",
+      "instances": 2344
+    }
+  ],
+  "method": "Native selected Cayo grass batches; native scales/colors/AO/LOD, terrain normals and reprojected roots. Tall grass coverage continues through city/village greens; roads, buildings, runway, water and rock promontories remain clear.",
+  "coverage_surface_m2": 2741405.9617903903,
+  "coverage_fraction": 0.8270191452057691,
+  "tall_source_names": [
+    "h4_prop_grass_tropical_lush_01",
+    "proc_drygrassfronds01",
+    "proc_grassfronds01",
+    "proc_grassplantmix_01",
+    "proc_grassplantmix_02",
+    "proc_meadowmix_01",
+    "prop_grass_001_a",
+    "prop_grass_ca",
+    "prop_grass_da",
+    "prop_tall_drygrass_aa",
+    "prop_tall_grass_ba"
+  ],
+  "understory_source_names": [
+    "h4_prop_bush_fern_tall_cc",
+    "proc_dry_plants_01",
+    "proc_leafybush_01",
+    "proc_lizardtail_01",
+    "prop_dryweed_001_a",
+    "prop_dryweed_002_a",
+    "prop_fernba",
+    "prop_fernbb"
+  ],
+  "bare_ground_policy": "rock_weight>=0.82, steep ridges, shoreline, runway, roads and structure clearances",
+  "alias_map": {
+    "prop_grass_ca": "ni_inst_prop_grass_ca",
+    "proc_drygrassfronds01": "ni_inst_proc_drygrassfronds01",
+    "proc_stones_01": "ni_inst_proc_stones_01",
+    "proc_stones_05": "ni_inst_proc_stones_05",
+    "proc_grassfronds01": "ni_inst_proc_grassfronds01",
+    "prop_tall_grass_ba": "ni_inst_prop_tall_grass_ba",
+    "prop_grass_da": "ni_inst_prop_grass_da",
+    "prop_saplin_002_b": "ni_inst_prop_saplin_002_b",
+    "prop_grass_001_a": "ni_inst_prop_grass_001_a",
+    "prop_tall_drygrass_aa": "ni_inst_prop_tall_drygrass_aa",
+    "proc_grassplantmix_02": "ni_inst_proc_grassplantmix_02",
+    "prop_saplin_001_b": "ni_inst_prop_saplin_001_b",
+    "prop_saplin_001_c": "ni_inst_prop_saplin_001_c",
+    "prop_saplin_002_c": "ni_inst_prop_saplin_002_c",
+    "prop_dryweed_002_a": "ni_inst_prop_dryweed_002_a",
+    "proc_lizardtail_01": "ni_inst_proc_lizardtail_01",
+    "prop_dryweed_001_a": "ni_inst_prop_dryweed_001_a",
+    "proc_meadowmix_01": "ni_inst_proc_meadowmix_01",
+    "prop_fernba": "ni_inst_prop_fernba",
+    "prop_fernbb": "ni_inst_prop_fernbb",
+    "proc_stones_02": "ni_inst_proc_stones_02",
+    "proc_grassplantmix_01": "ni_inst_proc_grassplantmix_01",
+    "proc_stones_03": "ni_inst_proc_stones_03",
+    "proc_leafybush_01": "ni_inst_proc_leafybush_01",
+    "proc_dry_plants_01": "ni_inst_proc_dry_plants_01"
+  },
+  "distance_revision": "cayo-encostas-fauna-20261010-3",
+  "procedural_texture_aliases": {
+    "ng_ip_dryhills": "ni_inst_ng_ip_dryhills",
+    "ng_ip_dry_grasses": "ni_inst_ng_ip_dry_grasses",
+    "ng_ip_stones_01": "ni_inst_ng_ip_stones_01",
+    "ng_ip_green_grasses": "ni_inst_ng_ip_green_grasses",
+    "ng_ip_forest": "ni_inst_ng_ip_forest",
+    "ng_ip_desert_plants": "ni_inst_ng_ip_desert_plants",
+    "ng_ip_plants": "ni_inst_ng_ip_plants"
+  },
+  "near_lod_dist": 220,
+  "near_fade_start_dist": 130
+}

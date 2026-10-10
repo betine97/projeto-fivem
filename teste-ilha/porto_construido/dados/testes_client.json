@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "name": "success",
+      "passed": true
+    },
+    {
+      "name": "collision_failure",
+      "passed": true
+    },
+    {
+      "name": "prepare_failure",
+      "passed": true
+    },
+    {
+      "name": "vehicle",
+      "passed": true
+    },
+    {
+      "name": "syntax_client.lua",
+      "passed": true
+    },
+    {
+      "name": "syntax_server.lua",
+      "passed": true
+    }
+  ],
+  "uses_native_mocks": true,
+  "in_game_verified": false
+}

@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Supplied textile covers front, back and sleeves. Native geometry, UVs, weights, LODs and normal/specular maps preserved.",
+    "Stripe artwork from supplied image 4 sampled through original native UV at scale 1.3; fine dark textile from supplied image 2 at fiber scale. Original UV islands and mesh remain unchanged."
+  ],
+  "placements": [],
+  "in_game_validation": "pending"
+}

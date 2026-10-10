@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CStreamingRequestMasterList>
+  <Files>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/heist_int_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_fin_cel_roo_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_fin_cel_tre_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_hum_emp_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_hum_fin_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_hum_key_mcs1_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_hum_key_mcs1_Script_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_hum_val_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_nar_fin_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_nar_wee_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_con_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_fin_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_pho_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_fin_mcs0_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_fin_mcs1_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_fin_mcs2_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_hac_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_wit_mcs1_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pac_wit_mcs2_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_pri_unf_mcs1_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_tut_car_ext_srl</Item>
+	<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/streaming/mph_tut_ext_srl</Item>
+   </Files>
+ </CStreamingRequestMasterList>

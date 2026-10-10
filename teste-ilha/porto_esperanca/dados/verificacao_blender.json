@@ -1,0 +1,342 @@
+{
+  "revisao": "porto-20261009-terreno-vegetacao-1",
+  "verificacoes": [
+    {
+      "nome": "cena_principal",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "catalogos",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "terreno_16_setores",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "reservas_25",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "sem_edificios",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "agua_apenas_visual",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "fora_do_servidor",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "colisao_referencia_separada",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "24_modelos",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "disposto_01_coqueiro",
+      "ok": true,
+      "detalhes": 105
+    },
+    {
+      "nome": "disposto_02_imperial",
+      "ok": true,
+      "detalhes": 94
+    },
+    {
+      "nome": "disposto_03_caneleira",
+      "ok": true,
+      "detalhes": 366
+    },
+    {
+      "nome": "disposto_04_amendoeira",
+      "ok": true,
+      "detalhes": 188
+    },
+    {
+      "nome": "disposto_05_flamboyant",
+      "ok": true,
+      "detalhes": 38
+    },
+    {
+      "nome": "disposto_06_arvore_rua",
+      "ok": true,
+      "detalhes": 204
+    },
+    {
+      "nome": "disposto_07_reseda",
+      "ok": true,
+      "detalhes": 39
+    },
+    {
+      "nome": "disposto_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": 44
+    },
+    {
+      "nome": "disposto_09_oliveira",
+      "ok": true,
+      "detalhes": 61
+    },
+    {
+      "nome": "disposto_10_castanhola",
+      "ok": true,
+      "detalhes": 73
+    },
+    {
+      "nome": "disposto_11_mangueira",
+      "ok": true,
+      "detalhes": 224
+    },
+    {
+      "nome": "disposto_12_bananeira",
+      "ok": true,
+      "detalhes": 52
+    },
+    {
+      "nome": "disposto_13_mangue",
+      "ok": true,
+      "detalhes": 134
+    },
+    {
+      "nome": "disposto_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": 448
+    },
+    {
+      "nome": "disposto_15_palmeira_ana",
+      "ok": true,
+      "detalhes": 36
+    },
+    {
+      "nome": "disposto_16_palma_azul",
+      "ok": true,
+      "detalhes": 42
+    },
+    {
+      "nome": "disposto_17_yucca",
+      "ok": true,
+      "detalhes": 44
+    },
+    {
+      "nome": "disposto_18_cerca_viva",
+      "ok": true,
+      "detalhes": 457
+    },
+    {
+      "nome": "disposto_19_oiti",
+      "ok": true,
+      "detalhes": 213
+    },
+    {
+      "nome": "disposto_20_figueira",
+      "ok": true,
+      "detalhes": 218
+    },
+    {
+      "nome": "disposto_21_areca",
+      "ok": true,
+      "detalhes": 45
+    },
+    {
+      "nome": "disposto_22_palmeira_leque",
+      "ok": true,
+      "detalhes": 79
+    },
+    {
+      "nome": "disposto_23_jasmim_manga",
+      "ok": true,
+      "detalhes": 57
+    },
+    {
+      "nome": "disposto_24_vegetacao_baixa",
+      "ok": true,
+      "detalhes": 846
+    },
+    {
+      "nome": "malhas_finitas",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "exclusao_areas",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "vegetacao_registrada",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "pedras_registradas",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_porto_vegetacao.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_praca_reservada.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_foz_vegetacao.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_implantacao_areas.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_catalogo_01.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "previa_catalogo_02.png",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_01_coqueiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_02_imperial",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_03_caneleira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_04_amendoeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_05_flamboyant",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_06_arvore_rua",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_07_reseda",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_08_ipe_amarelo",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_09_oliveira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_10_castanhola",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_11_mangueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_12_bananeira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_13_mangue",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_14_arbusto_costeiro",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_15_palmeira_ana",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_16_palma_azul",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_17_yucca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_18_cerca_viva",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_19_oiti",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_20_figueira",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_21_areca",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_22_palmeira_leque",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_23_jasmim_manga",
+      "ok": true,
+      "detalhes": null
+    },
+    {
+      "nome": "arquivo_individual_24_vegetacao_baixa",
+      "ok": true,
+      "detalhes": null
+    }
+  ],
+  "aprovado": true,
+  "verificado_fivem": false
+}

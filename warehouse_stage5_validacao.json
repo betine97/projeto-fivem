@@ -1,0 +1,19 @@
+{
+  "4": {
+    "canopies": 24,
+    "side_fans": 6,
+    "downward_lights": 6,
+    "minimum_canopy_to_area_m": 0.32,
+    "corridor_width_m": 2.4,
+    "rear_door_access": "clear"
+  },
+  "3": {
+    "canopies": 18,
+    "side_fans": 6,
+    "downward_lights": 6,
+    "minimum_canopy_to_area_m": 0.32,
+    "corridor_width_m": 2.4,
+    "rear_door_access": "clear"
+  },
+  "rebuild": "no duplicates"
+}

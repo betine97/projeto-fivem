@@ -1,0 +1,34 @@
+{
+  "installed": true,
+  "changed": {
+    "adega_vitrines_luzes.lua": "fab496d90d68f48fd8d75a5403352e71eae073f4112b29b9c0acc66ad28eb6c9",
+    "bar_referencia_luzes.lua": "fab496d90d68f48fd8d75a5403352e71eae073f4112b29b9c0acc66ad28eb6c9",
+    "iluminacao_ambiente.json": "4dd171c2d0852675564d3223d41b1ed8137d3658fa498884f42dbecafc632ec9",
+    "iluminacao_decorativa.lua": "c365ff4b9d5fca40bf6158c81d6563042aa0d024c52c282635b1251a8b5fb89b",
+    "luzes_pendentes.json": "a34782ee8e7e88d6ba25f95d235d018171da6f4ad0800c78aa220a6987b6ddbb",
+    "README.md": "a7a39961c95e1d6948f427c348773d02dd3c2b87227d2609d23c8c088558f50b",
+    "stream/ch2_09b_emissive_05.ydr": "f68ddc41233d996398e2c5442ee278f71eb237a0d38a489e603d5e052a7d940f",
+    "stream/mansao_adega_vitrines.ydr": "00ed3c28ef244ac926198bd338cc5ad41d0aaa420d70d978e5fa2b40913173fd",
+    "stream/mansao_bar_referencia.ydr": "9e051de6559be7ba55c2fdbfa67d1c70826990c16ed401a794a28a534e0f712f",
+    "stream/mansao_cozinha_parede.ydr": "284c34a250a00e47f3cb3dbab54c0e8ed6477d1af570abe159e346798394256e",
+    "stream/mansao_parede_aparador.ydr": "cab3d6059a7679e5160baff74d863a89054ce727761feb5c6908cdf868940fba",
+    "stream/mansao_pendentes.ydr": "7078fbe3cf9bcb58bd9208ce98d726b97b50abf79b2d64332ae1389e2620b92b",
+    "stream/mansao_spots_led.ydr": "fe049547d16c39f04c810120526ef08020ea8b3ad10120c8f7e6ae1fca679f73",
+    "stream/mansao_spot_embutido.ydr": "7c83f8c2e38ee8c5f96cf220826d04bf9f3e28d9e8979dc93eaea3dc89893ca8",
+    "stream/mansao_teto.ydr": "fdd5403525c8d9b197a4e379ddc324ba1206309c0d1a3e2b853d8b8dc7b77027"
+  },
+  "unrelated_live_files_preserved": 88,
+  "native_sources": 97,
+  "only_fixture_spotlights": true,
+  "decorative_and_room_fill_disabled": true,
+  "floor_radius_m": {
+    "spot_and_cylinder": 1.1,
+    "linear": 0.8
+  },
+  "floor_reach_verified": true,
+  "brightness_multiplier_minimum": 4.444444444444445,
+  "script_light_calls": 0,
+  "maps_manifest_props_and_other_resources_unmodified": true,
+  "server_restarted": false,
+  "in_game_visual_verified": false
+}

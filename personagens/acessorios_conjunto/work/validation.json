@@ -1,0 +1,20 @@
+{
+  "shoes": {
+    "vertices": 480213,
+    "triangles": 906590,
+    "uv_sha256": "e3e0bb3a9c1a1b335a2877a2750f954f5ed8c0478af28c3323930643b59e663b",
+    "scale": 0.15,
+    "native_foot_centers_x": [
+      -0.16,
+      0.16
+    ]
+  },
+  "watch": {
+    "vertices": 345409,
+    "triangles": 629048,
+    "uv_sha256": "3a42c41ac9b48242b1e1207ea87e3542f519a714bb11d9789cbb13d76141c18f",
+    "scale": 0.044,
+    "bone": "SKEL_L_Forearm"
+  },
+  "original_uvs_preserved": true
+}

@@ -1,0 +1,194 @@
+{
+  "passed": true,
+  "revision": "jantar-cozinha-2026-10-07",
+  "source_hashes_match": true,
+  "embedded_texture_checks": [
+    {
+      "drawable": "mansao_paredes",
+      "texture": "parede_reboco_n",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_paredes",
+      "texture": "parede_reboco",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_paredes",
+      "texture": "parede_tijolo_tv",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_paredes",
+      "texture": "parede_tijolo_tv_n",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_pisos",
+      "texture": "piso_marmore_n",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_pisos",
+      "texture": "piso_marmore",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_escada",
+      "texture": "corrimao_preto",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_escada",
+      "texture": "corrimao_preto_n",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_mobiliario",
+      "texture": "tv_normal",
+      "size": [
+        4096,
+        4096
+      ],
+      "mip_count": 11,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_mobiliario",
+      "texture": "sofa_albedo",
+      "size": [
+        4096,
+        4096
+      ],
+      "mip_count": 11,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_mobiliario",
+      "texture": "tv_spec",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_mobiliario",
+      "texture": "tv_albedo",
+      "size": [
+        4096,
+        4096
+      ],
+      "mip_count": 11,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_mobiliario",
+      "texture": "sofa_normal",
+      "size": [
+        4096,
+        4096
+      ],
+      "mip_count": 11,
+      "decoded_pixels_equal": true
+    },
+    {
+      "drawable": "mansao_mobiliario",
+      "texture": "sofa_spec",
+      "size": [
+        2048,
+        2048
+      ],
+      "mip_count": 10,
+      "decoded_pixels_equal": true
+    }
+  ],
+  "architectural_material_surface_probes": 5004,
+  "material_probe_counts": {
+    "wall": 3526,
+    "brick": 106,
+    "marble": 196,
+    "metal": 1176
+  },
+  "material_assignment_failures": [],
+  "whole_ground_floor_marble": true,
+  "tv_brick_panel_matches": true,
+  "sofa_native_triangles": 219998,
+  "sofa_source_uv_probes": 257,
+  "sofa_max_uv_error": 2.9802322387695312e-08,
+  "sofa_width_m": 5.1999993324279785,
+  "sofa_floor_clearance_m": 0.004999983310699507,
+  "walking_routes": {
+    "Ao redor do sofa e mesa": {
+      "samples": 276,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Entre sofa e mesa": {
+      "samples": 45,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "drawable_sha256": {
+    "mansao_paredes.ydr": "7854cb5508e8da64e4306885bb5f5a1b9b85da987b9ec6849752050f8a57cac6",
+    "mansao_pisos.ydr": "e66df7c10cd06c6e38969aafecc583e9c98cb8c02a86cdf856f426ab75268ee7",
+    "mansao_escada.ydr": "5bdaebea354ffc4b677dcc1602f902bd4781e1be92b46e817bb1b51ae043094b",
+    "mansao_teto.ydr": "e641019ff82a391b7776b4b260714fe6eb1f33972aa80b4e9f7a48f2454a0be8",
+    "mansao_vidros.ydr": "0ad5029200bddd58bef5fd1b8bd25c83f767a18abc877a29dcb72d621d6b5a44",
+    "mansao_mobiliario.ydr": "8985b15dfa99889187b27e7e6de1cb4bf5d622f18f2b00b0718f41a0f0254388",
+    "mansao_jantar.ydr": "ffd38a5ba3eff1edb4e45b875e2c6b32c7ba8d59cba2ceaf37d8e47be4154122",
+    "mansao_ilha.ydr": "f47d0ef3944e22fd18e43224ea44b52e22a6a36e8c1f71f1f804aefab87989e6",
+    "mansao_pendentes.ydr": "6ca06bb9f1de26ebc30eb204598e70d23af347e0a1fe2b05722e9e3dfae2840c"
+  },
+  "in_game_verified": false,
+  "architectural_uv_corner_probes": 15012,
+  "architectural_max_uv_error": 9.5367431640625e-07,
+  "upper_floor_marble_outside_marked_hall": true,
+  "sofa_closed_after_optimization": true,
+  "tv_closed_after_optimization": true,
+  "tv_native_triangles": 99998
+}

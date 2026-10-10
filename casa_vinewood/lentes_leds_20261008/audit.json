@@ -1,0 +1,2796 @@
+{
+  "mansao_spot_embutido": {
+    "rows": [
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 5.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 584,
+        "tris": 768,
+        "min": [
+          -0.08500000089406967,
+          -0.08500000089406967,
+          -0.004000000189989805
+        ],
+        "max": [
+          0.08500000089406967,
+          0.08500000089406967,
+          0.004000000189989805
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 5.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 1900,
+        "tris": 672,
+        "min": [
+          -0.024000000208616257,
+          -0.024000000208616257,
+          0.02775000035762787
+        ],
+        "max": [
+          0.024000000208616257,
+          0.024000000208616257,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 5.0,
+        "mi": 2,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 512,
+        "tris": 192,
+        "min": [
+          -0.00800000037997961,
+          -0.00800000037997961,
+          0.027000000700354576
+        ],
+        "max": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 5.0,
+        "mi": 3,
+        "gi": 0,
+        "shader": 3,
+        "vertices": 712,
+        "tris": 768,
+        "min": [
+          -0.061000000685453415,
+          -0.061000000685453415,
+          -0.0020000000949949026
+        ],
+        "max": [
+          0.061000000685453415,
+          0.061000000685453415,
+          0.03799999877810478
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 12.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 328,
+        "tris": 384,
+        "min": [
+          -0.08500000089406967,
+          -0.08500000089406967,
+          -0.004000000189989805
+        ],
+        "max": [
+          0.08500000089406967,
+          0.08500000089406967,
+          0.004000000189989805
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 12.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 976,
+        "tris": 336,
+        "min": [
+          -0.024000000208616257,
+          -0.024000000208616257,
+          0.02775000035762787
+        ],
+        "max": [
+          0.024000000208616257,
+          0.024000000208616257,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 12.0,
+        "mi": 2,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 260,
+        "tris": 96,
+        "min": [
+          -0.00800000037997961,
+          -0.00800000037997961,
+          0.027000000700354576
+        ],
+        "max": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 12.0,
+        "mi": 3,
+        "gi": 0,
+        "shader": 3,
+        "vertices": 380,
+        "tris": 384,
+        "min": [
+          -0.061000000685453415,
+          -0.061000000685453415,
+          -0.0020000000949949026
+        ],
+        "max": [
+          0.061000000685453415,
+          0.061000000685453415,
+          0.03799999877810478
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 30.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 176,
+        "tris": 192,
+        "min": [
+          -0.08500000089406967,
+          -0.08500000089406967,
+          -0.004000000189989805
+        ],
+        "max": [
+          0.08500000089406967,
+          0.08500000089406967,
+          0.004000000189989805
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 30.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 456,
+        "tris": 168,
+        "min": [
+          -0.024000000208616257,
+          -0.024000000208616257,
+          0.02775000035762787
+        ],
+        "max": [
+          0.024000000208616257,
+          0.024000000208616257,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 30.0,
+        "mi": 2,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 120,
+        "tris": 48,
+        "min": [
+          -0.00800000037997961,
+          -0.00800000037997961,
+          0.027000000700354576
+        ],
+        "max": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 30.0,
+        "mi": 3,
+        "gi": 0,
+        "shader": 3,
+        "vertices": 204,
+        "tris": 192,
+        "min": [
+          -0.061000000685453415,
+          -0.061000000685453415,
+          -0.0020000000949949026
+        ],
+        "max": [
+          0.061000000685453415,
+          0.061000000685453415,
+          0.03799999877810478
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 70.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 108,
+        "tris": 128,
+        "min": [
+          -0.08500000089406967,
+          -0.08500000089406967,
+          -0.004000000189989805
+        ],
+        "max": [
+          0.08500000089406967,
+          0.08500000089406967,
+          0.004000000189989805
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 70.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 320,
+        "tris": 112,
+        "min": [
+          -0.024000000208616257,
+          -0.024000000208616257,
+          0.02775000035762787
+        ],
+        "max": [
+          0.024000000208616257,
+          0.024000000208616257,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 70.0,
+        "mi": 2,
+        "gi": 0,
+        "shader": 2,
+        "vertices": 92,
+        "tris": 32,
+        "min": [
+          -0.00800000037997961,
+          -0.00800000037997961,
+          0.027000000700354576
+        ],
+        "max": [
+          0.00800000037997961,
+          0.00800000037997961,
+          0.03999999910593033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 70.0,
+        "mi": 3,
+        "gi": 0,
+        "shader": 3,
+        "vertices": 144,
+        "tris": 128,
+        "min": [
+          -0.061000000685453415,
+          -0.061000000685453415,
+          -0.0020000000949949026
+        ],
+        "max": [
+          0.061000000685453415,
+          0.061000000685453415,
+          0.03799999877810478
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      }
+    ],
+    "shaders": [
+      {
+        "index": 0,
+        "name": "hash_f838dce6",
+        "preset": "default.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "spot_branco"
+          },
+          {
+            "name": "matmaterialcolorscale",
+            "value": "[1. 0. 0. 1.]"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "wetnessmultiplier",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv1",
+            "value": "[0. 1. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv0",
+            "value": "[1. 0. 0. 0.]"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "name": "hash_9f4c6ed1",
+        "preset": "normal_spec.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "spot_prisma"
+          },
+          {
+            "name": "bumpsampler",
+            "value": "normal_plana"
+          },
+          {
+            "name": "specsampler",
+            "value": "metal_spec"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "wetnessmultiplier",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "bumpiness",
+            "value": "[0.44999999 0.         0.         0.        ]"
+          },
+          {
+            "name": "specmapintmask",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "specularintensitymult",
+            "value": "[0.80000001 0.         0.         0.        ]"
+          },
+          {
+            "name": "specularfalloffmult",
+            "value": "[65.  0.  0.  0.]"
+          },
+          {
+            "name": "specularfresnel",
+            "value": "[0.44999999 0.         0.         0.        ]"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "name": "hash_8f245469",
+        "preset": "emissive.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "spot_lente"
+          },
+          {
+            "name": "matmaterialcolorscale",
+            "value": "[1. 0. 0. 1.]"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "emissivemultiplier",
+            "value": "[3. 0. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv1",
+            "value": "[0. 1. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv0",
+            "value": "[1. 0. 0. 0.]"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "name": "hash_9f4c6ed1",
+        "preset": "normal_spec.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "spot_metal"
+          },
+          {
+            "name": "bumpsampler",
+            "value": "normal_plana"
+          },
+          {
+            "name": "specsampler",
+            "value": "metal_spec"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "wetnessmultiplier",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "bumpiness",
+            "value": "[0.44999999 0.         0.         0.        ]"
+          },
+          {
+            "name": "specmapintmask",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "specularintensitymult",
+            "value": "[0.5 0.  0.  0. ]"
+          },
+          {
+            "name": "specularfalloffmult",
+            "value": "[65.  0.  0.  0.]"
+          },
+          {
+            "name": "specularfresnel",
+            "value": "[0.44999999 0.         0.         0.        ]"
+          }
+        ]
+      }
+    ],
+    "lights": 0
+  },
+  "mansao_pendentes": {
+    "rows": [
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 24.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 25464,
+        "tris": 21723,
+        "min": [
+          2.4903974533081055,
+          -9.5,
+          1.500190258026123
+        ],
+        "max": [
+          2.8096024990081787,
+          -7.099999904632568,
+          6.447999954223633
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 24.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 1,
+        "vertices": 2544,
+        "tris": 2277,
+        "min": [
+          2.5500874519348145,
+          -9.495511054992676,
+          1.5
+        ],
+        "max": [
+          2.7482504844665527,
+          -7.10524845123291,
+          3.2866628170013428
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 24.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 3353,
+        "tris": 2942,
+        "min": [
+          10.379937171936035,
+          -10.24952220916748,
+          1.350000023841858
+        ],
+        "max": [
+          10.519821166992188,
+          -7.753848075866699,
+          1.464309811592102
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 24.0,
+        "mi": 1,
+        "gi": 1,
+        "shader": 2,
+        "vertices": 14709,
+        "tris": 13056,
+        "min": [
+          10.379579544067383,
+          -10.25,
+          1.3521177768707275
+        ],
+        "max": [
+          10.52042007446289,
+          -7.75,
+          2.3559999465942383
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 16851,
+        "tris": 9775,
+        "min": [
+          2.4903974533081055,
+          -9.499446868896484,
+          1.500190258026123
+        ],
+        "max": [
+          2.8096024990081787,
+          -7.1019086837768555,
+          6.447999954223633
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 1,
+        "vertices": 2195,
+        "tris": 1709,
+        "min": [
+          2.5500874519348145,
+          -9.495511054992676,
+          1.500190258026123
+        ],
+        "max": [
+          2.7482504844665527,
+          -7.10524845123291,
+          3.2866628170013428
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 2660,
+        "tris": 1870,
+        "min": [
+          10.379937171936035,
+          -10.24952220916748,
+          1.350000023841858
+        ],
+        "max": [
+          10.519821166992188,
+          -7.753848075866699,
+          1.464309811592102
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 1,
+        "gi": 1,
+        "shader": 2,
+        "vertices": 9537,
+        "tris": 5874,
+        "min": [
+          10.379579544067383,
+          -10.25,
+          1.3521177768707275
+        ],
+        "max": [
+          10.52042007446289,
+          -7.75,
+          2.3559999465942383
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 15886,
+        "tris": 8873,
+        "min": [
+          2.4903974533081055,
+          -9.495511054992676,
+          1.500190258026123
+        ],
+        "max": [
+          2.8096024990081787,
+          -7.1019086837768555,
+          6.447999954223633
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 1,
+        "vertices": 2186,
+        "tris": 1697,
+        "min": [
+          2.5500874519348145,
+          -9.495511054992676,
+          1.500190258026123
+        ],
+        "max": [
+          2.7482504844665527,
+          -7.10524845123291,
+          3.2866628170013428
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 2649,
+        "tris": 1860,
+        "min": [
+          10.379937171936035,
+          -10.24952220916748,
+          1.350000023841858
+        ],
+        "max": [
+          10.519821166992188,
+          -7.753848075866699,
+          1.464309811592102
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 1,
+        "gi": 1,
+        "shader": 2,
+        "vertices": 8397,
+        "tris": 4730,
+        "min": [
+          10.379579544067383,
+          -10.25,
+          1.3521177768707275
+        ],
+        "max": [
+          10.52042007446289,
+          -7.75,
+          2.3559999465942383
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 15883,
+        "tris": 8869,
+        "min": [
+          2.4903974533081055,
+          -9.499446868896484,
+          1.500190258026123
+        ],
+        "max": [
+          2.8096024990081787,
+          -7.1019086837768555,
+          6.447999954223633
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 1,
+        "vertices": 2184,
+        "tris": 1695,
+        "min": [
+          2.5500874519348145,
+          -9.495511054992676,
+          1.500190258026123
+        ],
+        "max": [
+          2.7482504844665527,
+          -7.10524845123291,
+          3.2866628170013428
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 2645,
+        "tris": 1856,
+        "min": [
+          10.379937171936035,
+          -10.24952220916748,
+          1.350000023841858
+        ],
+        "max": [
+          10.519821166992188,
+          -7.753848075866699,
+          1.464309811592102
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 1,
+        "gi": 1,
+        "shader": 2,
+        "vertices": 8378,
+        "tris": 4712,
+        "min": [
+          10.379579544067383,
+          -10.25,
+          1.3521177768707275
+        ],
+        "max": [
+          10.52042007446289,
+          -7.75,
+          2.3559999465942383
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      }
+    ],
+    "shaders": [
+      {
+        "index": 0,
+        "name": "hash_43049ea3",
+        "preset": "normal_spec.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "cylinder_albedo"
+          },
+          {
+            "name": "bumpsampler",
+            "value": "cylinder_normal"
+          },
+          {
+            "name": "specsampler",
+            "value": "cylinder_spec"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "wetnessmultiplier",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "bumpiness",
+            "value": "[0.75 0.   0.   0.  ]"
+          },
+          {
+            "name": "specmapintmask",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "specularintensitymult",
+            "value": "[0.22 0.   0.   0.  ]"
+          },
+          {
+            "name": "specularfalloffmult",
+            "value": "[35.  0.  0.  0.]"
+          },
+          {
+            "name": "specularfresnel",
+            "value": "[0.12 0.   0.   0.  ]"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "name": "hash_8f245469",
+        "preset": "emissive.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "mansao_led_quente"
+          },
+          {
+            "name": "matmaterialcolorscale",
+            "value": "[1. 0. 0. 1.]"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "emissivemultiplier",
+            "value": "[2.79999995 0.         0.         0.        ]"
+          },
+          {
+            "name": "globalanimuv1",
+            "value": "[0. 1. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv0",
+            "value": "[1. 0. 0. 0.]"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "name": "hash_43049ea3",
+        "preset": "normal_spec.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "linear_albedo"
+          },
+          {
+            "name": "bumpsampler",
+            "value": "linear_normal"
+          },
+          {
+            "name": "specsampler",
+            "value": "linear_spec"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "wetnessmultiplier",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "bumpiness",
+            "value": "[0.75 0.   0.   0.  ]"
+          },
+          {
+            "name": "specmapintmask",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "specularintensitymult",
+            "value": "[0.22 0.   0.   0.  ]"
+          },
+          {
+            "name": "specularfalloffmult",
+            "value": "[35.  0.  0.  0.]"
+          },
+          {
+            "name": "specularfresnel",
+            "value": "[0.12 0.   0.   0.  ]"
+          }
+        ]
+      }
+    ],
+    "lights": 9
+  },
+  "mansao_spots_led": {
+    "rows": [
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.252000093460083,
+          1.7279999256134033,
+          2.7750000953674316
+        ],
+        "max": [
+          2.3480000495910645,
+          1.75600004196167,
+          2.7890000343322754
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 1,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          1.7439993619918823,
+          -0.6526000499725342
+        ],
+        "max": [
+          0.9479996562004089,
+          1.771999478340149,
+          -0.6385999917984009
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 2,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          2.043999433517456,
+          -0.4721999764442444
+        ],
+        "max": [
+          0.9479996562004089,
+          2.0719993114471436,
+          -0.45819997787475586
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 3,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          2.343998670578003,
+          -0.29179999232292175
+        ],
+        "max": [
+          0.9479996562004089,
+          2.3719985485076904,
+          -0.2777999937534332
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 4,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          2.6439998149871826,
+          -0.11140001565217972
+        ],
+        "max": [
+          0.9479996562004089,
+          2.67199969291687,
+          -0.09740001708269119
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 5,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          2.9439990520477295,
+          0.0689999982714653
+        ],
+        "max": [
+          0.9479996562004089,
+          2.971998929977417,
+          0.08299999684095383
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 6,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          3.244000196456909,
+          0.24939996004104614
+        ],
+        "max": [
+          0.9479996562004089,
+          3.2720000743865967,
+          0.26339995861053467
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 7,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          3.543999433517456,
+          0.42979997396469116
+        ],
+        "max": [
+          0.9479996562004089,
+          3.5719993114471436,
+          0.4437999725341797
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 8,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          3.843998670578003,
+          0.6101999282836914
+        ],
+        "max": [
+          0.9479996562004089,
+          3.8719985485076904,
+          0.6241999864578247
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 9,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800041913986206,
+          4.144000053405762,
+          0.7905999422073364
+        ],
+        "max": [
+          0.9479996562004089,
+          4.171999931335449,
+          0.8046000003814697
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 10,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          4.428000450134277,
+          1.1513999700546265
+        ],
+        "max": [
+          2.3480000495910645,
+          4.456000328063965,
+          1.1653999090194702
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 11,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          4.1279988288879395,
+          1.331800103187561
+        ],
+        "max": [
+          2.3480000495910645,
+          4.155998706817627,
+          1.3458000421524048
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 12,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          3.8279998302459717,
+          1.5121999979019165
+        ],
+        "max": [
+          2.3480000495910645,
+          3.855999708175659,
+          1.5261999368667603
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 13,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          3.528000593185425,
+          1.692600131034851
+        ],
+        "max": [
+          2.3480000495910645,
+          3.5560004711151123,
+          1.7066000699996948
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 14,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          3.227999448776245,
+          1.8730000257492065
+        ],
+        "max": [
+          2.3480000495910645,
+          3.2559993267059326,
+          1.8869999647140503
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 15,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          2.9280002117156982,
+          2.0534000396728516
+        ],
+        "max": [
+          2.3480000495910645,
+          2.9560000896453857,
+          2.0673999786376953
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 16,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          2.6279990673065186,
+          2.233799934387207
+        ],
+        "max": [
+          2.3480000495910645,
+          2.655998945236206,
+          2.247799873352051
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 17,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          2.3279998302459717,
+          2.4142000675201416
+        ],
+        "max": [
+          2.3480000495910645,
+          2.355999708175659,
+          2.4282000064849854
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 18,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2520002126693726,
+          2.0279996395111084,
+          2.594599962234497
+        ],
+        "max": [
+          2.3480000495910645,
+          2.055999517440796,
+          2.608599901199341
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 19,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.14800000190734863,
+          4.443999767303467,
+          0.9709998965263367
+        ],
+        "max": [
+          2.3480000495910645,
+          4.471999645233154,
+          0.98499995470047
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 20,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450001239776611,
+          1.7289999723434448,
+          2.7699999809265137
+        ],
+        "max": [
+          2.3550000190734863,
+          1.7549999952316284,
+          2.7940001487731934
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 21,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          1.7449994087219238,
+          -0.6576000452041626
+        ],
+        "max": [
+          0.9549996256828308,
+          1.7709994316101074,
+          -0.6335999965667725
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 22,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          2.044999361038208,
+          -0.4771999716758728
+        ],
+        "max": [
+          0.9549996256828308,
+          2.0709993839263916,
+          -0.45319998264312744
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 23,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          2.344998598098755,
+          -0.29679998755455017
+        ],
+        "max": [
+          0.9549996256828308,
+          2.3709986209869385,
+          -0.2727999985218048
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 24,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          2.6449997425079346,
+          -0.11640001833438873
+        ],
+        "max": [
+          0.9549996256828308,
+          2.670999765396118,
+          -0.09240001440048218
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 25,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          2.9449989795684814,
+          0.06399999558925629
+        ],
+        "max": [
+          0.9549996256828308,
+          2.970999002456665,
+          0.08799999952316284
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 26,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          3.245000123977661,
+          0.24439996480941772
+        ],
+        "max": [
+          0.9549996256828308,
+          3.2710001468658447,
+          0.2683999538421631
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 27,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          3.544999361038208,
+          0.42479997873306274
+        ],
+        "max": [
+          0.9549996256828308,
+          3.5709993839263916,
+          0.4487999677658081
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 28,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          3.844998598098755,
+          0.605199933052063
+        ],
+        "max": [
+          0.9549996256828308,
+          3.8709986209869385,
+          0.6291999816894531
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 29,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.15500038862228394,
+          4.144999980926514,
+          0.785599946975708
+        ],
+        "max": [
+          0.9549996256828308,
+          4.171000003814697,
+          0.8095999956130981
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 30,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          4.429000377655029,
+          1.146399974822998
+        ],
+        "max": [
+          2.3550000190734863,
+          4.455000400543213,
+          1.1703999042510986
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 31,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          4.128998756408691,
+          1.3268001079559326
+        ],
+        "max": [
+          2.3550000190734863,
+          4.154998779296875,
+          1.3508000373840332
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 32,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          3.8289997577667236,
+          1.507200002670288
+        ],
+        "max": [
+          2.3550000190734863,
+          3.8549997806549072,
+          1.5311999320983887
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 33,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          3.5290005207061768,
+          1.6876001358032227
+        ],
+        "max": [
+          2.3550000190734863,
+          3.5550005435943604,
+          1.7116000652313232
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 34,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          3.228999376296997,
+          1.8680000305175781
+        ],
+        "max": [
+          2.3550000190734863,
+          3.2549993991851807,
+          1.8919999599456787
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 35,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          2.92900013923645,
+          2.0483999252319336
+        ],
+        "max": [
+          2.3550000190734863,
+          2.955000162124634,
+          2.0724000930786133
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 36,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          2.6289989948272705,
+          2.228799819946289
+        ],
+        "max": [
+          2.3550000190734863,
+          2.654999017715454,
+          2.2527999877929688
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 37,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          2.3289997577667236,
+          2.4091999530792236
+        ],
+        "max": [
+          2.3550000190734863,
+          2.3549997806549072,
+          2.4332001209259033
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 38,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          1.2450002431869507,
+          2.0289995670318604,
+          2.589599847793579
+        ],
+        "max": [
+          2.3550000190734863,
+          2.054999589920044,
+          2.613600015640259
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 9998.0,
+        "mi": 39,
+        "gi": 0,
+        "shader": 1,
+        "vertices": 24,
+        "tris": 12,
+        "min": [
+          -0.1549999713897705,
+          4.444999694824219,
+          0.9659999012947083
+        ],
+        "max": [
+          2.3550000190734863,
+          4.470999717712402,
+          0.9899999499320984
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0"
+        ]
+      }
+    ],
+    "shaders": [
+      {
+        "index": 0,
+        "name": "hash_fa9fec0e",
+        "preset": "emissive.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "mansao_decor_led"
+          },
+          {
+            "name": "matmaterialcolorscale",
+            "value": "[1. 0. 0. 1.]"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "emissivemultiplier",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv1",
+            "value": "[0. 1. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv0",
+            "value": "[1. 0. 0. 0.]"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "name": "hash_f838dce6",
+        "preset": "default.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "mansao_decor_trim"
+          },
+          {
+            "name": "matmaterialcolorscale",
+            "value": "[1. 0. 0. 1.]"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "wetnessmultiplier",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv1",
+            "value": "[0. 1. 0. 0.]"
+          },
+          {
+            "name": "globalanimuv0",
+            "value": "[1. 0. 0. 0.]"
+          }
+        ]
+      }
+    ],
+    "lights": 0
+  },
+  "mansao_tv": {
+    "rows": [
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 28.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 20906,
+        "tris": 21845,
+        "min": [
+          -9.025792121887207,
+          -11.100000381469727,
+          -0.7948856353759766
+        ],
+        "max": [
+          -8.264681816101074,
+          -10.22098445892334,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 28.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 0,
+        "vertices": 21002,
+        "tris": 21845,
+        "min": [
+          -9.025988578796387,
+          -11.010091781616211,
+          -0.712263822555542
+        ],
+        "max": [
+          -8.264681816101074,
+          -9.800463676452637,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 28.0,
+        "mi": 0,
+        "gi": 2,
+        "shader": 0,
+        "vertices": 21229,
+        "tris": 21845,
+        "min": [
+          -9.026000022888184,
+          -10.765401840209961,
+          -0.7125000953674316
+        ],
+        "max": [
+          -8.263845443725586,
+          -7.646740913391113,
+          2.537886619567871
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 28.0,
+        "mi": 0,
+        "gi": 3,
+        "shader": 0,
+        "vertices": 22092,
+        "tris": 21845,
+        "min": [
+          -9.02599811553955,
+          -9.029677391052246,
+          -0.7124161124229431
+        ],
+        "max": [
+          -8.084989547729492,
+          -6.509127616882324,
+          2.537757396697998
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.HIGH",
+        "threshold": 28.0,
+        "mi": 0,
+        "gi": 4,
+        "shader": 0,
+        "vertices": 12521,
+        "tris": 12618,
+        "min": [
+          -9.025890350341797,
+          -11.041925430297852,
+          -0.7950000166893005
+        ],
+        "max": [
+          -8.07475757598877,
+          -6.5,
+          2.5376439094543457
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 12117,
+        "tris": 9827,
+        "min": [
+          -9.025792121887207,
+          -11.100000381469727,
+          -0.7948856353759766
+        ],
+        "max": [
+          -8.264681816101074,
+          -10.22098445892334,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 0,
+        "vertices": 12219,
+        "tris": 9827,
+        "min": [
+          -9.025988578796387,
+          -11.010091781616211,
+          -0.712263822555542
+        ],
+        "max": [
+          -8.264681816101074,
+          -9.800463676452637,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 0,
+        "gi": 2,
+        "shader": 0,
+        "vertices": 12346,
+        "tris": 9829,
+        "min": [
+          -9.026000022888184,
+          -10.765401840209961,
+          -0.7125000953674316
+        ],
+        "max": [
+          -8.263845443725586,
+          -7.646740913391113,
+          2.537886619567871
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 0,
+        "gi": 3,
+        "shader": 0,
+        "vertices": 13031,
+        "tris": 9829,
+        "min": [
+          -9.02599811553955,
+          -9.029677391052246,
+          -0.7124161124229431
+        ],
+        "max": [
+          -8.084989547729492,
+          -6.509127616882324,
+          2.537757396697998
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.MED",
+        "threshold": 55.0,
+        "mi": 0,
+        "gi": 4,
+        "shader": 0,
+        "vertices": 7308,
+        "tris": 5676,
+        "min": [
+          -9.025890350341797,
+          -11.041925430297852,
+          -0.7945654392242432
+        ],
+        "max": [
+          -8.0762357711792,
+          -6.5,
+          2.5376439094543457
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 7910,
+        "tris": 5221,
+        "min": [
+          -9.025792121887207,
+          -11.08622932434082,
+          -0.793048083782196
+        ],
+        "max": [
+          -8.264681816101074,
+          -10.22098445892334,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 0,
+        "vertices": 8476,
+        "tris": 5701,
+        "min": [
+          -9.025988578796387,
+          -11.010091781616211,
+          -0.712263822555542
+        ],
+        "max": [
+          -8.264681816101074,
+          -9.800463676452637,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 0,
+        "gi": 2,
+        "shader": 0,
+        "vertices": 8528,
+        "tris": 5567,
+        "min": [
+          -9.025988578796387,
+          -10.765401840209961,
+          -0.7125000953674316
+        ],
+        "max": [
+          -8.263845443725586,
+          -7.646740913391113,
+          2.537886619567871
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 0,
+        "gi": 3,
+        "shader": 0,
+        "vertices": 9587,
+        "tris": 6181,
+        "min": [
+          -9.02599811553955,
+          -9.029677391052246,
+          -0.7124161124229431
+        ],
+        "max": [
+          -8.084989547729492,
+          -6.509127616882324,
+          2.537757396697998
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.LOW",
+        "threshold": 100.0,
+        "mi": 0,
+        "gi": 4,
+        "shader": 0,
+        "vertices": 5131,
+        "tris": 3296,
+        "min": [
+          -9.025890350341797,
+          -11.041925430297852,
+          -0.7944480180740356
+        ],
+        "max": [
+          -8.083590507507324,
+          -6.501060962677002,
+          2.5376439094543457
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 0,
+        "gi": 0,
+        "shader": 0,
+        "vertices": 7826,
+        "tris": 5143,
+        "min": [
+          -9.025792121887207,
+          -11.08622932434082,
+          -0.793048083782196
+        ],
+        "max": [
+          -8.264681816101074,
+          -10.22098445892334,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 0,
+        "gi": 1,
+        "shader": 0,
+        "vertices": 8422,
+        "tris": 5653,
+        "min": [
+          -9.025988578796387,
+          -11.010091781616211,
+          -0.712263822555542
+        ],
+        "max": [
+          -8.264681816101074,
+          -9.800463676452637,
+          2.5376169681549072
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 0,
+        "gi": 2,
+        "shader": 0,
+        "vertices": 8323,
+        "tris": 5377,
+        "min": [
+          -9.025988578796387,
+          -10.765401840209961,
+          -0.7125000953674316
+        ],
+        "max": [
+          -8.263845443725586,
+          -7.646740913391113,
+          2.537886619567871
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 0,
+        "gi": 3,
+        "shader": 0,
+        "vertices": 9458,
+        "tris": 6055,
+        "min": [
+          -9.02599811553955,
+          -9.029677391052246,
+          -0.7124161124229431
+        ],
+        "max": [
+          -8.084989547729492,
+          -6.509127616882324,
+          2.537757396697998
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      },
+      {
+        "lod": "LodType.VLOW",
+        "threshold": 180.0,
+        "mi": 0,
+        "gi": 4,
+        "shader": 0,
+        "vertices": 5086,
+        "tris": 3250,
+        "min": [
+          -9.025890350341797,
+          -11.041925430297852,
+          -0.7944480180740356
+        ],
+        "max": [
+          -8.083590507507324,
+          -6.501060962677002,
+          2.5376439094543457
+        ],
+        "channels": [
+          "POSITION",
+          "NORMAL",
+          "DIFFUSE",
+          "TEXTURE0",
+          "TANGENT0"
+        ]
+      }
+    ],
+    "shaders": [
+      {
+        "index": 0,
+        "name": "hash_43049ea3",
+        "preset": "normal_spec.sps",
+        "params": [
+          {
+            "name": "diffusesampler",
+            "value": "tv_albedo"
+          },
+          {
+            "name": "bumpsampler",
+            "value": "tv_normal"
+          },
+          {
+            "name": "specsampler",
+            "value": "tv_spec"
+          },
+          {
+            "name": "hardalphablend",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "usetessellation",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "wetnessmultiplier",
+            "value": "[0. 0. 0. 0.]"
+          },
+          {
+            "name": "bumpiness",
+            "value": "[0.75 0.   0.   0.  ]"
+          },
+          {
+            "name": "specmapintmask",
+            "value": "[1. 0. 0. 0.]"
+          },
+          {
+            "name": "specularintensitymult",
+            "value": "[0.22 0.   0.   0.  ]"
+          },
+          {
+            "name": "specularfalloffmult",
+            "value": "[35.  0.  0.  0.]"
+          },
+          {
+            "name": "specularfresnel",
+            "value": "[0.12 0.   0.   0.  ]"
+          }
+        ]
+      }
+    ],
+    "lights": 0
+  }
+}

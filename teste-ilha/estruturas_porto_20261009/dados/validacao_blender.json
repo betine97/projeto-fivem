@@ -1,0 +1,116 @@
+[
+  {
+    "arquivo": "01_Casa_creme_varanda.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 436,
+    "malhas_unicas": 181,
+    "texturas_empacotadas": 3,
+    "andares": 1,
+    "portas_articuladas": 1,
+    "degraus": 0
+  },
+  {
+    "arquivo": "02_Casa_amarela.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 567,
+    "malhas_unicas": 254,
+    "texturas_empacotadas": 3,
+    "andares": 1,
+    "portas_articuladas": 1,
+    "degraus": 0
+  },
+  {
+    "arquivo": "03_Sobrado_azul.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 1039,
+    "malhas_unicas": 410,
+    "texturas_empacotadas": 3,
+    "andares": 2,
+    "portas_articuladas": 1,
+    "degraus": 18
+  },
+  {
+    "arquivo": "04_Predio_verde_varandas.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 1636,
+    "malhas_unicas": 803,
+    "texturas_empacotadas": 3,
+    "andares": 3,
+    "portas_articuladas": 14,
+    "degraus": 36
+  },
+  {
+    "arquivo": "05_Predio_creme_varandas.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 1636,
+    "malhas_unicas": 803,
+    "texturas_empacotadas": 3,
+    "andares": 3,
+    "portas_articuladas": 14,
+    "degraus": 36
+  },
+  {
+    "arquivo": "06_Mercado.blend",
+    "ok": false,
+    "pendencias": [
+      "fonte nao empacotada: Bfont Regular"
+    ],
+    "objetos": 981,
+    "malhas_unicas": 556,
+    "texturas_empacotadas": 3,
+    "andares": 1,
+    "portas_articuladas": 0,
+    "degraus": 0
+  },
+  {
+    "arquivo": "07_Farmacia.blend",
+    "ok": false,
+    "pendencias": [
+      "fonte nao empacotada: Bfont Regular"
+    ],
+    "objetos": 1559,
+    "malhas_unicas": 504,
+    "texturas_empacotadas": 3,
+    "andares": 2,
+    "portas_articuladas": 2,
+    "degraus": 18
+  },
+  {
+    "arquivo": "08_Mercearia_sobrado.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 1513,
+    "malhas_unicas": 744,
+    "texturas_empacotadas": 3,
+    "andares": 2,
+    "portas_articuladas": 2,
+    "degraus": 18
+  },
+  {
+    "arquivo": "09_Posto_combustivel.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 995,
+    "malhas_unicas": 571,
+    "texturas_empacotadas": 3,
+    "andares": 1,
+    "portas_articuladas": 1,
+    "degraus": 0
+  },
+  {
+    "arquivo": "10_Galpao_oficina.blend",
+    "ok": true,
+    "pendencias": [],
+    "objetos": 438,
+    "malhas_unicas": 201,
+    "texturas_empacotadas": 1,
+    "andares": 1,
+    "portas_articuladas": 0,
+    "degraus": 0
+  }
+]

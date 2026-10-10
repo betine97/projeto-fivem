@@ -1,0 +1,29 @@
+{
+  "installed": true,
+  "installed_at_utc": "2026-10-09T01:16:42.395520+00:00",
+  "resource": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_mansao",
+  "only_written_targets": [
+    "stream/mansao_teto.ydr",
+    "stream/mansao_pendentes.ydr",
+    "stream/mansao_tv.ydr",
+    "stream/mansao_spot_embutido.ydr",
+    "iluminacao_ambiente.json",
+    "luzes_pendentes.json",
+    "iluminacao_decorativa.lua"
+  ],
+  "sha256": {
+    "stream/mansao_teto.ydr": "e174d7c90f68ccd88de77dd0dd88118209e8f1709472b9019ea17841e307338a",
+    "stream/mansao_pendentes.ydr": "62b2bd97b0f954e0c9af8b0be5421fe74ffa069b41b0a51a7d1469bb1c120dfa",
+    "stream/mansao_tv.ydr": "5af7e85bb05556ef562a23f007ded44cdf43d0bbb12497f3915a93fb73d4648e",
+    "stream/mansao_spot_embutido.ydr": "8ede6aae8ab5d56b38760899d4a50d691ac8a7f0ac8ee5fe5779c5fd67aa4c7f",
+    "iluminacao_ambiente.json": "03fe2c8c47995ac6ac143517723c2481534f9b3f65c90c8ceba25ea92f159fe9",
+    "luzes_pendentes.json": "3d79a167bc65a03d4f8bf3d2f5826f761ea4d555f341e19bb8314a4c11af8058",
+    "iluminacao_decorativa.lua": "30556a06a2388dc70890a1259ba8495cfd1ca1195756559d28a428c280fdfdc3"
+  },
+  "concurrent_other_changes_observed": [],
+  "native_validation_passed": true,
+  "visual_match_verified": false,
+  "server_restarted": false,
+  "resource_restarted": false,
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\luz_dourada_20261009\\backup"
+}

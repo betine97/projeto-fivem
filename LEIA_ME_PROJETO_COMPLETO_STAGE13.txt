@@ -1,0 +1,24 @@
+PROJETO COMPLETO - STAGE 13
+
+Abra warehouse_stage13_projeto_completo.blend.
+Todos os componentes estao juntos na mesma cena. As imagens de textura
+estao incorporadas ao .blend: nao e preciso localizar pastas ou importar pecas.
+
+Inclui os trabalhos anteriores: paredes, piso, tubulacoes, ventiladores,
+exaustores, plantas com vasos/solo e, agora, estruturas dos dois racks.
+Os racks usam a textura de metal escuro desgastado enviada nesta etapa,
+com escala de textura uniforme nas colunas, travessas, pes e bandejas.
+
+O arquivo abre com vista de camera e materiais para visualizar o conjunto.
+Teto e partes da parede frontal foram ocultados para mostrar o interior.
+Continuam no arquivo; podem ser reativados pelo Outliner.
+A colecao APRESENTACAO_Luz_de_apoio acrescenta iluminacao neutra para leitura
+do conjunto. Pode ser desligada para conferir somente a iluminacao anterior.
+
+warehouse_stage13_projeto_completo.png e um render da cena consolidada.
+warehouse_stage13_validacao.json registra as pecas texturizadas e verificacoes
+de preservacao dos materiais e posicoes dos componentes anteriores.
+
+O script aplicar_racks_stage13.py permite recriar esta etapa se o arquivo
+warehouse_stage12_plantas.blend estiver ao lado dele. Nao e necessario executar
+o script para abrir e usar o projeto completo pronto.

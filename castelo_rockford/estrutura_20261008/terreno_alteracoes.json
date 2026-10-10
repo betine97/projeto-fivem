@@ -1,0 +1,204 @@
+{
+  "render": [
+    {
+      "file": "bh1_45_plot4a_d2_1.ydr",
+      "triangles_changed": 1256,
+      "embedded_collision_changed": 0
+    },
+    {
+      "file": "bh1_45_plot4a_d2_2.ydr",
+      "triangles_changed": 1689,
+      "embedded_collision_changed": 0
+    },
+    {
+      "file": "bh1_45_plot4a_d2_3.ydr",
+      "triangles_changed": 1536,
+      "embedded_collision_changed": 0
+    },
+    {
+      "file": "bh1_45_plot4a_ter_dcs.ydr",
+      "triangles_changed": 7366,
+      "embedded_collision_changed": 236
+    },
+    {
+      "file": "bh1_45_slod1_children.ydd",
+      "drawables": [
+        [
+          "bh1_45_plot4a_terrain_lod",
+          1940
+        ]
+      ]
+    },
+    {
+      "file": "bh1_lod_45_48_children.ydd",
+      "drawables": [
+        [
+          "bh1_45_slod1",
+          750
+        ]
+      ]
+    }
+  ],
+  "collision": [
+    {
+      "file": "bh1_45_1.ybn",
+      "changed": 2613
+    },
+    {
+      "file": "hi@bh1_45_3.ybn",
+      "changed": 2522
+    }
+  ],
+  "maps": [
+    {
+      "file": "bh1_45_strm_1.ymap",
+      "removed": [
+        {
+          "name": "prop_parasol_01_down",
+          "position": [
+            -952.4678344726562,
+            226.5970916748047,
+            66.34239196777344
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -951.55712890625,
+            226.4417266845703,
+            66.34373474121094
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -953.5903930664062,
+            227.2236328125,
+            66.34129333496094
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -955.8744506835938,
+            228.0383758544922,
+            66.35102844238281
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -957.791015625,
+            227.7292938232422,
+            66.35102844238281
+          ]
+        },
+        {
+          "name": "prop_parasol_01",
+          "position": [
+            -956.8163452148438,
+            227.3899688720703,
+            66.34413146972656
+          ]
+        },
+        {
+          "name": "prop_beachball_01",
+          "position": [
+            -957.1719970703125,
+            214.86366271972656,
+            66.20558166503906
+          ]
+        }
+      ]
+    },
+    {
+      "file": "hei_bh1_45_strm_1.ymap",
+      "removed": [
+        {
+          "name": "prop_parasol_01_down",
+          "position": [
+            -952.4678344726562,
+            226.5970916748047,
+            66.34239196777344
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -951.55712890625,
+            226.4417266845703,
+            66.34373474121094
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -953.5903930664062,
+            227.2236328125,
+            66.34129333496094
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -955.8744506835938,
+            228.0383758544922,
+            66.35102844238281
+          ]
+        },
+        {
+          "name": "prop_patio_lounger1",
+          "position": [
+            -957.791015625,
+            227.7292938232422,
+            66.35102844238281
+          ]
+        },
+        {
+          "name": "prop_parasol_01",
+          "position": [
+            -956.8163452148438,
+            227.3899688720703,
+            66.34413146972656
+          ]
+        },
+        {
+          "name": "prop_beachball_01",
+          "position": [
+            -957.1719970703125,
+            214.86366271972656,
+            66.20558166503906
+          ]
+        }
+      ]
+    }
+  ],
+  "occlusion": [],
+  "outside_property_unchanged": true,
+  "input_hashes": {
+    "alteracoes.json": "bf247c1fea7b813759fcadd4c087c331085ba66eb4c60f32adb4a85a30aee821",
+    "codewalker_verificacao.json": "94bf1774f82e0240de7fa3c700a521339d5512483e55671cc1091ce401f5b3d2",
+    "fxmanifest.lua": "7f3e4786a9cb2aaee937381a6a3de0023179111559ecfdbffc8cda0dc64f724a",
+    "geometry_verificacao.json": "24ab7346410184585183dccf6e427c6802613ab0b3043fa188f2ac62777d9758",
+    "LEIA-ME.md": "c3912e81ac5205edc577e52fb19f27aa76f96f150b665f3b43ebc6b5761a8ecd",
+    "medidas.json": "12c9d1c1f47a0aee49848be4d3c19bc7aaa6c887e86458240102b47e8cbb9f2b",
+    "stream\\bh1_45_1.ybn": "c13f7fcff4445e66d791952a09a4e37d36b85bc3554e880e4c5370bd1b0e2b64",
+    "stream\\bh1_45_em_c.ydr": "6304ea1b75a84e431d5478c8ccd9a1c98690ebd72da8addd1576cbc7818d7600",
+    "stream\\bh1_45_em_slod_children.ydd": "c4bcd8145e63894b4b06aa9339352bf0a7d0b6b28c4d35b55f15285f378818e3",
+    "stream\\bh1_45_plot4a_d2_1.ydr": "2c42fc918d2e7a4d770b4059a88fda5a9065b403edd2f233f2b05315bce2910f",
+    "stream\\bh1_45_plot4a_d2_2.ydr": "0e0031fcce66ff3a82d687cb36cb8a0c00ca06ffca5d9b1adaca42c2a1c06934",
+    "stream\\bh1_45_plot4a_d2_3.ydr": "7d1e37162fb701a7c40eb2b66eafd83daf30cda32f4be56382dec1c92facd319",
+    "stream\\bh1_45_plot4a_ter_dcs.ydr": "43dba271417857f9b1303ca9179fb357db2dfef08dc58a8cd3333576155a33cf",
+    "stream\\bh1_45_slod1_children.ydd": "8baa0011fc617ecfa763e5423353235e133ddd398e6733f1cadfd6d8df76972c",
+    "stream\\bh1_45_strm_1.ymap": "e79a1528f9b190adfffe1ffba6314b123e481cebd343e1429ad42cd07e8ba2ee",
+    "stream\\bh1_lod_45_48_children.ydd": "b12ebdfdc643829e506fe3146ac15e59d2ca8832c597b62e251ed7b2f889d9a7",
+    "stream\\bh1_lod_slod3.ydr": "148a4324e7b0c3ce0e28ec1da96a2668b0b1f3b8a1409b4b5de0192d9ead6e8f",
+    "stream\\bh1_lod_slod3_children.ydd": "f927ddc22b83b63f9f7a8f2c5ad5dec4b97a0a2db976868ff28b670f54d4709b",
+    "stream\\bh1_occl_03.ymap": "cca9e3690cf59eda4119173afd8dae7bc254b3e140cee72c4365261b03113ea8",
+    "stream\\bh1_occl_07.ymap": "e6565255ab3f92f1349ad57407f8ea56c1b4726fd50357378eb930ff9b51e6f8",
+    "stream\\hei_bh1_45_strm_1.ymap": "78774af2cb4454ff9389c00fcb344015c2b8a8ef7c5a8d187d5c72e467bf79fc",
+    "stream\\hei_bh1_occl_03.ymap": "0af6ab0ad91a02393ed0c704b4f494fcdaae4702995c79416d66a23aada54aa5",
+    "stream\\hei_bh1_occl_07.ymap": "a631374576ca16c8611080eaef4067bd60a0e113b8ee48dc5a7cfc175cb4394b",
+    "stream\\hi@bh1_45_3.ybn": "9543ec6ef8fb4f86b3285a57560805c16796d3113a2a0c75f6fe0a30b900e0b8"
+  }
+}

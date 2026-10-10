@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Costas e mangas sem estampa, usando tecido da imagem 2.",
+    "ProjeÃ§Ã£o da arte com largura 36 cm, aproximadamente entre z .27 e .47 m.",
+    "Shader de paleta convertido para RGB; geometria, pesos, normal e especular preservados."
+  ],
+  "placements": [],
+  "in_game_validation": "pending"
+}

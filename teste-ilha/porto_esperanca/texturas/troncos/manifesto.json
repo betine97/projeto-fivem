@@ -1,0 +1,483 @@
+{
+  "revisao": "troncos-20261009-recebidos-1",
+  "recebido_em": "2026-10-09",
+  "quantidade_recortes": 16,
+  "quantidade_categorias_catalogo": 18,
+  "quantidade_modelos_blender_existentes": 24,
+  "tipo_de_material": "Ilustrações recortadas RGBA de troncos e galhos completos; não são mapas planos de casca repetíveis.",
+  "estado": "dez_recortes_aplicados_em_versao_blender_separada; seis_recortes_pendentes",
+  "folhas": "primeiro_lote_de_dez_imagens_recebido_e_aplicado",
+  "criterio_associacao": "A ordem do primeiro lote e a semelhança visual do segundo lote sugerem candidatos; não confirmam nomes de espécies. Os números do segundo lote não equivalem aos IDs do catálogo.",
+  "catalogo": {
+    "arquivo": "texturas/troncos/referencias/catalogo_usuario_18_especies.png",
+    "origem": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-9f73bff9-c430-48d6-a8bd-918786baead8.png",
+    "sha256": "f0e00b1e28792bb661054ba2195527a9ef69c2c6c51d729258c0f0ea57f76bdb"
+  },
+  "arquivos": [
+    {
+      "id": "lote01_01",
+      "arquivo": "texturas/troncos/originais/lote01_01.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_09-1.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_09-1.png",
+      "sha256": "aff1d5f6a2355b8958443e6bcf25c056248e6e0acce2b05efa57de30e30ad9d1",
+      "bytes": 1094295,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1237348,
+        "pixels_semitransparentes": 334382
+      },
+      "descricao_visual": "Tronco de palmeira com anéis e bases de frondes.",
+      "modelos_candidatos": [
+        "01_coqueiro"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "01_coqueiro"
+    },
+    {
+      "id": "lote01_02",
+      "arquivo": "texturas/troncos/originais/lote01_02.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_09-2.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_09-2.png",
+      "sha256": "4b7d66e32023c70ee3213a193c1909c2d79eda842e6c3f35bd2c3a3cdc44f131",
+      "bytes": 1088511,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1239458,
+        "pixels_semitransparentes": 332765
+      },
+      "descricao_visual": "Tronco de palmeira com anéis, base alargada e bases de frondes.",
+      "modelos_candidatos": [
+        "02_imperial"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "02_imperial"
+    },
+    {
+      "id": "lote01_03",
+      "arquivo": "texturas/troncos/originais/lote01_03.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_10-3.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_10-3.png",
+      "sha256": "0a1b1212ac5a90fe754c872b1c96624c890f335ac779623bcb99173f3ba12572",
+      "bytes": 1616954,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1086066,
+        "pixels_semitransparentes": 485051
+      },
+      "descricao_visual": "Tronco lenhoso e copa ramificada aberta.",
+      "modelos_candidatos": [
+        "03_caneleira"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "03_caneleira"
+    },
+    {
+      "id": "lote01_04",
+      "arquivo": "texturas/troncos/originais/lote01_04.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_11-4.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_11-4.png",
+      "sha256": "ab968a8bdbb3e8285d7805faeb7d77fef030519b6d5d032d4da43e81255923b2",
+      "bytes": 1568122,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1085734,
+        "pixels_semitransparentes": 484811
+      },
+      "descricao_visual": "Tronco lenhoso com ramificações extensas.",
+      "modelos_candidatos": [
+        "04_amendoeira"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "04_amendoeira"
+    },
+    {
+      "id": "lote01_05",
+      "arquivo": "texturas/troncos/originais/lote01_05.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_12-5.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_12-5.png",
+      "sha256": "f403f5c8bfe934c5c2ee370cb2c43b7c1dc6afdf48cb0d3bba2ecfcd1ef2cc78",
+      "bytes": 2190548,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 893215,
+        "pixels_semitransparentes": 677678
+      },
+      "descricao_visual": "Tronco lenhoso dividido em ramos grossos.",
+      "modelos_candidatos": [
+        "05_flamboyant"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "05_flamboyant"
+    },
+    {
+      "id": "lote01_06",
+      "arquivo": "texturas/troncos/originais/lote01_06.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_12-6.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_12-6.png",
+      "sha256": "b53329358385409bbf8ee7da199ae228a700a244651177ccd4a064aee2882a81",
+      "bytes": 1696636,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1005010,
+        "pixels_semitransparentes": 566817
+      },
+      "descricao_visual": "Tronco ramificado com casca clara em placas.",
+      "modelos_candidatos": [
+        "06_arvore_rua"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "06_arvore_rua"
+    },
+    {
+      "id": "lote01_07",
+      "arquivo": "texturas/troncos/originais/lote01_07.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_13-7.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_13-7.png",
+      "sha256": "5742cc73cbb964b16a717ea506da0062cd810ee05535d0537c96580712cf0722",
+      "bytes": 1869056,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1011677,
+        "pixels_semitransparentes": 559397
+      },
+      "descricao_visual": "Tronco retorcido, grosso e com nós aparentes.",
+      "modelos_candidatos": [
+        "07_reseda"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "07_reseda"
+    },
+    {
+      "id": "lote01_08",
+      "arquivo": "texturas/troncos/originais/lote01_08.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_13-8.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_13-8.png",
+      "sha256": "bf167fd3a7ce5b00b4fef477269baaf8b2204c8671274779281e5f3870455496",
+      "bytes": 2445887,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 819095,
+        "pixels_semitransparentes": 752129
+      },
+      "descricao_visual": "Tronco ramificado com muitos galhos finos.",
+      "modelos_candidatos": [
+        "08_ipe_amarelo"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "08_ipe_amarelo"
+    },
+    {
+      "id": "lote01_09",
+      "arquivo": "texturas/troncos/originais/lote01_09.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_14-9.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_14-9.png",
+      "sha256": "a36d3f14bcaa0e84c44ff4764b1658c27bd5915f2cd321db101784a8365e43cd",
+      "bytes": 2252333,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 890053,
+        "pixels_semitransparentes": 681328
+      },
+      "descricao_visual": "Tronco ramificado com copa ampla.",
+      "modelos_candidatos": [
+        "09_oliveira"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "09_oliveira"
+    },
+    {
+      "id": "lote01_10",
+      "arquivo": "texturas/troncos/originais/lote01_10.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_21_15-10.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_21_15-10.png",
+      "sha256": "2af265bad63e97b06341a0ae086ce7dbd8f355144eb92350ee0ba1b4a4976604",
+      "bytes": 2026491,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 947926,
+        "pixels_semitransparentes": 623048
+      },
+      "descricao_visual": "Tronco grosso e ramos com extremidades cortadas.",
+      "modelos_candidatos": [
+        "10_castanhola"
+      ],
+      "base_da_associacao": "ordem_do_primeiro_lote",
+      "associacao": "aplicada_na_primeira_amostra; validacao_usuario_pendente",
+      "status_material": "imagem_original_incorporada_com_regiao_UV_em_troncos_e_galhos_3D",
+      "modelo_na_amostra": "10_castanhola"
+    },
+    {
+      "id": "lote02_03",
+      "arquivo": "texturas/troncos/originais/lote02_03.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_24_20-3.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_24_20-3.png",
+      "sha256": "9db78112914308b3650a41e64e588b971541de572c145cab9e516bf33d66c90f",
+      "bytes": 1623456,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1055509,
+        "pixels_semitransparentes": 516808
+      },
+      "descricao_visual": "Tronco de palmeira com bases fibrosas sobrepostas.",
+      "modelos_candidatos": [
+        "16_palma_azul",
+        "22_palmeira_leque"
+      ],
+      "base_da_associacao": "semelhanca_visual",
+      "associacao": "provisoria_nao_aplicada",
+      "status_material": "recorte_original_preservado; textura_UV_a_preparar"
+    },
+    {
+      "id": "lote02_04",
+      "arquivo": "texturas/troncos/originais/lote02_04.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_24_21-4.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_24_21-4.png",
+      "sha256": "bf37601529415ffe22812ea55efed860c79a52214ef20908c7c776e2714f5139",
+      "bytes": 2141671,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 787869,
+        "pixels_semitransparentes": 784061
+      },
+      "descricao_visual": "Touceira de pseudocaules verdes e bainhas descamadas.",
+      "modelos_candidatos": [
+        "12_bananeira"
+      ],
+      "base_da_associacao": "semelhanca_visual",
+      "associacao": "provisoria_nao_aplicada",
+      "status_material": "recorte_original_preservado; textura_UV_a_preparar"
+    },
+    {
+      "id": "lote02_05",
+      "arquivo": "texturas/troncos/originais/lote02_05.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_24_22-5.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_24_22-5.png",
+      "sha256": "5a343c01c5ed39851ebbf84ab7d439ac247d22fb81b7ff447ceaf972ce5a9a92",
+      "bytes": 1499788,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 1107239,
+        "pixels_semitransparentes": 463722
+      },
+      "descricao_visual": "Caules múltiplos com cicatrizes e fibras.",
+      "modelos_candidatos": [
+        "17_yucca",
+        "21_areca"
+      ],
+      "base_da_associacao": "semelhanca_visual",
+      "associacao": "provisoria_nao_aplicada",
+      "status_material": "recorte_original_preservado; textura_UV_a_preparar"
+    },
+    {
+      "id": "lote02_06",
+      "arquivo": "texturas/troncos/originais/lote02_06.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_24_23-6.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_24_23-6.png",
+      "sha256": "a4ecd5c2fc738042956133324c9a4f6cc1c8080298035b7df80812b88a3449eb",
+      "bytes": 2410110,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 784364,
+        "pixels_semitransparentes": 787895
+      },
+      "descricao_visual": "Touceira curta com bases de folhas fibrosas.",
+      "modelos_candidatos": [
+        "15_palmeira_ana"
+      ],
+      "base_da_associacao": "semelhanca_visual",
+      "associacao": "provisoria_nao_aplicada",
+      "status_material": "recorte_original_preservado; textura_UV_a_preparar"
+    },
+    {
+      "id": "lote02_07",
+      "arquivo": "texturas/troncos/originais/lote02_07.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_24_24-7.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_24_24-7.png",
+      "sha256": "253291a6d45e4e7b24e14e7afb35d2820aa4f286c8e2c33b0787dca5f118c841",
+      "bytes": 2690812,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 703064,
+        "pixels_semitransparentes": 867765
+      },
+      "descricao_visual": "Tronco ramificado com raízes de apoio expostas.",
+      "modelos_candidatos": [
+        "13_mangue"
+      ],
+      "base_da_associacao": "semelhanca_visual",
+      "associacao": "provisoria_nao_aplicada",
+      "status_material": "recorte_original_preservado; textura_UV_a_preparar"
+    },
+    {
+      "id": "lote02_08",
+      "arquivo": "texturas/troncos/originais/lote02_08.png",
+      "origem": "C:\\Users\\erons\\Downloads\\Imagem do ChatGPT 9 de out. de 2026, 12_24_25-8.png",
+      "nome_original": "Imagem do ChatGPT 9 de out. de 2026, 12_24_25-8.png",
+      "sha256": "ddfdd81e29dde22da71d136ad0d0d54dcd415b00b692b7065184c1ba892d3e35",
+      "bytes": 2548839,
+      "imagem": {
+        "largura": 1254,
+        "altura": 1254,
+        "modo": "RGBA",
+        "canal_alpha": true,
+        "alpha_min_max": [
+          0,
+          255
+        ],
+        "pixels_transparentes": 757987,
+        "pixels_semitransparentes": 813741
+      },
+      "descricao_visual": "Arbusto baixo de muitos caules lenhosos.",
+      "modelos_candidatos": [
+        "14_arbusto_costeiro",
+        "18_cerca_viva"
+      ],
+      "base_da_associacao": "semelhanca_visual",
+      "associacao": "provisoria_nao_aplicada",
+      "status_material": "recorte_original_preservado; textura_UV_a_preparar"
+    }
+  ],
+  "verificacao": {
+    "copias_com_sha256_conferido": 17,
+    "imagens_decodificadas": 17,
+    "originais_modificados": false,
+    "blender_modificado": false,
+    "servidor_modificado": false,
+    "escopo": "Recebimento dos originais, antes da aplicação Blender registrada em aplicacao_blender."
+  },
+  "proximos_passos": [
+    "Associar cada recorte ao modelo pretendido junto das folhas.",
+    "Preparar materiais de casca a partir das regiões úteis das referências e ajustar UV dos troncos e galhos.",
+    "Separar materiais por modelo, mantendo folhas e pseudocaules independentes.",
+    "Validar uma amostra no Blender antes de substituir os materiais da cena."
+  ],
+  "aplicacao_blender": {
+    "arquivo": "porto_esperanca_texturas_lote01.blend",
+    "relatorio": "dados/aplicacao_texturas_lote01.json",
+    "instalado_fivem": false,
+    "originais_modificados": false
+  }
+}

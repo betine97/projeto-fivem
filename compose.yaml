@@ -1,0 +1,52 @@
+services:
+  cidade:
+    image: ${CITY_IMAGE:-cidade-fivem:local}
+    build: .
+    # Os serviços existentes usam loopback e compartilham esta rede.
+    network_mode: host
+    init: true
+    environment:
+      APP_ENV: ${APP_ENV:-dev}
+      FIVEM_LICENSE_KEY: ${FIVEM_LICENSE_KEY:?Preencha FIVEM_LICENSE_KEY}
+      PANEL_ADMIN_PASSWORD: ${PANEL_ADMIN_PASSWORD:?Preencha PANEL_ADMIN_PASSWORD}
+      CITY_API_KEY: ${CITY_API_KEY:?Preencha CITY_API_KEY}
+      PANEL_ADMIN_SECRET: ${PANEL_ADMIN_SECRET:?Preencha PANEL_ADMIN_SECRET}
+      FXSERVER_ARTIFACT_URL: ${FXSERVER_ARTIFACT_URL:?Preencha FXSERVER_ARTIFACT_URL}
+      FXSERVER_ARTIFACT_SHA256: ${FXSERVER_ARTIFACT_SHA256:-}
+      ISLAND_PORT: ${ISLAND_PORT:-30220}
+      CITY_PORT: ${CITY_PORT:-30221}
+      PANEL_PORT: ${PANEL_PORT:-8887}
+      CAPTURE_PORT: ${CAPTURE_PORT:-8888}
+      GTA_ROOT: /gta
+      BLENDER_BIN: ${BLENDER_BIN:-/usr/bin/blender}
+      ENABLE_CAPTURE_INDEX: ${ENABLE_CAPTURE_INDEX:-0}
+    volumes:
+      - runtime:/state
+      - panel_data:/app/painel_acesso/data
+      - capture_data:/app/captura_los_santos/data
+      - capture_cache:/app/captura_los_santos/cache
+      - editor_data:/app/server-data/resources/cidade_admin/data
+      - type: bind
+        source: ${GTA_HOST_PATH:-./.state/gta}
+        target: /gta
+        read_only: true
+        bind:
+          create_host_path: false
+    healthcheck:
+      test: [CMD, python, /opt/cidade/healthcheck.py]
+      interval: 30s
+      timeout: 5s
+      start_period: 120s
+      retries: 3
+    stop_grace_period: 45s
+    logging:
+      driver: json-file
+      options:
+        max-size: 10m
+        max-file: '3'
+volumes:
+  runtime:
+  panel_data:
+  capture_data:
+  capture_cache:
+  editor_data:

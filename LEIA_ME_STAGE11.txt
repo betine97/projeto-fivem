@@ -1,0 +1,21 @@
+STAGE 11 - VENTILADORES E EXAUSTORES
+
+Abra warehouse_stage11_ventiladores.blend. A cena completa e as texturas
+incorporadas ao arquivo estao prontas; nao e necessario executar scripts.
+
+Aplicacao: 6 ventiladores laterais, 2 exaustores traseiros e 3 bocais com
+ventiladores do teto. Total: 386 pecas com materiais atualizados.
+
+As quatro imagens fornecidas estao em texturas_ventiladores. Os materiais
+amostram regioes de metal dessas imagens para preservar as grades e aberturas
+reais da geometria, sem projetar uma foto inteira de outro ventilador sobre ela.
+Grade prateada, estrutura escura riscada, carcasas oxidadas e pas gastas.
+Rugosidade e relevo sao ajustes aproximados de shader; nao sao mapas PBR medidos.
+
+Os dois PNGs mostram detalhes renderizados sob iluminacao neutra para inspecao.
+A cena completa conserva sua iluminacao rosa e os outros materiais anteriores.
+O denoise do preview e do render continua ativado.
+
+aplicar_texturas_ventiladores.py permite reaplicar os materiais no Blender.
+Mantenha a pasta texturas_ventiladores ao lado do script se for executa-lo.
+O arquivo JSON registra as pecas modificadas.

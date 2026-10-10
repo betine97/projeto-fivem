@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FirstPersonAssetDataManager>
+  <peds>
+    <!-- Female Apartment Setup -->
+    <Item>
+      <name>MP_f_Freemode_01</name>
+      <!-- female -->
+      <objects>
+        <Item>
+          <!-- 000RSRanger-->
+          <localIndex value="0" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>female_apt01</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+      </objects>
+    </Item>
+    <!-- /Female Apartment Setup -->
+    <!-- Male Apartment Setup -->
+    <Item>
+      <name>MP_M_Freemode_01</name>
+      <!-- Male -->
+      <objects>
+        <Item>
+          <!-- 000RSRanger-->
+          <localIndex value="0" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>male_apt01</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+		<Item>
+          <!-- 000beast -->
+          <localIndex value="0" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>MP_M_HTB_01</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 000pumpkin -->
+          <localIndex value="0" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+		<Item>
+          <!-- 001Zombie-->
+          <localIndex value="1" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 002burned -->
+          <localIndex value="2" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 003skin -->
+          <localIndex value="3" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_yellow</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 004Split -->
+          <localIndex value="4" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_black</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 005lycan -->
+          <localIndex value="5" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 006fly -->
+          <localIndex value="6" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_orange</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_brown</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_purple</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 007 -->
+          <localIndex value="7" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 008devil -->
+          <localIndex value="8" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_orange</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 009burlap-->
+          <localIndex value="9" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 010invader -->
+          <localIndex value="10" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>glasses_purple</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>glasses_purple</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_purple</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 011witch -->
+          <localIndex value="11" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+        <Item>
+          <!-- 012devil_hair-->
+          <localIndex value="12" />
+          <eCompType>PV_COMP_BERD</eCompType>
+          <eAnchorPoint>NUM_ANCHORS</eAnchorPoint>
+          <dlcHash>Male_freemode_halloween</dlcHash>
+          <timeCycleMods>
+            <!-- a  -->
+            <Item>
+              <textureId value="0" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+			<!-- b  -->
+            <Item>
+              <textureId value="1" />
+              <timeCycleMod>fp_vig_black</timeCycleMod>
+              <intensity value="1.0" />
+            </Item>
+            <!-- c  -->
+            <Item>
+              <textureId value="2" />
+              <timeCycleMod>glasses_red</timeCycleMod>
+              <intensity value="0.5" />
+            </Item>
+          </timeCycleMods>
+          <audioId />
+          <flags value="0" />
+          <fpsPropModel>
+          </fpsPropModel>
+          <fpsPropModelOffset x="0.000000" y="0.00000" z="-0.00000" />
+          <seWeather value="1.000000" />
+          <seEnvironment value="1.000000" />
+          <seDamage value="1.000000" />
+          <tcModFadeOffSecs value="80.0f" />
+          <tcModInterpType>FPTC_POW4</tcModInterpType>
+        </Item>
+      </objects>
+    </Item>
+    <!-- /Male Apartment Setup -->
+  </peds>
+</FirstPersonAssetDataManager>

@@ -1,0 +1,338 @@
+{
+  "version": 2,
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "native_always_on": true,
+  "native_count": 68,
+  "max_lights": 19,
+  "activation_distance": 120,
+  "lights": [
+    {
+      "id": "boost_0",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -4.800000000000001,
+        -6.4425,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 8.4,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_1",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        2.799999999999999,
+        -6.2015,
+        4.25
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 8.4,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_2",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        10.049999999999999,
+        -6.85,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_3",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        2.4499999999999993,
+        0.7499999999999999,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_4",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -6.1000000000000005,
+        6.0,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_5",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        -2.000000000000001,
+        4.196,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_6",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        0.999999999999999,
+        4.122,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 5.4,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_7",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        4.1499999999999995,
+        4.122,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_8",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        8.1,
+        4.75,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_9",
+      "kind": "ambient",
+      "level": "terreo",
+      "position": [
+        12.1,
+        4.363,
+        1.92
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_10",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -4.800000000000001,
+        3.596,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_11",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -6.800000000000001,
+        -1.3499999999999996,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_12",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        -2.8000000000000007,
+        -1.3499999999999996,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_13",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.049999999999999,
+        -9.200000000000001,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_14",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        10.049999999999999,
+        4.013000000000001,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_15",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        11.75,
+        -0.5999999999999995,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_16",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        8.1,
+        -0.5999999999999995,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_17",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        2.799999999999999,
+        -1.0999999999999996,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    },
+    {
+      "id": "boost_18",
+      "kind": "ambient",
+      "level": "superior",
+      "position": [
+        2.799999999999999,
+        3.7720000000000002,
+        5.88
+      ],
+      "rgb": [
+        255,
+        243,
+        228
+      ],
+      "range": 6.5,
+      "intensity": 0.65
+    }
+  ],
+  "description": "Permanent native lights cover all rooms. Lua only supplies an optional uniform additive boost above luzmansao 1."
+}

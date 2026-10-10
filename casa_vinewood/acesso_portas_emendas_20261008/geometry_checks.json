@@ -1,0 +1,44 @@
+{
+  "collisions": [
+    {
+      "file": "apa_ch2_09b_0.ybn",
+      "upright_faces_clipped": 7
+    },
+    {
+      "file": "ch2_09b_0.ybn",
+      "upright_faces_clipped": 7
+    },
+    {
+      "file": "hei_ch2_09b_0.ybn",
+      "upright_faces_clipped": 7
+    }
+  ],
+  "wall_caps": [
+    {
+      "lod": "0",
+      "x": 2.6,
+      "y": [
+        2.25,
+        2.35
+      ],
+      "z": [
+        -0.81,
+        2.358
+      ]
+    },
+    {
+      "lod": "0",
+      "x": 5.7,
+      "y": [
+        2.25,
+        2.35
+      ],
+      "z": [
+        -0.81,
+        2.358
+      ]
+    }
+  ],
+  "palm_removed": true,
+  "in_game_verified": false
+}

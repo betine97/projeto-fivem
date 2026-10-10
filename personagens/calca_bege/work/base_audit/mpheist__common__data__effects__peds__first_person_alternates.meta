@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FirstPersonAlternateData>
+    <alternates>
+		<Item>
+            <assetName>MP_F_Freemode_01_female_heist/jbib_016_u</assetName>
+            <alternate value="1" />
+        </Item>
+		<Item>
+            <assetName>MP_M_Freemode_01_male_heist/jbib_015_u</assetName>
+            <alternate value="1" />
+        </Item>
+    </alternates>
+</FirstPersonAlternateData>

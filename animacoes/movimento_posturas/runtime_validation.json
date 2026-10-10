@@ -1,0 +1,18 @@
+{
+  "game_tested": false,
+  "strict_native_mocks": true,
+  "checks": [
+    "crouch: unarmed/two rifles/other weapon; native WASD/aim/reload; sprint cap; missed key-up",
+    "crouch: cancellable loading and 11 exit conditions restore locomotion",
+    "36 reload/fire interruption cycles; both rifles; three postures; five pitch samples",
+    "forward/back native crawl; steer; armed upper-body overlay; shooting; reload stops movement; unarmed exit",
+    "six route failures reject movement; pending capsule polled rather than dropped",
+    "weapon/unarmed switches and C/Z ownership transitions",
+    "watchdog preserves valid 30-degree aim and repairs a persistent corrupt wrist",
+    "vertical dictionary load failure restores state and reports a useful error"
+  ],
+  "source_sha256": {
+    "prone.lua": "826b38a44232d873dbbc555c55c90795fdfc7a1f23c628782e0279bde461ea8f",
+    "posture_movement.lua": "5b45b7088da9544670bed992f8de9ccd41bfd0ca280595eb2ece1a6fc70a06b5"
+  }
+}

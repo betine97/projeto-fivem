@@ -1,0 +1,131 @@
+{
+  "installed": true,
+  "resources": [
+    "cidade_castelo_previa",
+    "cidade_castelo_livre"
+  ],
+  "changed_files": [
+    [
+      "cidade_castelo_livre",
+      "implantacao_atual.json"
+    ],
+    [
+      "cidade_castelo_livre",
+      "LEIA-ME.md"
+    ],
+    [
+      "cidade_castelo_livre",
+      "trajeto_verificacao.json"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_1.ybn"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_plot4a_d2_1.ydr"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_plot4a_d2_2.ydr"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_plot4a_d2_3.ydr"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_plot4a_ter_dcs.ydr"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_slod1_children.ydd"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_strm_0.ymap"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_45_strm_1.ymap"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\bh1_lod_45_48_children.ydd"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\hei_bh1_45_strm_0.ymap"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\hei_bh1_45_strm_1.ymap"
+    ],
+    [
+      "cidade_castelo_livre",
+      "stream\\hi@bh1_45_3.ybn"
+    ],
+    [
+      "cidade_castelo_previa",
+      "client.lua"
+    ],
+    [
+      "cidade_castelo_previa",
+      "LEIA-ME.md"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_castelo_previa.ymap"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_castelo_previa.ytyp"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_castelo_texturas.ytd"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_cobertura_arquitetura.ydr"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_conselho_arquitetura.ydr"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_conselho_detalhes.ydr"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_implantacao_arquitetura.ydr"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_suites_arquitetura.ydr"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_suites_detalhes.ydr"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_terreo_arquitetura.ydr"
+    ],
+    [
+      "cidade_castelo_previa",
+      "stream\\crf_terreo_detalhes.ydr"
+    ]
+  ],
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\castelo_rockford\\estrutura_20261008\\backup_instalacao",
+  "server_cfg_unchanged": true,
+  "live_activation_performed": false,
+  "in_game_verified": false,
+  "rotation_degrees": -30,
+  "front_turned_degrees": -90,
+  "road_width_m": 5,
+  "triangles": 75088,
+  "doors_and_unwanted_furniture_removed": true,
+  "castle_blender_source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\castelo_rockford\\estrutura_20261008\\castelo_estrutura.blend"
+}

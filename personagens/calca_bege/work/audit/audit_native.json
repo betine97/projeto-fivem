@@ -1,0 +1,348 @@
+{
+  "original_diffuse_rgb_mean": [
+    153.36522269248962,
+    13.952901780605316,
+    71.3717388510704
+  ],
+  "native_direct_mae_255": 49.517290353775024,
+  "native_against_vertically_flipped_source_mae_255": 2.5042664210001626,
+  "pixel_100_100": {
+    "source": [
+      243,
+      7,
+      105,
+      255
+    ],
+    "native": [
+      24,
+      24,
+      24,
+      255
+    ]
+  },
+  "components": {
+    "hash_976FBF04": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "head_diff_000_a_bla",
+            "bumpsampler": "head_normal_000",
+            "specsampler": "head_spec_000"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 1
+    },
+    "hash_860228B4": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "jbib_diff_001_a_uni",
+            "bumpsampler": "jbib_normal_001",
+            "specsampler": "jbib_spec_001"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 1
+    },
+    "hash_0E4F123C": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "jbib_diff_000_a_uni",
+            "bumpsampler": "jbib_normal_000",
+            "specsampler": "jbib_spec_000"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 1
+    },
+    "hash_7CEAC270": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "uppr_diff_000_a_uni",
+            "bumpsampler": "uppr_normal_000",
+            "specsampler": "uppr_spec_000"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 597401
+    },
+    "hash_A1286BE2": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "head_diff_001_a_chi",
+            "bumpsampler": "head_normal_001",
+            "specsampler": "head_spec_001"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 1
+    },
+    "hash_90C29132": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "lowr_diff_000_a_uni",
+            "bumpsampler": "lowr_normal_000",
+            "specsampler": "lowr_spec_000"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 1
+    },
+    "hash_D370CA25": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "hair_diff_001_a_chi",
+            "bumpsampler": "hair_normal_001",
+            "specsampler": "hair_spec_001"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 1
+    },
+    "hash_E439CA4F": {
+      "shaders": [
+        {
+          "preset": "ped_default.sps",
+          "textures": {},
+          "missing": []
+        },
+        {
+          "preset": "ped.sps",
+          "textures": {
+            "diffusesampler": "hair_diff_000_a_uni",
+            "bumpsampler": "hair_normal_000",
+            "specsampler": "hair_spec_000"
+          },
+          "missing": []
+        }
+      ],
+      "colors": {
+        "Colour0": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "high_triangles": 1
+    }
+  },
+  "uppr_diff_000_a_uni": {
+    "size": [
+      4096,
+      4096
+    ],
+    "compressed": true,
+    "mips": 1,
+    "fourcc": "DXT5"
+  },
+  "uppr_normal_000": {
+    "size": [
+      4096,
+      4096
+    ],
+    "compressed": true,
+    "mips": 1,
+    "fourcc": "DXT5"
+  },
+  "uppr_spec_000": {
+    "size": [
+      2048,
+      2048
+    ],
+    "compressed": true,
+    "mips": 1,
+    "fourcc": "DXT5"
+  }
+}

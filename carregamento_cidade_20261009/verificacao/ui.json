@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "cases": [
+    "frame loadingScreen encaminha callbacks ao recurso cidade_loading",
+    "100% do motor não libera nem avança o personagem",
+    "três MP3 decodificam, tocam e a playlist volta à primeira faixa",
+    "fim de música seleciona automaticamente a próxima",
+    "silêncio, volume zero/restauração, pausa e reprodução",
+    "seleção direta da playlist",
+    "falha mantém a tela e oferece nova tentativa",
+    "flags numéricas 1/0 liberam pronto e esperam o clique; zero/string não liberam",
+    "layout 1080p/720p e tela estreita sem cortar controles",
+    "clique envia uma confirmação e encerra música com fade",
+    "interface normal começa transparente e silenciosa; reproduz sobreposição que roubava cliques",
+    "transferência preserva faixa, posição, volume, silêncio e pausa; foco fica acima de outros recursos",
+    "com outras interfaces abertas, cliques pausam/trocam músicas e confirmam entrada; saída fica transparente"
+  ],
+  "tracks": [
+    {
+      "duration": 74.2975,
+      "paused": false,
+      "error": null,
+      "src": "http://127.0.0.1:62132/audio/faixa-01.mp3"
+    },
+    {
+      "duration": 118.993042,
+      "paused": false,
+      "error": null,
+      "src": "http://127.0.0.1:62132/audio/faixa-02.mp3"
+    },
+    {
+      "duration": 44.700792,
+      "paused": false,
+      "error": null,
+      "src": "http://127.0.0.1:62132/audio/faixa-03.mp3"
+    }
+  ],
+  "errors": [],
+  "in_game_verified": false
+}

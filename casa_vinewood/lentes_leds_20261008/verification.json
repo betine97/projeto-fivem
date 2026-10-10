@@ -1,0 +1,96 @@
+{
+  "passed": true,
+  "native_sources": 120,
+  "white_ceiling": 88,
+  "yellow_pendants": 9,
+  "yellow_stair_leds": 20,
+  "yellow_tv_leds": 3,
+  "checks": [
+    {
+      "model": "mansao_spot_embutido",
+      "original_meshes_preserved_except_requested_diffusers": true,
+      "collision_preserved": true,
+      "added_triangles_all_lods": 0,
+      "lens_lods_changed": 4,
+      "before_bytes": 115257,
+      "after_bytes": 115385
+    },
+    {
+      "model": "mansao_pendentes",
+      "original_meshes_preserved_except_requested_diffusers": true,
+      "collision_preserved": true,
+      "added_triangles_all_lods": 1008,
+      "lens_lods_changed": 0,
+      "before_bytes": 8052260,
+      "after_bytes": 8060685
+    },
+    {
+      "model": "mansao_spots_led",
+      "original_meshes_preserved_except_requested_diffusers": true,
+      "collision_preserved": true,
+      "added_triangles_all_lods": 0,
+      "lens_lods_changed": 0,
+      "before_bytes": 9956,
+      "after_bytes": 10395
+    },
+    {
+      "model": "mansao_tv",
+      "original_meshes_preserved_except_requested_diffusers": true,
+      "collision_preserved": true,
+      "added_triangles_all_lods": 48,
+      "lens_lods_changed": 0,
+      "before_bytes": 11910017,
+      "after_bytes": 11910259
+    }
+  ],
+  "lens_visibility_geometry": [
+    {
+      "lod": "HIGH",
+      "diameter_m": 0.10000000149011612,
+      "projected_area_m2": 0.007831569761037827,
+      "width_px_20m_1080p": 3.855999708175659,
+      "ellipse_minor_px_at_60deg": 1.9279998540878296
+    },
+    {
+      "lod": "MEDIUM",
+      "diameter_m": 0.10399999469518661,
+      "projected_area_m2": 0.008398158475756645,
+      "width_px_20m_1080p": 4.010239601135254,
+      "ellipse_minor_px_at_60deg": 2.005119800567627
+    },
+    {
+      "lod": "LOW",
+      "diameter_m": 0.10999999940395355,
+      "projected_area_m2": 0.009074999019503593,
+      "width_px_20m_1080p": 4.2415995597839355,
+      "ellipse_minor_px_at_60deg": 2.1207997798919678
+    },
+    {
+      "lod": "VERYLOW",
+      "diameter_m": 0.10999999940395355,
+      "projected_area_m2": 0.008555990643799305,
+      "width_px_20m_1080p": 4.2415995597839355,
+      "ellipse_minor_px_at_60deg": 2.1207997798919678
+    }
+  ],
+  "changed_constant_textures": [
+    "mansao_led_quente",
+    "mansao_decor_led"
+  ],
+  "other_decorative_emission_still_off": [
+    "ch2_09b_emissive_05.ydr",
+    "ch2_09b_emissive_05.ydr",
+    "ch2_09b_emissive_05.ydr",
+    "ch2_09b_emissive_05.ydr",
+    "mansao_adega_vitrines.ydr",
+    "mansao_bar_referencia.ydr",
+    "mansao_cozinha_parede.ydr",
+    "mansao_parede_aparador.ydr"
+  ],
+  "ceiling_cone_power_range_angles_unchanged": true,
+  "no_weather_or_postprocess_changes": true,
+  "no_volumes_or_coronas": true,
+  "no_script_draw_threads": true,
+  "maps_and_prop_transforms_unchanged": true,
+  "in_game_visual_verified": false
+}

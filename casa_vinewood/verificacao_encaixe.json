@@ -1,0 +1,258 @@
+{
+  "serialized_files_checked": true,
+  "collision_primitive_types_checked": [
+    "TRIANGLE",
+    "BOX",
+    "SPHERE",
+    "CAPSULE",
+    "CYLINDER"
+  ],
+  "nearby_entity_collisions_checked": [
+    "prop_skunk_bush_01",
+    "prop_bush_med_03",
+    "prop_bush_med_03",
+    "prop_bush_med_02",
+    "prop_skunk_bush_01",
+    "prop_bush_med_02",
+    "prop_plant_cane_02a",
+    "prop_pot_plant_02d",
+    "prop_alarm_02",
+    "prop_patio_lounger1",
+    "prop_patio_lounger1",
+    "prop_table_07",
+    "prop_ftowel_01",
+    "prop_ftowel_01",
+    "prop_table_06",
+    "prop_table_06_chr",
+    "prop_table_06_chr",
+    "prop_table_06_chr",
+    "prop_plant_int_02a",
+    "prop_bush_lrg_01",
+    "prop_telegwall_03a",
+    "prop_bush_med_07",
+    "prop_bush_med_07",
+    "prop_bush_med_07",
+    "prop_bush_med_07",
+    "prop_bush_med_07",
+    "prop_skunk_bush_01",
+    "prop_skunk_bush_01",
+    "prop_bush_med_02",
+    "prop_bush_med_03",
+    "prop_bush_med_02",
+    "prop_skunk_bush_01",
+    "prop_bush_med_03",
+    "prop_bush_med_03",
+    "prop_bush_med_02",
+    "prop_plant_cane_02b",
+    "prop_plant_cane_02a",
+    "prop_plant_cane_02b",
+    "prop_plant_cane_02a",
+    "prop_bush_lrg_03",
+    "prop_bush_lrg_03",
+    "prop_tree_birch_03b",
+    "prop_bush_lrg_01",
+    "prop_bush_lrg_03",
+    "prop_bush_lrg_03"
+  ],
+  "in_game_test": false,
+  "routes": {
+    "entrada_original": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_esquerda": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_direita": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_deck": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "porta_fundos": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_perto_vidro": {
+      "samples": 127,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "cozinha_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "portao_entrada_rua": {
+      "samples": 78,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "escada_completa": {
+      "samples": 124,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite closet banheiro": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "full_floor_scan": {
+    "spacing_m": 0.25,
+    "scanned": 15109,
+    "free_custom_geometry_samples": 10291,
+    "unexplained_native_obstacles": [],
+    "passed": true
+  },
+  "floor_coverage": [
+    {
+      "floor_z": -0.8,
+      "expected_m2": 499.48807999999997,
+      "missing_m2_with_2mm_quantization_tolerance": 0.0,
+      "passed": true
+    },
+    {
+      "floor_z": 2.808,
+      "expected_m2": 362.8160049999999,
+      "missing_m2_with_2mm_quantization_tolerance": 0.0,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "collision_files_checked": [
+    "apa_ch2_09b_0.ybn",
+    "apa_ch2_09b_1.ybn",
+    "apa_ch2_09b_2.ybn",
+    "apa_ch2_09b_3.ybn",
+    "ch2_09b_0.ybn",
+    "ch2_09b_1.ybn",
+    "ch2_09b_2.ybn",
+    "ch2_09b_3.ybn",
+    "hei_ch2_09b_0.ybn",
+    "hei_ch2_09b_1.ybn",
+    "hei_ch2_09b_2.ybn",
+    "hei_ch2_09b_3.ybn",
+    "hi@apa_ch2_09b_0.ybn",
+    "hi@apa_ch2_09b_1.ybn",
+    "hi@apa_ch2_09b_2.ybn",
+    "hi@apa_ch2_09b_3.ybn",
+    "hi@ch2_09b_0.ybn",
+    "hi@ch2_09b_1.ybn",
+    "hi@ch2_09b_2.ybn",
+    "hi@ch2_09b_3.ybn",
+    "hi@hei_ch2_09b_0.ybn",
+    "hi@hei_ch2_09b_1.ybn",
+    "hi@hei_ch2_09b_2.ybn",
+    "hi@hei_ch2_09b_3.ybn"
+  ]
+}

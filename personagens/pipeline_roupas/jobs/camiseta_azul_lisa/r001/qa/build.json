@@ -1,0 +1,45 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": false,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": "palette_to_rgb",
+  "shader_changes": [
+    {
+      "from": "ped_palette.sps",
+      "to": "ped.sps"
+    },
+    {
+      "from": "ped_default_palette.sps",
+      "to": "ped_default.sps"
+    }
+  ],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_camiseta_azul_lisa_r001^jbib_000_u.ydd",
+    "mp_m_freemode_01_cidade_camiseta_azul_lisa_r001^jbib_diff_000_a_uni.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "55b9ef3f388857949f88c4972febc62664608a1ab01f43438cc6866baacb546c",
+  "cache_hit": false,
+  "seconds": 0.74,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_camiseta_azul_lisa_r001^jbib_000_u.ydd": "a3bc05389de8e349cac78f534fb37c51a0213e44045e10b3bdd4c8e13f285bbe",
+    "exports\\mp_m_freemode_01_cidade_camiseta_azul_lisa_r001^jbib_diff_000_a_uni.ytd": "2a8d2c117cd00e550f6e5c69696b37d5d2027699c4d66f6c0125318f26dc593f"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "installed_models": [
+    "lab_estrutura",
+    "lab_piso",
+    "lab_equipamentos",
+    "lab_ventilacao",
+    "lab_leds",
+    "lab_vasos",
+    "lab_racks"
+  ],
+  "plants": "Previous 54 plants retained; HD conversion paused after partial bake",
+  "pending": [
+    "remaining HD plants",
+    "floor collision verification",
+    "rain protection",
+    "final visual comparison"
+  ],
+  "original_blender_preserved": true
+}

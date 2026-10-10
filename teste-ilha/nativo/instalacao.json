@@ -1,0 +1,14 @@
+{
+  "installed_at": "2026-10-09T10:16:55.057802-03:00",
+  "default_mode": "ilha",
+  "installed_resource": "server-data/resources/teste_ilha",
+  "city_mode_config": "server-data/server-cidade.cfg",
+  "spawn": {
+    "x": -441.5994254069648,
+    "y": -87.76468270902444,
+    "z": 19.15,
+    "heading": 90.0,
+    "model": "a_m_y_business_01"
+  },
+  "in_game_verified": false
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "file": "jbib_015_u.ydd",
+    "meshes": [
+      {
+        "vertices": 4,
+        "faces": 2,
+        "materials": [
+          "jbib_diff_015_a_uni"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "berd_000_u.ydd",
+    "meshes": [
+      {
+        "vertices": 4,
+        "faces": 2,
+        "materials": [
+          "berd_diff_000_a_uni"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "accs_000_u.ydd",
+    "meshes": [
+      {
+        "vertices": 286,
+        "faces": 361,
+        "materials": [
+          "accs_diff_000_a_uni"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "task_000_u.ydd",
+    "meshes": [
+      {
+        "vertices": 4,
+        "faces": 2,
+        "materials": [
+          "task_diff_000_a_uni"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "decl_000_u.ydd",
+    "meshes": [
+      {
+        "vertices": 4,
+        "faces": 2,
+        "materials": [
+          "decl_diff_000_a_uni"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "teef_015_u.ydd",
+    "meshes": [
+      {
+        "vertices": 4,
+        "faces": 2,
+        "materials": [
+          "teef_diff_015_a_uni"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "feet_005_r.ydd",
+    "meshes": [
+      {
+        "vertices": 1016,
+        "faces": 1436,
+        "materials": [
+          "feet_diff_005_a_whi"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "mp_m_freemode_01_male_freemode_beach^feet_000_r.ydd",
+    "meshes": [
+      {
+        "vertices": 1016,
+        "faces": 1436,
+        "materials": [
+          "feet_diff_000_a_whi"
+        ]
+      }
+    ]
+  }
+]

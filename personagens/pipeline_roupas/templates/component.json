@@ -1,0 +1,12 @@
+{
+  "id": "bolso_esquerdo",
+  "kind": "surface_patch",
+  "image": "bolso_recortado.png",
+  "drawable": 0,
+  "model": 0,
+  "geometry": 0,
+  "uv_rect": [0.679, 0.158, 0.811, 0.315],
+  "relief_mm": 9,
+  "region": {"side": "left", "face": "outer", "z_range_m": [-0.45, -0.05]},
+  "note": "Exemplo da última calça. Coordenadas não são universais: verificar no mapa UV da base escolhida."
+}

@@ -1,0 +1,30 @@
+const { chromium }=require('C:/Users/erons/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const fs=require('fs'),path=require('path'),http=require('http'),assert=require('assert');
+const root=path.resolve(__dirname,'..');
+const server=http.createServer((req,res)=>{let pathname=new URL(req.url,'http://localhost').pathname;const admin=pathname.startsWith('/admin/');const folder=path.join(root,'server-data/resources',admin?'cidade_admin/ui':'cidade_captura/ui');if(admin)pathname=pathname.slice(6);const file=path.resolve(folder,'.'+pathname);if(!file.startsWith(folder+path.sep)||!fs.existsSync(file)){res.writeHead(404);res.end();return;}const mime={'.html':'text/html','.css':'text/css','.js':'text/javascript','.json':'application/json','.webp':'image/webp','.png':'image/png','.svg':'image/svg+xml'};res.setHeader('Content-Type',mime[path.extname(file)]||'application/octet-stream');res.end(fs.readFileSync(file));});
+(async()=>{await new Promise(r=>server.listen(0,'127.0.0.1',r));const url=`http://127.0.0.1:${server.address().port}`;const browser=await chromium.launch({headless:true,channel:'msedge'});try{
+ const page=await browser.newPage({viewport:{width:1440,height:900}}),errors=[],calls=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.addInitScript(()=>window.GetParentResourceName=()=> 'cidade_captura');
+ await page.route('https://cidade_captura/**',async route=>{const endpoint=new URL(route.request().url()).pathname.slice(1),data=route.request().postDataJSON();calls.push({endpoint,data});await route.fulfill({contentType:'application/json',body:JSON.stringify({ok:true,message:endpoint==='save'?'Objeto marcado. Preparando imagem.':''})});});
+ await page.goto(url+'/index.html');await page.evaluate(()=>window.postMessage({type:'open'},'*'));await page.locator('#app').waitFor({state:'visible'});
+ await page.mouse.move(720,420);await page.mouse.click(720,420);await page.waitForTimeout(100);assert(calls.some(c=>c.endpoint==='cursor'));assert(calls.some(c=>c.endpoint==='pick'));
+ await page.evaluate(()=>window.postMessage({type:'selection',data:{ok:true,data:{kind:'object',name:'Banco de Los Santos',category:'Objetos de Los Santos',details:'Modelo original identificado. Dê um nome para adicionar à ilha.'}}},'*'));
+ await page.locator('#name').fill('Banco da praça');await page.locator('#save').click();await page.waitForTimeout(100);assert(calls.some(c=>c.endpoint==='save'&&c.data.name==='Banco da praça'));
+ await page.screenshot({path:path.join(__dirname,'cache/interface-selecao.png')});await page.keyboard.press('Escape');await page.waitForTimeout(100);assert(calls.some(c=>c.endpoint==='close'));
+ await page.goto(url+'/admin/index.html?preview=1&tab=cayo');await page.locator('.card.cayo').first().waitFor();const image='data:image/png;base64,'+fs.readFileSync(path.join(__dirname,'cache/verificacao-banco.png')).toString('base64');
+ await page.evaluate(image=>window.postMessage({type:'capturedCatalog',objects:[{model:'prop_bench_01a',hash:1805980844,name:'Banco da praça',category:'Objetos de Los Santos',origin:'Los Santos',image,bbMin:[-1,-.5,0],bbMax:[1,.5,1]}]},'*'),image);
+ await page.locator('#search').fill('Banco da praça');assert.equal(await page.locator('.card.cayo').count(),1);await page.locator('.card img').evaluate(i=>i.decode());assert(await page.locator('.card img').evaluate(i=>i.complete&&i.naturalWidth>0));
+ await page.screenshot({path:path.join(__dirname,'cache/interface-catalogo.png')});assert.deepEqual(errors,[]);console.log('UI_VERIFICADA seleção, nome/categoria, gravação, Esc, atualização e imagem do catálogo');
+ const captured=JSON.parse(fs.readFileSync(path.join(root,'server-data/resources/cidade_admin/data/catalogo_capturado.json'),'utf8'));
+ await page.evaluate(captured=>window.postMessage({type:'capturedCatalog',objects:captured.objects,marks:captured.marks},'*'),captured);
+ await page.getByRole('button',{name:/Meus itens capturados/}).click();
+ assert.equal(await page.locator('#count-cayo').innerText(),String(new Set([...JSON.parse(fs.readFileSync(path.join(root,'server-data/resources/cidade_admin/ui/cayo.json'),'utf8')).objects,...captured.objects].map(r=>r.model)).size));
+ assert(await page.locator('.card.cayo').count()>0);await page.locator('.card img').first().evaluate(i=>i.decode());
+ await page.screenshot({path:path.join(__dirname,'cache/interface-capturados-reais.png')});
+ // Reopening used to overwrite captures delivered before the panel opened.
+ await page.evaluate(()=>window.postMessage({type:'open',data:{catalog:{cayo:[],vehicles:[],weapons:[],npcs:[]},tab:'cayo',id:1,name:'ADM'}},'*'));
+ await page.getByRole('button',{name:/Meus itens capturados/}).click();assert(await page.locator('.card.cayo').count()>0);
+ await page.evaluate(captured=>window.postMessage({type:'open',data:{catalog:{cayo:[],vehicles:[],weapons:[],npcs:[]},captured:captured.objects.map(({image,...row})=>row),tab:'cayo',id:1,name:'ADM'}},'*'),captured);
+ await page.getByRole('button',{name:/Meus itens capturados/}).click();assert(await page.locator('.card img').first().evaluate(i=>i.src.startsWith('data:image/')));await page.locator('.card img').first().evaluate(i=>i.decode());
+ assert.deepEqual(errors,[]);console.log('CAPTURADOS_REAIS_VERIFICADOS',captured.objects.length,'deduplicação, imagens, pendências e reabertura');
+}finally{await browser.close();server.close();}})().catch(e=>{console.error(e);server.close();process.exitCode=1;});

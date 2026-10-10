@@ -1,0 +1,44 @@
+name: CI
+on:
+  pull_request:
+    branches: [main, develop]
+  push:
+    branches: [main, develop]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  checks:
+    name: validar
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: requirements-ci.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Instalar dependências de validação
+        run: python -m pip install -r requirements-ci.txt
+      - name: Testar painel, captura e editor com mocks FiveM
+        run: python tools/ci.py
+      - name: Validar Compose dev e prod sem exibir credenciais
+        env:
+          FIVEM_LICENSE_KEY: cfxk_config_validation_only
+          PANEL_ADMIN_PASSWORD: configuration-validation-only
+          CITY_API_KEY: configuration-validation-only-key-32
+          PANEL_ADMIN_SECRET: configuration-validation-only-secret-32
+          FXSERVER_ARTIFACT_URL: https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/validation/fx.tar.xz
+        run: |
+          docker compose -f compose.yaml -f compose.dev.yaml config --quiet
+          docker compose -f compose.yaml -f compose.prod.yaml config --quiet

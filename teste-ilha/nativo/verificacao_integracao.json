@@ -1,0 +1,1091 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "manual_spawn_cidade,resource=True,collision=True",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "city_mode_retains_city_spawn",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "manual_spawn_ilha,resource=True,collision=True",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "island_spawn_ilha,resource=True,collision=True",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "spawn_collision_protection_ilha,resource=True,collision=True",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "manual_spawn_ilha,resource=False,collision=True",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "missing_island_never_falls_back_to_city",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "manual_spawn_ilha,resource=True,collision=False",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "island_spawn_ilha,resource=True,collision=False",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "spawn_collision_protection_ilha,resource=True,collision=False",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "lua_syntax_client.lua",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "lua_syntax_fxmanifest.lua",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "lua_syntax_client.lua",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_city_archives_excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_city_placement_excluded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "images_include_uses_mounted_resource_uri",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "ocean_loaded_with_custom_level",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "water_resource_mount_declared",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "water_grid_clip_never_expanded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "water_native_xml_header",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "rooftop_map_blacklisted",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original_map_blacklist_excludes_authored_map",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "resource_uri_resolves_data/images.meta",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "resource_uri_resolves_data/water.xml",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "stale_world_warning_city=False,water=True,count=690",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: true | retorno=true | setores=690/690"
+    },
+    {
+      "name": "water_failure_warning_city=False,water=True,count=690",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: true | retorno=true | setores=690/690"
+    },
+    {
+      "name": "stale_world_warning_city=True,water=True,count=690",
+      "passed": true,
+      "detail": "[Teste Ilha] Mapa antigo ainda carregado! Feche completamente o FiveM e abra novamente para entrar apenas na ilha.\n[Teste Ilha] Agua nativa: true | retorno=true | setores=690/690"
+    },
+    {
+      "name": "water_failure_warning_city=True,water=True,count=690",
+      "passed": true,
+      "detail": "[Teste Ilha] Mapa antigo ainda carregado! Feche completamente o FiveM e abra novamente para entrar apenas na ilha.\n[Teste Ilha] Agua nativa: true | retorno=true | setores=690/690"
+    },
+    {
+      "name": "stale_world_warning_city=False,water=False,count=0",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: false | retorno=false | setores=0/690\n[Teste Ilha] Agua personalizada ainda nao carregou. O movimento continua liberado. F8: ilhadiag"
+    },
+    {
+      "name": "water_failure_warning_city=False,water=False,count=0",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: false | retorno=false | setores=0/690\n[Teste Ilha] Agua personalizada ainda nao carregou. O movimento continua liberado. F8: ilhadiag"
+    },
+    {
+      "name": "stale_world_warning_city=False,water=True,count=0",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: false | retorno=true | setores=0/690\n[Teste Ilha] Agua personalizada ainda nao carregou. O movimento continua liberado. F8: ilhadiag"
+    },
+    {
+      "name": "water_failure_warning_city=False,water=True,count=0",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: false | retorno=true | setores=0/690\n[Teste Ilha] Agua personalizada ainda nao carregou. O movimento continua liberado. F8: ilhadiag"
+    },
+    {
+      "name": "stale_world_warning_city=False,water=True,count=690",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: true | retorno=true | setores=690/690"
+    },
+    {
+      "name": "water_failure_warning_city=False,water=True,count=690",
+      "passed": true,
+      "detail": "[Teste Ilha] Agua nativa: true | retorno=true | setores=690/690"
+    },
+    {
+      "name": "water_waits_for_streaming_update",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "island_resource_before_spawn",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "city_maps_inactive_in_island_mode",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "default_launcher_island",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "city_mode_retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_water_bounds",
+      "passed": true,
+      "detail": 690
+    },
+    {
+      "name": "native_lods_ti_terreno_00_03",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_00_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_00_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_00_04",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_00_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_00_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_01_01",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_01_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_01_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_01_02",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_01_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_01_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_01_03",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_01_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_01_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_01_04",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_01_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_01_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_01_05",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_01_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_01_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_02_01",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_02_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_02_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_02_02",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_02_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_02_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_02_03",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_02_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_02_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_02_04",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_02_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_02_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_02_05",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_02_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_02_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_02_06",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_02_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_02_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_03_01",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_03_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_03_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_03_02",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_03_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_03_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_03_03",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_03_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_03_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_03_04",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_03_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_03_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_03_05",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_03_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_03_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_03_06",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_03_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_03_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_03_07",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_03_07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_03_07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_00",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_01",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_02",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_03",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_04",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_05",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_06",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_04_07",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_04_07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_04_07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_00",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_00",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_01",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_02",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_03",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_04",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_05",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_06",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_05_07",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_05_07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_05_07",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_06_01",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_06_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_06_01",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_06_02",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_06_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_06_02",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_06_03",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_06_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_06_03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_06_04",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_06_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_06_04",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_06_05",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_06_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_06_05",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_terreno_06_06",
+      "passed": true,
+      "detail": [
+        18432,
+        4608,
+        1152,
+        288
+      ]
+    },
+    {
+      "name": "ymap_position_ti_terreno_06_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "world_collision_dictionary_ti_terreno_06_06",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_pista",
+      "passed": true,
+      "detail": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "name": "ymap_position_ti_pista",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native_lods_ti_sinalizacao",
+      "passed": true,
+      "detail": [
+        78,
+        78,
+        78,
+        78
+      ]
+    },
+    {
+      "name": "ymap_position_ti_sinalizacao",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "all_native_positions_and_indices",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "42_world_collision_sectors",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "installed_resource_matches_package",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "in_game_verified": false
+}

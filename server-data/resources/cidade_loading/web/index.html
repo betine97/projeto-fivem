@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- A dark document canvas stays opaque in FiveM even when CSS is transparent. -->
+  <meta name="color-scheme" content="normal">
+  <script>
+    // Hide the regular NUI before its first paint; the initial loadscreen stays visible.
+    if (new URLSearchParams(location.search).has('interactive')) document.documentElement.classList.add('interactive');
+  </script>
+  <style>
+    html.interactive:not(.active),html.interactive:not(.active) body{background:transparent!important;color-scheme:normal!important}
+    html.interactive:not(.active) body{visibility:hidden;pointer-events:none}
+  </style>
+  <title>Minha Cidade · Sua história começa aqui</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="backdrop" aria-hidden="true"></div>
+  <div class="shade" aria-hidden="true"></div>
+  <header class="masthead">
+    <a class="brand" href="#" aria-label="Minha Cidade">
+      <span class="brand-mark" aria-hidden="true">MC<span></span></span>
+      <span>MINHA CIDADE<small>SUA HISTÓRIA COMEÇA AQUI</small></span>
+    </a>
+    <span class="world-label"><i></i> UM NOVO COMEÇO</span>
+  </header>
+
+  <main class="arrival">
+    <section class="welcome" aria-labelledby="status-title">
+      <div class="eyebrow"><span class="status-dot"></span><span id="status-label">CONECTANDO AO SERVIDOR</span></div>
+      <h1 id="status-title">Preparando<br>sua chegada.</h1>
+      <p id="status-detail" role="status">Enquanto o mundo carrega, escolha sua trilha sonora.</p>
+      <div class="load-meta"><span id="progress-label">Carregando o mundo</span><span id="progress-text">0%</span></div>
+      <div class="progress-track" role="progressbar" aria-label="Carregamento do servidor" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span id="progress-fill"></span></div>
+    </section>
+
+    <div class="bottom-row">
+      <section class="music-panel" aria-label="Player de música">
+        <div class="track-header">
+          <span class="track-art" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M9 18V5l11-2v13M9 8l11-2"/><ellipse cx="6" cy="18" rx="3" ry="2.5"/><ellipse cx="17" cy="16" rx="3" ry="2.5"/></svg></span>
+          <div class="track-copy"><span class="tiny-label">SUA TRILHA SONORA <span id="track-count">01 / 03</span></span><h2 id="track-title">Carregando playlist…</h2><span id="audio-status">Preparando áudio</span></div>
+          <button id="playlist-toggle" class="icon-button" aria-label="Mostrar playlist" aria-expanded="false"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/><path d="m18 16 3 2-3 2z"/></svg></button>
+        </div>
+        <div id="playlist" class="playlist" aria-label="Escolher uma música" hidden></div>
+        <div class="timeline"><span id="current-time">0:00</span><div class="track-line"><span id="track-progress"></span></div><span id="duration">--:--</span></div>
+        <div class="music-controls">
+          <button id="previous" class="icon-button" aria-label="Música anterior"><svg viewBox="0 0 24 24"><path d="M6 5v14M19 5l-11 7 11 7z"/></svg></button>
+          <button id="play" class="play-button" aria-label="Pausar música"><svg id="play-icon" viewBox="0 0 24 24"><path d="M8 5v14M16 5v14"/></svg></button>
+          <button id="next" class="icon-button" aria-label="Próxima música"><svg viewBox="0 0 24 24"><path d="M18 5v14M5 5l11 7-11 7z"/></svg></button>
+          <span class="control-divider"></span>
+          <button id="mute" class="icon-button" aria-label="Silenciar áudio" aria-pressed="false"><svg viewBox="0 0 24 24"><path d="M11 4 5 9H2v6h3l6 5zM15 8c3 2 3 6 0 8M18 5c5 4 5 10 0 14"/></svg></button>
+          <input id="volume" aria-label="Volume da música" type="range" min="0" max="100" value="35">
+          <output id="volume-value" for="volume">35%</output>
+        </div>
+      </section>
+
+      <section class="entry-panel" aria-label="Entrar no jogo">
+        <p id="entry-hint">Você decide quando entrar.</p>
+        <button id="advance" class="advance" disabled><span id="advance-label">Aguardando carregamento</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h15m-6-6 6 6-6 6"/></svg></button>
+        <button id="retry" class="retry" hidden>Tentar carregar novamente</button>
+        <small id="entry-note">O botão será liberado quando tudo estiver pronto.</small>
+      </section>
+    </div>
+  </main>
+  <footer><span>MINHA CIDADE <b>·</b> CADA ESCOLHA CONTA.</span><span id="connection-label">CARREGAMENTO EM ANDAMENTO</span></footer>
+  <audio id="music" preload="auto"></audio>
+</body>
+</html>

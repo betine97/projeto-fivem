@@ -1,0 +1,188 @@
+{
+  "arquivos": [
+    {
+      "modelo": "01_coqueiro",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_01_coqueiro.ybn",
+      "vertices": 100,
+      "triangulos": 196,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "02_imperial",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_02_imperial.ybn",
+      "vertices": 100,
+      "triangulos": 196,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "03_caneleira",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_03_caneleira.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "04_amendoeira",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_04_amendoeira.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "05_flamboyant",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_05_flamboyant.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "06_arvore_rua",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_06_arvore_rua.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "07_reseda",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_07_reseda.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "08_ipe_amarelo",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_08_ipe_amarelo.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "09_oliveira",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_09_oliveira.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "10_castanhola",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_10_castanhola.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "11_mangueira",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_11_mangueira.ybn",
+      "vertices": 354,
+      "triangulos": 632,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "12_bananeira",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_12_bananeira.ybn",
+      "vertices": 120,
+      "triangulos": 220,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "13_mangue",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_13_mangue.ybn",
+      "vertices": 462,
+      "triangulos": 824,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "14_arbusto_costeiro",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_14_arbusto_costeiro.ybn",
+      "vertices": 30,
+      "triangulos": 56,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "15_palmeira_ana",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_15_palmeira_ana.ybn",
+      "vertices": 300,
+      "triangulos": 588,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "16_palma_azul",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_16_palma_azul.ybn",
+      "vertices": 100,
+      "triangulos": 196,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "17_yucca",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_17_yucca.ybn",
+      "vertices": 64,
+      "triangulos": 112,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    },
+    {
+      "modelo": "18_cerca_viva",
+      "arquivo": "nativo/vegetacao_colisoes/pe_veg_18_cerca_viva.ybn",
+      "vertices": 30,
+      "triangulos": 56,
+      "material": "WOOD_SOLID_LARGE",
+      "reaberto": true,
+      "flags_contato": 54,
+      "folhas_colidem": false
+    }
+  ],
+  "quantidade": 18,
+  "instalado": false,
+  "validacao_no_jogo": false,
+  "observacao": "Dicionários de colisão por modelo. Precisam ser associados aos drawables/archetypes e instâncias na integração; este diretório sozinho não é um resource instalável."
+}

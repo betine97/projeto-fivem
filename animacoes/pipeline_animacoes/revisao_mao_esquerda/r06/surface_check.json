@@ -1,0 +1,59 @@
+[
+  {
+    "mesh": "SKEL_ROOT",
+    "crossing_triangle_pairs": 8,
+    "vertices_by_bone": {
+      "SKEL_L_Hand": 1,
+      "SKEL_L_Finger00": 2,
+      "SKEL_L_Finger01": 1,
+      "SKEL_L_Finger10": 1
+    },
+    "crossing_points": {
+      "SKEL_L_Hand": [
+        [
+          0.22989796102046967,
+          -0.03394078090786934,
+          -0.011136064305901527
+        ]
+      ],
+      "SKEL_L_Finger00": [
+        [
+          0.22151276469230652,
+          0.06606389582157135,
+          0.027125783264636993
+        ],
+        [
+          0.2291414439678192,
+          0.05464131757616997,
+          0.03621221333742142
+        ]
+      ],
+      "SKEL_L_Finger01": [
+        [
+          0.2433079332113266,
+          0.024696359410881996,
+          0.020350465551018715
+        ]
+      ],
+      "SKEL_L_Finger10": [
+        [
+          0.24193058907985687,
+          -0.035275332629680634,
+          -0.022840749472379684
+        ]
+      ]
+    }
+  },
+  {
+    "mesh": "SKEL_ROOT.002",
+    "crossing_triangle_pairs": 0,
+    "vertices_by_bone": {},
+    "crossing_points": {}
+  },
+  {
+    "mesh": "SKEL_ROOT.003",
+    "crossing_triangle_pairs": 0,
+    "vertices_by_bone": {},
+    "crossing_points": {}
+  }
+]

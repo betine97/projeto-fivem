@@ -1,0 +1,9 @@
+STAGE 9 — TEXTURAS DOS DUTOS RETOS
+Abra warehouse_stage9_dutos_texturizados.blend. As imagens estão incorporadas.
+Foram texturizadas somente as chapas laterais dos 17 trechos retos: dez do duto central, cinco do fundo, o trecho vertical e o conector reto inclinado.
+Cotovelos, bocais, abraçadeiras e suportes mantêm os materiais anteriores. Paredes e chão do Stage 8 foram preservados, assim como equipamentos e LEDs rosas.
+As seis referências ficam em texturas_dutos_retos. São cópias dos originais; o UV usa somente a chapa central, sem legendas nem as faixas de parafusos.
+O galvanizado levemente usado predomina, com variações localizadas dos outros cinco acabamentos. O arquivo warehouse_stage9_validacao.json relaciona cada segmento ao acabamento utilizado.
+Rugosidade e microrelevo são aproximações; as referências fornecidas não contêm mapas PBR separados.
+As prévias usam luz neutra temporária. O .blend mantém a iluminação rosa.
+Para aplicar à sua própria cena Stage 8, extraia tudo e execute aplicar_texturas_dutos_retos.py no Blender, mantendo a pasta de imagens junto ao script.

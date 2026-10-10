@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "name": "loaded",
+      "passed": true
+    },
+    {
+      "name": "late_floor",
+      "passed": true
+    },
+    {
+      "name": "missing_floor",
+      "passed": true
+    },
+    {
+      "name": "wrong_floor",
+      "passed": true
+    },
+    {
+      "name": "model_timeout",
+      "passed": true
+    },
+    {
+      "name": "prepare_error",
+      "passed": true
+    },
+    {
+      "name": "stale_camera",
+      "passed": true
+    }
+  ],
+  "uses_native_mocks": true,
+  "in_game_verified": false
+}

@@ -1,0 +1,40 @@
+{
+  "game_tested": false,
+  "masked_binary_skeleton": true,
+  "assets": {
+    "cidade_rastejar_v9_ar": {
+      "samples": 2640,
+      "max_pitch_error_degrees": 3.5527156466486076e-05,
+      "max_hand_position_error_m": 4.3901562281418546e-07,
+      "max_channel_error": 7.37607479095459e-07,
+      "clips": {
+        "bwd": {
+          "rows": 32,
+          "frames": 1408
+        },
+        "fwd": {
+          "rows": 28,
+          "frames": 1232
+        }
+      },
+      "sha256": "35287c1d5fc506b4f0a5d513154f140011975303a75b9b87f57c099e24262ba9"
+    },
+    "cidade_rastejar_v9_ak": {
+      "samples": 2640,
+      "max_pitch_error_degrees": 4.9910378550066525e-05,
+      "max_hand_position_error_m": 5.075699487403363e-07,
+      "max_channel_error": 7.37607479095459e-07,
+      "clips": {
+        "bwd": {
+          "rows": 32,
+          "frames": 1408
+        },
+        "fwd": {
+          "rows": 28,
+          "frames": 1232
+        }
+      },
+      "sha256": "2fb5aa85b5bd0acab624b01db7bfb309b1941eaae82135823f045dc3cf980b64"
+    }
+  }
+}

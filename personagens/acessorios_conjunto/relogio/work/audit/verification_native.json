@@ -1,0 +1,220 @@
+{
+  "textures": {
+    "relogio_dourado_spec": {
+      "width": 2048,
+      "height": 2048,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 1,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "relogio_dourado_normal": {
+      "width": 4096,
+      "height": 4096,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 1,
+      "embedded_in_ydd": true,
+      "in_ytd": false
+    },
+    "accs_diff_001_a_uni": {
+      "width": 4096,
+      "height": 4096,
+      "compressed": true,
+      "fourcc": "DXT5",
+      "mip_count": 1,
+      "embedded_in_ydd": false,
+      "in_ytd": true
+    }
+  },
+  "shaders": [
+    {
+      "preset": "ped_default.sps",
+      "texture_refs": {},
+      "missing": []
+    },
+    {
+      "preset": "ped.sps",
+      "texture_refs": {
+        "diffusesampler": "accs_diff_001_a_uni",
+        "bumpsampler": "relogio_dourado_normal",
+        "specsampler": "relogio_dourado_spec"
+      },
+      "missing": []
+    }
+  ],
+  "lods": {
+    "HIGH": {
+      "vertices": 70516,
+      "triangles": 75485,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 19433,
+          "max_vertex_index": 19432,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 1
+        },
+        {
+          "vertices": 21715,
+          "max_vertex_index": 21714,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 1
+        },
+        {
+          "vertices": 20514,
+          "max_vertex_index": 20513,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 1
+        },
+        {
+          "vertices": 8854,
+          "max_vertex_index": 8853,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 1
+        }
+      ]
+    },
+    "MEDIUM": {
+      "vertices": 18433,
+      "triangles": 15097,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 18433,
+          "max_vertex_index": 18432,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 1
+        }
+      ]
+    },
+    "LOW": {
+      "vertices": 6863,
+      "triangles": 4529,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 6863,
+          "max_vertex_index": 6862,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 1
+        }
+      ]
+    },
+    "VERYLOW": {
+      "vertices": 2372,
+      "triangles": 1132,
+      "colors": {
+        "Colour0": [
+          [
+            255,
+            128,
+            0,
+            255
+          ]
+        ],
+        "Colour1": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      },
+      "geometries": [
+        {
+          "vertices": 2372,
+          "max_vertex_index": 2371,
+          "bone_palette_count": 128,
+          "weight_sum_min": 255,
+          "weight_sum_max": 255,
+          "max_influences": 1
+        }
+      ]
+    }
+  },
+  "diffuse": {
+    "source_rgb_mean": [
+      221.46068388223648,
+      187.5989248752594,
+      131.95319938659668
+    ],
+    "native_rgb_mean": [
+      223.50867956876755,
+      188.10305976867676,
+      131.55491364002228
+    ],
+    "direct_mae_255": 2.0279163916905723,
+    "flipped_mae_255": 23.86521251996358,
+    "max_error_255": 84
+  },
+  "normal": {
+    "mae_against_source_green_inverted": 1.5052781701087952,
+    "mae_against_source_without_green_inverted": 2.2597826520601907
+  }
+}

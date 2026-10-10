@@ -1,0 +1,220 @@
+{
+  "passed": true,
+  "triangles": 21776,
+  "editable_parts": 149,
+  "walking_routes": {
+    "entrada_original": {
+      "samples": 31,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_esquerda": {
+      "samples": 16,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sacada_direita": {
+      "samples": 18,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_deck": {
+      "samples": 15,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "porta_fundos": {
+      "samples": 23,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_perto_vidro": {
+      "samples": 127,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "sala_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "cozinha_cruzando_poste_original": {
+      "samples": 17,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "portao_entrada_rua": {
+      "samples": 78,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "escada_completa": {
+      "samples": 124,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Escritorio": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavabo": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Despensa": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Sala TV Jogos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall para Lavanderia": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall estar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall jantar": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Hall cozinha": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Cozinha lateral": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite master lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Suite closet banheiro": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro suite acesso hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 2 fundos": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Quarto 3 frente": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Banheiro social lado hall": {
+      "samples": 12,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem entre sofa e jantar": {
+      "samples": 64,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Passagem cozinha": {
+      "samples": 84,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Volta completa da mesa": {
+      "samples": 222,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Entre jantar e cozinha": {
+      "samples": 55,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Circulacao sala ao lado do vaso": {
+      "samples": 63,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Circulacao hall escada ao lado do vaso": {
+      "samples": 33,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Corredor entre ilha e bancada": {
+      "samples": 73,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    },
+    "Acesso frente do forno": {
+      "samples": 8,
+      "blocked": [],
+      "missing_floor": [],
+      "passed": true
+    }
+  },
+  "wall_fit": true,
+  "sink_cutout": true,
+  "materials": 10,
+  "texture_mipmaps": true,
+  "original_lighting_budget_preserved": true,
+  "only_one_existing_plant_moved": true,
+  "files": {
+    "decoracao_iluminacao.json": "a8db9fa56a80511cc67eb40ebe8fe9f28b0b36628be6e81409f5ac16697e524b",
+    "iluminacao_ambiente.json": "0e3938cb6c28714a54a627fe030b6f50aece4b07555888fa6d65c3e66fb2a667",
+    "mansao_cozinha_completa.ymap": "d5f2d3adfcd933511ecea2ee5e1a07f15cc8078f9d513f150574ba154d64ec8e",
+    "mansao_cozinha_completa.ytyp": "11399afbf8a95c6b23027a62a05950fdb361346e6f1efca5c5f59ed72537709d",
+    "mansao_cozinha_parede.ydr": "fd5b8a0ee35ce1c4247f2aaf9edd81dc520bde005a31b6878d89842947278681",
+    "mansao_decoracao.ymap": "9e93e462c8e6dba8f85499e41eeba019d5f31606395c88923d6a4132f3ecf50e"
+  },
+  "in_game_verified": false
+}

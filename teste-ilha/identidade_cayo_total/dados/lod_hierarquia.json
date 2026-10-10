@@ -1,0 +1,15 @@
+{
+  "plants": 100488,
+  "hd_parent_links": 100488,
+  "cluster_drawables": 3569,
+  "far_distance_m": 8000,
+  "levels": [
+    "HD",
+    "LOD",
+    "SLOD2",
+    "SLOD3",
+    "SLOD4"
+  ],
+  "all_canopy_placements_represented": true,
+  "atlas_native_render": true
+}

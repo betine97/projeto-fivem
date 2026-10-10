@@ -1,0 +1,90 @@
+[
+  {
+    "file": "server-data\\resources\\cidade_mansao\\stream\\ch2_roads_critical_0.ymap",
+    "index": 369,
+    "model": "prop_palm_sm_01e",
+    "localPos": [
+      -20.06488037109375,
+      12.12908935546875,
+      0.5540008544921875
+    ],
+    "parent": 422
+  },
+  {
+    "file": "server-data\\resources\\cidade_mansao\\stream\\ch2_roads_critical_0.ymap",
+    "index": 371,
+    "model": "prop_palm_sm_01d",
+    "localPos": [
+      -19.14935302734375,
+      14.03387451171875,
+      -0.5480499267578125
+    ],
+    "parent": 429
+  },
+  {
+    "file": "server-data\\resources\\cidade_mansao\\stream\\ch2_roads_long_0.ymap",
+    "index": 198,
+    "model": "prop_palm_sm_01e",
+    "localPos": [
+      19.78814697265625,
+      17.53375244140625,
+      -4.5682830810546875
+    ],
+    "parent": 47
+  },
+  {
+    "file": "casa_vinewood\\work\\native\\ch2_roads.ymap",
+    "index": 40,
+    "model": "ch2_props_combo0126_11_lod",
+    "localPos": [
+      12.41876220703125,
+      16.14459228515625,
+      -1.1068572998046875
+    ],
+    "parent": 7
+  },
+  {
+    "file": "casa_vinewood\\work\\native\\ch2_roads_critical_0.ymap",
+    "index": 369,
+    "model": "prop_palm_sm_01e",
+    "localPos": [
+      -20.06488037109375,
+      12.12908935546875,
+      0.5540008544921875
+    ],
+    "parent": 423
+  },
+  {
+    "file": "casa_vinewood\\work\\native\\ch2_roads_critical_0.ymap",
+    "index": 371,
+    "model": "prop_palm_sm_01d",
+    "localPos": [
+      -19.14935302734375,
+      14.03387451171875,
+      -0.5480499267578125
+    ],
+    "parent": 430
+  },
+  {
+    "file": "casa_vinewood\\work\\native\\ch2_roads_long_0.ymap",
+    "index": 198,
+    "model": "prop_palm_sm_01e",
+    "localPos": [
+      19.78814697265625,
+      17.53375244140625,
+      -4.5682830810546875
+    ],
+    "parent": 48
+  },
+  {
+    "file": "casa_vinewood\\work\\native\\ch2_roads_long_0.ymap",
+    "index": 205,
+    "model": "prop_palm_sm_01d",
+    "localPos": [
+      12.41876220703125,
+      16.14459228515625,
+      -1.8524932861328125
+    ],
+    "parent": 40
+  }
+]

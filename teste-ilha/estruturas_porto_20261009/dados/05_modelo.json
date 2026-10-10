@@ -1,0 +1,131 @@
+{
+  "id": 5,
+  "nome": "Predio_creme_varandas",
+  "arquivo": "05_Predio_creme_varandas.blend",
+  "dimensoes": [
+    10.5,
+    8.5,
+    9.600000000000001
+  ],
+  "interiores": [
+    {
+      "pavimento": 1,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "cozinha",
+        "banheiro",
+        "armario"
+      ]
+    },
+    {
+      "pavimento": 2,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "mesa",
+        "banheiro",
+        "armario"
+      ]
+    },
+    {
+      "pavimento": 3,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "mesa",
+        "banheiro",
+        "armario"
+      ]
+    }
+  ],
+  "aberturas": [
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 5.25,
+      "largura": 1.3,
+      "z": 0,
+      "altura": 2.28
+    },
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 1.995,
+      "largura": 1.18,
+      "z": 3.2,
+      "altura": 2.35
+    },
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 5.25,
+      "largura": 1.18,
+      "z": 3.2,
+      "altura": 2.35
+    },
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 8.505,
+      "largura": 1.18,
+      "z": 3.2,
+      "altura": 2.35
+    },
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 1.995,
+      "largura": 1.18,
+      "z": 6.4,
+      "altura": 2.35
+    },
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 5.25,
+      "largura": 1.18,
+      "z": 6.4,
+      "altura": 2.35
+    },
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 8.505,
+      "largura": 1.18,
+      "z": 6.4,
+      "altura": 2.35
+    },
+    {
+      "tipo": "vao_escada",
+      "z": 3.2,
+      "limites": [
+        3.45,
+        5.01,
+        -2.6,
+        2.65
+      ]
+    },
+    {
+      "tipo": "vao_escada",
+      "z": 6.4,
+      "limites": [
+        3.45,
+        5.01,
+        -2.6,
+        2.65
+      ]
+    }
+  ],
+  "objetos": 1805,
+  "vertices": 50292,
+  "texturas_empacotadas": [
+    "Referencia_original_05"
+  ],
+  "texturas_fornecidas": {
+    "parede": 7,
+    "madeira": 1
+  },
+  "refinamento_aplicado": true,
+  "passagens_conferidas": true
+}

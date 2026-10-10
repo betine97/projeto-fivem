@@ -1,0 +1,5 @@
+<CDLCScript>
+	<startupScript>dlc_apartments</startupScript>
+	<contentHash>mpApartment</contentHash>
+	<scriptCallstackSize value="1024"/>	
+</CDLCScript>

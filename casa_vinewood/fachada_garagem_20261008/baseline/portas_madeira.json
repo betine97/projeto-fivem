@@ -1,0 +1,200 @@
+{
+  "revision": "piso-tv-portas-2026-10-07",
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "doors": [
+    {
+      "id": 1,
+      "name": "Escritorio",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        -5.624000190734863,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        -6.100000190734862,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        -6.625000190734863,
+        -5.575000190734863,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lavabo",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        -1.524000190734864,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        -2.000000190734864,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        -2.525000190734864,
+        -1.475000190734864,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Despensa",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        4.625999809265136,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        4.149999809265136,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        3.6249998092651357,
+        4.674999809265136,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sala TV Jogos",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        8.575999809265138,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        8.099999809265137,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        7.574999809265137,
+        8.624999809265137,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lavanderia",
+      "model": "mansao_porta_madeira_095",
+      "hinge": [
+        12.575999809265138,
+        2.3499996185302727,
+        -0.7850000119209289
+      ],
+      "closed_heading": 0,
+      "open_heading": -95,
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        12.099999809265137,
+        2.3499996185302727,
+        0.2499999880790711
+      ],
+      "opening_bounds": [
+        11.574999809265137,
+        12.624999809265137,
+        2.2499996185302726,
+        2.449999618530273,
+        -0.800000011920929,
+        1.699999988079071
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sacada da cozinha",
+      "model": "mansao_porta_vidro_aparador",
+      "hinge": [
+        14.168000221252441,
+        -5.676000118255615,
+        -0.7850000262260437
+      ],
+      "closed_heading": -90,
+      "open_heading": 5,
+      "width_m": 1.012,
+      "height_m": 2.427,
+      "leaf_thickness_m": 0.045,
+      "opening_center": [
+        14.168,
+        -5.17,
+        0.25
+      ],
+      "opening_bounds": [
+        14.108,
+        14.436,
+        -5.72,
+        -4.62,
+        -0.8,
+        1.7
+      ]
+    }
+  ],
+  "prototypes": [
+    {
+      "name": "mansao_porta_madeira_095",
+      "width_m": 0.946,
+      "height_m": 2.43,
+      "thickness_m": 0.045
+    },
+    {
+      "name": "mansao_porta_vidro_aparador",
+      "width_m": 1.012,
+      "height_m": 2.427,
+      "thickness_m": 0.045
+    }
+  ],
+  "reserved_entrances": [
+    "Entrada principal ao lado do deck",
+    "Porta de vidro a esquerda do sofa"
+  ],
+  "wide_arches_remain_open": true,
+  "interaction_key": "E",
+  "reference_door": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\referencia_porta.png",
+  "reference_handle": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\source_assets\\referencia_macaneta.png"
+}

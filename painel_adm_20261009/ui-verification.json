@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "checks": [
+    "Vehicle thumbnails paginated",
+    "Custom city vehicle found",
+    "Favorites persist and filter",
+    "Weapon search by native model",
+    "Invalid ammunition blocked",
+    "Custom NPC has image and model",
+    "Preview does not pretend to spawn in game",
+    "Existing object editor listed",
+    "Inactive resource execution disabled",
+    "Player actions identify permanent IDs",
+    "Player bring action available",
+    "Panel fits 1024x768",
+    "Escape closes preview",
+    "No browser script errors",
+    "NUI starts hidden without preview",
+    "Weapon callback includes model and selected ammo",
+    "Bring action sends permanent ID command",
+    "Command modal rejects injection syntax",
+    "Command modal sends valid ID",
+    "Escape requests game to release focus"
+  ],
+  "in_game_verified": false
+}

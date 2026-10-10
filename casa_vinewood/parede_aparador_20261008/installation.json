@@ -1,0 +1,21 @@
+{
+  "installed_files": {
+    "stream/mansao_parede_aparador.ydr": "3a04bc1d35998641b7531e27da28ebcf13f284c1526853c1f28016d15bab3d6c",
+    "stream/mansao_parede_aparador.ytyp": "a3ab2077046a18c2b8669438831537e8935b2e39a5f3d08647412e8fb34f62ac",
+    "stream/mansao_parede_aparador.ymap": "53d28661463819da38bce84396fded4553e6ad0f1e9b14ecbef72a0597f347e9",
+    "stream/mansao_parede_aparador.ybn": "77c556e7b9139408b6e043307f66c3beaef0863a8b6a0accf28251456b9f26bb",
+    "stream/mansao_porta_vidro_aparador.ydr": "7551dce4a6105aa932b54c4e0365e9a37da5a8fe75edb3ceb81410d2c5c7c05b",
+    "fxmanifest.lua": "56d3fdd0abf1d222e08d200b75dfa9ac6b57b79e8ac5aa4b875bb037bee41909",
+    "portas_madeira.json": "3ca6f2a195e30513d6adebfd7188bf7aea5a54faa3bd132709982b1ed4f817e8",
+    "objetos_catalogo.json": "cbd66d6a9798acc39fe70ac24cc6c2c48a0d7d53dafd382b1e80a9c80ef01615"
+  },
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\parede_aparador_20261008\\backup_preinstall\\20261008_153309_487470",
+  "unrelated_files_unchanged": 95,
+  "saved_positions_unchanged": true,
+  "previous_door_entries_preserved": true,
+  "catalog_object_positions_preserved": true,
+  "general_illumination_files_unchanged": true,
+  "requires_resource_reload": true,
+  "in_game_verified": false,
+  "installed_at": "2026-10-08T15:33:10.189883-03:00"
+}

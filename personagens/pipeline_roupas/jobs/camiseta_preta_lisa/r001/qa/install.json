@@ -1,0 +1,14 @@
+{
+  "resource": "cidade_camiseta_preta_lisa",
+  "installed": true,
+  "files_verified": {
+    "client.lua": "d098096931104bfacb9b9cf38f29fca9fc22fcee7f28b63bc07ecc79c352f2e0",
+    "data\\shop.meta": "349d09d09ee80457bdaff75e5837e49428b27a75c22b6d29d2def4bddc03c65e",
+    "fxmanifest.lua": "315158ab2800f2b53481e4eed6d5a169146d8f054aae87616d899c2efa933ae1",
+    "stream\\mp_m_freemode_01_cidade_camiseta_preta_lisa_r001.ymt": "ec202e56c1efac042e78de0329f2eb7edbfe4253bee59963bfa82639c8517d5e",
+    "stream\\mp_m_freemode_01_cidade_camiseta_preta_lisa_r001^jbib_000_u.ydd": "23952bee0c33b4a8c0814970732cc42427b877615c806775ab0c5e8a8099bb8f",
+    "stream\\mp_m_freemode_01_cidade_camiseta_preta_lisa_r001^jbib_diff_000_a_uni.ytd": "e922f251a256fbd4440c49ef47700e207b0f2c1e2d76c50a47d9d9ab0fe0c4ca"
+  },
+  "server_reload_required": true,
+  "in_game_verified": false
+}

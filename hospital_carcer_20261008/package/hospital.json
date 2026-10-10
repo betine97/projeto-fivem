@@ -1,0 +1,1191 @@
+{
+  "origin": [
+    -475.0,
+    -322.0,
+    35.2
+  ],
+  "doors": [
+    {
+      "id": 1,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -29.95,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 2,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -22.45,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 3,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -14.95,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 4,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -7.45,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 5,
+      "model": "hc_porta_clinica",
+      "pos": [
+        6.05,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 6,
+      "model": "hc_porta_clinica",
+      "pos": [
+        13.55,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 7,
+      "model": "hc_porta_clinica",
+      "pos": [
+        21.05,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 8,
+      "model": "hc_porta_clinica",
+      "pos": [
+        28.55,
+        -2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 9,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -29.95,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 10,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -22.45,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 11,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -14.95,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 12,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -7.45,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 13,
+      "model": "hc_porta_clinica",
+      "pos": [
+        6.05,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 14,
+      "model": "hc_porta_clinica",
+      "pos": [
+        13.55,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 15,
+      "model": "hc_porta_clinica",
+      "pos": [
+        21.05,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 16,
+      "model": "hc_porta_clinica",
+      "pos": [
+        28.55,
+        2,
+        0
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 17,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -29.95,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 18,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -22.45,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 19,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -14.95,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 20,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -7.45,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 21,
+      "model": "hc_porta_clinica",
+      "pos": [
+        6.05,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 22,
+      "model": "hc_porta_clinica",
+      "pos": [
+        13.55,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 23,
+      "model": "hc_porta_clinica",
+      "pos": [
+        21.05,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 24,
+      "model": "hc_porta_clinica",
+      "pos": [
+        28.55,
+        -2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 25,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -29.95,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 26,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -22.45,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 27,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -14.95,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 28,
+      "model": "hc_porta_clinica",
+      "pos": [
+        -7.45,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 29,
+      "model": "hc_porta_clinica",
+      "pos": [
+        6.05,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 30,
+      "model": "hc_porta_clinica",
+      "pos": [
+        13.55,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 31,
+      "model": "hc_porta_clinica",
+      "pos": [
+        21.05,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 32,
+      "model": "hc_porta_clinica",
+      "pos": [
+        28.55,
+        2,
+        4.4
+      ],
+      "heading": 0,
+      "width": 1.4,
+      "height": 2.65,
+      "travel": 1.45,
+      "entry": false
+    },
+    {
+      "id": 33,
+      "model": "hc_porta_entrada",
+      "pos": [
+        -2.4,
+        -22,
+        0
+      ],
+      "heading": 0,
+      "width": 2.4,
+      "height": 3.0,
+      "travel": 2.4499999999999997,
+      "entry": true,
+      "direction": -1
+    },
+    {
+      "id": 34,
+      "model": "hc_porta_entrada",
+      "pos": [
+        0,
+        -22,
+        0
+      ],
+      "heading": 0,
+      "width": 2.4,
+      "height": 3.0,
+      "travel": 2.4499999999999997,
+      "entry": true,
+      "direction": 1
+    },
+    {
+      "id": 35,
+      "model": "hc_porta_entrada",
+      "pos": [
+        -25.5,
+        -22,
+        0
+      ],
+      "heading": 0,
+      "width": 2.4,
+      "height": 3.0,
+      "travel": 2.4499999999999997,
+      "entry": true,
+      "direction": -1
+    },
+    {
+      "id": 36,
+      "model": "hc_porta_entrada",
+      "pos": [
+        -23.1,
+        -22,
+        0
+      ],
+      "heading": 0,
+      "width": 2.4,
+      "height": 3.0,
+      "travel": 2.4499999999999997,
+      "entry": true,
+      "direction": 1
+    }
+  ],
+  "rooms": [
+    {
+      "label": "TRIAGEM",
+      "level": 0,
+      "bounds": [
+        -32.8,
+        -12.8,
+        -25.7,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        -29.25,
+        -2,
+        0
+      ],
+      "center": [
+        -29.25,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "CONSULTORIO 01",
+      "level": 0,
+      "bounds": [
+        -25.3,
+        -12.8,
+        -18.2,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        -21.75,
+        -2,
+        0
+      ],
+      "center": [
+        -21.75,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "CONSULTORIO 02",
+      "level": 0,
+      "bounds": [
+        -17.8,
+        -12.8,
+        -10.7,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        -14.25,
+        -2,
+        0
+      ],
+      "center": [
+        -14.25,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "ULTRASSONOGRAFIA",
+      "level": 0,
+      "bounds": [
+        -10.3,
+        -12.8,
+        -3.2,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        -6.75,
+        -2,
+        0
+      ],
+      "center": [
+        -6.75,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "RADIOLOGIA",
+      "level": 0,
+      "bounds": [
+        3.2,
+        -12.8,
+        10.3,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        6.75,
+        -2,
+        0
+      ],
+      "center": [
+        6.75,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "TOMOGRAFIA",
+      "level": 0,
+      "bounds": [
+        10.7,
+        -12.8,
+        17.8,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        14.25,
+        -2,
+        0
+      ],
+      "center": [
+        14.25,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "LABORATORIO",
+      "level": 0,
+      "bounds": [
+        18.2,
+        -12.8,
+        25.3,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        21.75,
+        -2,
+        0
+      ],
+      "center": [
+        21.75,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "FARMACIA",
+      "level": 0,
+      "bounds": [
+        25.7,
+        -12.8,
+        32.8,
+        -2.2
+      ],
+      "z": 0,
+      "door": [
+        29.25,
+        -2,
+        0
+      ],
+      "center": [
+        29.25,
+        -7.5,
+        0
+      ]
+    },
+    {
+      "label": "OBITOS",
+      "level": 0,
+      "bounds": [
+        -32.8,
+        2.2,
+        -25.7,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        -29.25,
+        2,
+        0
+      ],
+      "center": [
+        -29.25,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "SANITARIOS",
+      "level": 0,
+      "bounds": [
+        -25.3,
+        2.2,
+        -18.2,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        -21.75,
+        2,
+        0
+      ],
+      "center": [
+        -21.75,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "ADMINISTRACAO",
+      "level": 0,
+      "bounds": [
+        -17.8,
+        2.2,
+        -10.7,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        -14.25,
+        2,
+        0
+      ],
+      "center": [
+        -14.25,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "ENFERMARIA",
+      "level": 0,
+      "bounds": [
+        -10.3,
+        2.2,
+        -3.2,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        -6.75,
+        2,
+        0
+      ],
+      "center": [
+        -6.75,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "EXAMES",
+      "level": 0,
+      "bounds": [
+        3.2,
+        2.2,
+        10.3,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        6.75,
+        2,
+        0
+      ],
+      "center": [
+        6.75,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "CONSULTORIO 01",
+      "level": 0,
+      "bounds": [
+        10.7,
+        2.2,
+        17.8,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        14.25,
+        2,
+        0
+      ],
+      "center": [
+        14.25,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "CONSULTORIO 02",
+      "level": 0,
+      "bounds": [
+        18.2,
+        2.2,
+        25.3,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        21.75,
+        2,
+        0
+      ],
+      "center": [
+        21.75,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "CONVERSAS MEDICAS",
+      "level": 0,
+      "bounds": [
+        25.7,
+        2.2,
+        32.8,
+        21.8
+      ],
+      "z": 0,
+      "door": [
+        29.25,
+        2,
+        0
+      ],
+      "center": [
+        29.25,
+        12.0,
+        0
+      ]
+    },
+    {
+      "label": "CIRURGIA 01",
+      "level": 1,
+      "bounds": [
+        -32.8,
+        -12.8,
+        -25.7,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        -29.25,
+        -2,
+        4.4
+      ],
+      "center": [
+        -29.25,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "CIRURGIA 02",
+      "level": 1,
+      "bounds": [
+        -25.3,
+        -12.8,
+        -18.2,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        -21.75,
+        -2,
+        4.4
+      ],
+      "center": [
+        -21.75,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "ESTERILIZACAO",
+      "level": 1,
+      "bounds": [
+        -17.8,
+        -12.8,
+        -10.7,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        -14.25,
+        -2,
+        4.4
+      ],
+      "center": [
+        -14.25,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "RECUPERACAO",
+      "level": 1,
+      "bounds": [
+        -10.3,
+        -12.8,
+        -3.2,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        -6.75,
+        -2,
+        4.4
+      ],
+      "center": [
+        -6.75,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "UTI",
+      "level": 1,
+      "bounds": [
+        3.2,
+        -12.8,
+        10.3,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        6.75,
+        -2,
+        4.4
+      ],
+      "center": [
+        6.75,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "RECUPERACAO",
+      "level": 1,
+      "bounds": [
+        10.7,
+        -12.8,
+        17.8,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        14.25,
+        -2,
+        4.4
+      ],
+      "center": [
+        14.25,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "REUNIAO MEDICA",
+      "level": 1,
+      "bounds": [
+        18.2,
+        -12.8,
+        25.3,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        21.75,
+        -2,
+        4.4
+      ],
+      "center": [
+        21.75,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "CONVERSAS MEDICAS",
+      "level": 1,
+      "bounds": [
+        25.7,
+        -12.8,
+        32.8,
+        -2.2
+      ],
+      "z": 4.4,
+      "door": [
+        29.25,
+        -2,
+        4.4
+      ],
+      "center": [
+        29.25,
+        -7.5,
+        4.4
+      ]
+    },
+    {
+      "label": "DESCANSO",
+      "level": 1,
+      "bounds": [
+        -32.8,
+        2.2,
+        -25.7,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        -29.25,
+        2,
+        4.4
+      ],
+      "center": [
+        -29.25,
+        12.0,
+        4.4
+      ]
+    },
+    {
+      "label": "VESTIARIO",
+      "level": 1,
+      "bounds": [
+        -25.3,
+        2.2,
+        -18.2,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        -21.75,
+        2,
+        4.4
+      ],
+      "center": [
+        -21.75,
+        12.0,
+        4.4
+      ]
+    },
+    {
+      "label": "SANITARIOS",
+      "level": 1,
+      "bounds": [
+        -17.8,
+        2.2,
+        -10.7,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        -14.25,
+        2,
+        4.4
+      ],
+      "center": [
+        -14.25,
+        12.0,
+        4.4
+      ]
+    },
+    {
+      "label": "ENFERMARIA",
+      "level": 1,
+      "bounds": [
+        -10.3,
+        2.2,
+        -3.2,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        -6.75,
+        2,
+        4.4
+      ],
+      "center": [
+        -6.75,
+        12.0,
+        4.4
+      ]
+    },
+    {
+      "label": "ENFERMARIA",
+      "level": 1,
+      "bounds": [
+        3.2,
+        2.2,
+        10.3,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        6.75,
+        2,
+        4.4
+      ],
+      "center": [
+        6.75,
+        12.0,
+        4.4
+      ]
+    },
+    {
+      "label": "UTI",
+      "level": 1,
+      "bounds": [
+        10.7,
+        2.2,
+        17.8,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        14.25,
+        2,
+        4.4
+      ],
+      "center": [
+        14.25,
+        12.0,
+        4.4
+      ]
+    },
+    {
+      "label": "ADMINISTRACAO",
+      "level": 1,
+      "bounds": [
+        18.2,
+        2.2,
+        25.3,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        21.75,
+        2,
+        4.4
+      ],
+      "center": [
+        21.75,
+        12.0,
+        4.4
+      ]
+    },
+    {
+      "label": "EQUIPE MEDICA",
+      "level": 1,
+      "bounds": [
+        25.7,
+        2.2,
+        32.8,
+        21.8
+      ],
+      "z": 4.4,
+      "door": [
+        29.25,
+        2,
+        4.4
+      ],
+      "center": [
+        29.25,
+        12.0,
+        4.4
+      ]
+    }
+  ]
+}

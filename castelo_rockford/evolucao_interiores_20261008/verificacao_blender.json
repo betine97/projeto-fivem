@@ -1,0 +1,97 @@
+{
+  "blend_reopened": true,
+  "textures_packed": true,
+  "metric_scale": true,
+  "evaluated_triangles_with_bevels": 98615,
+  "passage_checks": [
+    {
+      "route": "entrada principal",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "foyer para festas",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "foyer para cozinha",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "foyer para apoio",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "quarto funcionarios",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "suite frontal esquerda",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "suite frontal direita",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "suite fundos esquerda",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "suite fundos direita",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    },
+    {
+      "route": "acesso sala reuniao",
+      "clear": true,
+      "body_width_m": 0.6,
+      "head_height_above_floor_m": 1.8,
+      "rays": 6
+    }
+  ],
+  "floor_checks": [
+    {
+      "floor": "terreo",
+      "height_m": 0.7000000476837158,
+      "normal_up": true
+    },
+    {
+      "floor": "primeiro",
+      "height_m": 4.900000095367432,
+      "normal_up": true
+    },
+    {
+      "floor": "ultimo",
+      "height_m": 9.100000381469727,
+      "normal_up": true
+    }
+  ],
+  "actual_stair_risers_verified": 48,
+  "in_game_verified": false
+}

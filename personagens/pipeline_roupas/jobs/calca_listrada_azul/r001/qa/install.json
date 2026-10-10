@@ -1,0 +1,14 @@
+{
+  "resource": "cidade_calca_listrada_azul",
+  "installed": true,
+  "files_verified": {
+    "client.lua": "26a0f7c5d79d8cbb98607bdccfc7ef321eac2b8ad5ae1779d1f952bca1b5e948",
+    "data\\shop.meta": "2d826ee7e3da12d3265014621fd2d37be8fe5c8540feda2a6e468d79c8ff08f8",
+    "fxmanifest.lua": "e6f3c1d5aa1df10b51302dbdb090b4e6d11035ec128706b08b0612a8339def55",
+    "stream\\mp_m_freemode_01_cidade_calca_listrada_azul_r001.ymt": "1ac7769c9ed87f621e8ba0f06d3cc83a69021dd0001a325861be0f2931c35630",
+    "stream\\mp_m_freemode_01_cidade_calca_listrada_azul_r001^lowr_000_r.ydd": "65d0b37de3833d55d690c3a2172df17b9dddc4ce95e97d8dc014f9c6c528352d",
+    "stream\\mp_m_freemode_01_cidade_calca_listrada_azul_r001^lowr_diff_000_a_whi.ytd": "360ba9effdd8d6935c0bf5ff54faae7c3f0df74b2b4e575fd9d2dd91bce8171a"
+  },
+  "server_reload_required": true,
+  "in_game_verified": false
+}

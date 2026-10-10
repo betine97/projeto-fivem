@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "gate_model": "mansao_portao_subsolo",
+  "gate_hinge": [
+    9.6,
+    9.44,
+    -1.43
+  ],
+  "interaction": [
+    9.6,
+    9.44,
+    -3.0
+  ],
+  "floor_z": -4.2,
+  "ceiling_z": -1.28,
+  "parking_spaces": 2,
+  "interaction_key": "E"
+}

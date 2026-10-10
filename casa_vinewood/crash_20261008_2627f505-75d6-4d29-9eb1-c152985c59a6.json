@@ -1,0 +1,781 @@
+{
+  "dump": "2627f505-75d6-4d29-9eb1-c152985c59a6.dmp",
+  "code": "0xc0000005",
+  "address": "FiveM_b3258_GTAProcess.exe+0x5b272c",
+  "parameters": [
+    "0x0",
+    "0x2758baff9ec"
+  ],
+  "registers": {
+    "rax": "0xbf6d",
+    "rcx": "0x2758baff9ec",
+    "rdx": "0x5d0",
+    "rbx": "0x7ff76b75e100",
+    "rsp": "0xeeb217e590",
+    "rbp": "0x0",
+    "rsi": "0x1",
+    "rdi": "0xeeb217e6a0",
+    "r8": "0xffffbf6d",
+    "r9": "0x1b35",
+    "r10": "0x0",
+    "r11": "0xffffe000",
+    "r12": "0x7ff76f871ec0",
+    "r13": "0x0",
+    "r14": "0x258807dd6a0",
+    "r15": "0x0",
+    "rip": "0x7ff769cf272c"
+  },
+  "stack_candidates": [
+    [
+      0,
+      "gta-core-five.dll+0xf91f5"
+    ],
+    [
+      8,
+      "FiveM_b3258_GTAProcess.exe+0x55a555"
+    ],
+    [
+      24,
+      "FiveM_b3258_GTAProcess.exe+0x55a3b9"
+    ],
+    [
+      56,
+      "FiveM_b3258_GTAProcess.exe+0x24342b"
+    ],
+    [
+      144,
+      "gta-core-five.dll+0xf91f5"
+    ],
+    [
+      152,
+      "FiveM_b3258_GTAProcess.exe+0x5b893b"
+    ],
+    [
+      256,
+      "gta-core-five.dll+0xf91f5"
+    ],
+    [
+      264,
+      "gta-core-five.dll+0x8902f"
+    ],
+    [
+      288,
+      "gta-core-five.dll+0xf91f5"
+    ],
+    [
+      312,
+      "gta-core-five.dll+0x8902f"
+    ],
+    [
+      320,
+      "gta-core-five.dll+0xf91f5"
+    ],
+    [
+      336,
+      "gta-core-five.dll+0xf91f5"
+    ],
+    [
+      344,
+      "gta-core-five.dll+0xf91f5"
+    ],
+    [
+      360,
+      "gta-core-five.dll+0x8980f"
+    ],
+    [
+      392,
+      "FiveM_b3258_GTAProcess.exe+0x6131ec0"
+    ],
+    [
+      408,
+      "FiveM_b3258_GTAProcess.exe+0x28340"
+    ],
+    [
+      416,
+      "FiveM_b3258_GTAProcess.exe+0x1f66b01"
+    ],
+    [
+      424,
+      "FiveM_b3258_GTAProcess.exe+0x201d0a0"
+    ],
+    [
+      456,
+      "FiveM_b3258_GTAProcess.exe+0x21a2b"
+    ],
+    [
+      464,
+      "FiveM_b3258_GTAProcess.exe+0x1f66bc0"
+    ],
+    [
+      504,
+      "FiveM_b3258_GTAProcess.exe+0x1643abc"
+    ],
+    [
+      552,
+      "FiveM_b3258_GTAProcess.exe+0x1494"
+    ],
+    [
+      600,
+      "gta-core-five.dll+0x8851e"
+    ],
+    [
+      632,
+      "FiveM_b3258_GTAProcess.exe+0x1a04f60"
+    ],
+    [
+      648,
+      "FiveM_b3258_GTAProcess.exe+0x183a590"
+    ],
+    [
+      712,
+      "FiveM_b3258_GTAProcess.exe+0x61760ce"
+    ],
+    [
+      728,
+      "FiveM_b3258_GTAProcess.exe+0x183a44c"
+    ],
+    [
+      904,
+      "FiveM_b3258_GTAProcess.exe+0x0"
+    ],
+    [
+      920,
+      "FiveM_b3258_GTAProcess.exe+0x183a44c"
+    ],
+    [
+      928,
+      "FiveM_b3258_GTAProcess.exe+0x6174600"
+    ],
+    [
+      936,
+      "FiveM_b3258_GTAProcess.exe+0x61745e0"
+    ],
+    [
+      1528,
+      "FiveM_b3258_GTAProcess.exe+0x0"
+    ],
+    [
+      1560,
+      "FiveM_b3258_GTAProcess.exe+0x6131ec0"
+    ],
+    [
+      1592,
+      "FiveM_b3258_GTAProcess.exe+0x619788e"
+    ],
+    [
+      1640,
+      "FiveM_b3258_GTAProcess.exe+0x6199df0"
+    ],
+    [
+      1648,
+      "FiveM_b3258_GTAProcess.exe+0x6132d18"
+    ],
+    [
+      1656,
+      "FiveM_b3258_GTAProcess.exe+0x6132d18"
+    ],
+    [
+      1728,
+      "FiveM_b3258_GTAProcess.exe+0x6132d50"
+    ],
+    [
+      1824,
+      "FiveM_b3258_GTAProcess.exe+0x6131ec0"
+    ],
+    [
+      1952,
+      "FiveM_b3258_GTAProcess.exe+0x6132d50"
+    ],
+    [
+      2400,
+      "FiveM_b3258_GTAProcess.exe+0x6132a20"
+    ],
+    [
+      2408,
+      "FiveM_b3258_GTAProcess.exe+0x6132a40"
+    ],
+    [
+      2416,
+      "FiveM_b3258_GTAProcess.exe+0x6132a58"
+    ],
+    [
+      2424,
+      "FiveM_b3258_GTAProcess.exe+0x6132a78"
+    ]
+  ],
+  "register_memory": {
+    "rax": "",
+    "rcx": "",
+    "rdx": "",
+    "rbx": "",
+    "rbp": "",
+    "rsi": "",
+    "rdi": "0000000001000000a06d4e8c59020000f591c3d2fc7f00000200000000000000706d4e8c590200002f90bcd2fc7f0000f591c3d2fc7f00000200000000000000",
+    "r8": "",
+    "r9": "",
+    "r10": "",
+    "r11": "",
+    "r12": "",
+    "r13": "",
+    "r14": "000000000000000000000000000000000000000000000000ffffffff0000000000000000000000000000000000000000ffffffffffffffffffffffff00000000",
+    "r15": ""
+  },
+  "code_bytes": "29f3440f117104f30f11410cb001e96efffffff3410f58d60f2fd373efe95dffffff0f2ffe72ece94affffff4883ec180fbf010f28e10f293424660f6ec00f28f30f5bc00f2fe0726d0fbf4104660f6ec00f5bc00f2fe0775d0fbf4102660f6ec00f5bc00f2fd0724d0fbf4106660f6ec00f5bc00f2fd0773d488b442440f30f",
+  "stack_raw": [
+    {
+      "offset": 0,
+      "value": "0x7ffcd2c391f5",
+      "symbol": "gta-core-five.dll+0xf91f5",
+      "pointee": ""
+    },
+    {
+      "offset": 8,
+      "value": "0x7ff769c9a555",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x55a555",
+      "pointee": ""
+    },
+    {
+      "offset": 16,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 24,
+      "value": "0x7ff769c9a3b9",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x55a3b9",
+      "pointee": ""
+    },
+    {
+      "offset": 32,
+      "value": "0x2",
+      "symbol": "0x2",
+      "pointee": ""
+    },
+    {
+      "offset": 40,
+      "value": "0x2598c4e6da0",
+      "symbol": "0x2598c4e6da0",
+      "pointee": ""
+    },
+    {
+      "offset": 48,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 56,
+      "value": "0x7ff76998342b",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x24342b",
+      "pointee": ""
+    },
+    {
+      "offset": 64,
+      "value": "0xeeb217e6a0",
+      "symbol": "0xeeb217e6a0",
+      "pointee": "0000000001000000a06d4e8c59020000f591c3d2fc7f00000200000000000000706d4e8c590200002f90bcd2fc7f0000f591c3d2fc7f00000200000000000000"
+    },
+    {
+      "offset": 72,
+      "value": "0x40c00000",
+      "symbol": "0x40c00000",
+      "pointee": ""
+    },
+    {
+      "offset": 80,
+      "value": "0x41a00000",
+      "symbol": "0x41a00000",
+      "pointee": ""
+    },
+    {
+      "offset": 88,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 96,
+      "value": "0xbd08cbf6bd08cbf6",
+      "symbol": "0xbd08cbf6bd08cbf6",
+      "pointee": ""
+    },
+    {
+      "offset": 104,
+      "value": "0x7ff7bf6d5bc8",
+      "symbol": "0x7ff7bf6d5bc8",
+      "pointee": ""
+    },
+    {
+      "offset": 112,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 120,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 128,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 136,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 144,
+      "value": "0x7ffcd2c391f5",
+      "symbol": "gta-core-five.dll+0xf91f5",
+      "pointee": ""
+    },
+    {
+      "offset": 152,
+      "value": "0x7ff769cf893b",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x5b893b",
+      "pointee": ""
+    },
+    {
+      "offset": 160,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 168,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 176,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 184,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 192,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 200,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 208,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 216,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 224,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 232,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 240,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 248,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 256,
+      "value": "0x7ffcd2c391f5",
+      "symbol": "gta-core-five.dll+0xf91f5",
+      "pointee": ""
+    },
+    {
+      "offset": 264,
+      "value": "0x7ffcd2bc902f",
+      "symbol": "gta-core-five.dll+0x8902f",
+      "pointee": ""
+    },
+    {
+      "offset": 272,
+      "value": "0x100000000",
+      "symbol": "0x100000000",
+      "pointee": ""
+    },
+    {
+      "offset": 280,
+      "value": "0x2598c4e6da0",
+      "symbol": "0x2598c4e6da0",
+      "pointee": ""
+    },
+    {
+      "offset": 288,
+      "value": "0x7ffcd2c391f5",
+      "symbol": "gta-core-five.dll+0xf91f5",
+      "pointee": ""
+    },
+    {
+      "offset": 296,
+      "value": "0x2",
+      "symbol": "0x2",
+      "pointee": ""
+    },
+    {
+      "offset": 304,
+      "value": "0x2598c4e6d70",
+      "symbol": "0x2598c4e6d70",
+      "pointee": ""
+    },
+    {
+      "offset": 312,
+      "value": "0x7ffcd2bc902f",
+      "symbol": "gta-core-five.dll+0x8902f",
+      "pointee": ""
+    },
+    {
+      "offset": 320,
+      "value": "0x7ffcd2c391f5",
+      "symbol": "gta-core-five.dll+0xf91f5",
+      "pointee": ""
+    },
+    {
+      "offset": 328,
+      "value": "0x2",
+      "symbol": "0x2",
+      "pointee": ""
+    },
+    {
+      "offset": 336,
+      "value": "0x7ffcd2c391f5",
+      "symbol": "gta-core-five.dll+0xf91f5",
+      "pointee": ""
+    },
+    {
+      "offset": 344,
+      "value": "0x7ffcd2c391f5",
+      "symbol": "gta-core-five.dll+0xf91f5",
+      "pointee": ""
+    },
+    {
+      "offset": 352,
+      "value": "0x2598c4e43d0",
+      "symbol": "0x2598c4e43d0",
+      "pointee": ""
+    },
+    {
+      "offset": 360,
+      "value": "0x7ffcd2bc980f",
+      "symbol": "gta-core-five.dll+0x8980f",
+      "pointee": ""
+    },
+    {
+      "offset": 368,
+      "value": "0x2598c4edb40",
+      "symbol": "0x2598c4edb40",
+      "pointee": ""
+    },
+    {
+      "offset": 376,
+      "value": "0x258807dd6a0",
+      "symbol": "0x258807dd6a0",
+      "pointee": "000000000000000000000000000000000000000000000000ffffffff0000000000000000000000000000000000000000ffffffffffffffffffffffff00000000"
+    },
+    {
+      "offset": 384,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 392,
+      "value": "0x7ff76f871ec0",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x6131ec0",
+      "pointee": ""
+    },
+    {
+      "offset": 400,
+      "value": "0xffffffff",
+      "symbol": "0xffffffff",
+      "pointee": ""
+    },
+    {
+      "offset": 408,
+      "value": "0x7ff769768340",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x28340",
+      "pointee": ""
+    },
+    {
+      "offset": 416,
+      "value": "0x7ff76b6a6b01",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x1f66b01",
+      "pointee": ""
+    },
+    {
+      "offset": 424,
+      "value": "0x7ff76b75d0a0",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x201d0a0",
+      "pointee": ""
+    },
+    {
+      "offset": 432,
+      "value": "0x7ffce0e99880",
+      "symbol": "CitizenGame.dll+0x39880",
+      "pointee": ""
+    },
+    {
+      "offset": 440,
+      "value": "0xffffffff",
+      "symbol": "0xffffffff",
+      "pointee": ""
+    },
+    {
+      "offset": 448,
+      "value": "0x2",
+      "symbol": "0x2",
+      "pointee": ""
+    },
+    {
+      "offset": 456,
+      "value": "0x7ff769761a2b",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x21a2b",
+      "pointee": ""
+    },
+    {
+      "offset": 464,
+      "value": "0x7ff76b6a6bc0",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x1f66bc0",
+      "pointee": ""
+    },
+    {
+      "offset": 472,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 480,
+      "value": "0x7ffd51e912f0",
+      "symbol": "kernel32.dll+0x412f0",
+      "pointee": ""
+    },
+    {
+      "offset": 488,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 496,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 504,
+      "value": "0x7ff76ad83abc",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x1643abc",
+      "pointee": ""
+    },
+    {
+      "offset": 512,
+      "value": "0x258837bbdb0",
+      "symbol": "0x258837bbdb0",
+      "pointee": "88ba9b8afc7f000030000000000000004103000000000000d033ce80580200007890e08afc7f00007890e08afc7f00007890e08afc7f0000b0bd7b8358020000"
+    },
+    {
+      "offset": 520,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 528,
+      "value": "0xeeb217e960",
+      "symbol": "0xeeb217e960",
+      "pointee": "0000000000000000000000000000000000809150fd7f000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "offset": 536,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 544,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 552,
+      "value": "0x7ff769741494",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x1494",
+      "pointee": ""
+    },
+    {
+      "offset": 560,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 568,
+      "value": "0xeeb217e960",
+      "symbol": "0xeeb217e960",
+      "pointee": "0000000000000000000000000000000000809150fd7f000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "offset": 576,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 584,
+      "value": "0x7ffce0e99880",
+      "symbol": "CitizenGame.dll+0x39880",
+      "pointee": ""
+    },
+    {
+      "offset": 592,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 600,
+      "value": "0x7ffcd2bc851e",
+      "symbol": "gta-core-five.dll+0x8851e",
+      "pointee": ""
+    },
+    {
+      "offset": 608,
+      "value": "0x7ff700000001",
+      "symbol": "0x7ff700000001",
+      "pointee": ""
+    },
+    {
+      "offset": 616,
+      "value": "0x25883af1d40",
+      "symbol": "0x25883af1d40",
+      "pointee": ""
+    },
+    {
+      "offset": 624,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 632,
+      "value": "0x7ff76b144f60",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x1a04f60",
+      "pointee": ""
+    },
+    {
+      "offset": 640,
+      "value": "0x1",
+      "symbol": "0x1",
+      "pointee": ""
+    },
+    {
+      "offset": 648,
+      "value": "0x7ff76af7a590",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x183a590",
+      "pointee": ""
+    },
+    {
+      "offset": 656,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 664,
+      "value": "0xeeb217e960",
+      "symbol": "0xeeb217e960",
+      "pointee": "0000000000000000000000000000000000809150fd7f000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "offset": 672,
+      "value": "0x7ffce0e99880",
+      "symbol": "CitizenGame.dll+0x39880",
+      "pointee": ""
+    },
+    {
+      "offset": 680,
+      "value": "0x7ffce0e99880",
+      "symbol": "CitizenGame.dll+0x39880",
+      "pointee": ""
+    },
+    {
+      "offset": 688,
+      "value": "0x0",
+      "symbol": "0x0",
+      "pointee": ""
+    },
+    {
+      "offset": 696,
+      "value": "0x258807dd6a0",
+      "symbol": "0x258807dd6a0",
+      "pointee": "000000000000000000000000000000000000000000000000ffffffff0000000000000000000000000000000000000000ffffffffffffffffffffffff00000000"
+    },
+    {
+      "offset": 704,
+      "value": "0x258cffc6040",
+      "symbol": "0x258cffc6040",
+      "pointee": ""
+    },
+    {
+      "offset": 712,
+      "value": "0x7ff76f8b60ce",
+      "symbol": "FiveM_b3258_GTAProcess.exe+0x61760ce",
+      "pointee": ""
+    },
+    {
+      "offset": 720,
+      "value": "0x7ff700000000",
+      "symbol": "0x7ff700000000",
+      "pointee": ""
+    }
+  ],
+  "mansion_hashes_in_register_memory": [],
+  "possible_entity_definition": {
+    "archetype_hash": "0x0",
+    "position": [
+      0.0,
+      0.0,
+      NaN
+    ]
+  }
+}

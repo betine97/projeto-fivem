@@ -1,0 +1,9 @@
+{
+  "mock_only": true,
+  "game_tested": false,
+  "old_v7_coroutine_crash_reproduced": true,
+  "shoot_kneel_stand_reenter_prone_cycles": 60,
+  "cleanup_exceptions_survived": 30,
+  "native_ik_restored": true,
+  "unknown_native_stubs_forbidden": true
+}

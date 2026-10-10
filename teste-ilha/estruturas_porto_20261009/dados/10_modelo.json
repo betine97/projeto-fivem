@@ -1,0 +1,47 @@
+{
+  "id": 10,
+  "nome": "Galpao_oficina",
+  "arquivo": "10_Galpao_oficina.blend",
+  "dimensoes": [
+    12,
+    16,
+    5.2
+  ],
+  "interiores": [
+    {
+      "pavimento": 1,
+      "uso": "oficina_armazem",
+      "itens": [
+        "bancada",
+        "ferramentas",
+        "caixotes",
+        "mezanino",
+        "escada",
+        "estantes"
+      ]
+    }
+  ],
+  "aberturas": [
+    {
+      "tipo": "vao_escada_mezanino",
+      "z": 2.84,
+      "limites": [
+        -5.7,
+        -4.36,
+        4.3,
+        6.7
+      ]
+    }
+  ],
+  "objetos": 459,
+  "vertices": 16944,
+  "texturas_empacotadas": [
+    "Referencia_original_10"
+  ],
+  "texturas_fornecidas": {
+    "parede": null,
+    "madeira": null
+  },
+  "refinamento_aplicado": true,
+  "passagens_conferidas": true
+}

@@ -1,0 +1,14 @@
+STAGE 8 — PAREDES E CHÃO
+
+Abra warehouse_stage8_parede_chao.blend: as seis imagens estão incorporadas ao arquivo.
+Somente os materiais e UVs das paredes, acabamentos de concreto das paredes e piso foram alterados. A geometria, os equipamentos e as LEDs rosas foram preservados.
+
+A pasta texturas_parede_chao contém cópias das seis referências originais. Bordas e legendas são excluídas pelo mapeamento nos materiais; os arquivos originais não foram recortados nem ampliados artificialmente.
+
+As três variações de cada superfície são combinadas por manchas graduais. A projeção usa coordenadas comuns do galpão para manter continuidade entre os trechos de parede. A repetição espelhada reduz emendas.
+
+A rugosidade e o microrelevo são aproximações do material. As imagens enviadas não incluem mapas PBR separados e possuem iluminação incorporada, especialmente o chão desgastado.
+
+warehouse_stage8_texturas_preview.png usa iluminação neutra temporária, exclusivamente para conferir as texturas. O .blend mantém a iluminação rosa original. Use Rendered para enxergar as imagens aplicadas; o modo Solid não mostra os materiais completos.
+
+Para aplicar à sua cena Stage 7, extraia o pacote inteiro e execute aplicar_texturas_parede_chao.py no editor de texto do Blender. Mantenha a pasta texturas_parede_chao junto ao script. Guarde uma cópia antes de reconstruir o ambiente com scripts antigos, pois eles recriam os materiais.

@@ -1,0 +1,26 @@
+{
+  "character": "mp_m_freemode_01",
+  "variant": "head 000 / uppr 015 / lowr 014 / feet 005",
+  "units": "1 Blender unit = 1 metre",
+  "height_cm": 181.8,
+  "rest_pose_hand_span_cm": 118.5,
+  "shoulder_joint_span_cm": 39.9,
+  "arm_joint_chain_cm": 53.3,
+  "chest_section": {
+    "perimeter_cm": 107.7,
+    "width_cm": 37.4,
+    "depth_cm": 26.7,
+    "z_original_m": 0.32,
+    "height_from_soles_cm": 132.2
+  },
+  "abdomen_section": {
+    "perimeter_cm": 91.3,
+    "width_cm": 32.0,
+    "depth_cm": 22.8,
+    "z_original_m": 0.08,
+    "height_from_soles_cm": 108.2
+  },
+  "floor_z_original_m": -1.0020281076431274,
+  "head_top_z_original_m": 0.8160468339920044,
+  "note": "Sections at fixed Z in original rest pose. Lower pelvis is covered by original shorts; no nude hip circumference inferred. Shoulder measure is between joints, not outer skin."
+}

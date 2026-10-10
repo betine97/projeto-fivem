@@ -1,0 +1,14 @@
+{
+  "python": "C:/Python313/python.exe",
+  "blender": "C:/Program Files/Blender Foundation/Blender 5.2/blender.exe",
+  "game": "C:/Program Files (x86)/Steam/steamapps/common/Grand Theft Auto V",
+  "native_dependencies": [
+    "laboratorio_fivem/work/pydeps",
+    "C:/Users/erons/Documents/Codex/2026-10-02/projeto-fivem-3d/work/deps"
+  ],
+  "sollumz": "C:/Users/erons/Documents/Codex/2026-10-02/projeto-fivem-3d/work/sollumz",
+  "catalog": "server-data/resources/cidade_acervo/catalog.json",
+  "tags": "server-data/resources/cidade_acervo/tags.json",
+  "inventory": "personagens/catalogo_nativo/inventory.json",
+  "limits": {"extra_triangles_high": 1500, "max_relief_mm": 25, "max_texture_size": 2048}
+}

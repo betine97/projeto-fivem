@@ -1,0 +1,86 @@
+{
+  "paths": {
+    "model": "source\\lowr_001_r.ydd",
+    "texture": "source\\lowr_diff_001_a_whi.ytd",
+    "rig": "source\\mp_m_freemode_01.yft"
+  },
+  "archives": {
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Grand Theft Auto V\\x64v.rpf": [
+      1942046720,
+      1790893001481090600
+    ]
+  },
+  "geometry": [
+    {
+      "drawable": "hash_AD5B91CF",
+      "lod": 0,
+      "model": 0,
+      "geometry": 0,
+      "signature": "5c72d586c641e88ff4a22d77f543412f3062df21ba0139e47b51c1686c0b66de",
+      "vertices": 1339,
+      "triangles": 1914
+    },
+    {
+      "drawable": "hash_AD5B91CF",
+      "lod": 1,
+      "model": 0,
+      "geometry": 0,
+      "signature": "4f4cc395867efc776b42b77d58afbe9859b574f9cb05dce885801581075732e9",
+      "vertices": 455,
+      "triangles": 502
+    },
+    {
+      "drawable": "hash_AD5B91CF",
+      "lod": 2,
+      "model": 0,
+      "geometry": 0,
+      "signature": "28032d27ba183f444676c7f0d40c7f2e2f77c00bd8b0cd1746244862908a9ba9",
+      "vertices": 49,
+      "triangles": 64
+    }
+  ],
+  "coordinates": {
+    "left": "+X",
+    "front": "-Y",
+    "up": "+Z",
+    "origin": "native pelvis",
+    "unit": "metre"
+  },
+  "textures": [
+    "lowr_diff_001_a_whi",
+    "lowr_spec_001",
+    "lowr_normal_001"
+  ],
+  "archive_sources": {
+    "model": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/lowr_001_r.ydd",
+    "texture": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/lowr_diff_001_a_whi.ytd"
+  },
+  "version": 1,
+  "item": {
+    "id": "8552b45e2ad8",
+    "sex": "male",
+    "category": "lowr",
+    "title": "Calças e shorts",
+    "collection": "mp_m_freemode_01",
+    "collectionLabel": "Jogo base",
+    "index": 1,
+    "file": "lowr_001_r.ydd",
+    "textureCount": 16,
+    "textureFile": "lowr_diff_001_a_whi.ytd",
+    "triangles": 1914,
+    "image": "previews/8552b45e2ad8.webp",
+    "back": "previews/8552b45e2ad8-back.webp",
+    "textureIndex": 0
+  },
+  "backend_sha256": "57d5a3014ee17794e9f48e207330959ab5b724c40fccb3ec635b550ca9233ff8",
+  "inventory_sha256": "9cb9023613c43f5f133d2610600e42b308b00ade6d970aa6639022d24925180c",
+  "files": {
+    "source\\lowr_001_r.ydd": "6a5f06accc844ed6965a40aadfa0cbcfa8be014497ef09ccf54364d679b524db",
+    "source\\lowr_diff_001_a_whi.ytd": "ac8737ff73eaca037a6efe452a3616826bba8ff3480a0aa55c8c3ccb6b1e0d55",
+    "source\\mp_m_freemode_01.yft": "6675cbf88db5a75f600b1b9c91dd985d45571c5105566c577e61fe874fb34fed",
+    "source\\textures\\lowr_diff_001_a_whi.dds": "868369004230a742459fbb6418cf7f3a82da51535b9661e5483df89bb8b3258a",
+    "source\\textures\\lowr_normal_001.dds": "fd9ed75eea0cb4aa900df017c9fe4f083d872cf25bc44cca22fac9e078e0759b",
+    "source\\textures\\lowr_spec_001.dds": "5cf20788699e3cdf2621aea0cfeeb63b908af15ef5e84e2a90370b0b05ffa20e",
+    "uv_regions.png": "879025e14c4ab0d880078d253b407dba42528e7093559578672149087651f428"
+  }
+}

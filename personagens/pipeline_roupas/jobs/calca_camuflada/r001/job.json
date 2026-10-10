@@ -1,0 +1,32 @@
+{
+  "pipeline_version": 1,
+  "name": "calca_camuflada",
+  "revision": "r001",
+  "base_id": "8552b45e2ad8",
+  "base_manifest_sha256": "af7b451506806369279c5315d5eeedb063cd454138b94ac6061b3266be4d22b7",
+  "reference_image": "codex-clipboard-ce96288e-d17f-4c2e-aad1-950d2f24f3dd.png",
+  "material": {
+    "albedo_atlas": "atlas_calca.png",
+    "preserve_native_normal_specular": true
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_calca_camuflada_r001",
+    "prefix": "mp_m_freemode_01_cidade_calca_camuflada_r001",
+    "local_index": 0
+  },
+  "review": {
+    "positions": true,
+    "appearance": true,
+    "in_game": false
+  },
+  "notes": [
+    "Same approved native lowr_001_r base as the previous washed jeans. Original mesh, UV, skinning, LODs and normal/specular maps preserved.",
+    "Front image registered to native silhouette. Supplied waist, leg and cuff panels contribute to corresponding regions; back structure follows native pockets/seams because no back reference was supplied.",
+    "No extra pockets, straps or physics required by this reference. Original cuff skin regions retained; component 4 only."
+  ],
+  "display_title": "Calça camuflada",
+  "pattern_scale": 3.6
+}

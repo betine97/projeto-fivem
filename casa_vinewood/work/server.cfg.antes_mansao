@@ -1,0 +1,38 @@
+# Ambiente individual de desenvolvimento, acessivel apenas neste computador.
+endpoint_add_tcp "127.0.0.1:30120"
+endpoint_add_udp "127.0.0.1:30120"
+sv_hostname "Minha Cidade | Desenvolvimento"
+sets sv_projectName "Minha Cidade"
+sets sv_projectDesc "Cidade propria em desenvolvimento"
+sets locale "pt-BR"
+sv_maxclients 1
+sv_scriptHookAllowed 0
+sv_master1 ""
+set onesync on
+exec secrets.cfg
+
+ensure spawnmanager
+ensure cidade_core
+ensure cidade_roupas
+ensure cidade_acervo
+ensure fpv_drone_runtime
+ensure cidade_nightvision
+ensure cidade_laboratorio
+ensure cidade_west_texas
+ensure cidade_jeans_washed
+
+ensure cidade_camiseta_preta_lisa
+
+ensure cidade_camiseta_preta_listrada
+
+ensure cidade_camiseta_bege_lisa
+
+ensure cidade_camiseta_azul_lisa
+
+ensure cidade_calca_camuflada
+
+ensure cidade_calca_listrada_azul
+
+ensure cidade_jeans_rasgado
+
+ensure cidade_jeans_chamas

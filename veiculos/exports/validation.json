@@ -1,0 +1,7 @@
+{
+  "model": "sertao",
+  "native_yft_readback": true,
+  "custom_meshes": 288,
+  "turret_functional": false,
+  "in_game_validated": false
+}

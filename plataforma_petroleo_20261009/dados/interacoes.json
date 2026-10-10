@@ -1,0 +1,207 @@
+{
+  "coordinate_system": "local Blender, metres, Z up; transform on installation",
+  "stations": [
+    {
+      "id": "embarque",
+      "label": "Embarque de tripulacao",
+      "position": [
+        27,
+        -35,
+        4.6
+      ],
+      "radius": 1.8,
+      "role": "transporte",
+      "step": "chegada",
+      "controls": [
+        "interagir"
+      ]
+    },
+    {
+      "id": "extracao_painel",
+      "label": "1. Preparar e acionar a extracao",
+      "position": [
+        7,
+        -2.1,
+        27
+      ],
+      "radius": 1.8,
+      "role": "operador",
+      "step": "extracao_1",
+      "controls": [
+        "regular_valvulas",
+        "acionar_bomba",
+        "parada_emergencia"
+      ]
+    },
+    {
+      "id": "extracao_amostra",
+      "label": "2. Coletar e separar o lote",
+      "position": [
+        10,
+        -9,
+        21
+      ],
+      "radius": 1.8,
+      "role": "operador",
+      "step": "extracao_2",
+      "controls": [
+        "coletar_amostra",
+        "regular_separacao",
+        "aceitar_lote"
+      ]
+    },
+    {
+      "id": "refino_console",
+      "label": "Receita e regulagem do refino",
+      "position": [
+        12,
+        -15,
+        27
+      ],
+      "radius": 1.8,
+      "role": "refinador",
+      "step": "refino",
+      "controls": [
+        "escolher_receita",
+        "regular_temperatura",
+        "balancear_fluxo"
+      ]
+    },
+    {
+      "id": "refino_inspecao",
+      "label": "Amostra do produto acabado",
+      "position": [
+        26,
+        -14,
+        27
+      ],
+      "radius": 1.8,
+      "role": "refinador",
+      "step": "controle_qualidade",
+      "controls": [
+        "testar_pureza",
+        "trocar_filtro",
+        "aprovar_produto"
+      ]
+    },
+    {
+      "id": "controle_contrato",
+      "label": "Contratos e visao geral da operacao",
+      "position": [
+        -21,
+        -3,
+        21
+      ],
+      "radius": 1.8,
+      "role": "supervisor",
+      "step": "gestao",
+      "controls": [
+        "aceitar_contrato",
+        "designar_equipe",
+        "consultar_lotes"
+      ]
+    },
+    {
+      "id": "manutencao",
+      "label": "Filtros, energia e reparos leves",
+      "position": [
+        -16,
+        -1,
+        15
+      ],
+      "radius": 1.8,
+      "role": "tecnico",
+      "step": "manutencao",
+      "controls": [
+        "trocar_filtro",
+        "repor_energia",
+        "consertar_bomba"
+      ]
+    },
+    {
+      "id": "heliponto",
+      "label": "Chegada por helicoptero",
+      "position": [
+        -50,
+        5,
+        29.7
+      ],
+      "radius": 1.8,
+      "role": "transporte",
+      "step": "chegada",
+      "controls": [
+        "interagir"
+      ]
+    },
+    {
+      "id": "guindaste",
+      "label": "3. Icar e carregar os pallets",
+      "position": [
+        -26,
+        -4,
+        27
+      ],
+      "radius": 1.8,
+      "role": "guindasteiro",
+      "step": "extracao_3",
+      "controls": [
+        "girar_lanca",
+        "subir_descer_gancho",
+        "engatar_sling",
+        "estabilizar_carga",
+        "soltar_carga"
+      ]
+    },
+    {
+      "id": "envase",
+      "label": "Envasar, lacrar e etiquetar barris",
+      "position": [
+        -14,
+        -17,
+        21
+      ],
+      "radius": 1.8,
+      "role": "operador",
+      "step": "envase",
+      "controls": [
+        "posicionar_barril",
+        "encher",
+        "lacrar",
+        "montar_pallet"
+      ]
+    },
+    {
+      "id": "carga_conferencia",
+      "label": "Conferir lacres e manifesto",
+      "position": [
+        -14,
+        -19,
+        21
+      ],
+      "radius": 1.8,
+      "role": "logistica",
+      "step": "transporte_1",
+      "controls": [
+        "verificar_lote",
+        "prender_carga",
+        "emitir_manifesto"
+      ]
+    },
+    {
+      "id": "expedicao",
+      "label": "Despachar embarcacao e destino",
+      "position": [
+        23,
+        -20,
+        21
+      ],
+      "radius": 1.8,
+      "role": "logistica",
+      "step": "transporte_2",
+      "controls": [
+        "selecionar_destino",
+        "confirmar_transferencia"
+      ]
+    }
+  ]
+}

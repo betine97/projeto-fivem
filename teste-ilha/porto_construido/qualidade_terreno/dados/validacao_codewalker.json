@@ -1,0 +1,247 @@
+{
+  "in_game_verified": false,
+  "assets": [
+    {
+      "bytes": 4648,
+      "reader": "YmfFile",
+      "file": "_manifest.ymf"
+    },
+    {
+      "bytes": 2164994,
+      "reader": "YtdFile",
+      "file": "pe_terreno_hd.ytd"
+    },
+    {
+      "bytes": 3021,
+      "reader": "YtypFile",
+      "file": "teste_ilha.ytyp"
+    },
+    {
+      "bytes": 273281,
+      "reader": "YdrFile",
+      "file": "ti_terreno_00_03.ydr"
+    },
+    {
+      "bytes": 253082,
+      "reader": "YdrFile",
+      "file": "ti_terreno_00_04.ydr"
+    },
+    {
+      "bytes": 316179,
+      "reader": "YdrFile",
+      "file": "ti_terreno_01_01.ydr"
+    },
+    {
+      "bytes": 475551,
+      "reader": "YdrFile",
+      "file": "ti_terreno_01_02.ydr"
+    },
+    {
+      "bytes": 428878,
+      "reader": "YdrFile",
+      "file": "ti_terreno_01_03.ydr"
+    },
+    {
+      "bytes": 372097,
+      "reader": "YdrFile",
+      "file": "ti_terreno_01_04.ydr"
+    },
+    {
+      "bytes": 257500,
+      "reader": "YdrFile",
+      "file": "ti_terreno_01_05.ydr"
+    },
+    {
+      "bytes": 1120,
+      "reader": "YmapFile",
+      "file": "ti_terreno_01_06_map.ymap"
+    },
+    {
+      "bytes": 287175,
+      "reader": "YbnFile",
+      "file": "ti_terreno_01_06.ybn"
+    },
+    {
+      "bytes": 276536,
+      "reader": "YdrFile",
+      "file": "ti_terreno_01_06.ydr"
+    },
+    {
+      "bytes": 471215,
+      "reader": "YdrFile",
+      "file": "ti_terreno_02_01.ydr"
+    },
+    {
+      "bytes": 498464,
+      "reader": "YdrFile",
+      "file": "ti_terreno_02_02.ydr"
+    },
+    {
+      "bytes": 478732,
+      "reader": "YdrFile",
+      "file": "ti_terreno_02_03.ydr"
+    },
+    {
+      "bytes": 305059,
+      "reader": "YdrFile",
+      "file": "ti_terreno_02_04.ydr"
+    },
+    {
+      "bytes": 265463,
+      "reader": "YdrFile",
+      "file": "ti_terreno_02_05.ydr"
+    },
+    {
+      "bytes": 409757,
+      "reader": "YdrFile",
+      "file": "ti_terreno_02_06.ydr"
+    },
+    {
+      "bytes": 464816,
+      "reader": "YdrFile",
+      "file": "ti_terreno_03_01.ydr"
+    },
+    {
+      "bytes": 461684,
+      "reader": "YdrFile",
+      "file": "ti_terreno_03_02.ydr"
+    },
+    {
+      "bytes": 464088,
+      "reader": "YdrFile",
+      "file": "ti_terreno_03_03.ydr"
+    },
+    {
+      "bytes": 451512,
+      "reader": "YdrFile",
+      "file": "ti_terreno_03_04.ydr"
+    },
+    {
+      "bytes": 451692,
+      "reader": "YdrFile",
+      "file": "ti_terreno_03_05.ydr"
+    },
+    {
+      "bytes": 487371,
+      "reader": "YdrFile",
+      "file": "ti_terreno_03_06.ydr"
+    },
+    {
+      "bytes": 334982,
+      "reader": "YdrFile",
+      "file": "ti_terreno_03_07.ydr"
+    },
+    {
+      "bytes": 290544,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_00.ydr"
+    },
+    {
+      "bytes": 488121,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_01.ydr"
+    },
+    {
+      "bytes": 502999,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_02.ydr"
+    },
+    {
+      "bytes": 500403,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_03.ydr"
+    },
+    {
+      "bytes": 497868,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_04.ydr"
+    },
+    {
+      "bytes": 510549,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_05.ydr"
+    },
+    {
+      "bytes": 505102,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_06.ydr"
+    },
+    {
+      "bytes": 430172,
+      "reader": "YdrFile",
+      "file": "ti_terreno_04_07.ydr"
+    },
+    {
+      "bytes": 289019,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_00.ydr"
+    },
+    {
+      "bytes": 488605,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_01.ydr"
+    },
+    {
+      "bytes": 506228,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_02.ydr"
+    },
+    {
+      "bytes": 492419,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_03.ydr"
+    },
+    {
+      "bytes": 505968,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_04.ydr"
+    },
+    {
+      "bytes": 503003,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_05.ydr"
+    },
+    {
+      "bytes": 481639,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_06.ydr"
+    },
+    {
+      "bytes": 256940,
+      "reader": "YdrFile",
+      "file": "ti_terreno_05_07.ydr"
+    },
+    {
+      "bytes": 371352,
+      "reader": "YdrFile",
+      "file": "ti_terreno_06_01.ydr"
+    },
+    {
+      "bytes": 456167,
+      "reader": "YdrFile",
+      "file": "ti_terreno_06_02.ydr"
+    },
+    {
+      "bytes": 479667,
+      "reader": "YdrFile",
+      "file": "ti_terreno_06_03.ydr"
+    },
+    {
+      "bytes": 485212,
+      "reader": "YdrFile",
+      "file": "ti_terreno_06_04.ydr"
+    },
+    {
+      "bytes": 425537,
+      "reader": "YdrFile",
+      "file": "ti_terreno_06_05.ydr"
+    },
+    {
+      "bytes": 246020,
+      "reader": "YdrFile",
+      "file": "ti_terreno_06_06.ydr"
+    }
+  ],
+  "manifest_maps": 46,
+  "passed": true
+}

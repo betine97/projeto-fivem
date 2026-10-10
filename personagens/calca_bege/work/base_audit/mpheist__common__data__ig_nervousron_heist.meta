@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+  <pedName>ig_nervousron</pedName>
+  <dlcName>IG_RonHeist</dlcName>
+  <fullDlcName>ig_nervousron_ig_ronheist</fullDlcName>
+  <nameHash />
+  <creatureMetaData></creatureMetaData>
+  <eCharacter>SCR_CHAR_ANY</eCharacter>
+  <pedComponents />
+  <pedProps />
+  <pedOutfits />
+</ShopPedApparel>

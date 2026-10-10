@@ -1,0 +1,28 @@
+{
+  "pipeline_version": 1,
+  "name": "west_texas",
+  "revision": "r001",
+  "base_id": "45d2507a98ce",
+  "base_manifest_sha256": "b75820f19db7acd70cb8c85597bcb18e6daf09e22661b6198f481046b873aec8",
+  "reference_image": "codex-clipboard-6069c8ba-8649-4608-8bf9-1677d22f96aa.png",
+  "material": {
+    "albedo_atlas": null,
+    "preserve_native_normal_specular": true
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_west_texas_r001",
+    "prefix": "mp_m_freemode_01_cidade_west_texas_r001",
+    "local_index": 0
+  },
+  "review": {
+    "positions": false,
+    "appearance": false,
+    "in_game": false
+  },
+  "notes": [
+    "Costas e regiões não mostradas na referência precisam de uma decisão registrada."
+  ]
+}

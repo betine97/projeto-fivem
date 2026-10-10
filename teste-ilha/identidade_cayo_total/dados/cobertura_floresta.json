@@ -1,0 +1,16 @@
+{
+  "trees_by_quadrant": {
+    "sul_oeste": 3891,
+    "norte_oeste": 7190,
+    "sul_leste": 3134,
+    "norte_leste": 4429
+  },
+  "vegetation_by_quadrant": {
+    "sul_oeste": 20119,
+    "norte_oeste": 39144,
+    "sul_leste": 15843,
+    "norte_leste": 25382
+  },
+  "old_custom_tree_map_instances": 0,
+  "native_wind_drawables_preserved": true
+}

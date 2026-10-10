@@ -1,0 +1,11 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'Porto Esperanca'
+description 'Ilha construida no Blender: porto, dez construcoes texturizadas e vegetacao com vento e colisao'
+version '1.0.0'
+this_is_a_map 'yes'
+files { 'stream/porto_esperanca.ytyp', 'data/config.json' }
+data_file 'DLC_ITYP_REQUEST' 'stream/porto_esperanca.ytyp'
+client_script 'client.lua'
+server_script 'server.lua'
+dependency 'teste_ilha'

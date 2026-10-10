@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-07T23:39:32.491683-03:00",
+  "revision": "jantar-cozinha-2026-10-07",
+  "passed": true,
+  "installed_native_files": 42,
+  "installed_hashes_match": true,
+  "registered_scripts": [
+    "client.lua",
+    "auditoria_client.lua",
+    "auditoria_server.lua",
+    "movimento_interior.lua",
+    "portas_client.lua",
+    "portas_server.lua",
+    "luzes_pendentes.lua"
+  ],
+  "light_points": 9,
+  "checks": {
+    "verificacao_jantar_cozinha.json": true,
+    "verificacao_materiais_sofa.json": true,
+    "verificacao_malha_mobiliario.json": true,
+    "verificacao_portas_moveis.json": true,
+    "verificacao_espessuras_exportadas.json": true,
+    "verificacao_encaixe.json": true,
+    "verificacao_camera.json": true,
+    "verificacao_juntas.json": true,
+    "verificacao_movimento_lua.json": true,
+    "verificacao_portas_instaladas.json": true,
+    "audit_janelas.json": true
+  },
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\backup_antes_jantar_cozinha",
+  "editable_blender": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\mansao_fivem_preparada.blend",
+  "preview_files": [
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\jantar_cozinha_visao_geral.png",
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\mesa_jantar_detalhe.png",
+    "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\casa_vinewood\\ilha_cozinha_detalhe.png"
+  ],
+  "activation_requires_resource_reload": true,
+  "in_game_verified": false,
+  "extra_stream_files": [],
+  "failures": [],
+  "native_files_checked": 42,
+  "native_files_match_final_export": true,
+  "resource_enabled_in_server_cfg": true,
+  "door_count": 5
+}

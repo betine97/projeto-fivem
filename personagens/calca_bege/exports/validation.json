@@ -1,0 +1,20 @@
+{
+  "component": "lowr_008_u",
+  "source_vertices": 120843,
+  "source_triangles": 221146,
+  "lod_triangles": {
+    "LODLevel.HIGH": 221146,
+    "LODLevel.MEDIUM": 44228,
+    "LODLevel.LOW": 13268,
+    "LODLevel.VERYLOW": 3317
+  },
+  "embedded_textures": [
+    "calca_bege_spec",
+    "calca_bege_normal"
+  ],
+  "diffuse": "lowr_diff_008_a_uni",
+  "shaders": [
+    "ped_default.sps",
+    "ped.sps"
+  ]
+}

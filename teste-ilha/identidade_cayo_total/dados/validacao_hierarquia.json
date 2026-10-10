@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "100488 HD placements have valid Cayo-style parent links",
+    "Every parent child count and transition distance matches",
+    "All plants represented at every distant tier, including overhead views",
+    "All SLOD streaming volumes support 8 km distance and altitude",
+    "Native vertex indices, UV ranges and geometry bounds valid",
+    "25 procedural grass archetypes explicitly registered",
+    "All 7014254 GPU grass instances use available native archetypes"
+  ],
+  "plants": 100488,
+  "clusters": 3315,
+  "grass_instances": 7014254,
+  "in_game_visual_verified": false
+}

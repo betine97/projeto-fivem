@@ -1,0 +1,142 @@
+{
+  "passed": true,
+  "native_roundtrip": true,
+  "bar_lod_triangles": [
+    29328,
+    14448,
+    5779,
+    2166
+  ],
+  "bar_memory": {
+    "system_MiB": 3.40625,
+    "graphics_MiB": 4.0,
+    "disk_bytes": 3070195
+  },
+  "textures": {
+    "bar_folha": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_spec_metal": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_spec_fosco": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_madeira": {
+      "width": 512,
+      "height": 1024,
+      "mips": 8,
+      "bytes": 349648
+    },
+    "bar_bronze": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_led": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_ceramica": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_vinho": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_creme": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_normal": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 144
+    },
+    "bar_preto": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_madeira_n": {
+      "width": 512,
+      "height": 1024,
+      "mips": 8,
+      "bytes": 699168
+    },
+    "bar_arte": {
+      "width": 1024,
+      "height": 2048,
+      "mips": 9,
+      "bytes": 1398224
+    },
+    "bar_rotulo": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    },
+    "bar_marmore": {
+      "width": 1024,
+      "height": 1024,
+      "mips": 9,
+      "bytes": 699176
+    },
+    "bar_vidro_transparente": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 144
+    },
+    "bar_spec": {
+      "width": 4,
+      "height": 4,
+      "mips": 1,
+      "bytes": 136
+    }
+  },
+  "bar_fit_clearances_m": {
+    "wall": 0.017999473571777003,
+    "ceiling": 0.038000066757202244
+  },
+  "bear_dimensions_m": [
+    3.749993324279785,
+    2.771389961242676,
+    0.24090805649757385
+  ],
+  "bear_geometry_factor": 1.5,
+  "bear_uv_normal_texture_collision_checks": true,
+  "other_piano_rug_archetypes_preserved": true,
+  "local_light_budget": 4,
+  "light_near_far_runtime_test": true,
+  "files": {
+    "mansao_bar_referencia.ydr": "43b9306d4e8bb3835c3a99518adfa03f327a327d8d481cfc584c4b207bd8e95a",
+    "mansao_bar_referencia.ytyp": "933c888612d8aec3d5d0fbee3535fe6ef472ca820e60a2bdec4032f3e7a2dc0b",
+    "mansao_bar_referencia.ymap": "706943076911ab7fde88410f36beab1ab923a4e3acf8cd55682956b5f147e1f7",
+    "mansao_bar_referencia.ybn": "b8adb9ce0b4899c10c9332b273cf45458237f0bd8cd86998ebe4a3213d2df642",
+    "mansao_tapete_urso.ydr": "d6a7f340753f262d86c18db586831a632489cd0ca6f7a98aa5b466a5f6a3c3a9",
+    "mansao_piano_tapetes.ytyp": "f4624a712c6aaff918378051cd8f84487506ccf5f12243978a395f4d99936b19"
+  },
+  "in_game_verified": false
+}

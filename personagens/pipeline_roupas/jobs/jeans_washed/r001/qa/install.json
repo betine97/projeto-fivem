@@ -1,0 +1,16 @@
+{
+  "status": "installed",
+  "resource": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\resources\\cidade_jeans_washed",
+  "files_verified": true,
+  "files": {
+    "client.lua": "858a76e8c766895d0b031007dcc224d23d1a2e4e3bb0e628489f3a9102ea90df",
+    "data\\shop.meta": "a4e9c6ef44640361c51927641bd1e9fdad1dbfea9cc1f0786e9f09daab6236c0",
+    "fxmanifest.lua": "89dc2270aa05cb7e7e6029e44440198110b893030d83259ef2d36e4278763490",
+    "stream\\mp_m_freemode_01_cidade_jeans_washed_r001.ymt": "5013f8bdcfce5cac489b75670a277209b1d6f83a664817882884c50412b11c25",
+    "stream\\mp_m_freemode_01_cidade_jeans_washed_r001^lowr_000_r.ydd": "eaf305b1383b9e11c1a36e9eaab698abc547264105fd2f0a2348b46ebda4f425",
+    "stream\\mp_m_freemode_01_cidade_jeans_washed_r001^lowr_diff_000_a_whi.ytd": "7de95ac0d4f276c2d1102a2f29521907f5afbc7d9a721387920620a5945d1544"
+  },
+  "server_cfg_ensure": true,
+  "running_server_reload": "pending",
+  "in_game_test": "pending"
+}

@@ -1,0 +1,18 @@
+{
+  "status": "installed_and_registered",
+  "package_files_verified": true,
+  "metadata": {
+    "collection": "cidade_camiseta_preta_lisa_r001",
+    "component": 11,
+    "drawables": 1,
+    "textures": 1,
+    "cross_component_rules": false,
+    "round_trip_verified": true
+  },
+  "six_view_review": true,
+  "native_export_test_passed": true,
+  "tablet_tests_passed": true,
+  "source_preserved": true,
+  "in_game_verified": false,
+  "reload_required": true
+}

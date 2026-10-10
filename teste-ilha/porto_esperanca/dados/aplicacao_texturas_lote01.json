@@ -1,0 +1,476 @@
+{
+  "revisao": "porto-20261009-texturas-lote01-1",
+  "arquivo": "porto_esperanca_texturas_lote01.blend",
+  "modelos": [
+    {
+      "id": "03_caneleira",
+      "vertices": 124660,
+      "poligonos": 41326,
+      "usuarios_vinculados": 368,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_03.png",
+      "folhas": "texturas/folhas/lote01/folhas_01.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4920255183413078,
+          0.1467304625199362
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          617,
+          184,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.4409888357256778,
+          0.6291866028708134
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          553,
+          789,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "01_coqueiro",
+      "vertices": 75530,
+      "poligonos": 18782,
+      "usuarios_vinculados": 107,
+      "grupos_copa": null,
+      "folhagem_tecnica": "22_frondes_com_foliolos_curvos_3d_texturizados",
+      "tronco": "texturas/troncos/originais/lote01_01.png",
+      "folhas": "texturas/folhas/lote01/folhas_02.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4665071770334928,
+          0.1467304625199362
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          585,
+          184,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.37719298245614036,
+          0.47607655502392343
+        ],
+        "tamanho_uv": [
+          0.022328548644338118,
+          0.14354066985645933
+        ],
+        "retangulo_pixels": [
+          473,
+          597,
+          28,
+          180
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "05_flamboyant",
+      "vertices": 194932,
+      "poligonos": 64750,
+      "usuarios_vinculados": 40,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_05.png",
+      "folhas": "texturas/folhas/lote01/folhas_03.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4665071770334928,
+          0.1467304625199362
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          585,
+          184,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.3708133971291866,
+          0.5334928229665071
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          465,
+          669,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "04_amendoeira",
+      "vertices": 124660,
+      "poligonos": 41326,
+      "usuarios_vinculados": 190,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_04.png",
+      "folhas": "texturas/folhas/lote01/folhas_04.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.48564593301435405,
+          0.1467304625199362
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          609,
+          184,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.45374800637958534,
+          0.5909090909090909
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          569,
+          741,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "02_imperial",
+      "vertices": 75044,
+      "poligonos": 18668,
+      "usuarios_vinculados": 96,
+      "grupos_copa": null,
+      "folhagem_tecnica": "22_frondes_com_foliolos_curvos_3d_texturizados",
+      "tronco": "texturas/troncos/originais/lote01_02.png",
+      "folhas": "texturas/folhas/lote01/folhas_05.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4665071770334928,
+          0.1467304625199362
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          585,
+          184,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.4984051036682616,
+          0.5813397129186603
+        ],
+        "tamanho_uv": [
+          0.022328548644338118,
+          0.14354066985645933
+        ],
+        "retangulo_pixels": [
+          625,
+          729,
+          28,
+          180
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "07_reseda",
+      "vertices": 194932,
+      "poligonos": 64750,
+      "usuarios_vinculados": 41,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_07.png",
+      "folhas": "texturas/folhas/lote01/folhas_06.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4665071770334928,
+          0.1467304625199362
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          585,
+          184,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.5175438596491229,
+          0.6291866028708134
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          649,
+          789,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "09_oliveira",
+      "vertices": 124660,
+      "poligonos": 41326,
+      "usuarios_vinculados": 63,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_09.png",
+      "folhas": "texturas/folhas/lote01/folhas_07.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.5303030303030303,
+          0.12759170653907495
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          665,
+          160,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.4409888357256778,
+          0.5334928229665071
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          553,
+          669,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "08_ipe_amarelo",
+      "vertices": 194932,
+      "poligonos": 64750,
+      "usuarios_vinculados": 46,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_08.png",
+      "folhas": "texturas/folhas/lote01/folhas_08.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.4665071770334928,
+          0.12759170653907495
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          585,
+          160,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.4728867623604466,
+          0.5909090909090909
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          593,
+          741,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "10_castanhola",
+      "vertices": 124660,
+      "poligonos": 41326,
+      "usuarios_vinculados": 75,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_10.png",
+      "folhas": "texturas/folhas/lote01/folhas_09.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.47926634768740034,
+          0.1467304625199362
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          601,
+          184,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.511164274322169,
+          0.5813397129186603
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          641,
+          729,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    },
+    {
+      "id": "06_arvore_rua",
+      "vertices": 124660,
+      "poligonos": 41326,
+      "usuarios_vinculados": 206,
+      "grupos_copa": 12,
+      "folhagem_tecnica": "folhas_3d_com_uv_individual_e_flores_3d_preservadas",
+      "tronco": "texturas/troncos/originais/lote01_06.png",
+      "folhas": "texturas/folhas/lote01/folhas_10.png",
+      "regiao_casca": {
+        "origem_uv": [
+          0.511164274322169,
+          0.09888357256778309
+        ],
+        "tamanho_uv": [
+          0.06379585326953748,
+          0.1594896331738437
+        ],
+        "retangulo_pixels": [
+          641,
+          124,
+          80,
+          200
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "regiao_foliolo": {
+        "origem_uv": [
+          0.45374800637958534,
+          0.638755980861244
+        ],
+        "tamanho_uv": [
+          0.03827751196172249,
+          0.07655502392344497
+        ],
+        "retangulo_pixels": [
+          569,
+          801,
+          48,
+          96
+        ],
+        "pixels_origem": "baixo_para_cima"
+      },
+      "associacao": "inicial_por_aparencia_a_validar"
+    }
+  ],
+  "imagens_originais_packed": 20,
+  "imagens_alteradas": false,
+  "instalado_fivem": false,
+  "edificios_adicionados": 0,
+  "coordenadas_preservadas": true,
+  "tecnica": "Troncos e galhos 3D com imagem de casca via UV. Folhas e flores 3D preservadas nas oito árvores de copa; materiais usam regiões de folhagem por UV individual. Palmeiras com 22 frondes e folíolos curvos geométricos texturizados. PNG originais intactos.",
+  "limitacoes": [
+    "Associações iniciais entre imagens e espécies precisam de validação visual.",
+    "As imagens de copas completas foram usadas como fontes de cor/detalhe por UV; as folhas continuam malhas autorais e não cópias individuais das folhas da fotografia.",
+    "Iluminação e perspectiva das referências estão presentes nas imagens.",
+    "Não inclui LOD, shaders GTA, colisões de vegetação ou instalação no FiveM."
+  ],
+  "previas_inspecionadas": [
+    "previews/texturas_lote01/catalogo_texturas.png",
+    "previews/texturas_lote01/arvore_sombra_detalhe.png",
+    "previews/texturas_lote01/arvore_sombra_outro_angulo.png",
+    "previews/texturas_lote01/porto_texturas.png"
+  ],
+  "aprovacao_visual_usuario": "pendente",
+  "verificacao_arquivo": "dados/verificacao_texturas_lote01.json"
+}

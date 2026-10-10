@@ -1,0 +1,33 @@
+{
+  "local_cut_min": [
+    -4.4,
+    -8.5,
+    -0.5
+  ],
+  "local_cut_max": [
+    4.4,
+    6.6,
+    4.1
+  ],
+  "maps": [
+    {
+      "file": "ch3_occl_03.ymap",
+      "changes": [
+        {
+          "model": 1,
+          "original_triangles": 161,
+          "cut_triangles": [
+            104,
+            106,
+            110
+          ],
+          "result_triangles": 177
+        }
+      ],
+      "sha256": "57a73cc7ac42576bfe837cbc3d124044c065de4e0f8e2c5767951a2d0847dbc1"
+    }
+  ],
+  "in_game_verified": false,
+  "installed_resource": "server-data/resources/cidade_laboratorio",
+  "server_online_and_resource_started": true
+}

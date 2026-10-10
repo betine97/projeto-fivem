@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "wall_side_ray_tests": 10076,
+  "missing_wall_sources": [],
+  "door_tests": [
+    {
+      "name": "entrada",
+      "blocked": false
+    },
+    {
+      "name": "sacada oeste",
+      "blocked": false
+    },
+    {
+      "name": "sacada leste",
+      "blocked": false
+    },
+    {
+      "name": "sala deck",
+      "blocked": false
+    },
+    {
+      "name": "fundos",
+      "blocked": false
+    }
+  ],
+  "world_local_alignment_error_m": 0.0002933669651309404,
+  "include_flags": 4194304,
+  "body_collision_duplicated": false,
+  "in_game_verified": false
+}

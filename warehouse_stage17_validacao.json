@@ -1,0 +1,9 @@
+{
+  "rack_height_m": 2.8,
+  "rack_and_led_raise_m": 0.75,
+  "plant_vertical_scale": 1.65,
+  "plant_top_min_m": 2.424038887023926,
+  "plant_top_max_m": 2.486908435821533,
+  "pot_size_unchanged": true,
+  "closed_roof": true
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "crf_castelo_previa.ymap",
+    "nativeLoaded": true,
+    "bytes": 1376,
+    "systemBytes": 8192,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_castelo_previa.ytyp",
+    "nativeLoaded": true,
+    "bytes": 1112,
+    "systemBytes": 8192,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_castelo_texturas.ytd",
+    "nativeLoaded": true,
+    "bytes": 833514,
+    "systemBytes": 16384,
+    "graphicsBytes": 29360128
+  },
+  {
+    "file": "crf_cobertura_arquitetura.ydr",
+    "nativeLoaded": true,
+    "bytes": 183661,
+    "systemBytes": 1048576,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_conselho_arquitetura.ydr",
+    "nativeLoaded": true,
+    "bytes": 363669,
+    "systemBytes": 1458176,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_conselho_detalhes.ydr",
+    "nativeLoaded": true,
+    "bytes": 719194,
+    "systemBytes": 2883584,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_implantacao_arquitetura.ydr",
+    "nativeLoaded": true,
+    "bytes": 127547,
+    "systemBytes": 524288,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_suites_arquitetura.ydr",
+    "nativeLoaded": true,
+    "bytes": 510448,
+    "systemBytes": 2097152,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_suites_detalhes.ydr",
+    "nativeLoaded": true,
+    "bytes": 322878,
+    "systemBytes": 1343488,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_terreo_arquitetura.ydr",
+    "nativeLoaded": true,
+    "bytes": 381126,
+    "systemBytes": 1482752,
+    "graphicsBytes": 0
+  },
+  {
+    "file": "crf_terreo_detalhes.ydr",
+    "nativeLoaded": true,
+    "bytes": 902124,
+    "systemBytes": 3276800,
+    "graphicsBytes": 0
+  }
+]

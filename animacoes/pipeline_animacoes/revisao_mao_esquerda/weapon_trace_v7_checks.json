@@ -1,0 +1,12 @@
+{
+  "game_tested": false,
+  "synthetic_transforms": true,
+  "cases": 12,
+  "both_weapon_mounts": true,
+  "ped_relative_pitch": true,
+  "world_pitch": true,
+  "invalid_basis_safe": true,
+  "mount_update_preserved": true,
+  "max_pitch_error_degrees": 3.596643914249853e-06,
+  "source_sha256": "b84fc93a0367170286d8b2ae7dc2e9f3be874fda8f23860134bd5ad5e03bbb75"
+}

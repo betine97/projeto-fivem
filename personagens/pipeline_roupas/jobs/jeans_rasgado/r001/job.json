@@ -1,0 +1,40 @@
+{
+  "pipeline_version": 1,
+  "name": "jeans_rasgado",
+  "revision": "r001",
+  "base_id": "8552b45e2ad8",
+  "base_manifest_sha256": "af7b451506806369279c5315d5eeedb063cd454138b94ac6061b3266be4d22b7",
+  "reference_image": "codex-clipboard-0e787312-7aab-4a1a-9174-a15acc96dd8a.png",
+  "material": {
+    "albedo_atlas": "atlas_calca.png",
+    "preserve_native_normal_specular": true
+  },
+  "components": [],
+  "target": {
+    "mode": "addon",
+    "ped": "mp_m_freemode_01",
+    "collection": "cidade_jeans_rasgado_r001",
+    "prefix": "mp_m_freemode_01_cidade_jeans_rasgado_r001",
+    "local_index": 0
+  },
+  "review": {
+    "positions": true,
+    "appearance": true,
+    "in_game": false
+  },
+  "notes": [
+    "Same approved lowr_001_r base; original model/UV/weights/LODs/materials preserved. Independent variation, component 4 only.",
+    "Front reference mapped to native silhouette. Back textile inferred from unprinted supplied waist fabric, retaining native pocket/fold shading.",
+    "Frayed tears are visual artwork in the diffuse texture; the native mesh has no new openings. Supplied tears are restricted to front and not repeated on the back.",
+    "Back weave uses the supplied cloth crop tone (20th RGB percentile) and 4% fiber contrast to avoid repeating photographic whiskers; native normal/specular and fold shading remain."
+  ],
+  "display_title": "Jeans azul rasgado",
+  "pattern_scale": 28,
+  "clean_back_crop": [
+    0.72,
+    0.66,
+    0.15,
+    0.15
+  ],
+  "clean_back_contrast": 0.04
+}

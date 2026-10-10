@@ -1,0 +1,2720 @@
+[
+  {
+    "name": "pe_veg_01_coqueiro",
+    "materials": [
+      {
+        "name": "Casca imagem | 01_coqueiro",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_3b66e531bd7fbe751d_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3b66e531bd7fbe751d_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_3b66e531bd7fbe751d_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3b66e531bd7fbe751d_n.png",
+        "spec_texture": "pe_bake_3b66e531bd7fbe751d_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_3b66e531bd7fbe751d_s.png",
+        "source_name": "Casca imagem | 01_coqueiro"
+      },
+      {
+        "name": "Folhagem imagem | 01_coqueiro",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_a14e38d3ec0fe5",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_a14e38d3ec0fe5.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 37966,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -2.5810177326202393,
+      -4.087804794311523,
+      -0.0014945552684366703
+    ],
+    "bb_max": [
+      4.538697242736816,
+      3.5497095584869385,
+      15.486228942871094
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\01_coqueiro.blend"
+  },
+  {
+    "name": "pe_veg_02_imperial",
+    "materials": [
+      {
+        "name": "Casca imagem | 02_imperial",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_93d36cabcb6a0736d4_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_93d36cabcb6a0736d4_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_93d36cabcb6a0736d4_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_93d36cabcb6a0736d4_n.png",
+        "spec_texture": "pe_bake_93d36cabcb6a0736d4_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_93d36cabcb6a0736d4_s.png",
+        "source_name": "Casca imagem | 02_imperial"
+      },
+      {
+        "name": "Folhagem imagem | 02_imperial",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_ac441914624ca9",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_ac441914624ca9.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 37708,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -3.238797426223755,
+      -3.130486249923706,
+      -0.0004243811999913305
+    ],
+    "bb_max": [
+      3.2463181018829346,
+      3.4707696437835693,
+      13.260807991027832
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\02_imperial.blend"
+  },
+  {
+    "name": "pe_veg_03_caneleira",
+    "materials": [
+      {
+        "name": "Casca imagem | 03_caneleira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_65bc93ca791bcd07a7_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_65bc93ca791bcd07a7_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_65bc93ca791bcd07a7_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_65bc93ca791bcd07a7_n.png",
+        "spec_texture": "pe_bake_65bc93ca791bcd07a7_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_65bc93ca791bcd07a7_s.png",
+        "source_name": "Casca imagem | 03_caneleira"
+      },
+      {
+        "name": "Folhagem imagem | 03_caneleira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_76cf69ed309e42",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_76cf69ed309e42.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 42008,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -7.740412712097168,
+      -7.593399524688721,
+      -0.0488198921084404
+    ],
+    "bb_max": [
+      7.763498783111572,
+      7.814062118530273,
+      12.867624282836914
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\03_caneleira.blend"
+  },
+  {
+    "name": "pe_veg_04_amendoeira",
+    "materials": [
+      {
+        "name": "Casca imagem | 04_amendoeira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_ac73a52dbbe3e0f4f8_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ac73a52dbbe3e0f4f8_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_ac73a52dbbe3e0f4f8_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ac73a52dbbe3e0f4f8_n.png",
+        "spec_texture": "pe_bake_ac73a52dbbe3e0f4f8_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_ac73a52dbbe3e0f4f8_s.png",
+        "source_name": "Casca imagem | 04_amendoeira"
+      },
+      {
+        "name": "Folhagem imagem | 04_amendoeira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_32c111261b81bb",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_32c111261b81bb.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 42008,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -5.662819862365723,
+      -5.543186664581299,
+      -0.039252545684576035
+    ],
+    "bb_max": [
+      5.674978733062744,
+      5.712328910827637,
+      8.86918830871582
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\04_amendoeira.blend"
+  },
+  {
+    "name": "pe_veg_05_flamboyant",
+    "materials": [
+      {
+        "name": "Casca imagem | 05_flamboyant",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_6b24aad39f12bb8a2a_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6b24aad39f12bb8a2a_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_6b24aad39f12bb8a2a_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6b24aad39f12bb8a2a_n.png",
+        "spec_texture": "pe_bake_6b24aad39f12bb8a2a_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_6b24aad39f12bb8a2a_s.png",
+        "source_name": "Casca imagem | 05_flamboyant"
+      },
+      {
+        "name": "Folhagem imagem | 05_flamboyant",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_21c00e581ae9ce",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_21c00e581ae9ce.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 65432,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -8.006072998046875,
+      -7.849900722503662,
+      -0.039252545684576035
+    ],
+    "bb_max": [
+      8.068914413452148,
+      8.121223449707031,
+      9.034736633300781
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\05_flamboyant.blend"
+  },
+  {
+    "name": "pe_veg_06_arvore_rua",
+    "materials": [
+      {
+        "name": "Casca imagem | 06_arvore_rua",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_d2fcf7f9f52917223e_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d2fcf7f9f52917223e_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_d2fcf7f9f52917223e_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d2fcf7f9f52917223e_n.png",
+        "spec_texture": "pe_bake_d2fcf7f9f52917223e_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d2fcf7f9f52917223e_s.png",
+        "source_name": "Casca imagem | 06_arvore_rua"
+      },
+      {
+        "name": "Folhagem imagem | 06_arvore_rua",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_84b96861193ef9",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_84b96861193ef9.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 42008,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -4.389496803283691,
+      -4.249292850494385,
+      -0.03906095027923584
+    ],
+    "bb_max": [
+      4.344318866729736,
+      4.388113975524902,
+      7.933720588684082
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\06_arvore_rua.blend"
+  },
+  {
+    "name": "pe_veg_07_reseda",
+    "materials": [
+      {
+        "name": "Casca imagem | 07_reseda",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_a17ddcb2e0d05f0dbc_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a17ddcb2e0d05f0dbc_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_a17ddcb2e0d05f0dbc_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a17ddcb2e0d05f0dbc_n.png",
+        "spec_texture": "pe_bake_a17ddcb2e0d05f0dbc_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_a17ddcb2e0d05f0dbc_s.png",
+        "source_name": "Casca imagem | 07_reseda"
+      },
+      {
+        "name": "Folhagem imagem | 07_reseda",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_d51efd99f4de7a",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_d51efd99f4de7a.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 65432,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -4.026488304138184,
+      -3.9357974529266357,
+      -0.03837461769580841
+    ],
+    "bb_max": [
+      3.9647674560546875,
+      4.10819149017334,
+      6.157822608947754
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\07_reseda.blend"
+  },
+  {
+    "name": "pe_veg_08_ipe_amarelo",
+    "materials": [
+      {
+        "name": "Casca imagem | 08_ipe_amarelo",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_e5c75cfa309772c523_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e5c75cfa309772c523_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_e5c75cfa309772c523_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e5c75cfa309772c523_n.png",
+        "spec_texture": "pe_bake_e5c75cfa309772c523_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_e5c75cfa309772c523_s.png",
+        "source_name": "Casca imagem | 08_ipe_amarelo"
+      },
+      {
+        "name": "Folhagem imagem | 08_ipe_amarelo",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_e5992298a18352",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_e5992298a18352.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 65432,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -5.015744686126709,
+      -4.892352104187012,
+      -0.039252545684576035
+    ],
+    "bb_max": [
+      4.977198123931885,
+      5.018444538116455,
+      9.201212882995605
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\08_ipe_amarelo.blend"
+  },
+  {
+    "name": "pe_veg_09_oliveira",
+    "materials": [
+      {
+        "name": "Casca imagem | 09_oliveira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_1b3a30f7ef2939f712_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_1b3a30f7ef2939f712_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_1b3a30f7ef2939f712_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_1b3a30f7ef2939f712_n.png",
+        "spec_texture": "pe_bake_1b3a30f7ef2939f712_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_1b3a30f7ef2939f712_s.png",
+        "source_name": "Casca imagem | 09_oliveira"
+      },
+      {
+        "name": "Folhagem imagem | 09_oliveira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_31ab8215815a80",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_31ab8215815a80.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 42008,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -4.824655532836914,
+      -4.665066242218018,
+      -0.038786448538303375
+    ],
+    "bb_max": [
+      4.714810848236084,
+      4.753208637237549,
+      7.2021803855896
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\09_oliveira.blend"
+  },
+  {
+    "name": "pe_veg_10_castanhola",
+    "materials": [
+      {
+        "name": "Casca imagem | 10_castanhola",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_319e44e962cc542495_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_319e44e962cc542495_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_319e44e962cc542495_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_319e44e962cc542495_n.png",
+        "spec_texture": "pe_bake_319e44e962cc542495_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_319e44e962cc542495_s.png",
+        "source_name": "Casca imagem | 10_castanhola"
+      },
+      {
+        "name": "Folhagem imagem | 10_castanhola",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_b8f7d3bf7aef81",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_b8f7d3bf7aef81.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 42008,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -6.371744155883789,
+      -6.510085105895996,
+      -0.038786448538303375
+    ],
+    "bb_max": [
+      6.589011192321777,
+      6.663382530212402,
+      7.300116539001465
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\10_castanhola.blend"
+  },
+  {
+    "name": "pe_veg_11_mangueira",
+    "materials": [
+      {
+        "name": "Casca imagem | 11_mangueira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_505957a72e7d2d6d0c_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_505957a72e7d2d6d0c_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_505957a72e7d2d6d0c_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_505957a72e7d2d6d0c_n.png",
+        "spec_texture": "pe_bake_505957a72e7d2d6d0c_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_505957a72e7d2d6d0c_s.png",
+        "source_name": "Casca imagem | 11_mangueira"
+      },
+      {
+        "name": "Folhagem imagem | 11_mangueira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_af9c70208c0c59",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_af9c70208c0c59.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 42488,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -5.607104301452637,
+      -5.50189733505249,
+      -0.03939133882522583
+    ],
+    "bb_max": [
+      5.53964900970459,
+      5.694908618927002,
+      10.184394836425781
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\11_mangueira.blend"
+  },
+  {
+    "name": "pe_veg_12_bananeira",
+    "materials": [
+      {
+        "name": "Casca imagem | 12_bananeira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_d7cbca4972370ddc2c_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d7cbca4972370ddc2c_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_d7cbca4972370ddc2c_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d7cbca4972370ddc2c_n.png",
+        "spec_texture": "pe_bake_d7cbca4972370ddc2c_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_d7cbca4972370ddc2c_s.png",
+        "source_name": "Casca imagem | 12_bananeira"
+      },
+      {
+        "name": "Folhagem imagem | 12_bananeira",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_1da20fa17fdaa3",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_1da20fa17fdaa3.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 1480,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -3.2062573432922363,
+      -3.0061757564544678,
+      0.0
+    ],
+    "bb_max": [
+      3.4468626976013184,
+      3.4332175254821777,
+      5.514078140258789
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\12_bananeira.blend"
+  },
+  {
+    "name": "pe_veg_13_mangue",
+    "materials": [
+      {
+        "name": "Casca imagem | 13_mangue",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_22bf8947bea20df992_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_22bf8947bea20df992_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_22bf8947bea20df992_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_22bf8947bea20df992_n.png",
+        "spec_texture": "pe_bake_22bf8947bea20df992_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_22bf8947bea20df992_s.png",
+        "source_name": "Casca imagem | 13_mangue"
+      },
+      {
+        "name": "Folhagem imagem | 13_mangue",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_6bad950c8845b3",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_6bad950c8845b3.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 42200,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -5.022762298583984,
+      -4.89016056060791,
+      -0.03180838003754616
+    ],
+    "bb_max": [
+      4.900088310241699,
+      5.107481956481934,
+      7.115983486175537
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\13_mangue.blend"
+  },
+  {
+    "name": "pe_veg_14_arbusto_costeiro",
+    "materials": [
+      {
+        "name": "Casca imagem | 14_arbusto_costeiro",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_f65eb773ad74f03543_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_f65eb773ad74f03543_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_n.png",
+        "spec_texture": "pe_bake_f65eb773ad74f03543_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_s.png",
+        "source_name": "Casca imagem | 14_arbusto_costeiro"
+      },
+      {
+        "name": "Folhagem imagem | 14_arbusto_costeiro",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_dc6e4ba99d9681",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_dc6e4ba99d9681.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 14056,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -2.6126630306243896,
+      -1.886338710784912,
+      -0.01005635503679514
+    ],
+    "bb_max": [
+      2.410484552383423,
+      2.573153018951416,
+      2.858581066131592
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\14_arbusto_costeiro.blend"
+  },
+  {
+    "name": "pe_veg_15_palmeira_ana",
+    "materials": [
+      {
+        "name": "Casca imagem | 15_palmeira_ana",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_b4f6592dae50103991_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b4f6592dae50103991_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_b4f6592dae50103991_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b4f6592dae50103991_n.png",
+        "spec_texture": "pe_bake_b4f6592dae50103991_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_b4f6592dae50103991_s.png",
+        "source_name": "Casca imagem | 15_palmeira_ana"
+      },
+      {
+        "name": "Folhagem imagem | 15_palmeira_ana",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_a298588e9f352b",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_a298588e9f352b.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 37740,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -3.4209952354431152,
+      -2.803074598312378,
+      -0.0009609594708308578
+    ],
+    "bb_max": [
+      3.285045862197876,
+      2.9590373039245605,
+      5.919013500213623
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\15_palmeira_ana.blend"
+  },
+  {
+    "name": "pe_veg_16_palma_azul",
+    "materials": [
+      {
+        "name": "Casca imagem | 16_palma_azul",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_34133060e98618a085_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34133060e98618a085_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_34133060e98618a085_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34133060e98618a085_n.png",
+        "spec_texture": "pe_bake_34133060e98618a085_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_34133060e98618a085_s.png",
+        "source_name": "Casca imagem | 16_palma_azul"
+      },
+      {
+        "name": "Folhagem imagem | 16_palma_azul",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_9eaf47a539ec9f",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_9eaf47a539ec9f.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 13228,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -3.838540554046631,
+      -3.16757869720459,
+      -0.0005511589697562158
+    ],
+    "bb_max": [
+      3.7747628688812256,
+      3.610107898712158,
+      10.390371322631836
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\16_palma_azul.blend"
+  },
+  {
+    "name": "pe_veg_17_yucca",
+    "materials": [
+      {
+        "name": "Casca imagem | 17_yucca",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_5355a799b661b34854_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5355a799b661b34854_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_5355a799b661b34854_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5355a799b661b34854_n.png",
+        "spec_texture": "pe_bake_5355a799b661b34854_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_5355a799b661b34854_s.png",
+        "source_name": "Casca imagem | 17_yucca"
+      },
+      {
+        "name": "Folhagem imagem | 17_yucca",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_8f834009064116",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_8f834009064116.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 752,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -1.3647494316101074,
+      -1.4547499418258667,
+      0.0
+    ],
+    "bb_max": [
+      1.5657075643539429,
+      1.438075304031372,
+      4.3172101974487305
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\17_yucca.blend"
+  },
+  {
+    "name": "pe_veg_18_cerca_viva",
+    "materials": [
+      {
+        "name": "Casca imagem | 18_cerca_viva",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.8500000238418579,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_bake_f65eb773ad74f03543_d",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_d.png",
+        "extension": "CLIP",
+        "node": "Image Texture",
+        "baked": true,
+        "uv_mode": "source_sampler",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "normal_texture": "pe_bake_f65eb773ad74f03543_n",
+        "normal_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_n.png",
+        "spec_texture": "pe_bake_f65eb773ad74f03543_s",
+        "spec_file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\material_bakes\\pe_bake_f65eb773ad74f03543_s.png",
+        "source_name": "Casca imagem | 18_cerca_viva"
+      },
+      {
+        "name": "Folhagem imagem | 18_cerca_viva",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929
+        ],
+        "roughness": 0.7799999713897705,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "texture": "pe_tex_566f12be5307c8",
+        "file": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_construido\\fontes\\pe_tex_566f12be5307c8.png",
+        "extension": "CLIP",
+        "node": "Image Texture"
+      },
+      {
+        "name": "Flor flamboyant",
+        "color": [
+          0.7200000286102295,
+          0.06499999761581421,
+          0.01600000075995922
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor flamboyant"
+      },
+      {
+        "name": "Flor reseda",
+        "color": [
+          0.6800000071525574,
+          0.15000000596046448,
+          0.33000001311302185
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor reseda"
+      },
+      {
+        "name": "Flor ipe",
+        "color": [
+          0.8999999761581421,
+          0.5799999833106995,
+          0.02500000037252903
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor ipe"
+      },
+      {
+        "name": "Fruto",
+        "color": [
+          0.3499999940395355,
+          0.28999999165534973,
+          0.04500000178813934
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Fruto"
+      },
+      {
+        "name": "Flor jasmim",
+        "color": [
+          0.8500000238418579,
+          0.8299999833106995,
+          0.6399999856948853
+        ],
+        "roughness": 0.7200000286102295,
+        "metallic": 0.0,
+        "transmission": 0.0,
+        "baked": false,
+        "uv_mode": "object_projection",
+        "canonical_period": 4,
+        "normal_green": "NEG_Y",
+        "attribute_representatives": {},
+        "source_images_unchanged": true,
+        "source_name": "Flor jasmim"
+      }
+    ],
+    "triangles": 14056,
+    "objects": 1,
+    "collision_triangles": 0,
+    "tree": true,
+    "bb_min": [
+      -2.2126128673553467,
+      -1.7338576316833496,
+      -0.013851957395672798
+    ],
+    "bb_max": [
+      2.0615196228027344,
+      2.1147868633270264,
+      1.8935009241104126
+    ],
+    "source": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\teste-ilha\\porto_esperanca\\modelos\\vegetacao_vento\\18_cerca_viva.blend"
+  }
+]

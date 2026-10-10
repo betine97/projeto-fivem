@@ -1,0 +1,203 @@
+{
+  "passed": true,
+  "native_roundtrip": true,
+  "models": {
+    "mansao_parede_aparador": {
+      "lod_triangles": [
+        9812,
+        5810,
+        2420,
+        968
+      ],
+      "textures": {
+        "apar_creme": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_ceramica": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_preto": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_arte2": {
+          "width": 512,
+          "height": 1024,
+          "mips": 8
+        },
+        "apar_spec": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_arte1": {
+          "width": 512,
+          "height": 1024,
+          "mips": 8
+        },
+        "apar_bronze": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_normal": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_madeira_n": {
+          "width": 512,
+          "height": 1024,
+          "mips": 8
+        },
+        "apar_led": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_madeira": {
+          "width": 512,
+          "height": 1024,
+          "mips": 8
+        },
+        "apar_spec_metal": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_spec_fosco": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_folha": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        }
+      },
+      "memory": {
+        "system_MiB": 1.875,
+        "graphics_MiB": 2.5,
+        "disk_bytes": 1475234
+      },
+      "shaders": [
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_8f245469",
+          "emissive.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ]
+      ]
+    },
+    "mansao_porta_vidro_aparador": {
+      "lod_triangles": [
+        1848,
+        1108,
+        462,
+        184
+      ],
+      "textures": {
+        "apar_vidro_transparente": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_spec": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_normal": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_preto": {
+          "width": 4,
+          "height": 4,
+          "mips": 1
+        },
+        "apar_madeira_n": {
+          "width": 512,
+          "height": 1024,
+          "mips": 8
+        },
+        "apar_madeira": {
+          "width": 512,
+          "height": 1024,
+          "mips": 8
+        }
+      },
+      "memory": {
+        "system_MiB": 0.546875,
+        "graphics_MiB": 1.5,
+        "disk_bytes": 389259
+      },
+      "shaders": [
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_38dd00df",
+          "normal_spec.sps"
+        ],
+        [
+          "hash_d9f8c9bf",
+          "glass.sps"
+        ]
+      ]
+    }
+  },
+  "in_game_verified": false,
+  "adega_clearance_m": 0.08500004768371583,
+  "ceiling_clearance_m": 0.11100002098083506,
+  "opening_width_m": 1.1,
+  "opening_height_m": 2.5,
+  "door_hinge_local_collision": true,
+  "door_swing_clear": true,
+  "native_lights_always_on": 4,
+  "files": {
+    "mansao_parede_aparador.ydr": "3a04bc1d35998641b7531e27da28ebcf13f284c1526853c1f28016d15bab3d6c",
+    "mansao_parede_aparador.ytyp": "a3ab2077046a18c2b8669438831537e8935b2e39a5f3d08647412e8fb34f62ac",
+    "mansao_parede_aparador.ymap": "53d28661463819da38bce84396fded4553e6ad0f1e9b14ecbef72a0597f347e9",
+    "mansao_parede_aparador.ybn": "77c556e7b9139408b6e043307f66c3beaef0863a8b6a0accf28251456b9f26bb",
+    "mansao_porta_vidro_aparador.ydr": "7551dce4a6105aa932b54c4e0365e9a37da5a8fe75edb3ceb81410d2c5c7c05b"
+  }
+}

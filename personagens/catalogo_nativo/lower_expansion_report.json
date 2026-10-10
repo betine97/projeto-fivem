@@ -1,0 +1,584 @@
+{
+  "candidates": 400,
+  "rendered": 348,
+  "counts": {
+    "female": 179,
+    "male": 169
+  },
+  "catalogTotal": 1206,
+  "previewImages": 696,
+  "skipped": [
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01",
+        "part": "lowr",
+        "index": 13,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_f_freemode_01/lowr_013_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_female_apt01",
+        "part": "lowr",
+        "index": 0,
+        "path": "mpapartment!/x64/models/cdimages/mpapt01.rpf!/mp_f_freemode_01_female_apt01/lowr_000_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 2,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_002_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 3,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_003_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 4,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_004_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 5,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_005_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 6,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_006_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 7,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_007_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 8,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_008_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 9,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_009_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 10,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_010_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 12,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_012_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 14,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_014_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_01",
+        "part": "lowr",
+        "index": 17,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_female.rpf!/mp_f_freemode_01_mp_f_2023_01/lowr_017_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 4,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_004_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 5,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_005_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 6,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_006_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 7,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_007_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 8,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_008_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 9,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_009_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 11,
+        "path": "patch2024_01!/x64/models/cdimages/patch2024_01_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_011_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2023_02",
+        "part": "lowr",
+        "index": 13,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_female.rpf!/mp_f_freemode_01_mp_f_2023_02/lowr_013_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2024_01",
+        "part": "lowr",
+        "index": 0,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_female.rpf!/mp_f_freemode_01_mp_f_2024_01/lowr_000_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2024_01",
+        "part": "lowr",
+        "index": 2,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_female.rpf!/mp_f_freemode_01_mp_f_2024_01/lowr_002_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_2024_01",
+        "part": "lowr",
+        "index": 5,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_female.rpf!/mp_f_freemode_01_mp_f_2024_01/lowr_005_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_battle",
+        "part": "lowr",
+        "index": 2,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_battle/lowr_002_r.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 4038
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_g9ec",
+        "part": "lowr",
+        "index": 0,
+        "path": "mpg9ec!/x64/models/cdimages/mpg9ec_female.rpf!/mp_f_freemode_01_mp_f_g9ec/lowr_000_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_heist4",
+        "part": "lowr",
+        "index": 0,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_female.rpf!/mp_f_freemode_01_mp_f_heist4/lowr_000_r.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 1662
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_sum2_g9ec",
+        "part": "lowr",
+        "index": 0,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_female.rpf!/mp_f_freemode_01_mp_f_sum2_g9ec/lowr_000_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "female",
+        "collection": "mp_f_freemode_01_mp_f_sum2_g9ec",
+        "part": "lowr",
+        "index": 1,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_female.rpf!/mp_f_freemode_01_mp_f_sum2_g9ec/lowr_001_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01",
+        "part": "lowr",
+        "index": 11,
+        "path": "base!/models/cdimages/streamedpeds_mp.rpf!/mp_m_freemode_01/lowr_011_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_male_apt01",
+        "part": "lowr",
+        "index": 0,
+        "path": "mpapartment!/x64/models/cdimages/mpapt01.rpf!/mp_m_freemode_01_male_apt01/lowr_000_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 0,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_000_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 1,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_001_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 2,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_002_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 3,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_003_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 4,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_004_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 5,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_005_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 6,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_006_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 7,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_007_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 9,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_009_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_01",
+        "part": "lowr",
+        "index": 11,
+        "path": "mp2023_01!/x64/models/cdimages/mp2023_01_male.rpf!/mp_m_freemode_01_mp_m_2023_01/lowr_011_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_02",
+        "part": "lowr",
+        "index": 4,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_male.rpf!/mp_m_freemode_01_mp_m_2023_02/lowr_004_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_02",
+        "part": "lowr",
+        "index": 5,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_male.rpf!/mp_m_freemode_01_mp_m_2023_02/lowr_005_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2023_02",
+        "part": "lowr",
+        "index": 9,
+        "path": "mp2023_02!/x64/models/cdimages/mp2023_02_male.rpf!/mp_m_freemode_01_mp_m_2023_02/lowr_009_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2024_01",
+        "part": "lowr",
+        "index": 0,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_male.rpf!/mp_m_freemode_01_mp_m_2024_01/lowr_000_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2024_01",
+        "part": "lowr",
+        "index": 2,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_male.rpf!/mp_m_freemode_01_mp_m_2024_01/lowr_002_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_2024_01",
+        "part": "lowr",
+        "index": 5,
+        "path": "mp2024_01!/x64/models/cdimages/mp2024_01_male.rpf!/mp_m_freemode_01_mp_m_2024_01/lowr_005_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_g9ec",
+        "part": "lowr",
+        "index": 0,
+        "path": "mpg9ec!/x64/models/cdimages/mpg9ec_male.rpf!/mp_m_freemode_01_mp_m_g9ec/lowr_000_u.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_heist4",
+        "part": "lowr",
+        "index": 0,
+        "path": "patchday27ng!/x64/models/cdimages/patchday27ng_male.rpf!/mp_m_freemode_01_mp_m_heist4/lowr_000_r.ydd"
+      },
+      "reason": "no diffuse",
+      "nativeTriangles": 1716
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_sum2_g9ec",
+        "part": "lowr",
+        "index": 0,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_male.rpf!/mp_m_freemode_01_mp_m_sum2_g9ec/lowr_000_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    },
+    {
+      "model": {
+        "sex": "male",
+        "collection": "mp_m_freemode_01_mp_m_sum2_g9ec",
+        "part": "lowr",
+        "index": 1,
+        "path": "mpsum2_g9ec!/x64/models/cdimages/mpsum2_g9ec_male.rpf!/mp_m_freemode_01_mp_m_sum2_g9ec/lowr_001_r.ydd"
+      },
+      "reason": "empty model",
+      "nativeTriangles": 2
+    }
+  ]
+}

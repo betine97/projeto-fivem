@@ -1,0 +1,18 @@
+{
+  "native_roundtrip": true,
+  "native_lights": 68,
+  "rooms": 19,
+  "all_hours": true,
+  "constant": true,
+  "visible_from_exterior": true,
+  "shadows": 3,
+  "volumetric_lights": 0,
+  "coronas": 0,
+  "mesh_uv_normals_indices_textures_preserved": true,
+  "old_candidates": 196,
+  "optional_script_boost": 19,
+  "default_script_draws": 0,
+  "roof_file_bytes": 221449,
+  "bytes_added": 818,
+  "in_game_verified": false
+}

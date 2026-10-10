@@ -1,0 +1,463 @@
+[
+  {
+    "model": "cs1_05_house_01",
+    "source": "x64q.rpf|levels/gta5/_hills/country_01/cs1_05.rpf|cs1_05_house_01.ydr",
+    "diffuse_textures": [
+      "IM_Canopy05",
+      "IM_Doors01",
+      "MW_WhiteGrm_01",
+      "OS_ML_CRGuttering_0001",
+      "OS_ML_CRWallextras_0001",
+      "im_metal04os_ml_crmetal_0002_a",
+      "im_sidewalk003",
+      "im_steps_01",
+      "im_wall07",
+      "im_windows01",
+      "os_ml_crroofedges_0001",
+      "os_ml_crwall_0001",
+      "os_ml_crwall_0002",
+      "os_ml_crwall_0006",
+      "os_ml_crwalloverlay_0001",
+      "rsl_dr_mixbrick_0001",
+      "vc_roof01"
+    ],
+    "placements": [
+      {
+        "map": "cs1_05_strm_0.ymap",
+        "position": [
+          -301.50750732421875,
+          6322.521484375,
+          34.927223205566406
+        ],
+        "rotation": [
+          0.999848484992981,
+          0.0,
+          0.0,
+          0.01740601286292076
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs1_05_house_02",
+    "source": "x64q.rpf|levels/gta5/_hills/country_01/cs1_05.rpf|cs1_05_house_02.ydr",
+    "diffuse_textures": [
+      "IM_Doors01",
+      "OS_ML_CRCanopy_0003",
+      "OS_ML_CRConcrete_0002",
+      "OS_ML_CRGuttering_0001",
+      "OS_ML_CRMetal_0004OS_ML_CRMetal_0004_A",
+      "OS_ML_CRRoofedges_0001",
+      "OS_ML_CRWallextras_0001",
+      "OS_ML_CRWalloverlay_0001",
+      "OS_ML_KTRoof_0002",
+      "dh_ch02_brickwall_06_painted",
+      "im_steps_01",
+      "im_windows01",
+      "os_ml_crroofs_0002",
+      "os_ml_crwall_0003",
+      "vc_wall_plaster01"
+    ],
+    "placements": [
+      {
+        "map": "cs1_05_strm_0.ymap",
+        "position": [
+          -241.63287353515625,
+          6365.7685546875,
+          32.73603057861328
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs1_05_house_03",
+    "source": "x64q.rpf|levels/gta5/_hills/country_01/cs1_05.rpf|cs1_05_house_03.ydr",
+    "diffuse_textures": [
+      "OS_ML_CRCanopy_0003",
+      "OS_ML_CRConcrete_0002",
+      "OS_ML_CRGuttering_0001",
+      "OS_ML_CRMetal_0004OS_ML_CRMetal_0004_A",
+      "OS_ML_CRRoofedges_0001",
+      "OS_ML_CRWallextras_0001",
+      "OS_ML_CRWalloverlay_0001",
+      "OS_ML_KTRoof_0002",
+      "im_steps_01",
+      "os_ml_crdoor_0002",
+      "os_ml_crwindow_0002",
+      "vc_roof01",
+      "vc_wall_plaster02",
+      "vc_wall_small_01"
+    ],
+    "placements": [
+      {
+        "map": "cs1_05_strm_1.ymap",
+        "position": [
+          -224.65728759765625,
+          6373.05078125,
+          32.74510955810547
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs1_05_house_04",
+    "source": "x64q.rpf|levels/gta5/_hills/country_01/cs1_05.rpf|cs1_05_house_04.ydr",
+    "diffuse_textures": [
+      "OS_ML_CRWallextras_0001",
+      "cs1_05_lds_dd_woodplanks_0001",
+      "cs4_10_rsn_db_caravan_0001",
+      "cs4_10_rsn_db_windows__0001",
+      "cs4_10_rsn_db_windows_shutters_0001",
+      "cs4_10_rsn_db_woodwall_0001",
+      "cs4_10_rsn_db_woodwall_0002",
+      "cs6_10_rsn_db_signhouse_0001",
+      "dch_wood_01",
+      "im_door_trailer001",
+      "im_wall_caravan001",
+      "im_wallextras01",
+      "im_wood_broken_ovly001",
+      "im_wood_panels_07",
+      "im_wood_panels_08",
+      "os_ml_whwindow_0002",
+      "sc01_rnad_woodbeam_0001"
+    ],
+    "placements": [
+      {
+        "map": "cs1_05_strm_0.ymap",
+        "position": [
+          -275.55633544921875,
+          6348.1591796875,
+          33.30365753173828
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs2_01_deshous1",
+    "source": "x64r.rpf|levels/gta5/_hills/country_02/cs2_01.rpf|cs2_01_deshous1.ydr",
+    "diffuse_textures": [
+      "CS2_01_RSL_mr_doorTpage3",
+      "CS2_01_RSL_mr_stoneTpage9",
+      "CS2_01_RSL_mr_windowTpage9",
+      "CS2_01_RSL_mr_woodTpage6",
+      "CS2_01_RSL_mr_woodTpage7",
+      "DH_CH02_Wood08",
+      "IM_Roof06",
+      "IM_Wall_plaster38",
+      "im_wall_plaster39",
+      "im_woodwall_07",
+      "os_ml_bhcon_0001",
+      "os_ml_bhcon_0001_ql"
+    ],
+    "placements": [
+      {
+        "map": "cs2_01_strm_0.ymap",
+        "position": [
+          1659.640869140625,
+          4742.7666015625,
+          42.726871490478516
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs2_01_deshous4",
+    "source": "x64r.rpf|levels/gta5/_hills/country_02/cs2_01.rpf|cs2_01_deshous4.ydr",
+    "diffuse_textures": [
+      "CS2_01_RSL_mr_alphatpageCS2_01_RSL_mr_alphatpage_a",
+      "CS2_01_RSL_mr_doorTpage3",
+      "CS2_01_RSL_mr_stoneTpage10",
+      "CS2_01_RSL_mr_stoneTpage9",
+      "CS2_01_RSL_mr_windowTpage9",
+      "CS2_01_RSL_mr_woodTpage6",
+      "CS2_01_RSL_mr_woodTpage7",
+      "HW_RB_wood_planks_01",
+      "IM_Wall_plaster38",
+      "gg_rn_hw1_02_wall_1_ql",
+      "os_ml_ktroof_0002"
+    ],
+    "placements": [
+      {
+        "map": "cs2_01_strm_0.ymap",
+        "position": [
+          1653.972900390625,
+          4773.9140625,
+          43.119754791259766
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs2_01_deshous_2",
+    "source": "x64r.rpf|levels/gta5/_hills/country_02/cs2_01.rpf|cs2_01_deshous_2.ydr",
+    "diffuse_textures": [
+      "CS2_01_RSL_mr_alphatpage",
+      "CS2_01_RSL_mr_alphatpageCS2_01_RSL_mr_alphatpage_a",
+      "CS2_01_RSL_mr_doorTpage3",
+      "CS2_01_RSL_mr_stoneTpage10",
+      "CS2_01_RSL_mr_stoneTpage9",
+      "CS2_01_RSL_mr_windowTpage9",
+      "CS2_01_RSL_mr_woodTpage6",
+      "CS2_01_RSL_mr_woodTpage7",
+      "OS_ML_SSRoof_0001"
+    ],
+    "placements": [
+      {
+        "map": "cs2_01_strm_0.ymap",
+        "position": [
+          1673.9180908203125,
+          4687.81884765625,
+          44.50281524658203
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs2_01_house5",
+    "source": "x64r.rpf|levels/gta5/_hills/country_02/cs2_01.rpf|cs2_01_house5.ydr",
+    "diffuse_textures": [
+      "CS2_01_RSL_mr_doorTpage3",
+      "CS2_01_RSL_mr_windowTpage9",
+      "CS2_01_RSL_mr_woodTpage6",
+      "CS2_01_RSL_mr_woodTpage7",
+      "HW_RB_wood_planks_01",
+      "OS_ML_SSRoof_0001",
+      "SC01_RNAD_WoodBeam_0001",
+      "og_wood_panels"
+    ],
+    "placements": [
+      {
+        "map": "cs2_01_strm_0.ymap",
+        "position": [
+          1724.7869873046875,
+          4675.50439453125,
+          44.05448913574219
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs4_04_desert_house",
+    "source": "x64t.rpf|levels/gta5/_hills/country_04/cs4_04.rpf|cs4_04_desert_house.ydr",
+    "diffuse_textures": [
+      "CS4_04_RSL_VC_ExtraTpage_0005",
+      "IM_Wall_plaster39",
+      "city_rsn_sl_desgravelstonesdirt_01",
+      "cs4_04_rsl_vc_doorstpage_0002",
+      "cs4_04_rsl_vc_extratpage_0006",
+      "dh_ch02_metal0001",
+      "hw1_3_ja_rn_blkwood",
+      "im_cs2_02_woodbeams_burnt",
+      "im_roof06",
+      "im_wall_plaster38",
+      "im_wood_trellis001im_wood_trellis001_a",
+      "im_woodwall_07",
+      "os_ml_bhcon_0001",
+      "rnbj_concretetile_0001"
+    ],
+    "placements": [
+      {
+        "map": "cs4_04_strm_1.ymap",
+        "position": [
+          2414.80517578125,
+          4025.89794921875,
+          38.868717193603516
+        ],
+        "rotation": [
+          0.8189771175384521,
+          0.0,
+          0.0,
+          -0.5738261938095093
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs4_06_smallhouse",
+    "source": "x64t.rpf|levels/gta5/_hills/country_04/cs4_06.rpf|cs4_06_smallhouse.ydr",
+    "diffuse_textures": [
+      "DC_TreadMesh_0001DC_TreadMesh_0001_A",
+      "IM_wood_panels_08",
+      "IM_wood_trellis001IM_wood_trellis001_a",
+      "cs4_06_rlds_vc_doorsTpage_0001",
+      "cs4_06_rlds_vc_wallTpage_0001",
+      "cs4_07_rlds_vc_extraTpage_0002",
+      "cs4_07_rlds_vc_extraTpage_0009",
+      "cs4_08_rlds_vc_extraTpage_0003",
+      "cs4_10_rlds_vc_extraTpage_0006",
+      "cs4_10_rlds_vc_extraTpage_0009",
+      "cs4_10_rlds_vc_extratpage_0005",
+      "cs4_10_rlds_vc_metalsTpage_0002",
+      "cs4_10_rlds_vc_woodTpage_0001",
+      "cs4_10_rsn_db_metalroof_0003",
+      "gz_v_tp_woodgridgz_v_tp_woodgrid_a",
+      "hw1_3_ja_rn_blkwood",
+      "im_cs2_02_woodwall09"
+    ],
+    "placements": [
+      {
+        "map": "cs4_06_strm_0.ymap",
+        "position": [
+          1436.6929931640625,
+          3634.503662109375,
+          35.72113800048828
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": [
+      "cs4_07_rlds_vc_extraTpage_0002",
+      "cs4_07_rlds_vc_extraTpage_0009"
+    ]
+  },
+  {
+    "model": "cs3_04_house01",
+    "source": "x64s.rpf|levels/gta5/_hills/country_03/cs3_04.rpf|cs3_04_house01.ydr",
+    "diffuse_textures": [
+      "ID1_17_RNTG_corr_0002",
+      "IM_WoodBeam04",
+      "IM_metal12IM_metal12_A",
+      "IM_wood_panels_08",
+      "IM_wood_panels_12",
+      "RSN_SL_Wood_001"
+    ],
+    "placements": [
+      {
+        "map": "cs3_04_strm_3.ymap",
+        "position": [
+          31.00588607788086,
+          3640.81298828125,
+          41.10239791870117
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  },
+  {
+    "model": "cs3_04_house02",
+    "source": "x64s.rpf|levels/gta5/_hills/country_03/cs3_04.rpf|cs3_04_house02.ydr",
+    "diffuse_textures": [
+      "ID1_17_RNTG_corr_0002",
+      "IM_WoodBeam04",
+      "IM_metal12IM_metal12_A",
+      "IM_wood_panels_08",
+      "IM_wood_panels_12",
+      "RSN_SL_Wood_001"
+    ],
+    "placements": [
+      {
+        "map": "cs3_04_strm_3.ymap",
+        "position": [
+          32.99217224121094,
+          3624.98486328125,
+          40.512168884277344
+        ],
+        "rotation": [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "native_parts": 1,
+    "collision_verified": false,
+    "in_game_verified": false,
+    "missing_diffuse": []
+  }
+]

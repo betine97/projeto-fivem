@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopPedApparel>
+  <pedName>player_two</pedName>
+  <dlcName>trevor_heist</dlcName>
+  <fullDlcName>player_two_trevor_heist</fullDlcName>
+  <nameHash />
+  <creatureMetaData></creatureMetaData>
+  <eCharacter>SCR_CHAR_TREVOR</eCharacter>
+  <pedComponents />
+  <pedProps />
+  <pedOutfits />
+</ShopPedApparel>

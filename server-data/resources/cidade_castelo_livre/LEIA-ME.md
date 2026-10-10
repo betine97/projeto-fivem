@@ -1,0 +1,1 @@
+Terreno integrado ao castelo, revisão 08/10/2026. A geometria e colisão foram recortadas somente no volume de implantação e circulação indicado em implantacao_atual.json. Os relatórios anteriores registram a primeira limpeza do lote. A revisão atual está em trajeto_verificacao.json. Consulte o LEIA-ME do recurso cidade_castelo_previa para ativação e detalhes.

@@ -1,0 +1,24 @@
+FROM python:3.13-slim-bookworm
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1 PATH="/opt/venv/bin:${PATH}"
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ca-certificates curl xz-utils libatomic1 libstdc++6 blender \
+    && rm -rf /var/lib/apt/lists/* \
+    && python -m venv /opt/venv
+COPY requirements-runtime.txt /opt/cidade/requirements-runtime.txt
+RUN pip install --no-cache-dir -r /opt/cidade/requirements-runtime.txt
+RUN groupadd --gid 10001 cidade && useradd --uid 10001 --gid cidade --create-home cidade \
+    && mkdir -p /state /app && chown cidade:cidade /state /app
+COPY --chown=cidade:cidade painel_acesso /app/painel_acesso
+COPY --chown=cidade:cidade captura_los_santos /app/captura_los_santos
+COPY --chown=cidade:cidade server-data /app/server-data
+COPY --chown=cidade:cidade servidor-los-santos/server.cfg /app/servidor-los-santos/server.cfg
+COPY --chown=cidade:cidade painel_adm_20261009/cayo_thumbnails/native_index.json /app/painel_adm_20261009/cayo_thumbnails/native_index.json
+COPY --chown=cidade:cidade laboratorio_fivem/work/assets_index.txt /app/laboratorio_fivem/work/assets_index.txt
+COPY --chown=cidade:cidade docker/ /opt/cidade/
+RUN mkdir -p /app/painel_acesso/data /app/captura_los_santos/data \
+    /app/captura_los_santos/cache /app/server-data/resources/cidade_admin/data \
+    && chown -R cidade:cidade /app/painel_acesso/data /app/captura_los_santos/data \
+    /app/captura_los_santos/cache /app/server-data/resources/cidade_admin/data
+USER cidade
+WORKDIR /app
+ENTRYPOINT ["python", "/opt/cidade/entrypoint.py"]

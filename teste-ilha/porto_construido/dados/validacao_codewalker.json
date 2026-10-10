@@ -1,0 +1,901 @@
+{
+  "in_game_verified": false,
+  "passed": true,
+  "assets": [
+    {
+      "reader": "YmfFile",
+      "bytes": 6244,
+      "file": "_manifest.ymf"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1155,
+      "file": "pe_bairro_00.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1275,
+      "file": "pe_bairro_01.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 3606,
+      "file": "pe_bairro_02.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 4367,
+      "file": "pe_bairro_03.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 3543,
+      "file": "pe_bairro_04.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1237,
+      "file": "pe_bairro_05.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 4237,
+      "file": "pe_bairro_06.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8409,
+      "file": "pe_bairro_07.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 7309,
+      "file": "pe_bairro_08.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 2000,
+      "file": "pe_bairro_09.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 10040,
+      "file": "pe_bairro_10.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 9340,
+      "file": "pe_bairro_11.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 9654,
+      "file": "pe_bairro_12.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 5890,
+      "file": "pe_bairro_13.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1470,
+      "file": "pe_bairro_14.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 5587,
+      "file": "pe_bairro_15.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 5824,
+      "file": "pe_bairro_16.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 5087,
+      "file": "pe_bairro_17.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 2670,
+      "file": "pe_bairro_18.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8976,
+      "file": "pe_bairro_19.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8815,
+      "file": "pe_bairro_20.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8820,
+      "file": "pe_bairro_21.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 7474,
+      "file": "pe_bairro_22.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1239,
+      "file": "pe_bairro_23.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 13948,
+      "file": "pe_bairro_24.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 25942,
+      "file": "pe_bairro_25.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 28158,
+      "file": "pe_bairro_26.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 19263,
+      "file": "pe_bairro_27.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 6007,
+      "file": "pe_bairro_28.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 6987,
+      "file": "pe_bairro_29.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8797,
+      "file": "pe_bairro_30.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8680,
+      "file": "pe_bairro_31.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 2114,
+      "file": "pe_bairro_32.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 6492,
+      "file": "pe_bairro_33.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 21588,
+      "file": "pe_bairro_34.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 28312,
+      "file": "pe_bairro_35.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 23279,
+      "file": "pe_bairro_36.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 2040,
+      "file": "pe_bairro_37.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 2525,
+      "file": "pe_bairro_38.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 7278,
+      "file": "pe_bairro_39.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 9020,
+      "file": "pe_bairro_40.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 3007,
+      "file": "pe_bairro_41.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8333,
+      "file": "pe_bairro_42.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 18876,
+      "file": "pe_bairro_43.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 24894,
+      "file": "pe_bairro_44.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 20610,
+      "file": "pe_bairro_45.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 2803,
+      "file": "pe_bairro_46.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1932,
+      "file": "pe_bairro_47.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 5000,
+      "file": "pe_bairro_48.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 3106,
+      "file": "pe_bairro_49.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1707,
+      "file": "pe_bairro_50.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 11331,
+      "file": "pe_bairro_51.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 24196,
+      "file": "pe_bairro_52.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 29639,
+      "file": "pe_bairro_53.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 22358,
+      "file": "pe_bairro_54.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 6530,
+      "file": "pe_bairro_55.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 7819,
+      "file": "pe_bairro_56.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 4529,
+      "file": "pe_bairro_57.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1490,
+      "file": "pe_bairro_58.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 2947,
+      "file": "pe_bairro_59.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 8634,
+      "file": "pe_bairro_60.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 6700,
+      "file": "pe_bairro_61.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1316,
+      "file": "pe_bairro_62.ymap"
+    },
+    {
+      "reader": "YmapFile",
+      "bytes": 1177,
+      "file": "pe_bairro_63.ymap"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1761524,
+      "file": "pe_estrutura_01_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 1149888,
+      "file": "pe_estrutura_01.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1799945,
+      "file": "pe_estrutura_02_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 2194601,
+      "file": "pe_estrutura_02.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1943337,
+      "file": "pe_estrutura_03_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3582459,
+      "file": "pe_estrutura_03.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 2093067,
+      "file": "pe_estrutura_04_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 5674766,
+      "file": "pe_estrutura_04.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 2011509,
+      "file": "pe_estrutura_05_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 5668683,
+      "file": "pe_estrutura_05.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1812136,
+      "file": "pe_estrutura_06_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 2020229,
+      "file": "pe_estrutura_06.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1930580,
+      "file": "pe_estrutura_07_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4326006,
+      "file": "pe_estrutura_07.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 2013020,
+      "file": "pe_estrutura_08_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3114294,
+      "file": "pe_estrutura_08.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1734601,
+      "file": "pe_estrutura_09_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3645806,
+      "file": "pe_estrutura_09.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 336043,
+      "file": "pe_estrutura_10_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 2161880,
+      "file": "pe_estrutura_10.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 5563,
+      "file": "pe_porto_00.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3720,
+      "file": "pe_porto_01.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 11504,
+      "file": "pe_porto_02.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 118703,
+      "file": "pe_porto_03.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 2439,
+      "file": "pe_porto_04.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 11101,
+      "file": "pe_porto_05.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 9870,
+      "file": "pe_porto_06.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3642,
+      "file": "pe_porto_07.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 18580,
+      "file": "pe_porto_08.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 49554,
+      "file": "pe_porto_09.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4958,
+      "file": "pe_porto_10.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 1064,
+      "file": "pe_porto_11.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 2213,
+      "file": "pe_porto_12.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 42508,
+      "file": "pe_porto_13.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 1339,
+      "file": "pe_porto_14.ydr"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 8496,
+      "file": "pe_porto_15.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 432,
+      "file": "pe_porto_texturas.ytd"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1081440,
+      "file": "pe_solo.ytd"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1084572,
+      "file": "pe_veg_01_coqueiro_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3217714,
+      "file": "pe_veg_01_coqueiro.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1023830,
+      "file": "pe_veg_02_imperial_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3195538,
+      "file": "pe_veg_02_imperial.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1136364,
+      "file": "pe_veg_03_caneleira_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4794725,
+      "file": "pe_veg_03_caneleira.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 869290,
+      "file": "pe_veg_04_amendoeira_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4785215,
+      "file": "pe_veg_04_amendoeira.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1173956,
+      "file": "pe_veg_05_flamboyant_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 7387172,
+      "file": "pe_veg_05_flamboyant.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1138412,
+      "file": "pe_veg_06_arvore_rua_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4778764,
+      "file": "pe_veg_06_arvore_rua.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1188356,
+      "file": "pe_veg_07_reseda_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 7376112,
+      "file": "pe_veg_07_reseda.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1223533,
+      "file": "pe_veg_08_ipe_amarelo_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 7386470,
+      "file": "pe_veg_08_ipe_amarelo.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1274799,
+      "file": "pe_veg_09_oliveira_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4777035,
+      "file": "pe_veg_09_oliveira.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1109927,
+      "file": "pe_veg_10_castanhola_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4779008,
+      "file": "pe_veg_10_castanhola.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1094663,
+      "file": "pe_veg_11_mangueira_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4819616,
+      "file": "pe_veg_11_mangueira.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1142177,
+      "file": "pe_veg_12_bananeira_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 94208,
+      "file": "pe_veg_12_bananeira.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1278175,
+      "file": "pe_veg_13_mangue_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 4794102,
+      "file": "pe_veg_13_mangue.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1224679,
+      "file": "pe_veg_14_arbusto_costeiro_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 1554107,
+      "file": "pe_veg_14_arbusto_costeiro.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1243117,
+      "file": "pe_veg_15_palmeira_ana_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 3328361,
+      "file": "pe_veg_15_palmeira_ana.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1065183,
+      "file": "pe_veg_16_palma_azul_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 1098524,
+      "file": "pe_veg_16_palma_azul.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1100114,
+      "file": "pe_veg_17_yucca_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 57024,
+      "file": "pe_veg_17_yucca.ydr"
+    },
+    {
+      "reader": "YtdFile",
+      "bytes": 1242314,
+      "file": "pe_veg_18_cerca_viva_tx.ytd"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 1545086,
+      "file": "pe_veg_18_cerca_viva.ydr"
+    },
+    {
+      "reader": "YtypFile",
+      "bytes": 4175,
+      "file": "porto_esperanca.ytyp"
+    },
+    {
+      "reader": "YtypFile",
+      "bytes": 2953,
+      "file": "teste_ilha.ytyp"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 339436,
+      "file": "ti_terreno_01_02.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 916909,
+      "file": "ti_terreno_01_02.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 324058,
+      "file": "ti_terreno_01_03.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 870728,
+      "file": "ti_terreno_01_03.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 309087,
+      "file": "ti_terreno_01_04.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 720697,
+      "file": "ti_terreno_01_04.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 283926,
+      "file": "ti_terreno_01_05.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 446226,
+      "file": "ti_terreno_01_05.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 352911,
+      "file": "ti_terreno_02_02.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 962635,
+      "file": "ti_terreno_02_02.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 340624,
+      "file": "ti_terreno_02_03.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 921574,
+      "file": "ti_terreno_02_03.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 288192,
+      "file": "ti_terreno_02_04.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 530971,
+      "file": "ti_terreno_02_04.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 278425,
+      "file": "ti_terreno_02_05.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 450979,
+      "file": "ti_terreno_02_05.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 316974,
+      "file": "ti_terreno_02_06.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 768639,
+      "file": "ti_terreno_02_06.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 343278,
+      "file": "ti_terreno_03_02.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 884733,
+      "file": "ti_terreno_03_02.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 341069,
+      "file": "ti_terreno_03_03.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 905310,
+      "file": "ti_terreno_03_03.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 332341,
+      "file": "ti_terreno_03_04.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 883351,
+      "file": "ti_terreno_03_04.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 331874,
+      "file": "ti_terreno_03_05.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 873242,
+      "file": "ti_terreno_03_05.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 340681,
+      "file": "ti_terreno_03_06.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 930954,
+      "file": "ti_terreno_03_06.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 352405,
+      "file": "ti_terreno_04_02.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 970083,
+      "file": "ti_terreno_04_02.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 351915,
+      "file": "ti_terreno_04_03.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 975185,
+      "file": "ti_terreno_04_03.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 350594,
+      "file": "ti_terreno_04_04.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 958354,
+      "file": "ti_terreno_04_04.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 348312,
+      "file": "ti_terreno_04_05.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 976730,
+      "file": "ti_terreno_04_05.ydr"
+    },
+    {
+      "reader": "YbnFile",
+      "bytes": 349633,
+      "file": "ti_terreno_04_06.ybn"
+    },
+    {
+      "reader": "YdrFile",
+      "bytes": 968126,
+      "file": "ti_terreno_04_06.ydr"
+    }
+  ]
+}

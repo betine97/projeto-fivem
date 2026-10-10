@@ -1,0 +1,29 @@
+{
+  "source": "C:\\Users\\erons\\Downloads\\Meshy_AI_guard_character_3d_1005050026_image-to-3d-texture.glb",
+  "source_sha256": "8d303f56081104889b6a80331eff1491602149834d3e89cc55cef2ba56b1a3e2",
+  "vertices": 318137,
+  "triangles": 597401,
+  "geometry_unchanged": true,
+  "uv_unchanged": true,
+  "material_unchanged": true,
+  "packed_texture_sha256": {
+    "Image_0": "f906dd6972f1fd464ce89005c07f997eed1c7ffacdce053886cb57eec2cfe08d",
+    "Image_1": "99bef945c0662115991bffb083189d39bbbb5d90238dfc21b9cc96d79110f4ec",
+    "Image_2": "353f370839be00ec69e4253a274b3ebcb804dc237bb7c048ebd91e8379098fe7"
+  },
+  "placement_translation": [
+    0,
+    0,
+    -1.002028
+  ],
+  "scale": [
+    1,
+    1,
+    1
+  ],
+  "bones": 128,
+  "max_influences": 4,
+  "unweighted_vertices": 0,
+  "extreme_stretched_edges": [],
+  "extreme_stretched_edge_count": 0
+}

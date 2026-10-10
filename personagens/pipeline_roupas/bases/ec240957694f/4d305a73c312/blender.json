@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "original_meshes_unchanged": true,
+  "original_mesh_count": 1,
+  "working_objects": 3,
+  "poses": [
+    {
+      "rig": "VAR_lowr_001_r",
+      "bones": 128,
+      "test_action": "QA_FLEXAO_VAR_lowr_001_r",
+      "max_displacement_m": 0.6015139662679367
+    }
+  ],
+  "unresolved_external_textures": [
+    {
+      "material": "lowr_diff_001_a_whi",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker"
+    },
+    {
+      "material": "lowr_diff_001_a_whi.001",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker"
+    },
+    {
+      "material": "lowr_diff_001_a_whi.002",
+      "sampler": "VolumeSampler",
+      "texture": "givemechecker"
+    }
+  ],
+  "in_game_validation": "pending",
+  "source_manifest_sha256": "b2e9dad8d69a6ff0f304cec8ef5fd60170b9a859156a9adc296e9a4006e0b338",
+  "builder_sha256": "44a96bae5a92363b3f84e53b790283ce2a0fa62f2361dc8d56227ea4700a3083",
+  "blend_sha256": "fb3d38d2bc010aaeae3299176681c8caa9186d80bbce1ae639012ec4225a360c"
+}

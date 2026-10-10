@@ -1,0 +1,163 @@
+{
+  "passed": true,
+  "native_sources": 116,
+  "white_ceiling_sources": 88,
+  "yellow_pendants": 9,
+  "neutral_low_bounce": 19,
+  "every_fixture_geometrically_reaches_actual_floor": true,
+  "coverage": [
+    {
+      "room": "Sala de estar",
+      "level": "terreo",
+      "samples": 372,
+      "ceiling_cone_samples": 372
+    },
+    {
+      "room": "Sala de jantar",
+      "level": "terreo",
+      "samples": 312,
+      "ceiling_cone_samples": 312
+    },
+    {
+      "room": "Cozinha",
+      "level": "terreo",
+      "samples": 340,
+      "ceiling_cone_samples": 340
+    },
+    {
+      "room": "Hall de entrada",
+      "level": "terreo",
+      "samples": 256,
+      "ceiling_cone_samples": 256
+    },
+    {
+      "room": "Escritorio",
+      "level": "terreo",
+      "samples": 160,
+      "ceiling_cone_samples": 160
+    },
+    {
+      "room": "Lavabo",
+      "level": "terreo",
+      "samples": 52,
+      "ceiling_cone_samples": 52
+    },
+    {
+      "room": "Escada",
+      "level": "terreo",
+      "samples": 40,
+      "ceiling_cone_samples": 40
+    },
+    {
+      "room": "Despensa",
+      "level": "terreo",
+      "samples": 48,
+      "ceiling_cone_samples": 48
+    },
+    {
+      "room": "Sala TV Jogos",
+      "level": "terreo",
+      "samples": 98,
+      "ceiling_cone_samples": 98
+    },
+    {
+      "room": "Lavanderia",
+      "level": "terreo",
+      "samples": 56,
+      "ceiling_cone_samples": 56
+    },
+    {
+      "room": "Suite master",
+      "level": "superior",
+      "samples": 264,
+      "ceiling_cone_samples": 264
+    },
+    {
+      "room": "Closet",
+      "level": "superior",
+      "samples": 84,
+      "ceiling_cone_samples": 84
+    },
+    {
+      "room": "Banheiro da suite",
+      "level": "superior",
+      "samples": 84,
+      "ceiling_cone_samples": 84
+    },
+    {
+      "room": "Quarto 2",
+      "level": "superior",
+      "samples": 360,
+      "ceiling_cone_samples": 360
+    },
+    {
+      "room": "Quarto 3",
+      "level": "superior",
+      "samples": 160,
+      "ceiling_cone_samples": 160
+    },
+    {
+      "room": "Banheiro social",
+      "level": "superior",
+      "samples": 60,
+      "ceiling_cone_samples": 60
+    },
+    {
+      "room": "Circulacao quartos",
+      "level": "superior",
+      "samples": 60,
+      "ceiling_cone_samples": 60
+    },
+    {
+      "room": "Mezanino",
+      "level": "superior",
+      "samples": 160,
+      "ceiling_cone_samples": 160
+    },
+    {
+      "room": "Sala intima / leitura",
+      "level": "superior",
+      "samples": 132,
+      "ceiling_cone_samples": 132
+    }
+  ],
+  "surface_samples": 3098,
+  "native_constant_all_hours": true,
+  "volumetric_and_corona_sources": 0,
+  "shadow_sources": 1,
+  "geometry_checks": [
+    {
+      "model": "mansao_teto",
+      "geometry_uv_normals_indices_identical": true,
+      "unrelated_shader_hashes_preserved": true,
+      "emissive_shader_key_corrected": false,
+      "collision_preserved": true,
+      "unrelated_texture_bytes_preserved": true
+    },
+    {
+      "model": "mansao_pendentes",
+      "geometry_uv_normals_indices_identical": true,
+      "unrelated_shader_hashes_preserved": true,
+      "emissive_shader_key_corrected": true,
+      "collision_preserved": true,
+      "unrelated_texture_bytes_preserved": true
+    },
+    {
+      "model": "mansao_spot_embutido",
+      "geometry_uv_normals_indices_identical": true,
+      "unrelated_shader_hashes_preserved": true,
+      "emissive_shader_key_corrected": true,
+      "collision_preserved": true,
+      "unrelated_texture_bytes_preserved": true
+    }
+  ],
+  "lua_syntax": true,
+  "lua_movement_time_cases": 45,
+  "all_room_boost_unchanged": true,
+  "drone_verified": true,
+  "default_light_draws_per_frame": 0,
+  "weather_diagnostic_only": true,
+  "climate_protection_still_removed": true,
+  "in_game_visual_verified": false,
+  "in_game_fps_measured": false
+}

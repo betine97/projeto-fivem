@@ -1,0 +1,2033 @@
+{
+  "revision": "identidade-cayo-chiliad-20261009-1",
+  "backup": "C:\\Users\\erons\\OneDrive\\Imagens\\Documentos\\ChatGPT\\cidade fivem\\server-data\\backups\\identidade-natural-20261009-211015",
+  "installed": [
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\csx_coastalrocks+hi.ytd",
+      "sha256": "89a54250d0e7419dcefda785a93cdd27aabf07a0e4df5faf89454b634ae86451"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\csx_coastalrocks.ytd",
+      "sha256": "3f08eb854aa822119838a5ec65783532cefd301d4a92ed3450ee5a005c66e520"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\natureza_integrada.ytyp",
+      "sha256": "ec70c2a56ac2771c7d3434ec902147722af488daddde3037799957d41f182818"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_csx_coastsmalrock_01_.ydr",
+      "sha256": "936960280fcc054f046f9cf3c51a133ad1cbab3ae588e1517ff5762570214fc1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_csx_coastsmalrock_02_.ydr",
+      "sha256": "5ed4403b558d412f43a712b9a8aab805dbfa8e075438a3c4f79d8a2120228a4e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_csx_coastsmalrock_03_.ydr",
+      "sha256": "1f00e001220eb0ba9095360fc6111795ba4afc053d4d8e2685afdbd343ae244b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_csx_coastsmalrock_04_.ydr",
+      "sha256": "aa0ceaa73e42c330e4124950d96389a3d449af72926de2601e3f716a1cfd03a3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_csx_coastsmalrock_05_.ydr",
+      "sha256": "1df3e7c64f75a3b2ad7e4feffc014792c444ef0d87b85498fe56692b4b610247"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_dock_maindock_watertower.ybn",
+      "sha256": "50ada35c06dfa63edc80535805ebb91c9336365526e121019ee769f0aeaae285"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_dock_maindock_watertower.ydr",
+      "sha256": "b7cfac6659788a1fb16f7ba5ad5db2418c8572ce3a87e7a7f79b0bdd1d71e210"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_00.ybn",
+      "sha256": "10b9f3c54dec4ed19eed10f0552995d27a339d620053dad6bd4f2db999f5e605"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_00.ydr",
+      "sha256": "c2808d4d8a9bb2ae7911bdb876ce2ef213f4e4de465497440b11001dfa8d2c4f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_01.ybn",
+      "sha256": "5c0fa0a528b65f886f1cc4d17fda55771aeec6631531cec805577a6a02874a16"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_01.ydr",
+      "sha256": "65556eded60dac53efc9c17c599abe23c3b459945ff67dd0fffeb1e4a5ef77ab"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_02.ybn",
+      "sha256": "c22d77fbfc98ff810d063ce0db6ec61bf48ce7d05544b29265327d633bf6c399"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_02.ydr",
+      "sha256": "386655ced10571ef369e26c94bc2dc31616e153814bc346d162de3849eb58295"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_03.ybn",
+      "sha256": "748deb78c6fbf59477063e3f9ecb2aab2df670cc1608c6a8e4032df68ba05df5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_03.ydr",
+      "sha256": "2ef7bcc983978c6f90f7c8a231f200f0fa543d7bce539a61ce38debd4466b67e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_04.ybn",
+      "sha256": "22582515f65f180aa6c4276e4c5408aa4aaeea1a04c2e7ea3bd4bd280248fabe"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_mph4_wtowers_watert_04.ydr",
+      "sha256": "7c7412a3ea39572d24fdeb06528ec4871b74fbc6f9089b01e65905be73282196"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_buddleia_sml_01.ydr",
+      "sha256": "c0766652709d63ce2846c603bae2952566ddb826ae9356d5ace8d0fa510b7798"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_mang_aa.ydr",
+      "sha256": "5fc2922a573a677b56a7a39474a598b230d9f8b8e0771252fa308baf88e18d64"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_mang_ac.ydr",
+      "sha256": "ab59f1803ffc488b3911dc3e7bcee4234cdb05bc7186ac0cac4531dec93171ab"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_mang_lg_aa.ydr",
+      "sha256": "5c74dcbbfe54b92d0fd622dc43446c357df89e428af51de852e6d2c072250e4b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_mang_lrg_01.ydr",
+      "sha256": "c055fd5186f1e586bbe9141e12e0c346f8444679cb5db8e454ac15ae9407f7e2"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_mang_lrg_02.ydr",
+      "sha256": "ff7bbd5ec680263431d2bf06e8efc0023beaa457c759e459410174b832c09557"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_monstera_med_01.ydr",
+      "sha256": "ab0caad368d8b074ab3045728c6df590486e980c90e2cf1581f2a69ea6e94153"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_olndr_white_lrg.ydr",
+      "sha256": "fd9ed6074414b9ab9621cd36b46f3c966214e920c013017fac12e4c74804065d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_olndr_white_sml.ydr",
+      "sha256": "4c60695126109d18a748a4eb618960f94028a3b4e7edba91c1292b3003cee7c3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_bush_rosemary_lrg_01.ydr",
+      "sha256": "3c72f12564232241084ad90ab071af6baf250e325338e768596fcc721110c623"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_palmeto_sap_aa.ydr",
+      "sha256": "7e4423abf3e7672d8cb32ac7da1f37c99cc5b48fd1c940bf5c4cc6dc3680c54d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_palmeto_sap_ab.ydr",
+      "sha256": "f95bb3427fd31a0c62ca12d67911b9bfb2177b7511b0c3fd24885301f1d890dc"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_palmeto_sap_ac.ydr",
+      "sha256": "cdfc4b7320fed609fa4a9dd8df352a904edba639f53e9adfc24ddcacf0addc94"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_01.ydr",
+      "sha256": "c005dea5ca4d66f22cd8cb307ba73eb06b1adaf491fadb975d0bd1ef02a4cffd"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_02.ydr",
+      "sha256": "9fa02b174187541632cac0985b3c8deebc6075ce57f8f057a114cce8f2cb9361"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_03.ydr",
+      "sha256": "02ac6ad268addb05cb0943e900e856a98257eef92aa2a369e97497f7c982df2d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_04.ydr",
+      "sha256": "10159f61a5be12fe429d6a45416a0459eea2c2e0770155e961228453109d3965"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_05.ydr",
+      "sha256": "a8f642c8603f8cbcf9131e3b338f3786af31ac3ee503b9df425b26f26fda1fca"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_06.ydr",
+      "sha256": "af5ca29758bbaa1aafbbb7763c3fd8eeb8feb4918b4100877e961df306bceb38"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_07.ydr",
+      "sha256": "fb0b909431bb35d3894d23311f075cdddf655c536b60ae680db2298dd9f9bb8c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_08.ydr",
+      "sha256": "7a0302f6e38459263c579c00aea7b54a6d23e7138cd1355fbbe3a8eb1e4f4288"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_09.ydr",
+      "sha256": "d75984f794adc9062a540b9e593437f4c8b72e412947354dd6b9b3aabcc56b09"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_10.ydr",
+      "sha256": "44f5fc863b0ef10f1ba89644c46a85d1d5072925583c7c89c61a8d52508de0f9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_11.ydr",
+      "sha256": "e7976fc7c9ceac171fd173789db0929981a4623680126a59772e40e8fa45b247"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_lrg_12.ydr",
+      "sha256": "927439b86546b228c99947e975f4175a89212faede4e202a3bed35c88feaaf57"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_med_01.ydr",
+      "sha256": "28d430e8b3530f4eacfe1ffd2590c098c6ef3f297ffa93d8e5e3523a864a9b48"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_med_02.ydr",
+      "sha256": "d260f16c8a344d57b2856aa85a237779d71753892fc093ff9cac0d109d17a06b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_med_03.ydr",
+      "sha256": "03e85e4f09f6a167408bdc35820c15c7361b46e2a3df19116678044a296e9b2a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_scree_med_01.ydr",
+      "sha256": "37c5d272fcfb5b38e398dc2561c6f315952b1cf9e72f624c9c775d1359bd2b38"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_scree_med_02.ydr",
+      "sha256": "76a57000c79830d1a7a9ce8ad2d780913dc4a099e3b1313bc056c99bb15e03ec"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_scree_med_03.ydr",
+      "sha256": "2cc0024d72dd0c0f44c4ac8ffd3cebfd3737b04cd3498caf279e1053e70c6c51"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_scree_small_01.ydr",
+      "sha256": "f414af6ab55ecd85a5ae2eafca7a7c461f015ab9311ef4206cc3e604b4ea2b56"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_scree_small_02.ydr",
+      "sha256": "b099c8154fbbe40a5eb3c5f51fa5ddf51fa2d1b096d55f3b12b5446fa0c9b547"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_rock_scree_small_03.ydr",
+      "sha256": "4d451f2f36aac08b1c341c5c6091072374891e746081dd9b651646c494c92b97"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_banana_med_01.ydr",
+      "sha256": "4e9a398fd2bdecfe545f34830bd3999a6d53731ae1e4917c09c37b1aa846e2d1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_beech_lrg_if_01.ydr",
+      "sha256": "2476a08d2b7612c486df357189239b12ce58fbc6d7eadabe1fe46d6cba416795"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_blk_mgrv_lrg_01.ydr",
+      "sha256": "6e9ec27c3229e97bbd3fd74db0e2bf19141589ac207c83220fb3724d630e08e5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_blk_mgrv_lrg_02.ydr",
+      "sha256": "089291cc1d5c531db97c2041704d2b25f63097f8269b6f8a1cbf355ae1a5d219"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_blk_mgrv_med_01.ydr",
+      "sha256": "112e58f8f400df16efee63751aa4dd56b2b66c706243ed0bb332989693fe7dd1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_frangipani_lrg_01.ydr",
+      "sha256": "caf05808ef55e2e78bbf2e7f1b0fe89ab8d5b4e305a48ed6add04d343823f850"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_frangipani_med_01.ydr",
+      "sha256": "955c405217fceb3d87a4b86ee91a3363989810955cd5d633bf618f920ba06685"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_palm_areca_sap_02.ydr",
+      "sha256": "4dceeaea97687e2ae33990465c3f1af3ef5c72ac3495ce2dfbd68ad01c9a9d34"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_palm_areca_sap_03.ydr",
+      "sha256": "f34782770b7f5bd2da4f36c7d2f40aeaa084c58deb2d73d2fd1f1eac764f80ff"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_palm_fan_bea_03b.ydr",
+      "sha256": "2191c2f5484e53b0722a25b80471fb1cda394e37abafb59e30d9e904fd485d83"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_palm_thatch_01.ydr",
+      "sha256": "ed7c534f00d95300b4f1bf0876d1c3e361bc2c7d4038a190a7fb1d2eee86c1c7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_palm_trvlr_03.ydr",
+      "sha256": "2332f5eeb5ebf3b859768a59ee13d86359822c8827c2b07ae5a480b3b44eed6a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_umbrella_med_01.ydr",
+      "sha256": "3c34e77c41901e88b9ae669533b957af7030d47fda0e03cbeeb15a3c269921a6"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_h4_prop_tree_umbrella_sml_01.ydr",
+      "sha256": "183adc4bc75e0ab7ff9cf21f221e5d4a6c5051fb399a90a03fb83ad0f3401342"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_00.ymap",
+      "sha256": "6a460dbfc1246fec5fd0ef992c10fba9aef9134a7ad6e3c4f1130597843ffb56"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_01.ymap",
+      "sha256": "59c5eb614cb0a2f19263e9992b03f68f298677cbf638aa70c4a69ece935c3228"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_02.ymap",
+      "sha256": "949e02b36433985f276bce7857811eda70e808100242678ec73002ee5c2f5183"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_03.ymap",
+      "sha256": "2cb9ecf3c787bb15ba316f91569d5452d4b8fb5e38cdc7df4a85946e82b387c7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_04.ymap",
+      "sha256": "3d9cba363780386e73ccd5fe2b62361e362cc9e3da41a51bc2d87eacdc17753f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_05.ymap",
+      "sha256": "f6e63f85aaa279c0f4266ac8db44aab09cc2e8c3d41ac5019a28320124b0d1e0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_06.ymap",
+      "sha256": "dc0d902d7df9863263ce43bf015fa966db3c4059ebc90855d531a77b483db5f8"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_07.ymap",
+      "sha256": "fcfc94a5499ac55c89eb50232b517b351e2af95223c08931fabffcb0f1da4b1d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_08.ymap",
+      "sha256": "043a753be0d057921acdb158d5bc2018b70017780edf920ea525c337a2066a37"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_09.ymap",
+      "sha256": "89badab8edb7554bd1abbcf9b0a9b1be00744be278b7bc28ded4d81dd841cb46"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_10.ymap",
+      "sha256": "2fd66221d92e50d82a87e772e48b1008f40cbda8c09e63c30d8ab1ef5e5c7517"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_11.ymap",
+      "sha256": "c9fe258f7c768b689adfdcfd6a3370aa8b66c18e60ee98be864ace91cd623ec0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_12.ymap",
+      "sha256": "7703de5ba40a4f0eeba471ba8537500853ffd1d422086701ff490b9d74fecce3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_13.ymap",
+      "sha256": "2f8a857a2179e3516d29c602aa2e0531a54d72f9fb1117f4a0e7579196a53a70"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_14.ymap",
+      "sha256": "ea92d46ce0f48d750359806f11d16cb1d80dcf1972d468ee40e14f44474861f2"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_15.ymap",
+      "sha256": "586ae5650eb42a3f9147ac3870ee3e51c679fbf3abe7b91551f0d0711e896068"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_16.ymap",
+      "sha256": "fa98a193fafa8d4a15506aaaa60b72afc5056c64840ded35542bcaf93dcfcc99"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_17.ymap",
+      "sha256": "7a0ae12ee16098c806d86a072eca90a0cdf4fb6ded32cbdd3ffbf5f6d6958198"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_18.ymap",
+      "sha256": "77fc84272cad9a9a8ed066c06ce4b2c044156652c775d28b64415e9b9d14ecb0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_19.ymap",
+      "sha256": "3ad0c5b0dae24ba8515d3364ef51a761219e8aba665e6df06d76d8650ecff8f7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_20.ymap",
+      "sha256": "133d6f3671c5370316734b9a6aa2033fa57ba8bbf8aa704c5e1547390d1c0d8a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_21.ymap",
+      "sha256": "1227aaa06fad9cc2659dfe5f478796689c9b7a626354de351a46aa421756214d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_22.ymap",
+      "sha256": "a3851c3793fee36ab6705daa107db94b44afe223b29f8d121895c9eba99c68cd"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_23.ymap",
+      "sha256": "c2878ecaeb45d86b7e13bde46b438f460d5ee1f7452c566574cb4a3eef1e66ba"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_24.ymap",
+      "sha256": "9013b01896daef8263d7308bc41e4bcbba79e25d73862acbf825330edbb3eab9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_25.ymap",
+      "sha256": "f641f27c37f066b06f93e4c188c79674ba03dfb9477ad233c2a91d9be33fedd9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_26.ymap",
+      "sha256": "1e047b027505e6fd08c5dbbc9efc88b484dedbd739735fac1aa337ab543d0573"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_27.ymap",
+      "sha256": "045f5f146c0c3ccf32a9470cc00b47bd35d47379760afe2ffb2eb78c7ac44e93"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_28.ymap",
+      "sha256": "529b92f5cfcf2bdcc6bcaee2e61cad5e44b1033897d26e7699ba6cdc55ed1348"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_29.ymap",
+      "sha256": "7c94473d876a998b6a194e455765098c25d7ea84bf53a3253a4c843fbc1bbc8a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_30.ymap",
+      "sha256": "81532f6a0eded5d124205a67082abb86403745bfbcc0dc2795aef1d138d6a5d1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_31.ymap",
+      "sha256": "b791149428fe43a1830e53da2898191cb7050f007770d973336a43118288695f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_32.ymap",
+      "sha256": "b71546112e01861e6a75a2da3120cbb4c51848607692c3798e352cce60f46a7d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_33.ymap",
+      "sha256": "c878fd84f2cf2c4a938c371391229a43ed9432dd6b06d863624a46c24a8858ec"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_34.ymap",
+      "sha256": "aa3f99e459bc4043e1e26354b73925694b63951dd9cbaa5a33ba309f5f1f9432"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_35.ymap",
+      "sha256": "98c7c4bccc079d6bcb7c5c1e247493a3684a4e0061b0a4d501119d9696ec6314"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_36.ymap",
+      "sha256": "a1e24386094590a9e5a5b0d700256b8916feaa6435a64e3bff56711281441758"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_37.ymap",
+      "sha256": "c4e2fe4387a30579257d636f403e27b17f37b3eae05bfe24d37852e02732bdeb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_38.ymap",
+      "sha256": "f2d56a9693b0846fc8528c96c78e2bd81ab71fc24c91411f25f9cccfc71913a4"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_39.ymap",
+      "sha256": "3008b393e5ccef90d72feaef4c852a4163f9ae1a2c51ea78378b814b9f9928b0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_40.ymap",
+      "sha256": "fff0e15a44394074d055aed2c83239601c5e703af26ff7f8ad1f7de85d184953"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_41.ymap",
+      "sha256": "f46e8b4bb2015d0a6191bcb248717bb610a8c1b4981b430caa072c8264c50a3e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_42.ymap",
+      "sha256": "1a61ff1b2c98d7dc78ff78d2918e172a5cb08d6a97fc0f1c12b7f36e1dfe8c17"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_43.ymap",
+      "sha256": "da3a66efc16e3a8d9047613e82e541c5ab2d470918ed67fcdf33c59484961a8d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_44.ymap",
+      "sha256": "673f7b542684be39dcad3252a95231764ab064c2e90fa255966692a1fd0f834f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_45.ymap",
+      "sha256": "c206a270e699ad00d76ff8a463207a21710444ae49eb1f2c47ddb745c8d5cee7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_46.ymap",
+      "sha256": "d8c113730e566e5fc71284e7cf48a11980f697b6c83c91f126beab103be6f3bb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_47.ymap",
+      "sha256": "5cf92979cfadf22569117dd0439062b4c1c8506a0b0249a76099cc721981ffc8"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_48.ymap",
+      "sha256": "2d93a6675df84e56bc00812ed6a4b90642b941d7230c4739392e0c1bd73ded6e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_49.ymap",
+      "sha256": "9569b49728234383c71c94a9ad792db3fc86d0aa54887fe000512813ea53c28c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_50.ymap",
+      "sha256": "6db7a221d527f020abde32b226694bca360907173c1ee1a6fe136e08be54a5d8"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_51.ymap",
+      "sha256": "1e879effb689eca7f148bfabf4168e2feb6a7179109169c5227b493811dc5d19"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_52.ymap",
+      "sha256": "4723441fe439ab4bec63ca4795923ad38334800df0ab95dc62b9a8cd72cac470"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_53.ymap",
+      "sha256": "9733b51d88d32126b810a8610861a9f5c81d4a8621ab627fe60c9c06f09162f0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_54.ymap",
+      "sha256": "9ac89fb5bac825d854db18cd21dc53cc44a0dca954fe87d1ce5f422c0a7a5ea3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_55.ymap",
+      "sha256": "4b3c9dfce9627646d02f62cf451da2089cbab7adec7dd3acbef156fcdafc3038"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_56.ymap",
+      "sha256": "48394b070834e1b7b116d5831bc064b72122684cba181ed47fa21eca25e6ba7c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_57.ymap",
+      "sha256": "79c86b68b427a1be0f0f662c6cf177fac4dba74be135d9a57c43fc2765defad6"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_58.ymap",
+      "sha256": "8b10fa1733e5555200802faec0f48831bdcb23635ebfb8199db419ff839bdad7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_59.ymap",
+      "sha256": "1590da06be33212b8e42ee3f33dc277e0a35529a138723fc6b196bb27ad8189c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_60.ymap",
+      "sha256": "46b268aa5b2f3e3499c7dce37ebb90fa06069de4f472886421eac57ae7bdc690"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_61.ymap",
+      "sha256": "6672b3d4fd36ca890e80b159c37cbb0f9bcc147607cc22b7a0997d37f924ecb7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_62.ymap",
+      "sha256": "76eceabe5cb07973ea59df850ba8552c556fa5b0156c0d3bbcbc1d139886531b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_63.ymap",
+      "sha256": "1fd48cff674b3156e7e5a741524d8e81085618d4a4cf27c3c1f5cb9ec5b98cd6"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_64.ymap",
+      "sha256": "2d43839fda1aca7f61754a7ef1a20e2500bce98b928a4b90e5cdd2c5ec495479"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_65.ymap",
+      "sha256": "9393c942f9c23b5f1ece31d4b2416cad97d786ed32ca9e8949686114d21a1e46"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_66.ymap",
+      "sha256": "1f05b3e2cb8dc7da938acd661a164c46265c4639261adfeb57f14ec2dc680860"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_67.ymap",
+      "sha256": "23ced8ea2cb575e5078998f4854eb7dc6cfcde9b0e8ee49e38a3de18aa8b3c41"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_68.ymap",
+      "sha256": "bd69663134f386536a330e9195fc6ff0f3c00a175cfad0336a04e550164730a3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_69.ymap",
+      "sha256": "66f43a3b630c6cc8a161f0663f0cee9faf655558995e6b4617da64b204196ed7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_70.ymap",
+      "sha256": "2f3a1d024bb26ce026b33c54c07a83bf0890996f488aa9f71e22a10ed58012d0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_71.ymap",
+      "sha256": "93e499b532ac1a9438bbf215f1b4af96441965770d28b37af28fe38d31078d1f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_72.ymap",
+      "sha256": "364978de4b1710998a6277b13faa723c1101949a0d411a0059fba5af9ab8477e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_73.ymap",
+      "sha256": "c4adeabd47cba8f676671697a2c909f867300101b91366526f7bef6a78d07c8a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_74.ymap",
+      "sha256": "c72b477ff1dc14a7f11494f0d4cf3e6e22b4a67d6ef073527d65f43a4d18a722"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_75.ymap",
+      "sha256": "dfc6d2db8c4d5079cdaa1a081f1a62e161f457456cba3163565b76f4a7ffb943"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_76.ymap",
+      "sha256": "7b2a74b8b57e22e6e79e958a864d986aa18b262ec168241e25967a0a83d0f7d0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_77.ymap",
+      "sha256": "cef11324bb140dcd3325dc7b897b42c56d2f07bbc9a459d2d5fc2c8ebd8ed426"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_78.ymap",
+      "sha256": "0eb6a4a567748dc6459af2a3765b97030930db8f062358044e64a59e84136ed6"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_79.ymap",
+      "sha256": "3bc5086d1a01f86b2534818694bf3892308c6c7e15258d068a6bfc0dc9062fbf"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_80.ymap",
+      "sha256": "2facade253a472e16659b0c07a828af63d9f01a8f072907c344651f72aa97035"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_natureza_81.ymap",
+      "sha256": "249b4c6ad498b31a7edae94224e1a10b97c9eb543cc9596a2d8ab0dcb750f1d1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_air_watertank1.ydr",
+      "sha256": "e1f35b06e2c8eadf1d33f5ff17d8b381fee598a45d42ceef601d5db8ef89be4c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_lrg_01b.ydr",
+      "sha256": "6bfcdabb9c648cae8ab003e2b6ed78b32c4283a3ef38a029539c0f735dbf363c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_lrg_01d.ydr",
+      "sha256": "486ca0a818f37b02da04ebb23ebdee594c205de450c4d18e4a3c6f3d2a50334f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_lrg_03.ydr",
+      "sha256": "457d0b6c2e6fc5adbe85515032d5fa797e08bea7118b4aac98065d21190cf2ad"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_med_01.ydr",
+      "sha256": "1880dbfcc336f8b4e952418ae2a01e402b0ca5da5211d9e908217f286e2bd7b1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_med_02.ydr",
+      "sha256": "b4e1566202c6454b06288f9985af28d9de6d86d32fd335e5191a388f86eb839c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_med_03.ydr",
+      "sha256": "28bd7576ec8c28b6d1a84ca647eb4fc6b4d471f709d855e35aa78c0c933d526d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_med_05.ydr",
+      "sha256": "7249719fffa03dd6cf344a59052fbc9e2d593b14f045753ea19642173511b0bd"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_med_06.ydr",
+      "sha256": "1687c56201221ac102879fe5b8e744c6310adb279158fc18f2476240a0f7dfbc"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_bush_med_07.ydr",
+      "sha256": "e25e18d1d47c5c4eed52f0c4b69d8ea8d6be415226b6702b383bb89e1823beb6"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_grass_dry_02.ydr",
+      "sha256": "bd0d35ea2e761aebd7a1f748fa7fd3eb949ff8aa69c42999447ad267ced3e765"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_med_01a.ydr",
+      "sha256": "0bc5790639e89d96fb96b93342b35394860ba984f258b24cc983f33b41d05301"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_med_01b.ydr",
+      "sha256": "c23c25cccb874e66e456ff19acac67c083f6c84f642f4ed47bc9b40bbad3efbb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_med_01c.ydr",
+      "sha256": "8872c2392615d61937604667086f045c32e9ef9d92ee7f15c45fb86fda169c6e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_med_01d.ydr",
+      "sha256": "cd89a7950d9eb2763319783c4e8229e937bf1706e82c24fc71187d4e31f4d204"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_sm_01a.ydr",
+      "sha256": "40f08cbe6fbb8b866eb14623e4e83f179eb841653fb4ed1d9531639cace05e07"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_sm_01d.ydr",
+      "sha256": "721e77fce280d89d2f82c01f2b91b80497e14c68a667ac6ad529466cc7ce2cd9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_sm_01e.ydr",
+      "sha256": "ce27da93fec2de12969c18ee6f0e6a6c65b27f4560d10b0615cacedc3c8f790e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_palm_sm_01f.ydr",
+      "sha256": "60b514f8232ebd759c636c02b10385de25d32f39df67f155654c031d01d85b09"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_01b.ydr",
+      "sha256": "4e35b1818a4eeb18a0c12f5f272916b2049b78717e9457e3089f4f3c1f416f3c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_cane_02a.ydr",
+      "sha256": "8d23bb0bd9015e081be2df34c5bfa307c2a112156a56709b4edc8c42a5f6e6a9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_cane_02b.ydr",
+      "sha256": "cb6ffe500b2caaccf261e16f5c75a1ed497bebc2373fe5dd8a60e21c96f1e609"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_fern_01b.ydr",
+      "sha256": "e7414bc4b49ed2398f40ce24c9f3cb85a18206e81729ee945e53a6ef8e619d2b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_fern_02a.ydr",
+      "sha256": "01ad01047497fe52f68d91423c4e188e42cc3017d66bd825cb2e13c3e1448717"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_fern_02b.ydr",
+      "sha256": "698ca1235a1b6949b9dcf0a18278689435ecbf030b0e187d4a4b77116b9e8254"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_fern_02c.ydr",
+      "sha256": "35528f9699b2de87f7de2f71ca5e160825f40442b6dca152148e195bca35939f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_group_05.ydr",
+      "sha256": "5eda460738fdf68bf9022b13a00d7927f6b912ffbd1403ac07d3c56e26f1b3fd"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_group_05c.ydr",
+      "sha256": "9ba9dbe48da919af12fe93eeb5c86dddc1670e1dc6ae7b2e39df29774984add3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_group_05d.ydr",
+      "sha256": "e22dcb557ca41a217d05cd4659e54b2c302352b8c7d8740da0f7a10a69df42ad"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_group_05e.ydr",
+      "sha256": "038eaf64c2362502f8f02803a0c633ffceef98a6ffce6e4c9305b6171a8a8620"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_group_06a.ydr",
+      "sha256": "6ac23d67b96440fd5ec091c52b48f443b710f44fb601a641beaf6bf2f798e3e2"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_plant_group_06b.ydr",
+      "sha256": "fa6eedcbe8badfce29ad1c245105fe01681c6028b5de94b0781c4d1a17396607"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_rock_1_a.ydr",
+      "sha256": "c875f80d36d5b296700cc786695aa34bed15dfa69b028ebb731625cf9d3b31f4"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_rock_1_g.ydr",
+      "sha256": "b793b56d1118388367eb0dc83db13b9304ca85255b00c00378d3468dab6b1f27"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_rock_1_h.ydr",
+      "sha256": "92a67ea07aa80b64cd417904d1484ee54fbb4b97c8c5b9ba4255b1c08da3fe73"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_tree_birch_01.ydr",
+      "sha256": "0a0a4a54c38a3ac590fa3759f3ca1aa1dad4e451e93e8ba355de0898b02dbb8c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_tree_cedar_s_04.ydr",
+      "sha256": "bdeb755f36c62caa3f9977583e85ed6bb7a027e86dad970b167a8d97b6b65789"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_tree_cedar_s_05.ydr",
+      "sha256": "ac1f4786c5e69ddebbaebe4449bdffb4aeefd3a6c6f6bfc457b3e68e78d1e645"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_prop_tree_eucalip_01.ydr",
+      "sha256": "96b7871fd4b571ed540724bbbdc40d4f6994c38d30a31e13d85bff78c45729f0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_000.ymap",
+      "sha256": "55a654dbf2f849cb0c7abc7c18202e6dd98bb5e8bf4941f6978d3c697570e9fb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_001.ymap",
+      "sha256": "238a273c51250bdf9d5da744c45a2f7384a12f8e9deec3308eca620c46072427"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_002.ymap",
+      "sha256": "1f05eec28815d9dd6f3b1d8f8c5e4d96df1e52d39c012e71cfed8e8399aee8b0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_003.ymap",
+      "sha256": "cca5c44df08e2442a8c2f736b69bd7b7effe4d7f79a3258fb71b0ebf258fd8a1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_004.ymap",
+      "sha256": "34c29041d5925d0e09a4846af55d484fc86b5618caca62cce7b52edd83e889e0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_005.ymap",
+      "sha256": "e67d25d36f180641ac32b87a6d8ca1420a89df650c9d65e046dcac9cbf4c37cb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_006.ymap",
+      "sha256": "ad777ddbe2b94ebd4f499f22ec6133eb4e9f2f24e221a55916a0f837ae301f3b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_007.ymap",
+      "sha256": "b03547f937fb3c246c0e7de17c3dcf0798fe0ca30d7af5ebbd055c854ed77bb7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_008.ymap",
+      "sha256": "c276428346a70041e32513a4647db4e8566d29d4ec45c123606f4c3c65d6f147"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_009.ymap",
+      "sha256": "097f2c43af9546b57448330ef4f9d7b03b4b783ee7135a44f9ff7807cfdd021c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_010.ymap",
+      "sha256": "c2b359f0151260f5d39e1110b3095032f257e4f8fc4556b360958c55bd9afabd"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_011.ymap",
+      "sha256": "918082b56e722dfbb7d36e5236b81b5148deebe9af1c129057d30115f93fe2f5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_012.ymap",
+      "sha256": "fc5aa0baab34c97d487ebd89d4a7ade564f75ff42085ad7cbeddac5e801f99e5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_013.ymap",
+      "sha256": "8b26cb1704b3027a544f260341308e7e38777b261473ec015cd16eba0cfde759"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_014.ymap",
+      "sha256": "bf17a95c413ff96710af53af7bc219167b09c13e16acae6c9bb614387b7c9c89"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_015.ymap",
+      "sha256": "a884c06ed37cb311d0f9a61c28b76c2d51ff5cb1038616676143937bbec12af5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_016.ymap",
+      "sha256": "c28666516b420d2190663d726b42fe96e95024d5855faab28f4c75861591fbf7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_017.ymap",
+      "sha256": "df2344b1be9c3b07074b7c5393e17955dde6308f3fa7b70c81cdae2f06e2e68e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_018.ymap",
+      "sha256": "3378ad06e6977438d5c306f5d4e1a1e4b13f35d3a505a86efba4ed1fd2636c5e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_019.ymap",
+      "sha256": "e5abb75c212b8ed22e15ef323454e109caa34eedbdbdb0df11d0ca6e3585ad94"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_020.ymap",
+      "sha256": "200deb35c87cfb67dcf39a1860917a2e436a44811f60cebdfd286ee00ccc07d4"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_021.ymap",
+      "sha256": "fb54b7096474e098d6a560aa670743e742d8e3d234cc446a3bc8073df1514b24"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_022.ymap",
+      "sha256": "8b4fcfe502c7d6f3a9d6980950878a3488a733a5ef8fd4199c8fe6c2b34b6f70"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_023.ymap",
+      "sha256": "12c037886669d2c02eef5c80bacb5c9d7d9b3141a60c9d2c1ff26d73b5c2c980"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_024.ymap",
+      "sha256": "fc57967f7f1cc2bfe7bc7f89ead266ebb2fb8b687ca05edf6f6a9ff32b5b4a6a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_025.ymap",
+      "sha256": "6b78888d40bcf5aa8543ac79d1641adfcf13268ef0578dacf826519e68b879ec"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_026.ymap",
+      "sha256": "a70790ad268a7a106994238eb820b239ce20a62d7fba5e14fa08667e82b6a1b3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_027.ymap",
+      "sha256": "92305ce7e749cfb136fe68b507137a94597f03b2c3264fab9e512fd6bb746d0f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_028.ymap",
+      "sha256": "999dbe161caaa0b76476c23f20ef3a3b20372c4e3717dece8ffc10c51fe76f60"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_029.ymap",
+      "sha256": "a2c078ee6b87ade072cf5ad01c08ca61f9193da59afbb23d0a2aaf2e9f98be74"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_030.ymap",
+      "sha256": "2e294161fbaa56137e426aee076a968b81025f2cf964ba8f8429ae7c0ba4105b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_031.ymap",
+      "sha256": "0b235c877b633a63e4971f1e506dcccd9f85be140eaf841e7402b60226456f7d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_032.ymap",
+      "sha256": "2e9910a2304d21a7cdbb039115a5d3d7d18db740762e9fd28b565d98d79c90cb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_033.ymap",
+      "sha256": "d5e9cecf5d98cd0edc60655e4d3c7fe41a42e1eb6875779541a598c5757b4955"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_034.ymap",
+      "sha256": "bf9904ab6cc597c74e708d01eb255aa4041837b5fa5196678e5d8bd30e66a435"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_035.ymap",
+      "sha256": "7744a9b56367b91c575d6946009ba960bd941fb4553b1e00b54ebbfb8a244f01"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_036.ymap",
+      "sha256": "eb4d83f733bff31b074f2378065e9dd5805eb1044e226cf0c4ad9d8075239ad9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_037.ymap",
+      "sha256": "69c53839af11bde9154aae4e7a6890e29399331febf6129164e693772c154f84"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_038.ymap",
+      "sha256": "43d2e693559995f41c7cd138f1c8a2427f3e2218b248b86d3de46b5522c59d3e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_039.ymap",
+      "sha256": "f2a9178781b6176b4a4f03eac9cb5f203c7c5c8365b438b1fe6ddd2412a4f6ca"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_040.ymap",
+      "sha256": "4d0724775650e13ebc8907d2621e42261473a7add00015ea9f483aecbfd5749d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_041.ymap",
+      "sha256": "9a4ad24798dae5c805d17e1fe956fe9e91863a2639eb7f031705a1061f4df944"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_042.ymap",
+      "sha256": "6c1ef879890b94cbb28b696cdb156cc0261556ff4b3988cd07e78aea30b4890d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_043.ymap",
+      "sha256": "f0b684f9af04a679ab1b7a820e3ae4d85e439c526d9cfca7a1dcfaae304a356b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_044.ymap",
+      "sha256": "f61f69e15b75667c19f6f4b50f85c8e50d295d77cda36b10df2e6cc31d26269f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_045.ymap",
+      "sha256": "b9949167bc62bc8981113b8df1e61c5d3b4031672b36077e3688a8f0bc7762a9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_046.ymap",
+      "sha256": "6c48fd56b96931ff6a7d8614373ad33e695a0763371f680e54d476d68ae7a182"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_047.ymap",
+      "sha256": "ad1ade8deeef0a494a0c39299636a373122ced78dc158a97d35ec70d95d83989"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_048.ymap",
+      "sha256": "4ee5434b7ff7035454e6e97fed516bf01e34d51f5140b17d78aeb10bfa6d74ba"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_049.ymap",
+      "sha256": "a9eaf0c280fbf2bb7ec99dcaaa0fababd65206aa96e3bca372786cf7dce54a6e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_050.ymap",
+      "sha256": "41aa39424620b17d0832e4cf9d83f310ed85df928b4d6d3a5ddc226daf7a4670"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_051.ymap",
+      "sha256": "6572c3fd9883d140fc60880ca3764aed8ec18d6fc1d99a8b8e05b30761cdfa59"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_052.ymap",
+      "sha256": "7b26915cd557d8d0228ae860c7fc14f3115b0e432783a80685e6e0eddcbb4c21"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_053.ymap",
+      "sha256": "2564fbe31491140abb39bf255b53bca165ce0332f342267388a655e3207ccdbd"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_054.ymap",
+      "sha256": "247f2265db3d2cfe9f170be51bcdceadb9d71d38594dada37f77b4c29450b467"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_055.ymap",
+      "sha256": "cb873807ad15a225d7fc20be5ba24139bd0bfc2a264339fd2fcf05a273f1aab3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_056.ymap",
+      "sha256": "fed99cec6bcfc5d2337c2c1044e81d97fe282ef5d7ad50a7682a73b92674df60"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_057.ymap",
+      "sha256": "a83d13e3d9ac7e0eab89301f9685f859cb2dcb1b64b892495583113b065ef72b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_058.ymap",
+      "sha256": "6501ce20f660d85fc167d66a41b7dbb1edf9179b9d084632f554b02dc35151f8"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_059.ymap",
+      "sha256": "f650e0a66100175cc64a436ed2402b143c218bbb02960ac6cb91f20b7dbcca98"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_060.ymap",
+      "sha256": "a9fe38a81cb544fa27e940dd4f75597aa931dfcbe20707d2a452de07cc2c0e27"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_061.ymap",
+      "sha256": "7a2449845e74a92e757cfca78940ccc16897fbb349ac4b7085b43f7e635c7d9d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_062.ymap",
+      "sha256": "a9d0d43a93a033ee73b1fb52bafd0a56dca46bfe757f8ed2277e4e79f5189cd3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_063.ymap",
+      "sha256": "2fa326a9775740bd0662613bda1a4e61ce95c53df2d197020b4c5dc6788edd71"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_064.ymap",
+      "sha256": "ae12027df1d1304ec07ffc4dde5aa3f19d98ab636a72a1f92a31717ccbf80d3e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_065.ymap",
+      "sha256": "81503b2d8e08f0c8cc63b292b8d62f02b20eda7b242edfd7209135c4f5bb7900"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_066.ymap",
+      "sha256": "fb470b729a944e8b960bbdcf2933d7fec4dd7945637bb0b3658f25a77efa4b2c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_067.ymap",
+      "sha256": "e2c93d5bc404c4932bc235101b7613b01f714b29668df5647bca3ed19c0b03df"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_068.ymap",
+      "sha256": "04224c52929ffacf34605fc7a1987e12ef9f2565b2ced0b4b54e8a6319ddf87e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_069.ymap",
+      "sha256": "739aa5740106ea5dccf95cab129e6a5cb10140f0961b4f8496cd9e818da6bfff"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_070.ymap",
+      "sha256": "3dbb5eebe00798ded41d9478e589ec4fdc66530d074b783300a83021c3b3ade8"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_071.ymap",
+      "sha256": "6f3c9e05383884330604f33dd2699cd08be925335bd205599fe1b11c0a7b2258"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_072.ymap",
+      "sha256": "858dc7de4f04501888cd421f840db42cecdc13bd2950d31a2fd3068c2b5c73d5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_073.ymap",
+      "sha256": "dcd5337ee8eed564a6ade45f9ad3b1ba119e185647f32ca6e7ce007a3c137765"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_074.ymap",
+      "sha256": "63ea21115cc785fbecd7c4dae3ac20dd2598f7484f5c9916bc3403c934f1bb7b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_075.ymap",
+      "sha256": "5b643c1b3408b533e0f39596a796ddfec2a947e80fdce1291545480bbf5dddf1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_076.ymap",
+      "sha256": "7fa1506411843c95599479e92c1eedcc74f9e855366fb9794b7075cc9550d6bb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_077.ymap",
+      "sha256": "0ae4c2de27579931b329f2dc63dd5ce7a11dda3610b2d763b67b56bc28f37b2b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_078.ymap",
+      "sha256": "2bfce6abee2b14c6c946deea69f56a83a27d0f4c2c755275e1d107650e691cc5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_079.ymap",
+      "sha256": "c70d3c9aa3342b609d705652f6cafaa322b66365e703e439292052bbe3a58422"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_080.ymap",
+      "sha256": "ea29d32176527da479cbe220386ece8aa05ee0cc5ad0c5ebd657ba1728ef48cb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_081.ymap",
+      "sha256": "34ee4731ec23572612b02d08f27684114c34a5b5f4b217c6cc0b367693f93cb3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_082.ymap",
+      "sha256": "202b5dca6c68388125497f781d8094228550384be3354410b21f3da130ce7b4d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_083.ymap",
+      "sha256": "f422cb9228759e99c0adf0c6e24bb09a1cbfb26018196c0a7a2671114c40e3c6"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_084.ymap",
+      "sha256": "c0963263fe63d9e73bcce4e5212a578ea7105197af4e65553b7b98cea2fe5f70"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_085.ymap",
+      "sha256": "f63d64bc385cd5a2309d04ea8b4d74ce4b6857e14a904a1e72788ed691224463"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_086.ymap",
+      "sha256": "91b61b9efb532a92d74512b50b5ad2c461291e633a528d81caca26a23535dd15"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_087.ymap",
+      "sha256": "e56a06fa6435ac0687d42195e6cee879734edeb2713032c3f048146fb1bc1527"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_088.ymap",
+      "sha256": "07761459bc1d287cec451b96a9fa84918c1eb6c6a9959a2ded5206aaf9832dc4"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_089.ymap",
+      "sha256": "e4c927931e66acdcdfdb8c3d52b3da2cf1c84abdc4375046f5d4aa2becfd6707"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_090.ymap",
+      "sha256": "58a2f16c6f457d6170d0517d51710ef20aae425fb3300e4c83844baa01b0d228"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_091.ymap",
+      "sha256": "49bb4199396b5ca11713b6df9257463ff0e086cb20805b912a5911c61bcea87d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_092.ymap",
+      "sha256": "ed46c5c632cff9318b85984057ac8d20625231337e3c5e52e49b45f74ae2f1f9"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_093.ymap",
+      "sha256": "a43e76db99e712d877defd4673a2c1b93d6b00ea23d1d8bd8f1a6bd245b79b28"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_094.ymap",
+      "sha256": "f9fb8f8a7cec05751810c4dba1cd1dc7b386c945b8b0509f66568c2ab16742c3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_095.ymap",
+      "sha256": "c4f1eddd87e19ec4724c4c533d04890121e41d5fb427e7f8b2a20eacd7b42098"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_096.ymap",
+      "sha256": "07512209f7c2654f7fbc055af06558bef10c35a61472cd867518427f4035202e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_097.ymap",
+      "sha256": "a14c190ef68755ff9556f76f5f2f49861ea3c85fcb3120508d6ac018d4118b8c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_098.ymap",
+      "sha256": "f14d8ed7353f220b36f55529ad66c329c47d69c4139542ac00af252085fb7b2c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_099.ymap",
+      "sha256": "2baa12b78b7a3725f983adb4eb8162019fda958d736e92a60fc6fcd496bfb866"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_100.ymap",
+      "sha256": "e971fae332b1758f2f2163f668d98edc7bf36943f2a7e1577881f83fb63e3a27"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_101.ymap",
+      "sha256": "e940c103fc0d6c90b9cc3eb030d308b8e5370887b720327561859c8ba5dc27d8"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_102.ymap",
+      "sha256": "03a730fb51f5d9ca69bf47b40a1b8ce196a6db6a1055bfe8d99b27c5c41630cb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_103.ymap",
+      "sha256": "07d7e78cafb147709da75994b57773405ed01929896fc311c62000aabe29ea63"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_104.ymap",
+      "sha256": "2cdbf95ef4943a753c7cb0b408ce4728a96f460d1d2b50e7af87a34432bf4e35"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_105.ymap",
+      "sha256": "81c5bca088b8a6977533c1ad9ee58ab5100a0b823f3bb475c22c387f2643c123"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_106.ymap",
+      "sha256": "34cede1ecf13ef524c84a2c4c40c795a071584879c99a0afdf2d8521f4696b47"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_107.ymap",
+      "sha256": "58aca4776e5da30fb52021aea0b37ee752303deb229b73b4409c8c7b3cdd4a40"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_108.ymap",
+      "sha256": "d146a98b0bf7d492c0b71630700d1a1a52bd6e48c182611cb1a14559aea99fda"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_109.ymap",
+      "sha256": "93a394abed26a769dc860ad8dd00ca382fcbffd50b995b2572c0694243a34c61"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_110.ymap",
+      "sha256": "a70095491e6d60d504a996280e56bf9914a587403b953d5051c6d4fbf9c0d2ca"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_111.ymap",
+      "sha256": "7a35b61927629c02100e7cfe000a6cdfa82b9fe361932af44bba467c455da33c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_112.ymap",
+      "sha256": "92cdd0c0673880c2359e7925426fe2a4e3b8fad9b2ff5828487102ddb9f7eb78"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_113.ymap",
+      "sha256": "dfbe0cfe6f6be7a74983189f78ccbbcdd62e9c701fdece347a02ebf2e5779864"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_114.ymap",
+      "sha256": "324451a3a2211a6a8d65fee78554d03aa4f880b89acd2a17aea0d65d569a937e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_115.ymap",
+      "sha256": "837054822b7e9eb317d990de6c5b124629e97d20afb987a289d5855dedd84c99"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_116.ymap",
+      "sha256": "e649978475eb2b843ad6ecdfda358adb2590d93ed87e857558d751b2000484bf"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_117.ymap",
+      "sha256": "1fb15d88ff114a71ff636dc244ce043e9ace90915b9557393f5631c6a02181f2"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_118.ymap",
+      "sha256": "7cd1cd8c535111f965c8ef6bcbf977fec194249a31fba822dbf7dd387db82330"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_119.ymap",
+      "sha256": "1118914091b7a75cdb7b297507e947181b2dde8e24c7e581bae82ccc896f687b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_120.ymap",
+      "sha256": "fcbf435838341bb1f7f13a81a421170dc5b67f52e00147d2c538fe59515ed256"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_121.ymap",
+      "sha256": "6775622ca877eb7a93fa0be47a86c9be139031859be691715a34339e00c201d1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_122.ymap",
+      "sha256": "828a7e4f1b490a95a45b3e2a30fe36d83573c3eb9b7d45aa4783e907b08fa0f0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_123.ymap",
+      "sha256": "2f394a33d98f7ea35ed287c00db3b1ec2c5fa23a357f9a83c331cf8ded2c6c3e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_124.ymap",
+      "sha256": "cdbf9729c4fefc783c6722e7ebb94edd3da4e8c0ec1d1bad253f9042c47a7ef2"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_125.ymap",
+      "sha256": "64cc8bb36515369e5ea3cd1df0a0325fafdf10032872719afd3872846f9d32a5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_126.ymap",
+      "sha256": "02a60b2fc2a60d516e7dff1f5d3d0fd9bf6c263bd6aa423bd97a897e544c1d3a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_127.ymap",
+      "sha256": "3dff5956f58f2e275aeeda7bdd0db0259cf3f52636909d6e55e70650f3927b1b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_128.ymap",
+      "sha256": "2016b0d6b7ee64cfe504d5143d2732fcc5afaac22ca762ab6c7c3e8d8578ed80"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_129.ymap",
+      "sha256": "ed61d131159184db5b60f090b47b85cc1d0420b14793e1dcff60bb5860ffffdc"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_130.ymap",
+      "sha256": "3e3e613a67651eb563dba4e6cf403c11a2ec17154435f4886dd236cf98d8f8af"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_131.ymap",
+      "sha256": "f556163754feea817e1600e087691d92b2a71bb7ad9a4d6f5878c1cb3803845f"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_132.ymap",
+      "sha256": "c3e3a2af1933f3bd886966418ec10fe65f24c518c6536fe05929a4688fa58d67"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_133.ymap",
+      "sha256": "d43a1d9f0f1a132374f3d2ba16d913b22de7a7c3e624966ac404a97f3db3c7c7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_134.ymap",
+      "sha256": "54d5f443cf2397a521c80a01a2e037ac5dca6d7e7d98eaab104d88067b0d97be"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_135.ymap",
+      "sha256": "230dd6256e6d86c033509fde3402ed724b127e6b450f99858334cbd6bd549e55"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_136.ymap",
+      "sha256": "f7f05afb3d26c0f58b4b478b2c91dc348a154c59cf76a6da1b58251ca8c95400"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_137.ymap",
+      "sha256": "d526424795e0fb44ccd8d3bdf510385e66e3220275fd4b6e28653bf41a0313d4"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_138.ymap",
+      "sha256": "4ae7391975823f7946c8717931403b48774e7ddc76f72565680cb3521f50a7dc"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_139.ymap",
+      "sha256": "bdc6e141ac0dde5ced979c4bf0d1d0ece4ddb6cd001ea8604ddb1e2ec32bd4b7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_140.ymap",
+      "sha256": "265478be139f3912a51cc0481b7276962b70699d2e56e09c0a99c55a99c9442d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_141.ymap",
+      "sha256": "c64b403a83e70216b38a9bd3a3d4b6d667fa171d90c35074859a0164508e883c"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_142.ymap",
+      "sha256": "991b0cdb10a3372c30e797f07afbdadeb1bf036299af98550ad871c8d8a74bea"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_143.ymap",
+      "sha256": "ffadbd75eac1f0d5cd89fecea1c6a9e73b889f710384dbf83b6870b44b263d67"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_144.ymap",
+      "sha256": "7ba136927680c28571d0e2a1d014591c968573949dde3c91ae9f4615e2ee65df"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_145.ymap",
+      "sha256": "ce9f50b44b3348ae807476db0870ab28833cc588ec83c038e23265fb7ea685a0"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_146.ymap",
+      "sha256": "46e4911f3b332e17493eaeb8daf878c0ca83ef6af6f392960f37859085829507"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_147.ymap",
+      "sha256": "7ecea3ed18b496bb49319190d652e74885efee0c1fe4f2e3dfd730c5abd6f962"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_148.ymap",
+      "sha256": "9b938cd4481ff0dff173b389ef138a13d10dd34dda1df354f0fa6e69e1736c53"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_149.ymap",
+      "sha256": "432d5b2827d3e28183a5dd69a92f8d41d2591ea1707c30b4b27438f654fb507e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_150.ymap",
+      "sha256": "e516b59683f23b04ac2bc7ae9cdcd0a052d8805594aded37d21004239dbcd807"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_151.ymap",
+      "sha256": "b80956db55a6786f3d8e6b959319e71408d0b1db10f0febec3155cc55e0d85f7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_152.ymap",
+      "sha256": "c2ef4d1b0df9ede95fa9e03fda014c6439252153115716ed819542f2cd18a0b2"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_153.ymap",
+      "sha256": "03470babd827085345c4605c90e23f79a1d99c7c1457d335579eb93124e4dffb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_154.ymap",
+      "sha256": "75becc2c0f5d45430b13ba34053e3bc35fe13c5e83a02604fd61ed054c8a1d0e"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_155.ymap",
+      "sha256": "604bfc814538b03daf23e2dd7f9f679a34fcffb17345e8a9656f79cf96b72bad"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_156.ymap",
+      "sha256": "c2432a231c4e82219577b5685569e2cb1456ff6f9f1b5a019abd6dd88bfc1031"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_157.ymap",
+      "sha256": "8f681b1fd921446b7fed0f75d8a72ba8c5faa95c044684dbde34819f6e0f6d87"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_158.ymap",
+      "sha256": "ab7463b76b807d6bb1953cee9d9a71fa7abb79cf9df064800d69d5ff891065f5"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_159.ymap",
+      "sha256": "439687caf4e4c235583bf7d52770ce93a02baa9c8e3c0d5f1e2c65743f72945a"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_160.ymap",
+      "sha256": "ff0f645104ad6f13dd1a35ae02af293478f2ebee89dc2a16ebce1acfbc24f5b3"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_161.ymap",
+      "sha256": "8a1d3d4be13d4fba70ab02a125af21674f4091b19438aa1091a81be682c4fbae"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_162.ymap",
+      "sha256": "15e49e18f5a3e990e302bdac0534d1a972688238469a5c1d1b9517cbe285c943"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_163.ymap",
+      "sha256": "7cdef6fefe1dcc21f1f34fe7074d78aec0a361fa556009323015db82d9319c5b"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_164.ymap",
+      "sha256": "7c4fd432143af0c3c67c6f7d22f177f96219ef5317f213a5a11031b54059cccc"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_165.ymap",
+      "sha256": "8a1d3db8cb47ce9c37fd755e4bdde9d936fe365c97b4f611777ef10c601d6850"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\ni_rasteira_166.ymap",
+      "sha256": "5fbb4b221b703cf4a8a6987465c0539162978db52dc84f8cd420bc688da0eec1"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\prop_oldairfield+hi.ytd",
+      "sha256": "ee69e8357fc7ce98fea96437dbee488ace9925972cc456511b7c608eb7425f23"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\prop_oldairfield.ytd",
+      "sha256": "2a275f2d83b7353fcba795f053fb28519b8fda7cc42785d4551b82a4ed664135"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\prop_veg_palm.ytd",
+      "sha256": "d39e61a2e7ee33480fa993b300b6e5dde16d506e80c24e93e7394adee74327e7"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\z_eucalip_1.ytd",
+      "sha256": "51a7a08d077d42bb81ba61b1e4034df010be6c5765f53950f8da0bdf01791975"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\z_prop_tree_birch_01.ytd",
+      "sha256": "c5def7d891ffb9444fa6e62ca9b199873a5922314a0f9933bb7644049c3dfdcb"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\z_prop_tree_cypress1.ytd",
+      "sha256": "0f81859e6a669b375867252679a36c47882daf19a10ed551309261b204c9140d"
+    },
+    {
+      "path": "server-data\\resources\\natureza_integrada\\stream\\_manifest.ymf",
+      "sha256": "f8f614e5cb68fcb1f374b043725079005b74a636c50e2cb08ffda412c7d30bdb"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ni_solo.ytd",
+      "sha256": "da8983932e472236507e7154c044f3a34b091cda9c175a94909360e7b1d4dcc7"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\teste_ilha.ytyp",
+      "sha256": "269e16a00495b7727a17a08b460d0c3bf0e189f3b6334ef778d8d71053a24608"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_00_03.ybn",
+      "sha256": "5c4b9aea36c63e66547b58274a9c915263f33f84734bd8411a51b9bf6c40beb5"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_00_03.ydr",
+      "sha256": "914bd5260224e81ab95105bcef54b19d9fd65d7234d927b6d690fd023122fd17"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_00_04.ybn",
+      "sha256": "00265d54a1525895b9145f515308800efac5acf43905b6a3b88e333cd65b41b2"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_00_04.ydr",
+      "sha256": "30ecb01decd8f7304c8cfced6d2f4d0624208d2ff27393870e311b60e82c7d22"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_01.ybn",
+      "sha256": "a22ae21e87692f0a0c804898264eb820fbf875158b41a5d222483a51da08f243"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_01.ydr",
+      "sha256": "699859ed2f3524589a3fcb2fb154361eb77faa20cdae226160bf80797069151b"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_02.ybn",
+      "sha256": "6039f5a990e8d2cbc5c14d378ebf7ef9fe555d8018d2aa5b50690fdffead21c1"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_02.ydr",
+      "sha256": "9fb97ceeed978dfa0b99a5e3c42e71603c119186ea8ef8f42d038b44e6a213c4"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_03.ybn",
+      "sha256": "473df481be750dc559cffb7b7f0b351f13aab12139b12fd634e775a92dd5b31b"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_03.ydr",
+      "sha256": "7d71c7b760f077c4801d79342490f3f442d1bc14e84d74554b9d5c18cb71ac4e"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_04.ybn",
+      "sha256": "037fde0c7620bd520928f4d39b6322cfad2aab28f1c1dafaba29a8b760536df7"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_04.ydr",
+      "sha256": "11065e3acb61b41c769b8d2439e2fe3873d40d246c843e4e92be19f534b3779f"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_05.ybn",
+      "sha256": "d996016a7bc2e7475f06fca1ed91e7791ba573c059df0807e03126fa11e44090"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_05.ydr",
+      "sha256": "8ad0be64c1bb847a5facbea7270d91cd3e3603a14c5cc9cfc7702dbbff6ea177"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_06.ybn",
+      "sha256": "e853c84eb74a4aa610a07a434fab18e6283dccc227e3dec08214b81665edecac"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_01_06.ydr",
+      "sha256": "8b11d4e25746818c2c756588008c4d614622c57af20aee2c3108b35bd50b5a95"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_01.ybn",
+      "sha256": "1d37cb8c6b57e092e852950de80f24f6e0c865c17d8eeea406df91414da4b180"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_01.ydr",
+      "sha256": "bae6556cacb9c890e37c0bca55490bc3568259df2b578232fd3e3500810bcbc8"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_02.ybn",
+      "sha256": "f93d3554d19e8281e8c8f24f56fd66ee44646af59a5c5e7f8f5f7b9c48d5ab13"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_02.ydr",
+      "sha256": "f7ea18d63605a2f48d7286af21780d91103841981f23a35e531944d89d2a7b20"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_03.ybn",
+      "sha256": "806dcadecb55e1deabf3737e7a4841a8a3c23e65b09c49cf29622dda0ee21313"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_03.ydr",
+      "sha256": "3a9a4fb910dc89ebd821976c6cf1f6c454be86035b468a0ff0033ca2bf8e0d78"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_04.ybn",
+      "sha256": "2030cb55c70523135728121658ca76b5e73fbee09e30658e2cab7c6f4a0f59d8"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_04.ydr",
+      "sha256": "d1fce070b8556a0ac1af97efa3f2722d31fd80812cc9098aac0fa678ee010301"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_05.ybn",
+      "sha256": "105c6e45e875e783b62d97ea30457139b1e3cf3fa3c66e73fd8bc8b8b64f0a05"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_05.ydr",
+      "sha256": "e411cf63f522b4b05cb21047f86095f48df2fc0c325b138636df577946c96d04"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_06.ybn",
+      "sha256": "ef7a0d5ab91193c7bdbc2a4228d72411e95ded1627034f1de7a6886847b6c054"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_02_06.ydr",
+      "sha256": "259f5970b30b26cabda9d281182a4daf44edf0232e5bfc6c623b5b3e09c21ac2"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_01.ybn",
+      "sha256": "5e06eccaed3bc7f1c35dc82adfde46667b65f9a9aaa091ad9d09f5f47861b320"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_01.ydr",
+      "sha256": "20722a8dd06eb6243deda325e3f733a2371e4cdea6a0214e83af928e595c0562"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_02.ybn",
+      "sha256": "a6abf27e282b73afd477f18671f5e4567542c29aca6711cc0aff76bbb1a9a753"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_02.ydr",
+      "sha256": "0c892741b29017adc6118587d4c190cdc79f98dd9c02c7e4630132595b59a058"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_03.ybn",
+      "sha256": "85bf8aa6c3a7028daeae3a58e6ce7c84f16356c5f045290407b55e93f4327bec"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_03.ydr",
+      "sha256": "2dcceaf3684a03c9265190b82cb88f3728586b4c12356a4eaf6729a9715644d6"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_04.ybn",
+      "sha256": "5b0b044024055586a6ce36e6f12ef5920f30fe14482c0702c1fe45b5f5f8483d"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_04.ydr",
+      "sha256": "defa5211d1f9188cd98984c015a762a227124b7fcaf365a05e3a87539ef99eeb"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_05.ybn",
+      "sha256": "8eba63f6b76a39b4f710592f727b1cac0021a906102e10604fb74aa1a39ee4cd"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_05.ydr",
+      "sha256": "639eaba067fa5f3fd61a4fec70b27b1e67a1ef7b0be4ee33b02976b290ecf60d"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_06.ybn",
+      "sha256": "865fe27362ab7f23adab9b80fff0d3631489781d2b2bb314e6929d0656adedcc"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_06.ydr",
+      "sha256": "5747faaca5c03fb3c2f130491d9dcfbd2e63059f6d26e2a575726502ccbf432d"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_07.ybn",
+      "sha256": "d4822c9d69d6b516073f472fe151deb7f2716ccd6a721cbf3b6848d3f4cc1f7a"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_03_07.ydr",
+      "sha256": "e39dccd63fa8bfa2ddd583d9e0e168ce0d03dd296c6933873f0dad446a4db541"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_00.ybn",
+      "sha256": "cf8a441e8c52d8490b4f223622d267c5ecaa851d7db89e5fa3ad52668648422d"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_00.ydr",
+      "sha256": "60749a0d52a05b885b098630d8940b3bb4e82caf016158fb78831a6d875a5daa"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_01.ybn",
+      "sha256": "e7211fe92cac062a6a273ab7bcd39d9c9cb90da31b0e60b9b0c2cc06efdfebc5"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_01.ydr",
+      "sha256": "d8c5a480ceb6fc801e4301df72c3d58c0a8974d685348ad4d9bf8ad0879be232"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_02.ybn",
+      "sha256": "3bc1c5376f24f597a9fff870dcc5c394bdea813fdc6d80c0cf25eac90be0b27d"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_02.ydr",
+      "sha256": "396f9ee337524830d0142993e949c2c29883eca80720b373dc8670da98c2bafb"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_03.ybn",
+      "sha256": "c25f26c5297ba88f13f246de1bb586730eff34f5f43d059b2b80d503d1391448"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_03.ydr",
+      "sha256": "cc334e04e381c90a712699f0229ac6a2eeb8229a4d9f50bac132f843d614aab7"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_04.ybn",
+      "sha256": "ed12b5a4f4a2f93a26dc8c690ef7ce41acc4f7a692ac0c5efc49cf4e36e94774"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_04.ydr",
+      "sha256": "a63bae817cc39546a3f2936e377360cffd2de5bfafb88a83a6bb0c8a496ed682"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_05.ybn",
+      "sha256": "624efd1a83d4c6760f99a1b8587df17c421c1eafabfef39c6374d045fcd748c2"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_05.ydr",
+      "sha256": "025103a817ea682381bdd977621aab0e3e8c70eea4a7689875dc4943609167c0"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_06.ybn",
+      "sha256": "4bcb2e481c4379a596539069e92e8b1c32d8474703f0d63a5f321c6216bb07c3"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_06.ydr",
+      "sha256": "114123c46f577f4c0bc3f67e25065b190f647f35be5c1169a5b6477ba603aec7"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_07.ybn",
+      "sha256": "268477c630e40c57cc2b87070f440cede589e25e928ec5bbf637b0623160e92d"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_04_07.ydr",
+      "sha256": "a088a12a3670b90440b5408b85495e6092a5e34396d3d75dd0d2cd0980e84690"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_00.ybn",
+      "sha256": "d28f856086af54fca1d76364825bc588edbc7616cde17988a6f98472a8f4d6a0"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_00.ydr",
+      "sha256": "edf28af0b33e025f0b557eb25e392596ea7411ec55a30bd54ca30808aefc22fb"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_01.ybn",
+      "sha256": "71e47b28280baf89be078f33a3534de8ea4b0a4d89a1845be5f81256d660a767"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_01.ydr",
+      "sha256": "99556bc37a824ed4f2fce2a5b30ccf093484ae956fcd65e5afd3dd3dbec19835"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_02.ybn",
+      "sha256": "5f86238d0e67975e09d363e4f59acd5655620c57c1505a6cf282b3f3f702d082"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_02.ydr",
+      "sha256": "23b027524a2104f4bec8121933930b38b48949fedb1d74c8a029292c108102a6"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_03.ybn",
+      "sha256": "89175dbf6c7a1a772b34d4870f67f93703fe68fe09e2ddde07ac1f1d4e228089"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_03.ydr",
+      "sha256": "7b59bc290d0f0939bc0403b1095510bed8a35419e01cc6af28ec15bd69f1c7c6"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_04.ybn",
+      "sha256": "789453ad5d5d7e4a5ca2cb18b2330a55700886e7a8eecac85880128ea73cdf94"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_04.ydr",
+      "sha256": "900c09b371903e47e446fa36cf3192f6c7b5161d0a6fa114a22712201977fb4f"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_05.ybn",
+      "sha256": "dc70caf03dbc6f5813741d784396a0e9ecf252587dbc2744a549fb8127013068"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_05.ydr",
+      "sha256": "8bd1735c07c5fe6585cb9cfccc5b18c3f76ab3e5ed374bd8253aebfe6220f22b"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_06.ybn",
+      "sha256": "79c3319ca7ecfbc383f2637b164f5c09df24b537703289c90e54b7d9877db6ab"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_06.ydr",
+      "sha256": "ce4500d2ed5df9f3ef7a0a8569ee59975cc31de4f6a78b65fa4bc4e701603f25"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_07.ybn",
+      "sha256": "397c0a0b04d0aa612cfec454471393efef4a4bd1f88e45802bf4779bb9052a09"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_05_07.ydr",
+      "sha256": "c962691f28d3b3d842f2a962dd1c97cc45642d8a7cdd519cfd8a84210d12fc56"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_01.ybn",
+      "sha256": "e8bd08212e3a267cac861461bf84f77cf13005ce2140844c4151570b1edb0f4a"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_01.ydr",
+      "sha256": "54ec09f733cd75c795e368390ddc90cb978a7d02d9aff20f92570edbbfcca9fb"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_02.ybn",
+      "sha256": "1d971ee9de434a04a214a2a4b58c0b24183de6339a6bac253f59939cab5964f2"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_02.ydr",
+      "sha256": "fbf5c3c66fa97f64756c57fb217e10f504011146083ee2689d94836d93f3012e"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_03.ybn",
+      "sha256": "6d12828cc56374e1d72429965559dd888be671a4a519ee169b88cc9f1ef2da80"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_03.ydr",
+      "sha256": "b816ab0ec881d312b76d2fffe7fb8ff7d47a613610d3d86197552a0b7cdc894c"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_04.ybn",
+      "sha256": "2b8846665efdef771a5fd11052cb3d93a36c06b950a9244b6815215de02e90e6"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_04.ydr",
+      "sha256": "50a1c643d5abeadd317749ec381f1825ff215e310e2b6eea7edf421134709de3"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_05.ybn",
+      "sha256": "4762b8af5af9ab6ddbf26dfc1cdc41d9c7a13dc98bfc4140934a299f0d3637b2"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_05.ydr",
+      "sha256": "e904f8247a5081b9428c6d9a35549327f097400e3652dcdc8fae2d4be3cc1099"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_06.ybn",
+      "sha256": "f1d797e483a3969102fa153adddba2ef6e4706e20859150a1aa348635b0a64ad"
+    },
+    {
+      "path": "server-data\\resources\\teste_ilha\\stream\\ti_terreno_06_06.ydr",
+      "sha256": "e3bf30942dd0eb472cd6c41510e4455995f6953b1593d23723b2d57883d34251"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_00.ymap",
+      "sha256": "4eaec1d7c62be87b64cee264c271cac8122d6bc8014f2fcbb525688aa0f50791"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_01.ymap",
+      "sha256": "44c3c7962a5f6948e7cd7af4824d709280a9f6a179ee2acbf6ab56777d578225"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_02.ymap",
+      "sha256": "c97c906a58ea90d5f9261387135c204035d4285f8bef93ff101c84b8fdaa2991"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_03.ymap",
+      "sha256": "97c32f8902ef72a38b54ac1cd8ec54671c1efbf2e77986dd5e3d1b9cec81fccc"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_04.ymap",
+      "sha256": "ecce68fe7dd70b778e48c4d42538041e5748fd77589509062a9cd1aa6619b03e"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_05.ymap",
+      "sha256": "a901967b80f3f55366a8d6ae05699b78acb32bed1c8f817fe4b8b86433990f1b"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_06.ymap",
+      "sha256": "0039377428180e193cc10f77d27a6046f72b116925ea3e5b906d76b5d492c061"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_07.ymap",
+      "sha256": "4f2d2ca970e47343fa30d44d0b84e71461172230a3d7a3a038f505e9515139dc"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_08.ymap",
+      "sha256": "b7405df2ffb8ae779f3e0fa7dbbd5f0c0da139363882669316775889ae7cf809"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_09.ymap",
+      "sha256": "448cdd762234bab1071624f21e0ada831be2c3653f45735355b3d4ed7bc40fed"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_10.ymap",
+      "sha256": "f50be5b33b1238d911954eae54a0609a768d98970c7dce4aab1a120987586ff0"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_11.ymap",
+      "sha256": "33d03f966e8c5975cfe75e4bffb85597f614c24d007d728e924c523193406964"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_12.ymap",
+      "sha256": "3416b026f7fbe1c7aba5a7a2d6c48aa90c9ece0796bf28bfaac9a25fbdb32993"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_13.ymap",
+      "sha256": "1787da2a1014ce62f815bcea5b60d63cc3c56ceb6ed3b014bc1d180f32f8913f"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_14.ymap",
+      "sha256": "8fcfd272b0e3cb5d322726410bbaec2f28e058ee40e5b278c4b135d6df2fc367"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_15.ymap",
+      "sha256": "10d6d850cfc47a1cbbb97147b487ae76f041474c6bf7983d12f3242088acfe8c"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_16.ymap",
+      "sha256": "60e299ba4e1b08268d668a4d130915ce031a74732701e5be5f826edcf1bb92dc"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_17.ymap",
+      "sha256": "d8383d1e7e1b2b6becb0183c2992f1230ed19c2b1e0b908e586147e518490e39"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_18.ymap",
+      "sha256": "ae5ab08876dc02594dbd3e8d04ab07cbbf791fbed9e0c749f483efa29c7f636d"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_19.ymap",
+      "sha256": "dd7e950d99bc9e6c91de07ee1cea07a93946ca0cb097a3c7cd15673277c7194b"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_22.ymap",
+      "sha256": "05ed3fb188d87753ebc09a06b6bd307a7a2dbb4d9acf959bb86d82ae8a962126"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_23.ymap",
+      "sha256": "b44b1de2796109c93f299286d664aae3eb573bbc7946d5a7bfa5a5897f13aded"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_24.ymap",
+      "sha256": "4744a01abddba1bdc210f9803ae83d03eb93dd63b13575ffc50cf032643f7102"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_25.ymap",
+      "sha256": "9642759fce6705c20a478abb8805c6f9b3c832ffc9e9b5c11b58dfe177fd0b5e"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_26.ymap",
+      "sha256": "e1a453311015685e822263a0de25f4f480060e65d1f55750c5b7429aa77df6a4"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_27.ymap",
+      "sha256": "f1d05072db6400f73d0f7f0ef4486b69f045aa51fa1c31595878249645bb9d96"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_31.ymap",
+      "sha256": "1e60268a676f64255c3ae83f7ba31de50114eac53a056ddae21b8e877e4b2a3a"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_32.ymap",
+      "sha256": "49661a52a3efe34680983ef1a713190e2b304a09aed0bc9b8344a1fca2c5913d"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_33.ymap",
+      "sha256": "66b29af9bbe20eafce61046d48b37c073da8a8a1a26a1f131ce7515d0a57b417"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_34.ymap",
+      "sha256": "407a11e55add1c21aa1acd91c262187807bf7252c224b075694145ca046ebc59"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_35.ymap",
+      "sha256": "123a74d7618b4d50f9fb7119be566dd42d0c3ab5789ca7c86b69c0dd963594d2"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_40.ymap",
+      "sha256": "b907ad6475e33e8c1d634426d6a1c0d6d0717f150ff8612f6c883d1545ba33d9"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_41.ymap",
+      "sha256": "7aa160ff83f7180fff0d7fcb1a797d251e58010f34c19cabe6fa712acdde676c"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_42.ymap",
+      "sha256": "9431d1bb96b567c44561899996cee730692161bfba88a9445e6c3407758156e9"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_43.ymap",
+      "sha256": "41a58167113020f08394d29e4cce01e670f62f966639b15c6fd7315f91524756"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_44.ymap",
+      "sha256": "b507db0a9ba68861631b21303993041483c06af40e526e24ac25ef5412ce4874"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_45.ymap",
+      "sha256": "43fe76a4f37019772680e76386af2fe5c6f7c650c63fcaad40711dddb3a39e80"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_49.ymap",
+      "sha256": "6835076cb6b112bc3f2a7515a45fa24a8325c33a0a5754e2bf6f6b24d6e6b542"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_50.ymap",
+      "sha256": "e5d65cdb47fefcff07512bd6929bb87ef0c6949f6a8161f78a9be3bf3d9f0290"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_51.ymap",
+      "sha256": "471de9b7f7f0aed3a9a62793190ac2103a999ad3608523b63bd594b9d33902bb"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_52.ymap",
+      "sha256": "d286e3450f787125e798be10ad9c620b387b5cb8104379038947223da551e3fc"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_53.ymap",
+      "sha256": "dfdfe4d08749990d1ef712e9ceba78485ea67ba6199f93c77cc4e777b1622ae8"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_57.ymap",
+      "sha256": "cb7652e5b3645f167fdd57a0b29f4c3138c8a630700c3b5119be55104efd25d7"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_58.ymap",
+      "sha256": "b2d8df8741ea2a1018b933305402290ea97aab612eba9601ced0d605b17087e2"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_59.ymap",
+      "sha256": "d102c97f9df591235b64cdfe555fcbefc582f98052a9415794ea7703f77aa33e"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_60.ymap",
+      "sha256": "d16d0be01c5deaaa794200f400355c67e009e2c846555a4f6c40497a46b3f009"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_61.ymap",
+      "sha256": "4b2e3fa1169a191ab2c33034afdb21a06f45e2c7afb2f0b892cd6826a293b7a9"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_62.ymap",
+      "sha256": "a5fc966c3487cabc2ff9f20ec0dbac03f163245b0c49e1a5c4e04cf5f26eab8c"
+    },
+    {
+      "path": "server-data\\resources\\porto_esperanca\\stream\\pe_bairro_63.ymap",
+      "sha256": "92f344aac71de7848c112d1575fef43fe5a0f126e137f26bc5fc7dbb9eca2a14"
+    },
+    {
+      "path": "server-data\\backups\\identidade-natural-20261009-211015\\server-ilha-before.cfg",
+      "sha256": "be5cbfd40048a268793899738979a17b95c337ca2ed243c39fc7b138fd4517d3"
+    }
+  ],
+  "houses_sha256": {
+    "pe_estrutura_01.ydr": "4caa11493bb551152fa574f9a9b99e55322ad935cfc68cbd9b5f3e8a50e57597",
+    "pe_estrutura_02.ydr": "905b9fd92a97c0e5d5c9aa214f31fcb783e6ff000aec690b3888fa58a2b04f20",
+    "pe_estrutura_03.ydr": "2937513b93557d0fbff46ea170cb3c774cdb92641649566d74afed2e533ccb6f",
+    "pe_estrutura_04.ydr": "be26b9556aff07e1d21399db17fe6fd011ff732da27643db29dc4664565e46a8",
+    "pe_estrutura_05.ydr": "ac4e3c7ec9806ca56a224800535e51d77801b9361ca1d794de10145304bad989",
+    "pe_estrutura_06.ydr": "214cef85a437fa5fd6d3c6c1f0e95288d93079f72d50781c5d08f93ec510bf89",
+    "pe_estrutura_07.ydr": "38e410cc70e888e0e59f67c606db2b87b4913471050fe9b315cca7b6e380cc8e",
+    "pe_estrutura_08.ydr": "54970aff21e6031ab63d739e58ed359c572f683c74fee564d69c2f02b30b7183",
+    "pe_estrutura_09.ydr": "04850d698af8defa4b4d9eedca289dcb9aaee25c84eb9e5f3ed8b8a05390f65a",
+    "pe_estrutura_10.ydr": "0ee552999f2685eb4628676ca28e21a7d790c18341081175d803d1c2d3bb7ed0"
+  },
+  "counts": {
+    "tree": 9322,
+    "bush": 32248,
+    "rock": 1497,
+    "subcanopy": 8675,
+    "water_tower": 3
+  },
+  "grass_instances": 1815537,
+  "max_road_grade": 0.27874622951160527,
+  "native_source_models_unchanged": true,
+  "client_visual_verified": false
+}

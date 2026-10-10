@@ -1,0 +1,13 @@
+{
+  "action": "QA_FLEXAO_VAR_lowr_001_r",
+  "frame": 15,
+  "bones": 128,
+  "views": [
+    "pose_front",
+    "pose_side"
+  ],
+  "visual_review": "reviewed",
+  "in_game_motion": "pending",
+  "review_notes": "All four neutral views and both flexion views inspected. Pattern upright, native geometry and cuff skin regions preserved. Back artwork inferred from supplied leg fabric; native seams and material transitions remain. Actual FiveM lighting and clothing combinations pending.",
+  "pattern_scale": 3.6
+}

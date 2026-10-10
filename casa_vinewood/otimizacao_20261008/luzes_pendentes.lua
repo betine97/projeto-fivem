@@ -1,0 +1,2 @@
+-- Pendant light volumes are now pooled by iluminacao_decorativa.lua.
+-- The separate per-bulb draw loop was removed to avoid duplicate light cost.

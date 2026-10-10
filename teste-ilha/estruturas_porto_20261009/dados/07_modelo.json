@@ -1,0 +1,64 @@
+{
+  "id": 7,
+  "nome": "Farmacia",
+  "arquivo": "07_Farmacia.blend",
+  "dimensoes": [
+    12,
+    8,
+    6.4
+  ],
+  "interiores": [
+    {
+      "pavimento": 1,
+      "uso": "farmacia",
+      "itens": [
+        "balcao",
+        "caixa",
+        "estantes",
+        "produtos",
+        "estoque"
+      ]
+    },
+    {
+      "pavimento": 2,
+      "uso": "moradia",
+      "itens": [
+        "cama",
+        "mesa",
+        "banheiro",
+        "armario"
+      ]
+    }
+  ],
+  "aberturas": [
+    {
+      "tipo": "porta",
+      "face": "frente",
+      "u": 3.3600000000000003,
+      "largura": 2.2,
+      "z": 0,
+      "altura": 2.45
+    },
+    {
+      "tipo": "vao_escada",
+      "z": 3.2,
+      "limites": [
+        4.2,
+        5.76,
+        -2.6,
+        2.65
+      ]
+    }
+  ],
+  "objetos": 1595,
+  "vertices": 44408,
+  "texturas_empacotadas": [
+    "Referencia_original_07"
+  ],
+  "texturas_fornecidas": {
+    "parede": 6,
+    "madeira": 1
+  },
+  "refinamento_aplicado": true,
+  "passagens_conferidas": true
+}

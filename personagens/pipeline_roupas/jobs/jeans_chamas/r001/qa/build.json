@@ -1,0 +1,36 @@
+{
+  "original_geometry_unchanged": true,
+  "native_materials_and_skeleton_unchanged": true,
+  "native_normal_specular_and_skeleton_preserved": true,
+  "material_adapter": null,
+  "shader_changes": [],
+  "diffuse_sampler_verified": true,
+  "extra_triangles_high": 0,
+  "texture_size": [
+    2048,
+    2048
+  ],
+  "native_files": [
+    "mp_m_freemode_01_cidade_jeans_chamas_r001^lowr_000_r.ydd",
+    "mp_m_freemode_01_cidade_jeans_chamas_r001^lowr_diff_000_a_whi.ytd"
+  ],
+  "lods": [
+    0,
+    1,
+    2
+  ],
+  "fingerprint": "b0ed117dca4fd9cd101636edd1bc1c47264206add1bf6e73bd48b15aff46ce5a",
+  "cache_hit": false,
+  "seconds": 0.544,
+  "status": "native_candidate",
+  "deployable": false,
+  "pending": [
+    "addon_ymt_and_shop_metadata",
+    "four_views_and_pose_review",
+    "in_game_test"
+  ],
+  "files": {
+    "exports\\mp_m_freemode_01_cidade_jeans_chamas_r001^lowr_000_r.ydd": "1501c4fc3e30d7bb825a807f6b9ad30d06e62f9f687e5bf9aedebdf0e5a1fdaa",
+    "exports\\mp_m_freemode_01_cidade_jeans_chamas_r001^lowr_diff_000_a_whi.ytd": "e1ed63a4310cbc9b70724ada1f9dd1db03f1c123409c3e45002309025565086c"
+  }
+}

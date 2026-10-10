@@ -1,0 +1,82 @@
+[
+  {
+    "file": "accs_000_u.ydd",
+    "vertices": 286,
+    "triangles": 361
+  },
+  {
+    "file": "accs_001_u.ydd",
+    "vertices": 335,
+    "triangles": 372
+  },
+  {
+    "file": "accs_002_u.ydd",
+    "vertices": 228,
+    "triangles": 278
+  },
+  {
+    "file": "accs_003_u.ydd",
+    "vertices": 772,
+    "triangles": 1008
+  },
+  {
+    "file": "accs_004_u.ydd",
+    "vertices": 736,
+    "triangles": 1016
+  },
+  {
+    "file": "accs_005_u.ydd",
+    "vertices": 504,
+    "triangles": 432
+  },
+  {
+    "file": "accs_006_u.ydd",
+    "vertices": 1109,
+    "triangles": 1616
+  },
+  {
+    "file": "accs_007_u.ydd",
+    "vertices": 2536,
+    "triangles": 3216
+  },
+  {
+    "file": "accs_008_u.ydd",
+    "vertices": 746,
+    "triangles": 872
+  },
+  {
+    "file": "accs_009_u.ydd",
+    "vertices": 888,
+    "triangles": 1144
+  },
+  {
+    "file": "accs_010_u.ydd",
+    "vertices": 766,
+    "triangles": 1031
+  },
+  {
+    "file": "accs_011_u.ydd",
+    "vertices": 813,
+    "triangles": 1047
+  },
+  {
+    "file": "accs_012_u.ydd",
+    "vertices": 645,
+    "triangles": 764
+  },
+  {
+    "file": "accs_013_u.ydd",
+    "vertices": 805,
+    "triangles": 986
+  },
+  {
+    "file": "accs_014_u.ydd",
+    "vertices": 268,
+    "triangles": 270
+  },
+  {
+    "file": "accs_015_u.ydd",
+    "vertices": 4,
+    "triangles": 2
+  }
+]

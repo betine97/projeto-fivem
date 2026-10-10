@@ -1,0 +1,550 @@
+{
+  "revision": "cozinha-completa-20261008",
+  "model": "mansao_cozinha_parede",
+  "references": {
+    "overall": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-3a2d5ff2-e460-4adb-8204-8c1527300a3c.png",
+      "size": [
+        451,
+        263
+      ],
+      "sha256": "b0c0db2263a37bf207866c3336cff2e8991787d67f81a14d5737934e6d412231"
+    },
+    "microwave": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-7c590d5a-2710-495e-bc20-594570840803.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "9291b4a89bde2c715ff2061773ae2b71a906da61996a29223de0088137525a10"
+    },
+    "oven": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-f4d0772d-61bf-4691-812f-e2b151f67bde.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "sha256": "3b8e8b429a4b402b35aee3a1e44602b0a2d61292af675149768569e12673d6df"
+    },
+    "upper": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-9a01321c-e844-4cf7-b651-e0eb87d29bda.png",
+      "size": [
+        2172,
+        724
+      ],
+      "sha256": "bade622d6678b6364710ebac2b081c522a60d902a969f93ed554b2f986f769f3"
+    },
+    "placement": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-ab95ff4c-aef5-4792-b55e-b2c38fee6405.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "b02bed56f45d4fd9da1fafbf8fc318d774ad6cc58deb0a46e5391d0485cc8432"
+    },
+    "counter": {
+      "source": "C:\\Users\\erons\\AppData\\Local\\Temp\\codex-clipboard-2c5787d8-8d85-4e24-ac51-0d0e517bcc94.png",
+      "size": [
+        2172,
+        724
+      ],
+      "sha256": "48e32f06070b01073a2bd0ceef3fd495483a572f529452e61b051d7159998bdd"
+    }
+  },
+  "local_to_house": {
+    "front_x": 13.534,
+    "left_y": -6.6,
+    "floor_z": -0.8
+  },
+  "length_m": 6.5,
+  "depth_m": 0.64,
+  "height_m": 3.15,
+  "counter_height_m": 0.91,
+  "wall_gap_m": 0.008,
+  "in_game_verified": false,
+  "parts": 149,
+  "triangles": 21776,
+  "collision_boxes": [
+    {
+      "name": "Torre esquerda caixa",
+      "lo": [
+        0.0,
+        0.04,
+        0.06
+      ],
+      "hi": [
+        0.75,
+        0.64,
+        3.03
+      ]
+    },
+    {
+      "name": "Base armarios inferiores",
+      "lo": [
+        0.75,
+        0.055,
+        0.12
+      ],
+      "hi": [
+        5.45,
+        0.64,
+        0.138
+      ]
+    },
+    {
+      "name": "Divisoria inferior 00",
+      "lo": [
+        0.741,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        0.759,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 01",
+      "lo": [
+        1.3285,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        1.3464999999999998,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 02",
+      "lo": [
+        1.9160000000000001,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        1.934,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 03",
+      "lo": [
+        2.5035000000000003,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        2.5215,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 04",
+      "lo": [
+        3.091,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        3.109,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 05",
+      "lo": [
+        3.6785,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        3.6965,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 06",
+      "lo": [
+        4.266,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        4.284000000000001,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 07",
+      "lo": [
+        4.8534999999999995,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        4.8715,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Divisoria inferior 08",
+      "lo": [
+        5.441,
+        0.04,
+        0.125
+      ],
+      "hi": [
+        5.4590000000000005,
+        0.64,
+        0.88
+      ]
+    },
+    {
+      "name": "Armario inferior 0",
+      "lo": [
+        0.75,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        1.3375,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Armario inferior 1",
+      "lo": [
+        1.3375,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        1.9249999999999998,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Armario inferior 2",
+      "lo": [
+        1.925,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        2.5125,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Armario inferior 3",
+      "lo": [
+        2.5125,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        3.1,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Armario inferior 4",
+      "lo": [
+        3.1,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        3.6875,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Armario inferior 5",
+      "lo": [
+        3.6875,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        4.275,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Armario inferior 6",
+      "lo": [
+        4.275,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        4.862500000000001,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Armario inferior 7",
+      "lo": [
+        4.8625,
+        -0.021,
+        0.12
+      ],
+      "hi": [
+        5.45,
+        0.64,
+        0.89
+      ]
+    },
+    {
+      "name": "Bancada esquerda",
+      "lo": [
+        0.75,
+        -0.045,
+        0.882
+      ],
+      "hi": [
+        3.7300000000000004,
+        0.64,
+        0.913
+      ]
+    },
+    {
+      "name": "Bancada direita",
+      "lo": [
+        4.33,
+        -0.045,
+        0.882
+      ],
+      "hi": [
+        5.45,
+        0.64,
+        0.913
+      ]
+    },
+    {
+      "name": "Bancada frente cuba",
+      "lo": [
+        3.7300000000000004,
+        -0.045,
+        0.882
+      ],
+      "hi": [
+        4.33,
+        0.125,
+        0.913
+      ]
+    },
+    {
+      "name": "Bancada atras cuba",
+      "lo": [
+        3.7300000000000004,
+        0.525,
+        0.882
+      ],
+      "hi": [
+        4.33,
+        0.64,
+        0.913
+      ]
+    },
+    {
+      "name": "Base armario superior",
+      "lo": [
+        0.75,
+        0.265,
+        1.658
+      ],
+      "hi": [
+        5.45,
+        0.64,
+        1.676
+      ]
+    },
+    {
+      "name": "Geladeira corpo",
+      "lo": [
+        5.49,
+        0.05,
+        0.04
+      ],
+      "hi": [
+        6.49,
+        0.643,
+        2.2
+      ]
+    }
+  ],
+  "real_sink_cutout": true,
+  "appliances": [
+    "microwave",
+    "oven",
+    "fridge",
+    "cooktop",
+    "sink",
+    "faucet",
+    "extractor"
+  ],
+  "ceiling_gap_m": 0.008,
+  "local_bounds": [
+    [
+      -0.018,
+      -0.112,
+      0
+    ],
+    [
+      6.518,
+      0.644,
+      3.15
+    ]
+  ],
+  "lo": [
+    13.410000801086426,
+    -13.118000030517578,
+    -0.800000011920929
+  ],
+  "hi": [
+    14.178000450134277,
+    -6.581999778747559,
+    2.3500001430511475
+  ],
+  "authored_triangles": 21956,
+  "removed_zero_area_export_triangles": 180,
+  "counter_plant": {
+    "model": "mansao_vaso_folhagem",
+    "position": [
+      13.974,
+      -11.52,
+      0.11299999999999999
+    ],
+    "scale": 0.2
+  },
+  "plant_relocation": {
+    "name": "Cozinha canto",
+    "old": [
+      12.95,
+      -10.9,
+      -0.7713623046875
+    ],
+    "new": [
+      12.7,
+      -13.4,
+      -0.7713623046875
+    ],
+    "map_entity_index": 5
+  },
+  "led_lights": [
+    {
+      "id": "kitchen_led_1",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        13.934000000000001,
+        -7.739999999999999,
+        0.75
+      ],
+      "rgb": [
+        255,
+        211,
+        153
+      ],
+      "range": 1.35,
+      "intensity": 0.5
+    },
+    {
+      "id": "kitchen_led_2",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        13.934000000000001,
+        -8.78,
+        0.75
+      ],
+      "rgb": [
+        255,
+        211,
+        153
+      ],
+      "range": 1.35,
+      "intensity": 0.5
+    },
+    {
+      "id": "kitchen_led_3",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        13.934000000000001,
+        -9.82,
+        0.75
+      ],
+      "rgb": [
+        255,
+        211,
+        153
+      ],
+      "range": 1.35,
+      "intensity": 0.5
+    },
+    {
+      "id": "kitchen_led_4",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        13.934000000000001,
+        -10.86,
+        0.75
+      ],
+      "rgb": [
+        255,
+        211,
+        153
+      ],
+      "range": 1.35,
+      "intensity": 0.5
+    },
+    {
+      "id": "kitchen_led_5",
+      "kind": "fixture",
+      "level": "terreo",
+      "position": [
+        13.934000000000001,
+        -11.649999999999999,
+        0.75
+      ],
+      "rgb": [
+        255,
+        211,
+        153
+      ],
+      "range": 1.35,
+      "intensity": 0.5
+    }
+  ],
+  "baseline_hashes": {
+    "stream/mansao_decoracao.ymap": "d7c265b99b5470c33d39780fd390b58ef9f4022a5bc291956a3ca35c4c81b796",
+    "decoracao_iluminacao.json": "94bfdd3dc818a61b99ccb70ad3f04bcdb4fc61760b2ccf2adffee9776208e835",
+    "iluminacao_ambiente.json": "268b4d819f31fca738d36fb69d776957b8fd8ccf467a70f3ec309c9cb4cebb9d"
+  },
+  "origin": [
+    -976.1010131835938,
+    676.7308959960938,
+    157.8350372314453
+  ],
+  "collision_triangles": 300
+}
