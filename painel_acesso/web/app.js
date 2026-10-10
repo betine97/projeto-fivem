@@ -42,8 +42,12 @@ async function refresh(){
   if(current!==sequence)return; render(data);error('');
   $('server-pill').className='pill '+(status.connected?'approved':'pending');$('server-pill').textContent=status.connected?'Conectado ao painel':'Aguardando conexão';
   $('server-help').textContent=status.connected?'Controle de acesso ativo. Novos jogadores precisam da sua aprovação.':'Reinicie a base para carregar o controle de acesso. Mantenha este painel em execução antes de iniciar o servidor.';
-  if(status.addresses.vpn)$('vpn-command').textContent='connect '+status.addresses.vpn;
-  if(status.addresses.lan)$('lan-command').textContent='connect '+status.addresses.lan;
+  const address=status.addresses.vpn||status.addresses.lan;
+  $('vpn-command').textContent=address?'connect '+address:'Endereço ainda não configurado';
+  $('copy').disabled=!address;
+  $('lan-command').textContent=status.addresses.lan?'connect '+status.addresses.lan:'Endereço ainda não configurado';
+  $('city-link').hidden=!status.addresses.city;
+  if(status.addresses.city)$('city-command').textContent='connect '+status.addresses.city;
  }catch(e){if(current===sequence)error(e.message);}
 }
 async function change(id, body){
@@ -58,7 +62,7 @@ let searchTimer;$('search').addEventListener('input',()=>{clearTimeout(searchTim
 document.querySelectorAll('[data-filter]').forEach(button=>button.addEventListener('click',()=>{filter=button.dataset.filter;document.querySelectorAll('[data-filter]').forEach(b=>b.classList.toggle('selected',b===button));refresh();}));
 $('cancel-rename').addEventListener('click',()=> $('rename').close());
 $('rename-form').addEventListener('submit',async e=>{e.preventDefault();if(!$('new-name').value.trim())return;const ok=await change(renameId,{name:$('new-name').value});if(ok)$('rename').close();else $('rename-error').textContent='Não foi possível salvar. Tente novamente.';});
-$('copy').addEventListener('click',async()=>{try{await navigator.clipboard.writeText($('vpn-command').textContent);notify('Comando copiado. Envie para seus amigos na mesma rede Radmin.');}catch(e){notify('Copie o comando exibido acima.');}});
+$('copy').addEventListener('click',async()=>{try{await navigator.clipboard.writeText($('vpn-command').textContent);notify('Comando copiado. Envie para seus amigos usando o endereço do servidor.');}catch(e){notify('Copie o comando exibido acima.');}});
 $('logout').addEventListener('click',async()=>{try{await api('/api/logout',{});loginView();}catch(e){error(e.message);}});
 api('/api/session').then(session=>{csrf=session.csrf;dashboardView();refresh();}).catch(loginView);
 setInterval(()=>{if(!document.hidden)refresh();},5000);

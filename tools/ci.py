@@ -24,8 +24,9 @@ def main():
         run(sys.executable,test)
     for test in ('tests/drone-audio.test.cjs','tests/acervo-tags.test.cjs','tests/wardrobe-ui.test.cjs'):
         run('node',test)
-    for path in (ROOT/'server-data/resources').rglob('*.js'):
-        if 'node_modules' not in path.parts:
-            run('node','--check',str(path.relative_to(ROOT)))
+    for directory in ('server-data/resources','painel_acesso/web'):
+        for path in (ROOT/directory).rglob('*.js'):
+            if 'node_modules' not in path.parts:
+                run('node','--check',str(path.relative_to(ROOT)))
     print('CI_OK: serviços, editor, UI e configurações validados.',flush=True)
 if __name__=='__main__': main()

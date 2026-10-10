@@ -8,6 +8,10 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && python -m venv /opt/venv
 COPY requirements-runtime.txt /opt/cidade/requirements-runtime.txt
 RUN pip install --no-cache-dir -r /opt/cidade/requirements-runtime.txt
+# Validar as dependências antes de publicar; esta camada é reutilizada pelo cache.
+RUN python -c "import numpy, PIL, szio" \
+    && xvfb-run -a blender --background --factory-startup --python-exit-code 1 \
+    --python-expr "import bpy, numpy; s=bpy.context.scene; s.render.engine='BLENDER_EEVEE'; s.eevee.taa_render_samples=4; s.render.resolution_x=64; s.render.resolution_y=64; s.render.resolution_percentage=100; bpy.ops.render.render()"
 RUN groupadd --gid 10001 cidade && useradd --uid 10001 --gid cidade --create-home cidade \
     && mkdir -p /state /app && chown cidade:cidade /state /app
 COPY --chown=cidade:cidade painel_acesso /app/painel_acesso

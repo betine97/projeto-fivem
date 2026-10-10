@@ -10,6 +10,8 @@ própria instalação do jogo e do FiveM. A base que este projeto fornece são o
 recursos e sistemas do servidor; o FXServer é obtido separadamente dos artifacts
 oficiais. Fontes Blender servem para editar os modelos e não são necessários
 para executar o servidor. Veja `docs/EXECUTAR.md` para baixar só o runtime.
+Os assets LFS de `server-data/resources` somam cerca de 2,6 GiB únicos nesta
+primeira revisão. O acervo completo de criação é maior e fica no mesmo repositório.
 
 Os arquivos originais continuam preservados no projeto local. Não entram no Git:
 

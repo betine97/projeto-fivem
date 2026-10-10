@@ -148,6 +148,11 @@ anterior em `CITY_IMAGE` e execute `up -d --no-build`; preserve os volumes.
 Se mudar o esquema de dados, siga a migração específica e restaure o backup quando necessário.
 Nunca use `down -v` para uma atualização comum: isso apaga dados persistentes.
 
+Defina `SERVER_HOST` no `.env` com o IP/hostname que os amigos usam para alcançar
+o servidor (IP da VPN ou IP público, sem protocolo e sem porta). O painel mostra
+os comandos F8 com esse host e as portas específicas do ambiente; o padrão
+`127.0.0.1` serve para jogar na própria máquina.
+
 ## 6. Execução Windows existente
 
 Os scripts `iniciar-ilha.cmd`, `iniciar-los-santos.cmd`, `iniciar-painel.cmd` e

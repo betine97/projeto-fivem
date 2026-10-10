@@ -114,7 +114,7 @@ class App:
 def load_settings():
     data=ROOT/'data'; data.mkdir(exist_ok=True); path=data/'config.json'
     if not path.exists():
-        settings={'port':8787,'api_key':secrets.token_urlsafe(40),'admin_secret':secrets.token_urlsafe(40),'admin_password':secrets.token_urlsafe(16),'addresses':{'vpn':'26.30.45.250:30120','lan':'192.168.1.2:30120'}}
+        settings={'port':8787,'api_key':secrets.token_urlsafe(40),'admin_secret':secrets.token_urlsafe(40),'admin_password':secrets.token_urlsafe(16),'addresses':{'vpn':'','lan':'127.0.0.1:30120'}}
         path.write_text(json.dumps(settings,indent=2),encoding='utf-8')
     settings=json.loads(path.read_text(encoding='utf-8'))
     settings['port']=int(os.environ.get('PANEL_PORT',settings['port']))

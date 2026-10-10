@@ -1,5 +1,6 @@
 """Start the access bridge, capture worker and two isolated FXServers."""
 import hashlib
+import ipaddress
 import json
 import os
 from pathlib import Path
@@ -38,6 +39,15 @@ def prepare():
              int(os.environ.get('CITY_PORT','30221'))]
     if len(set(ports)) != 4 or any(not 1024 <= p <= 65535 for p in ports):
         raise ValueError('Defina quatro portas diferentes entre 1024 e 65535.')
+    host=os.environ.get('SERVER_HOST','127.0.0.1')
+    try:
+        address=ipaddress.ip_address(host)
+        endpoint=f'[{host}]' if address.version==6 else host
+    except ValueError:
+        if not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9.-]{0,252}',host):
+            raise ValueError('SERVER_HOST deve ser um IP ou hostname sem protocolo e sem porta.')
+        endpoint=host
+    settings['addresses']={'vpn':f'{endpoint}:{ports[2]}','lan':f'127.0.0.1:{ports[2]}','city':f'{endpoint}:{ports[3]}'}
     for folder in ('painel_acesso/data', 'captura_los_santos/data', 'captura_los_santos/cache',
                    'server-data/resources/cidade_admin/data'):
         (APP / folder).mkdir(parents=True, exist_ok=True)

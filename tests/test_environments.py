@@ -41,10 +41,19 @@ class EnvironmentTests(unittest.TestCase):
                 self.assertNotIn('0.0.0.0:30120',(state/'ilha/server.cfg').read_text())
                 self.assertIn('127.0.0.1:8888',(state/'cidade/acesso.cfg').read_text())
                 self.assertEqual(json.loads((app/'painel_acesso/data/config.json').read_text())['port'],8887)
+                addresses=json.loads((app/'painel_acesso/data/config.json').read_text())['addresses']
+                self.assertEqual(addresses['vpn'],'127.0.0.1:30220')
+                self.assertEqual(addresses['city'],'127.0.0.1:30221')
                 # A nonempty index remains intact when the environment restarts.
                 index=app/'captura_los_santos/data/model_index.json'
                 index.write_text('{"models":{"123":{"model":"test"}},"files":{}}')
                 entry.prepare();self.assertIn('123',json.loads(index.read_text())['models'])
+                for host,prefix in [('10.20.30.40','10.20.30.40'),('::1','[::1]')]:
+                    with patch.dict(os.environ,{'SERVER_HOST':host}):
+                        entry.prepare()
+                        endpoints=json.loads((app/'painel_acesso/data/config.json').read_text())['addresses']
+                        self.assertEqual(endpoints['vpn'],prefix+':30220')
+                        self.assertEqual(endpoints['city'],prefix+':30221')
     def test_invalid_and_duplicate_ports_are_rejected(self):
         with tempfile.TemporaryDirectory() as folder,patch.object(entry,'APP',Path(folder)),patch.dict(os.environ,{
             'FIVEM_LICENSE_KEY':'cfxk_test_only','PANEL_ADMIN_PASSWORD':'x'*24,'CITY_API_KEY':'k'*40,
